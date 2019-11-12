@@ -28,3 +28,8 @@ HUGO_VERSION = "0.59.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
