@@ -1,0 +1,49 @@
+baseURL = "https://brndn.io/"
+languageCode = "en-us"
+title = "Brenden Matthews"
+
+theme = "kiss"
+copyright = "&copy; Brenden Matthews 2019"
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Brenden Matthews" # Author full name
+authorEmail = "brenden@brndn.io" # Author email
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "Brenden Matthews" # Title for home page
+poweredby = false
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+
+[params.features]
+disqusOnDemand = false
+
+[params.social]
+twitter = "brndnmtthws"
+github = "brndnmtthws"
+email = "brenden@brndn.io"
+linkedin = "brndnmtthws"
+instagram = "brndnmtthws"
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = [
+    "email",
+    "github",
+    "twitter",
+    "instagram",
+    "linkedin"
+]
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
