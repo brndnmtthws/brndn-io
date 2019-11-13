@@ -6,7 +6,7 @@
     <generator>Hugo - gohugo.io</generator>
     <language>{{ .Site.Language }}</language>
     <contact>{{ $.Site.Params.rss.authorEmail }}</contact>
-    <copyright>{{ .Site.Copyright | safeHTML}}</copyright>
+    <copyright>© {{ now.Format "2006" }} {{ .Site.Copyright | safeHTML}}</copyright>
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}

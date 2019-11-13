@@ -1,11 +1,21 @@
 baseURL = "https://brndn.io/"
 languageCode = "en-us"
-title = "Brenden Matthews"
+title = "Brenden's Blog"
 
 theme = "kiss"
-copyright = "&copy; Brenden Matthews"
+copyright = "Brenden Matthews, <a href=\"https://creativecommons.org/licenses/by/4.0/\">some rights reserved</a>."
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
+canonifyURLs = true
+
+summaryLength = 30
+
+[permalinks]
+post = "/blog/:title/"
+
+[params]
+author = "Brenden Matthews"
+descrption = "Brenden's blog and personal website"
 
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
@@ -13,7 +23,7 @@ authorName = "Brenden Matthews" # Author full name
 authorEmail = "brenden@brndn.io" # Author email
 
 [params.assets]
-customCSS = ["css/custom.css"]
+# customCSS = ["css/custom.css"]
 
 [params.info]
 enableSocial = true # Adds OpenGraph and Twitter cards
@@ -35,10 +45,10 @@ rss = "index.xml" # Add this to show RSS button in social.
 
 [params.social.config]
 platforms = [
+    "rss",
     "email",
     "github",
     "twitter",
-    "instagram",
     "linkedin"
 ]
 
@@ -47,3 +57,18 @@ tag ="tags"
 
 [blackfriday]
 hrefTargetBlank = true
+
+[imaging]
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+resampleFilter = "lanczos"
+
+# Default JPEG quality setting. Default is 75.
+quality = 95
+
+# Anchor used when cropping pictures.
+# Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+# Smart Cropping is content aware and tries to find the best crop for each image.
+# Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+anchor = "smart"
