@@ -6,7 +6,7 @@ tags:
 - first post
 ---
 
-I recently decided to start a new blog and rebuild my website. It's something I've been planning to do for a while, and now, here it is. I've decided to publish on my own site rather than using platforms like Medium.
+I recently decided to start a new blog and rebuild my website. It's something I've been planning to do for a while, and now, here it is. I've decided to publish on my own site rather than using a platform like Medium.
 
 For those who are interested, the site is built with [Hugo](https://gohugo.io/) for content management and [Netlify](https://www.netlify.com/) for deployments. Hugo is a fantastic and very quick static site management tool. Netlify is a great product for deploying and hosting a website from Git.
 
