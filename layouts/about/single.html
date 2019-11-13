@@ -1,26 +1,34 @@
 {{ partial "header" . }}
 <section class="section">
   <div class="container">
-    <div class="subtitle tags is-6 is-pulled-right">
-      {{ if .Params.tags }}
-      {{ partial "tags" .Params.tags }}
-      {{ end }}
-    </div>
-    {{ if and (.Site.Params.Info.adsense) (.Params.adsenseTop) }}
-    {{ partial "adsense" . }}
-    {{ end }}
     <div class="content">
       {{ .Content }}
       {{ if .Site.Params.Info.related }}
       <div class="related">{{ partial "related" . }}</div>
       {{ end }}
     </div>
-    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
-    {{ partial "adsense" . }}
-    {{ end}}
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="center">
+      {{- $social := ( .Site.Params.social ) -}}
+      {{- range $platform := $social.config.platforms -}}
+      {{- with $username := ( index $social $platform ) -}}
+      <a class="level-item" aria-label="{{ $platform }}"
+        href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank' rel='noopener'>
+        <span class="icon">
+          <i class>
+            {{- partial "svg/icons" $platform -}}
+          </i>
+        </span>
+      </a>
+      {{- end -}}
+      {{- end -}}
+    </div>
   </div>
 </section>
 {{ if (and (.Site.Params.Info.codeCopy) (findRE "<pre" .Content 1)) }}
-    <script src="/js/copycode.js"></script>
+<script src="/js/copycode.js"></script>
 {{ end }}
 {{ partial "footer" . }}

@@ -39,3 +39,11 @@ I've contributed to a long list of open source projects over the years. I am pro
 * [tweet-delete](https://github.com/brndnmtthws/tweet-delete), a Twitter bot for deleting your tweets
 * [mother-of-dragons](https://github.com/brndnmtthws/mother-of-dragons), a miner management tool for DragonMint/Innosilicon mining hardware
 * [labhub](https://github.com/brndnmtthws/labhub), a bot for integrating GitLab CI with GitHub open source projects
+
+## Adventures
+
+I've climbed a few mountains, ran marathons, and done some long distance cycling ([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here's a few examples:
+
+* In 2016 I biked from SF to NYC unassisted in 27 days. I recorded a [daily video log on YouTube](https://www.youtube.com/playlist?list=PLfHJt4o9-rmCH1J_DTVoNxrnJiaPUNg_O)
+* I raced the Wolfpack Hustle Crash race before the 2012 LA marathon, crashed 1 mile before the finish line, and then ran the marathon in under 4 hours
+* I biked to the summit of [Mauna Kea](https://en.wikipedia.org/wiki/Mauna_Kea), a volcano in Hawaii, unassisted, which might be the longest continuous vertical climb in the world (from sea to summit is over 13,000ft in vertical gain)

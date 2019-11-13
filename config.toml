@@ -41,7 +41,7 @@ github = "brndnmtthws"
 email = "brenden@brndn.io"
 linkedin = "brndnmtthws"
 instagram = "brndnmtthws"
-rss = "index.xml" # Add this to show RSS button in social.
+rss = "posts/index.xml" # Add this to show RSS button in social.
 
 [params.social.config]
 platforms = [
