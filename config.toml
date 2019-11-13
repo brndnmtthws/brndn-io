@@ -4,7 +4,7 @@ title = "Brenden's Blog"
 
 theme = "kiss"
 copyright = "Brenden Matthews, <a href=\"https://creativecommons.org/licenses/by/4.0/\">some rights reserved</a>."
-Paginate = 5 # Number of posts per page
+Paginate = 10 # Number of posts per page
 enableRobotsTXT = true
 canonifyURLs = true
 
