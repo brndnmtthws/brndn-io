@@ -2,6 +2,8 @@
 title: "New Blog: First Post"
 date: 2019-11-13T11:19:50-05:00
 draft: false
+section: blog
+slug: new-blog
 tags:
 - first post
 ---

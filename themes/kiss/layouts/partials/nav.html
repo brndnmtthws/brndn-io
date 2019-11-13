@@ -2,27 +2,40 @@
   <div class="container">
     <nav id="nav-main" class="nav">
       <div id="nav-name" class="nav-left">
-      <img src="/brenden-matthews-300.jpg" width="125" height="125" style="border-radius: 50%;" />
+        <a id="nav-anchor" href="{{ .Site.BaseURL }}">
+          <img src="/brenden-matthews-300.jpg" width="125" height="125" style="border-radius: 50%;" />
+        </a>
         <a id="nav-anchor" class="nav-item" href="{{ .Site.BaseURL }}">
           <h1 id="nav-heading" class="title is-4">{{ .Site.Title }}</h1>
         </a>
       </div>
+
       <div class="nav-right">
-        <nav id="nav-items" class="nav-item level is-mobile">
-          {{- $social := ( .Site.Params.social ) -}}
-          {{- range $platform := $social.config.platforms -}}
-          {{- with $username := ( index $social $platform ) -}}
-          <a class="level-item" aria-label="{{ $platform }}" href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}'
-            target='_blank' rel='noopener'>
-            <span class="icon">
-              <i class>
-                {{- partial "svg/icons" $platform -}}
-              </i>
-            </span>
-          </a>
-          {{- end -}}
-          {{- end -}}
-        </nav>
+        <div class="flex flex-column">
+          <div>
+            <nav id="nav-items" class="nav-item level is-mobile">
+              {{- $social := ( .Site.Params.social ) -}}
+              {{- range $platform := $social.config.platforms -}}
+              {{- with $username := ( index $social $platform ) -}}
+              <a class="level-item" aria-label="{{ $platform }}"
+                href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank'
+                rel='noopener'>
+                <span class="icon">
+                  <i class>
+                    {{- partial "svg/icons" $platform -}}
+                  </i>
+                </span>
+              </a>
+              {{- end -}}
+              {{- end -}}
+            </nav>
+          </div>
+          <div>
+            <a class="nav-item" href="/about">
+              <h2>About Brenden Matthews</h2>
+            </a>
+          </div>
+        </div>
       </div>
     </nav>
 

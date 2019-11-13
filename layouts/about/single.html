@@ -1,0 +1,27 @@
+{{ partial "header" . }}
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      {{ if .Params.tags }}
+      {{ partial "tags" .Params.tags }}
+      {{ end }}
+    </div>
+    {{ if and (.Site.Params.Info.adsense) (.Params.adsenseTop) }}
+    {{ partial "adsense" . }}
+    {{ end }}
+    <div class="content">
+      {{ .Content }}
+      {{ if .Site.Params.Info.related }}
+      <div class="related">{{ partial "related" . }}</div>
+      {{ end }}
+    </div>
+    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
+    {{ partial "adsense" . }}
+    {{ end}}
+  </div>
+</section>
+{{ if (and (.Site.Params.Info.codeCopy) (findRE "<pre" .Content 1)) }}
+    <script src="/js/copycode.js"></script>
+{{ end }}
+{{ partial "disqus" . }}
+{{ partial "footer" . }}
