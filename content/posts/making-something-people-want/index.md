@@ -51,6 +51,6 @@ Additionally, it's really hard to attract VC interest for business that fall out
 
 I can't help but ask the question: when was the last time anyone got excited about B2B products? I, for one, don't get excited about most B2B product offerings.
 
-## Snarky Final Thought
+## Snarky Final Thoughts
 
 YC might want to update their motto to _make something companies want_. It's easier to build a boring B2B business than it is to make something cool and interesting.
