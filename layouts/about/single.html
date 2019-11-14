@@ -4,12 +4,20 @@
     <nav id="nav-main" class="nav">
       <div id="nav-name" class="nav-left">
         <a id="nav-anchor" href="{{ .Site.BaseURL }}">
-          <span class="icon">
-            <i class>
-              {{- partial "svg/icons" "arrow-left" -}}
-            </i>
-          </span>
-          Back to blog</a></div>
+          <div class="flex items-center">
+            <div>
+              <span class="icon">
+                <i class>
+                  {{- partial "svg/icons" "arrow-left" -}}
+                </i>
+              </span>
+            </div>
+            <div>
+              Back to blog
+            </div>
+          </div>
+        </a>
+      </div>
     </nav>
     <div class="content">
       {{ .Content }}
