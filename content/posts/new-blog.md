@@ -13,4 +13,4 @@ For those who are interested, the site is built with [Hugo](https://gohugo.io/) 
 
 I've published a bunch of blog post in the years, some of which have got some traction, and I realize now that I should have published them under my own identity with my own website. So here I am, starting fresh. I'm also considering updating some of my old posts and republishing them here with new information, but I'll see how things go first.
 
-If you'd like to follow my blog, there's an [RSS feed available here](/index.xml).
+If you'd like to follow my blog, there's an [RSS feed available here](/posts/index.xml).
