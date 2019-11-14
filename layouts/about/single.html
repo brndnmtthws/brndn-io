@@ -1,6 +1,16 @@
 {{ partial "header" . }}
 <section class="section">
   <div class="container">
+    <nav id="nav-main" class="nav">
+      <div id="nav-name" class="nav-left">
+        <a id="nav-anchor" href="{{ .Site.BaseURL }}">
+          <span class="icon">
+            <i class>
+              {{- partial "svg/icons" "arrow-left" -}}
+            </i>
+          </span>
+          Back to blog</a></div>
+    </nav>
     <div class="content">
       {{ .Content }}
       {{ if .Site.Params.Info.related }}
