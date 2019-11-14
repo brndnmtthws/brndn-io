@@ -11,7 +11,7 @@ canonifyURLs = true
 summaryLength = 30
 
 [permalinks]
-post = "/blog/:title/"
+posts = "/blog/:year/:month/:day/:title/"
 
 [params]
 author = "Brenden Matthews"
