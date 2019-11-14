@@ -16,9 +16,9 @@ How my face looks
 
 I'm an entrepreneur, open source software developer, artist, and adventurer who's worked with a number of startups over the past 15 years. I've helped scale 3 separate $1B+ valuation companies through various stages of hypergrowth, and I've started a few companies of my own. I grew up in Canada, moved to San Francisco in 2009, and now I live in New York City. This page contains a non-exhaustive list of some things I've done.
 
-These days I'm interested in building new companies. I'm very
-interesting in finding ways to match talent with opportunity. Talent is
-everywhere, but opportunity remains scarce for most.
+These days I'm mostly interested in building new companies. Specifically, I'm
+looking for ways to match talent with opportunity. Talent is everywhere, but
+opportunity remains scarce for most.
 
 ## As a Professional
 
@@ -41,7 +41,7 @@ I've given talks at a number of different events including conferences, meetups,
 
 ## Open Source
 
-I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 100 public GitHub projects. Here are some of my more popular projects:
+I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 100 public GitHub projects. Here are some of my popular projects:
 
 - [Conky](https://github.com/brndnmtthws/conky), a system monitor for X
 - [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro bot for dollar cost averaging
