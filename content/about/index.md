@@ -9,7 +9,7 @@ type: "about"
 # Brenden Matthews
 
 {{< imgproc "brenden-matthews" Fit "700x700" "fr pl5 pr5 pb4" >}}
-My Face
+How my face looks
 {{< />}}
 
 --------------------------
