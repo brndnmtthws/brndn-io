@@ -33,8 +33,7 @@ from Amazon and it will arrive in 1-2 days. You can order food from nearly
 any restaurant and it'll show up at your door within an hour. You can get a
 chauffer to pick you up wherever you are whenvever you want and drive you
 anywhere. Post a photo on Instagram and random strangers will give you praise
-without knowing who you are. Some people can go on Tinder, get a date, and
-have free dinner every night of the week if they choose.
+without knowing who you are.
 
 People seem to be conditioned now to expect that instant gratification
 everywhere, and when they don't get it there's a sort of cognitive dissonance
