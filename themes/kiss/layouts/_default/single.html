@@ -20,11 +20,11 @@
       {{ partial "tags" .Params.tags }}
       {{ end }}
     </div>
-    {{if not .Date.IsZero }}<h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>{{ end }}
+    {{if not .Date.IsZero }}<h2 class="subtitle is-6 date">{{ .Date.Format "January 2, 2006" }}</h2>{{ end }}
     <h1 class="title">{{ .Title }}</h1>
     <div class="content">
       {{ .Content }}
-      <hr />
+      <hr class="fancy-line shadow-4 o-90" />
       {{ if .Site.Params.Info.related }}
       <div class="related">{{ partial "related" . }}</div>
       {{ end }}
