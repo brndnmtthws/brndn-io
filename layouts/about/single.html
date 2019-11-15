@@ -36,7 +36,8 @@
         {{- with $username := ( index $social $platform ) -}}
         <div>
           <a class="level-item nav-item" aria-label="{{ $platform }}"
-            href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank' rel='noopener'>
+            href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank'
+            rel='noopener'>
             <span class="icon">
               <i class>
                 {{- partial "svg/icons" $platform -}}
@@ -53,6 +54,7 @@
 {{ if (and (.Site.Params.Info.codeCopy) (findRE "<pre" .Content 1)) }}
 {{ $js := resources.Get "/js/copycode.js" }}
 {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+<script async type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}">
+</script>
 {{ end }}
 {{ partial "footer" . }}

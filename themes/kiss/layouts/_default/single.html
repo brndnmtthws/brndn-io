@@ -34,6 +34,6 @@
 {{ if (and (.Site.Params.Info.codeCopy) (findRE "<pre" .Content 1)) }}
 {{ $js := resources.Get "/js/copycode.js" }}
 {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+<script async type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 {{ end }}
 {{ partial "footer" . }}
