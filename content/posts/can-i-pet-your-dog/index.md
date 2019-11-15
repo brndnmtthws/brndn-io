@@ -6,6 +6,7 @@ covercaption: My pup at the Union Square dog run in Manhattan
 tags:
 - dogs
 - shibainu
+- life
 ---
 
 I get asked all the time by strangers, something to the effect of "Can I pet
