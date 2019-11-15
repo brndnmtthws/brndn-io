@@ -2,7 +2,7 @@
 {{ partial "nav" . }}
 {{ $covercaption := .Params.covercaption }}
 {{ with .Resources }}
-  {{ with .GetMatch "{cover.*,*.jpg,*.png,*.jpeg}" }}
+  {{ with .GetMatch "{cover.*}" }}
     <section class="section w-100 pa0">
       <div>
         <figure>
