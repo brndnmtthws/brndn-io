@@ -7,7 +7,7 @@ tags:
 - startups
 ---
 
-{{< imgproc "make-something-people-want" Fit "600x600" "fr pl5 pr5 pb4" >}}
+{{< imgproc "make-something-people-want" Fit "600x600" "fr pl4 pr4 pb4" >}}
 {{< />}}
 
 Y&nbsp;Combinator has a famous motto: _make something people want_. The first reference I could find to that motto was [this blog post from Paul Graham](http://www.paulgraham.com/good.html).
