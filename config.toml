@@ -10,12 +10,14 @@ canonifyURLs = true
 
 summaryLength = 30
 
+enableEmoji = true
+
 [permalinks]
 posts = "/blog/:year/:month/:day/:title/"
 
 [params]
 author = "Brenden Matthews"
-descrption = "Brenden's blog and personal website"
+description = "Brenden Matthews' blog and personal website"
 
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
@@ -31,9 +33,6 @@ homeTitle = "Brenden Matthews" # Title for home page
 poweredby = false
 related = true # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
-
-[params.features]
-disqusOnDemand = false
 
 [params.social]
 twitter = "brndnmtthws"
@@ -72,14 +71,3 @@ quality = 97
 # Smart Cropping is content aware and tries to find the best crop for each image.
 # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 anchor = "smart"
-
-[related]
-threshold = 80
-includeNewer = true
-toLower = true
-[[related.indices]]
-name = "keywords"
-weight = 100
-[[related.indices]]
-name  = "date"
-weight = 10
