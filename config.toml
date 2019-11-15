@@ -65,7 +65,7 @@ hrefTargetBlank = true
 resampleFilter = "lanczos"
 
 # Default JPEG quality setting. Default is 75.
-quality = 95
+quality = 97
 
 # Anchor used when cropping pictures.
 # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
@@ -74,15 +74,12 @@ quality = 95
 anchor = "smart"
 
 [related]
-
 threshold = 80
 includeNewer = true
 toLower = true
-
 [[related.indices]]
 name = "keywords"
 weight = 100
 [[related.indices]]
 name  = "date"
 weight = 10
-pattern = "2006"
