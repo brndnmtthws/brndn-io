@@ -5038,6 +5038,13 @@ a.nav-item.is-tab.is-active {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .nav-right {
+    align-self: center;
+  }
+}
+
+
 .nav,
 .nav>.container {
   min-height: 50px;

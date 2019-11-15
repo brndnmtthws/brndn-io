@@ -2,69 +2,44 @@
   <div class="container">
     <nav id="nav-main" class="nav">
       <div id="nav-name" class="nav-left">
-        <a id="nav-anchor" href="{{ .Site.BaseURL }}">
-          <img src="/brenden-matthews-300.jpg" width="125" style="border-radius: 50%;" />
-        </a>
-        <a id="nav-anchor" class="nav-item" href="{{ .Site.BaseURL }}">
-          <h1 id="nav-heading" class="title is-4">{{ .Site.Title }}</h1>
-        </a>
-      </div>
-
-      <div class="nav-right">
-        <div class="flex flex-column">
+        <div class="flex items-center">
           <div>
-            <nav id="nav-items" class="nav-item level is-mobile">
-                          <a class="level-item" aria-label="about"
-                          href="/about/">
-                         Bio 
-              </a>
-              {{- $social := ( .Site.Params.social ) -}}
-              {{- range $platform := $social.config.platforms -}}
-              {{- with $username := ( index $social $platform ) -}}
-              <a class="level-item" aria-label="{{ $platform }}"
-                href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank'
-                rel='noopener'>
-                <span class="icon">
-                  <i class>
-                    {{- partial "svg/icons" $platform -}}
-                  </i>
-                </span>
-              </a>
-              {{- end -}}
-              {{- end -}}
-            </nav>
+            <a id="nav-anchor" href="{{ .Site.BaseURL }}">
+              <img src="/brenden-matthews-300.jpg" width="125" class="br-100" />
+            </a>
           </div>
-
+          <div>
+            <a id="nav-anchor" class="nav-item" href="{{ .Site.BaseURL }}">
+              <h1 id="nav-heading" class="title is-4">{{ .Site.Title }}</h1>
+            </a>
+          </div>
         </div>
       </div>
-    </nav>
 
-    <nav class="nav">
-      {{ if (isset .Site.Params "sections_left" ) }}
-      <div class="nav-left">
-        {{- range $section, $printable := .Site.Params.sections_left -}}
-        {{- if $printable -}}
-        <a class="nav-item" href="{{$section}}">
-          <h2 class="title is-5">{{$printable}}</h2>
-        </a>
-        {{- end -}}
-        {{- end -}}
-      </div>
-      {{ end }}
-
-      {{ if (isset .Site.Params "sections_right" ) }}
       <div class="nav-right">
-        {{- range $section, $printable := .Site.Params.sections_right -}}
-        {{- if $printable -}}
-        <a class="nav-item" href="{{$section}}">
-          <h2 class="title is-5">{{$printable}}</h2>
-        </a>
-        {{- end -}}
-        {{- end -}}
-      </div>
-      {{ end }}
+        <nav id="nav-items" class="nav-item level is-mobile">
+          <a class="level-item" aria-label="about" href="/about/">
+            Bio
+          </a>
+          {{- $social := ( .Site.Params.social ) -}}
+          {{- range $platform := $social.config.platforms -}}
+          {{- with $username := ( index $social $platform ) -}}
+          <a class="level-item" aria-label="{{ $platform }}"
+            href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank'
+            rel='noopener'>
+            <span class="icon">
+              <i class>
+                {{- partial "svg/icons" $platform -}}
+              </i>
+            </span>
+          </a>
+          {{- end -}}
+          {{- end -}}
+        </nav>
     </nav>
-
   </div>
-  <script src="/js/navicon-shift.js"></script>
+  </div>
+  {{ $js := resources.Get "/js/navicon-shift.js" }}
+  {{ $secureJS := $js | resources.Fingerprint }}
+  <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 </section>
