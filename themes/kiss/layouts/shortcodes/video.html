@@ -1,0 +1,8 @@
+{{ $source := .Get "src" }}
+{{ $classes := .Get "classes" }}
+{{ $width := .Get "width" }}
+{{ $loop := .Get "loop"}}
+{{ $autoplay := .Get "autoplay"}}
+<video class="{{ $classes }}" width="{{ $width }}" autoplay="{{ $autoplay }}" loop="{{ $loop }}">
+  <source src="{{ $source }}" type="video/mp4" />
+</video>
