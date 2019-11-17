@@ -7,3 +7,15 @@
 	{{ end }}
 </ul>
 {{ end }}
+{{ with .NextInSection }}
+<h3>Up next:</h3>
+<ul>
+	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+</ul>
+{{ end }}
+{{ with .PrevInSection }}
+<h3>Previous:</h3>
+<ul>
+	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+</ul>
+{{ end }}
