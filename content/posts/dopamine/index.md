@@ -1,11 +1,12 @@
 ---
 title: "Dopamine"
-date: 2019-11-14T18:09:28-05:00
-draft: true
+date: 2019-11-17T17:23:51+0000
+draft: false
 tags:
 - dopamine
 - startups
 - technology
+covercaption: Sugar is one way to deliver a dose of dopamine
 ---
 
 Dopamine is a chemical in our brains associated with good feels. Rather
@@ -18,55 +19,53 @@ Mind: Why Good People Are Divided by Politics and Religion"_, (pp. 102-103):
 
 In the text above, the author is discussing why politically divided
 individuals get so heated about politics. One
-suggestion, as the author notes, is that tribal signalling (which is what political arguments often are) triggers a
+suggestion, as the author notes, is that tribal signalling (what political arguments often are) triggers a
 dopamine reward in the brain.
 
 ## Tech companies and dopamine
 
 Modern apps like Instagram, Snapchat, TikTok, Twitter, Reddit, HN, and so on have been optimized to provide strong hits of dopamine.
 
-An example of this are notifications, sometimes in the form of a little red dot. Every time you see that red dot, you feel an urge to check your notifications, and when you do you get dopamine reward. We're Pavlov's dog and notifications are a little treat.
+An example of this are notifications often in the form of a little red dot. Every time you see that red dot, you feel an urge to check your notifications, and you receive a dopamine reward in doing so. We're Pavlov's dog and notifications are a little treat.
 
-You may be wondering: how did we arrive here? Was there some nefarious plot by thought leaders at tech cos to build products that are _physically_ addictive? The true answer—in most cases at least—is that no, there was no conspiracy to make addictive products.
+You may be wondering: how did we arrive here? Was there some nefarious plot by thought leaders at tech cos to build products that are _physically addictive_? The true answer—in most cases at least—is that no, there was no conspiracy to make addictive products.
 
-However, it _can_ be said that the addictiveness of these apps is a side effect of how they were optimized. It just so happens that the same actions that increase engagements metrics are well correlated with things which trigger a dopamine release in the brain.
+However, it _can_ be said that the addictiveness of these apps is a side effect of how they were optimized. It just so happens that the same actions that increase engagement metrics are well correlated with things which trigger a dopamine release in the brain.
 
 ## How did we get here?
 
 Through the use of A/B testing, we have slowly created products highly optimized for engagement.
 
-The word _engagement_ is just a polite way of saying "keeps people glued to the screen". It's also something that's relatively easy to measure. You can measure engagement in terms of:
+The word _engagement_ is just a polite way of saying "keep people glued to the screen". It's also something that's relatively easy to measure. You can measure engagement in terms of:
 
 - How long do people spend using your product?
-- How likely are people to continue using it? (aka retention)
-- How many times does someone click a particular button or do a particular action within a given period of time? (clicks per day, per week, etc)
+- How likely are people to continue using it?
+- How many times does someone perform a particular action?
 
 The process of optimizing for engagement is simple: create a hypothesis, figure out what metric you are measuring to test the hypothesis, and conduct an experiment.
 
-<video class="tc fr pl4 pr4 pb4" height="400" autoplay loop>
+<video class="tc fr pl4 pr4 pb4" height="360" autoplay loop>
   <source src="ab_test.mp4" type="video/mp4" />
 </video>
 
-Then, you conduct an A/B test. A simple example might be that you create a button somewhere on a website, and you show 50% of people a blue version of the button. You show the other 50% of people a red version of the same button. You let the experiment run for a while, then examine the results to see which button was more likely to be clicked, red or blue.
+A simple example might be that you create a "pay now" button somewhere on a website's checkout form, and test which colour is more likely to get clicked. You show 50% of people a blue version of the button, and show the other 50% a red version of the same button. You let the experiment run for a while, then examine the results to see which button was more likely to be clicked, red or blue.
 
 Do this over and over and eventually you'll have a product that's highly optimized to trigger a dopamine reward in the brain.
 
 ## Rewards
 
-The thing about these dopamine reward apps is that they generally have little reward _aside_ from the dopamine hit.
+The thing about these dopamine reward apps is that they sometimes have little reward _aside_ from the dopamine hit.
 
 When you're scrolling through Instagram liking your friends posts and leaving funny comments then waiting for them to like your comment or reply back you're probably not going to get any real economic value out of it. Your Instagram activity is probably not going to lead to a job, and you're probably not going to get famous.
 
-To Facebook, you (as a human) are worth about $30 per year in terms of revenue. That's how Facebook thinks about you. And of that $30, Facebook is keeping all of it for themselves.
+To Facebook, you (as a human) are worth about $30 per year in terms of revenue. And of that $30, Facebook is keeping all of it for themselves. They're not rewarding you for your attention in economic terms.
 
-Would you be more likely to use Instagram if Facebook sent you a $30 cheque every year? Probably not. The dopamine is worth more than that.
+And even if they did: would you be more likely to use Instagram if Facebook sent you a $30 cheque every year? Probably not. The dopamine is worth more than that.
 
 ## What can we do about it?
 
-It's up to individuals to moderate their own behaviour. Like most things, everything's probably okay in moderation.
+It's up to individuals to moderate their own behaviour. Most things are probably okay in moderation.
 
-To use an analogy, let's compare Instagram to sugar. Sugar is a substance that triggers a rush of dopamine in the brain. It's also linked to health problems like obesity and diabetes.
+To use an analogy, let's compare Instagram to sugar. Sugar is a substance that triggers a rush of dopamine in the brain. It's also linked to health problems like obesity and diabetes. Thus, it's probably not a good idea to eat sugar all day every day.
 
-Thus, it's probably not a good idea to eat sugar all day. A little bit occasionally is probably fine.
-
-At the same time, if you completely cut sugar from your diet you'd probably gain more than you'd lose in terms of pleasure. You certainly wouldn't starve without sugar, and it won't affect your economic prospects in any way.
+At the same time, if you completely cut sugar from your diet you'd probably benefit more than you lose. You certainly won't starve without sugar (since it has no nutritional value beyond calories), and it won't affect your economic prospects in any way.
