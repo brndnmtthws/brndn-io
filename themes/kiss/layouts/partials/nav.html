@@ -38,7 +38,6 @@
         </nav>
     </nav>
   </div>
-  </div>
   {{ $js := resources.Get "/js/navicon-shift.js" }}
   {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
   <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
