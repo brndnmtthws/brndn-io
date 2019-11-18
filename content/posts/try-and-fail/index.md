@@ -7,6 +7,7 @@ tags:
 - failure
 - success
 - adventure
+covercaption: Christening Ursula, my canoe
 ---
 
 I've long held the belief that it's better to try and fail, than to never even attempt doing something. Along with a few successes in life, I have had a very long list of failures to my name. Here's a story about one such failure.
