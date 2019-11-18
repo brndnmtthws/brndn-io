@@ -5,6 +5,19 @@
 {{ $autoplay := .Get "autoplay"}}
 {{ $controls := .Get "controls"}}
 {{ $preload := .Get "preload"}}
-<video class="{{ $classes }}" width="{{ $width }}" autoplay="{{ $autoplay }}" loop="{{ $loop }}" controls="{{ $controls }}" preload="{{ $preload }}">
+<video class="{{ $classes }}" width="{{ $width }}" 
+{{ if $autoplay}}
+autoplay="{{ $autoplay }}"
+{{ end }}
+{{ if $loop }}
+loop="{{ $loop }}"
+{{ end }}
+{{ if $controls }}
+controls="{{ $controls }}"
+{{ end }}
+{{ if $preload }}
+preload="{{ $preload }}"
+{{ end }}
+>
   <source src="{{ $source }}" type="video/mp4" />
 </video>
