@@ -3,6 +3,8 @@
 {{ $width := .Get "width" }}
 {{ $loop := .Get "loop"}}
 {{ $autoplay := .Get "autoplay"}}
-<video class="{{ $classes }}" width="{{ $width }}" autoplay="{{ $autoplay }}" loop="{{ $loop }}">
+{{ $controls := .Get "controls"}}
+{{ $preload := .Get "preload"}}
+<video class="{{ $classes }}" width="{{ $width }}" autoplay="{{ $autoplay }}" loop="{{ $loop }}" controls="{{ $controls }}" preload="{{ $preload }}">
   <source src="{{ $source }}" type="video/mp4" />
 </video>

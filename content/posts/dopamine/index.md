@@ -44,7 +44,7 @@ The word _engagement_ is just a polite way of saying "keep people glued to the s
 
 The process of optimizing for engagement is simple: create a hypothesis, figure out what metric you are measuring to test the hypothesis, and conduct an experiment.
 
-{{< video src="ab_test.mp4" classes="fr pl4 pr4 pb4 mw-100" width="450" autoplay="true" loop="true" >}}
+{{< video src="ab_test.mp4" classes="fr pl4 pr4 pb4 mw-100" width="450" autoplay="true" loop="true" preload="none">}}
 
 A simple example might be that you create a "pay now" button somewhere on a website's checkout form, and test which colour is more likely to get clicked. You show 50% of people a blue version of the button, and show the other 50% a red version of the same button. You let the experiment run for a while, then examine the results to see which button was more likely to be clicked, red or blue.
 
