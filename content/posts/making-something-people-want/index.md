@@ -18,7 +18,7 @@ Additionally, some of the companies making things people want (e.g., Reddit) hav
 
 I looked quickly at the [top YC company list](https://www.ycombinator.com/topcompanies/) and did some analysis (using [HTTPie](https://httpie.org/), [pup](https://github.com/ericchiang/pup), [jq](https://github.com/stedolan/jq), and standard UNIX tools):
 
-```shell
+```console
 $ http https://www.ycombinator.com/topcompanies/index.html | pup 'div[data-sectors] json{}' | jq '.[]."data-sectors"' | sort | uniq -c | sort -nr
   53 B2B Software and Services
   16 Financial Technology and Services
