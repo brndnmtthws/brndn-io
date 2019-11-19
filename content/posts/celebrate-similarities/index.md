@@ -8,9 +8,9 @@ tags:
 - culture wars
 ---
 
-I'm publishing this post against my better judgement, and at the risk of starting a flamewar. However, I think it's time for a reality check for the "diversity and inclusion" crusaders.
+I'm publishing this post against my better judgement, and at the risk of starting a flamewar. However, I think it's time for a reality check for those beating the drums of "diversity and inclusion".
 
-First of all, let me make it perfectly clear that I'm very much in favour of diversity and including everyone regardless of their physical attributes. If you decide to judge me based on my skin tone or which chromosomes I was born with, that's on you.
+First of all, let me make it perfectly clear that I'm very much in favour of diversity and including everyone regardless of their physical attributes. And if you decide to judge me based on my skin tone or which chromosomes I was born with, that's on you.
 
 ## Why diversity is great
 
