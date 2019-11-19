@@ -31,7 +31,7 @@ I began day 1 in good spirits. I started at [Lake Itasca](https://en.wikipedia.o
 </section>
 <section class="section w-100 pa0">
 <div>
-{{< video src="1-mississippi.mp4" classes="w-100" width="450" controls="true" preload="metadata">}}
+{{< video src="1-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
 </div>
 </section>
 <section class="section">
@@ -45,7 +45,7 @@ As things went on, my spirits declined. The water was incredibly shallow, so I s
 </section>
 <section class="section w-100 pa0">
 <div>
-{{< video src="2-mississippi.mp4" classes="w-100" width="450" controls="true" preload="metadata">}}
+{{< video src="2-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
 </div>
 </section>
 <section class="section">
@@ -63,7 +63,7 @@ Before I tried to sleep for the night I recorded one final video.
 </section>
 <section class="section w-100 pa0">
 <div>
-{{< video src="3-mississippi.mp4" classes="w-100" width="450" controls="true" preload="metadata">}}
+{{< video src="3-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
 </div>
 </section>
 <section class="section">
