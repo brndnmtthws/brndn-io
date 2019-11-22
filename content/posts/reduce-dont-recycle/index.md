@@ -29,9 +29,9 @@ However, recycling does have some benefits. [According to the EPA](https://www.e
 
 <img src="reduce-reuse-recycle.svg" alt="Reduce reuse recycle" class="tc fr mw-100 pa3" width="300" />
 
-The main issue with recycling is (and always has been) that it doesn't get at the root of the cause: waste generation. Recycling may have it's benefits, but it does nothing to discourage people from actually generating waste in the first place.
+The main issue with recycling is (and always has been) that it doesn't get at the root of the cause: waste generation. Recycling may have it's benefits, but it does nothing to discourage people from generating waste in the first place.
 
-The main driver of waste is consumerism and [throwaway culture](https://en.wikipedia.org/wiki/Throw-away_society). It's difficult to repair consumer products, they [aren't build to last](https://en.wikipedia.org/wiki/Planned_obsolescence), and we're constantly being bombarded with ads telling us to buy more and use our brains less.
+The biggest driver of waste is consumerism and [throwaway culture](https://en.wikipedia.org/wiki/Throw-away_society). It's difficult to [repair consumer products](https://en.wikipedia.org/wiki/Electronics_right_to_repair), they [aren't build to last](https://en.wikipedia.org/wiki/Planned_obsolescence), and we're constantly being bombarded with ads telling us to buy more and use our brains less.
 
 ## Reduce
 
@@ -43,3 +43,5 @@ The best thing people can do is focus on reducing consumption, which is at the t
 - living in smaller homes to reduce the amount of material needed and wasted for the home itself (also, there's reduced heating, cooling, and lighting costs)
 - living in cities that offer lots of transport options such that you don't need to purchase automobiles (which are a massive source of waste: even though about [10 million cars are recycled per year](https://en.wikipedia.org/wiki/Vehicle_recycling), [more cars are being sold](https://en.wikipedia.org/wiki/Passenger_vehicles_in_the_United_States#Sales) which means there's a lot of waste)
 - living as close as possible to your workplace to reduce wear and tear on disposable items
+
+Plus, if you think you feel smug about how good you are at recycling, you'll be excited to know how _absolutely amazing_ you'll feel when you go around telling everyone about how little waste you're generating.
