@@ -18,7 +18,7 @@ Recycling has a lot of issues:
 
 - in some cases the actual process of recycling can use more energy than it saves (although this is often disputed), especially in cases where recycled material is being [shipped around the world](https://en.wikipedia.org/wiki/Canada%E2%80%93Philippines_waste_dispute) so that it can be [dumped on someone else](https://www.theguardian.com/us-news/2019/jun/17/recycled-plastic-america-global-crisis)
 - often the material sent for recycling is [never recycled at all](https://archive.is/8kLAg)
-- costs have in some cases [become unsustainable](https://archive.is/uYPjQ) and numerous US cities have [ended or scaled down recycling programs](https://www.wastedive.com/news/what-chinese-import-policies-mean-for-all-50-states/510751/)
+- costs have—in some cases—[become unsustainable](https://archive.is/uYPjQ) and numerous US cities have [ended or scaled down recycling programs](https://www.wastedive.com/news/what-chinese-import-policies-mean-for-all-50-states/510751/)
 - some believe that recycling is [coming to an end altogether](https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end/), which suggests we need to find a better way to manage waste
 
 However, recycling does have some benefits. [According to the EPA](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials):
