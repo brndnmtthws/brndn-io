@@ -2,6 +2,13 @@
 {{ partial "nav" . }}
 <section class="section">
   <div class="container">
+      <div class="content">
+        <p><em>This is the personal blog of <a href="/about">Brenden Matthews</a>.</em></p>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
     {{ $paginator := .Paginate (where .Site.RegularPages "Params.hidden" "ne" true) }}
     {{ range sort .Paginator.Pages }}
     <article>
