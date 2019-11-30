@@ -3,7 +3,7 @@
 <section class="section">
   <div class="container">
       <div class="content">
-        <p><em>This is the personal blog of <a href="/about">Brenden Matthews</a>.</em></p>
+        <p><em>This is the personal blog of <a href="/about">Brenden Matthews</a></em>.</p>
     </div>
   </div>
 </section>
@@ -29,6 +29,19 @@
       </div>
     </article>
     {{ end }}
+  </div>
+  <div class="container">
+    <hr />
+    <h1 class="title">
+      <a href="/tags">
+        <span class="icon">
+          <i class>
+            {{- partial "svg/icons" "tag" -}}
+          </i>
+        </span>
+        Browse by tag
+      </a>
+    </h1>
   </div>
 </section>
 {{ partial "pager" . }}
