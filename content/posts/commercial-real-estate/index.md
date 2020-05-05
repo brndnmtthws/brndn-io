@@ -1,5 +1,5 @@
 ---
-title: "Commercial Real Estate"
+title: "The State of Commercial Real Estate in Manhattan (in photos)"
 date: 2020-05-04T20:25:09-04:00
 draft: false
 tags:
