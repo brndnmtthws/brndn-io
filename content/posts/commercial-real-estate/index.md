@@ -14,6 +14,6 @@ I have a short position on [REM](https://www.ishares.com/us/products/239543/isha
 
 As they say, a picture's worth a thousand words.
 
-{{< gallery caption-position="none" dir="photos/commercial-real-estate" />}}
+{{< gallery caption-position="none" match="photos/*.jpg" >}}
 
 {{< load-photoswipe >}}
