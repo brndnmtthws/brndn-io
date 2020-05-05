@@ -8,7 +8,7 @@ tags:
 - retail
 ---
 
-Over the past few weeks I've noticed an increase in commercial real estate vacancies around Manhattan, especially ground level retail. Tonight on my walk, I took some photos around Flatiron, NoMad, and Union Square.
+Over the past few weeks I've noticed an increase in commercial real estate vacancies around Manhattan, especially ground level retail. Tonight on my walk, I took some photos around Flatiron, NoMad, and Union Square. A few of these places were vacant before the virus came around, such as the Belgian beer spot.
 
 I have a short position on [REM](https://www.ishares.com/us/products/239543/ishares-mortgage-real-estate-capped-etf) with the expectation that real estate (especially commercial real estate) is in for a big price correction. [Carl Icahn has also talked about this](https://www.cnbc.com/2020/03/13/icahn-reveals-his-biggest-short-position-amid-market-turmoil-commercial-real-estate.html).
 
