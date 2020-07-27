@@ -1,6 +1,6 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-{{ $covercaption := .Params.covercaption }}
+{{ $covercaption := .Params.covercaption | $.Page.RenderString }}
 {{ with .Resources }}
   {{ with .GetMatch "{cover.*}" }}
     <section class="section w-100 pa0">

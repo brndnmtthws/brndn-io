@@ -9,6 +9,7 @@ tags:
 - optimisim
 - pessimism
 - fascism
+covercaption: Wall of Vets, from [Reddit](https://www.reddit.com/r/pics/comments/hxsh16/wall_of_vets_in_portland/)
 ---
 
 I've always tried to be an optimist, but I think my natural state tends toward realism with a hint of pessimism. Sometimes optimism is at odds with the current state of reality.
