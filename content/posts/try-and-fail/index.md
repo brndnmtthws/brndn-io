@@ -26,31 +26,11 @@ I decided to bring a camera with me, with the goal of documenting my journey wit
 
 I began day 1 in good spirits. I started at [Lake Itasca](https://en.wikipedia.org/wiki/Lake_Itasca) and set out with the expectation that I'd be living in a canoe for 3 months. I was carrying a bunch of equipment with the assumption I'd have time for leisurely enjoyment of the open water: solar panels, camera gear, my laptop, speakers for listening to music, a ukulele, and a harmonica. I had around 200lbs worth of the wrong gear.
 
-</div>
-</div>
-</section>
-<section class="section w-100 pa0">
-<div>
-{{< video src="1-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
-</div>
-</section>
-<section class="section">
-<div class="container">
-<div class="content">
+{{< video src="1-mississippi.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
 As things went on, my spirits declined. The water was incredibly shallow, so I spent most of the day dragging the boat over rocks with heavy gear on board. I (foolishly) did not prepare for this and it was exhausting. I had planned to be spending time paddling, not dragging a boat along the ground.
 
-</div>
-</div>
-</section>
-<section class="section w-100 pa0">
-<div>
-{{< video src="2-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
-</div>
-</section>
-<section class="section">
-<div class="container">
-<div class="content">
+{{< video src="2-mississippi.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
 ## End of Day 1
 
@@ -58,17 +38,7 @@ By the end of day 1 I was exhausted, felt alone, had no cellphone reception, and
 
 Before I tried to sleep for the night I recorded one final video.
 
-</div>
-</div>
-</section>
-<section class="section w-100 pa0">
-<div>
-{{< video src="3-mississippi.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
-</div>
-</section>
-<section class="section">
-<div class="container">
-<div class="content">
+{{< video src="3-mississippi.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
 ## Day 2
 

@@ -15,17 +15,7 @@ I've always tried to be an optimist, but I think my natural state tends toward r
 
 If you spend much time reading the news lately, you might think think there's an ongoing civil war. My opinion is that you'd have to be incredibly ignorant to look at current events and not understand how decades of racial injustice, oppression, stagnant wage growth, and decreasing opportunities have led to social unrest. Add to that a new populist movement toward fascism, and you've got a recipe for disaster.
 
-</div>
-</div>
-</section>
-<section class="section w-100 pa0">
-<div>
-{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="w-100" width="450" controls="true" preload="auto">}}
-</div>
-</section>
-<section class="section">
-<div class="container">
-<div class="content">
+{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
 I've spent a lot of time learning about history, and in particular studying the events around the second world war. By the way, there are multiple good WW2 documentaries on Netflix. I also recommend Oliver Stone's documentaries for an easy way to consume historical content.
 
