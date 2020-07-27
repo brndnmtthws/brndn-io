@@ -16,9 +16,9 @@ I've always tried to be an optimist, but I think my natural state tends toward r
 
 If you spend much time reading the news lately, you might think think there's an ongoing civil war. My opinion is that you'd have to be incredibly ignorant to look at current events and not understand how decades of racial injustice, oppression, stagnant wage growth, and decreasing opportunities have led to social unrest. Add to that a new populist movement toward fascism, and you've got a recipe for disaster.
 
-{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
-
 I've spent a lot of time learning about history, and in particular studying the events around the second world war. By the way, there are multiple good WW2 documentaries on Netflix. I also recommend Oliver Stone's documentaries for an easy way to consume historical content.
+
+{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
 One thing that fascinates me about WW2 history is the amount of positivity that remained against all odds. Life was incredibly difficult for anyone living in Germany, France, Britain, Japan, or any other place that became the site of battle. Countries were literally dropping huge bombs on major populated cities, and civilians were left to fend for themselves. Most people focus on the military aspect of war, but few tend to think about the people just trying to live their lives and get by while bombs were dropping on their heads.
 
