@@ -20,7 +20,7 @@ I've spent a lot of time learning about history, and in particular studying the 
 
 {{< video src="always-look-on-the-bright-side-of-life.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
 
-One thing that fascinates me about WW2 history is the amount of positivity that remained against all odds. Life was incredibly difficult for anyone living in Germany, France, Britain, Japan, or any other place that became the site of battle. Countries were literally dropping huge bombs on major populated cities, and civilians were left to fend for themselves. Most people focus on the military aspect of war, but few tend to think about the people just trying to live their lives and get by while bombs were dropping on their heads.
+One thing that fascinates me about WW2 history is the amount of positivity that remained against all odds. Life was incredibly difficult for anyone living in Germany, France, Britain, Japan, or any other place that became the site of battle. Countries were literally dropping huge bombs on major populated cities, and civilians were left to fend for themselves. Most people focus on the military aspect of war, but few tend to think about the people just trying to live their lives and get by while bombs were falling on their heads.
 
 I think about what's currently going on in the world, and while it worries me, I also think we live in a relatively peaceful time with little to worry about (in the first world at least).
 
