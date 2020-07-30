@@ -33,6 +33,7 @@ homeTitle = "Brenden Matthews" # Title for home page
 poweredby = false
 related = true # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
+image = "https://brndn.io/brenden-matthews-300.jpg"
 
 [params.social]
 twitter = "brndnmtthws"
@@ -41,6 +42,7 @@ email = "brenden@brndn.io"
 linkedin = "brndnmtthws"
 instagram = "brndnmtthws"
 rss = "posts/index.xml" # Add this to show RSS button in social.
+image = "https://brndn.io/brenden-matthews-300.jpg"
 
 [params.social.config]
 platforms = [

@@ -1,7 +1,8 @@
-<meta name='twitter:card' content='summary{{- if .Params.image -}}_large_image{{- end -}}'>
+<meta property='twitter:card' content='summary{{- if .Params.image -}}_large_image{{- end -}}'>
 {{- if .Site.Params.opengraph.twitter.page -}}
-<meta name='twitter:site' content='@{{- .Site.Params.opengraph.twitter.page -}}'>
+<meta property='twitter:site' content='@{{- .Site.Params.opengraph.twitter.page -}}'>
 {{- else -}}
-<meta name='twitter:site' content='@{{- .Site.Params.Social.twitter -}}'>
+<meta property='twitter:site' content='@{{- .Site.Params.Social.twitter -}}'>
 {{- end -}}
-<meta name='twitter:creator' content='@{{- .Site.Params.Social.twitter -}}'>
+<meta property='twitter:creator' content='@{{- .Site.Params.Social.twitter -}}'>
+<meta property="twitter:image" content='{{- .Site.Params.Social.image -}}'>

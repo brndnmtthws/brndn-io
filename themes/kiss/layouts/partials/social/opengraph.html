@@ -10,7 +10,7 @@
   {{- end -}}
 '>
 
-{{- with .Params.image -}}
+{{- with .Site.Params.Social.image -}}
     <meta property='og:image' content='{{ . | absURL }}'>
 {{- else -}}
 {{- with .Site.Params.Social.email -}}
