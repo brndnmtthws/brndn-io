@@ -8,6 +8,8 @@
 {{ .Scratch.Set "image" ($original.Resize $options) }}
 {{ else if eq $command "Fill"}}
 {{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ else if eq $command "None"}}
+{{ .Scratch.Set "image" $original}}
 {{ else }}
 {{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
 {{ end }}
