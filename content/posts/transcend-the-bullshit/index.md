@@ -13,6 +13,10 @@ I was recently trolling someone on Reddit, and in a brief (and regrettable) fit 
 
 Once you've experienced enough of the world, it becomes impossible to unsee or unlearn the various levels of bullshit that exist everywhere. In startup land you've got VC bullshit, in the retail investor world you have finance bullshit, in day to day life–like for example at the grocery store–you've got nutrition bullshit, politican bullshit, marketing bullshit, corporate bullshit, capitalist bullshit, technology bullshit, Christmas bullshit, ...
 
+"What is bullshit?", you might ask? For that I will refer to "[On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)", which provides the most succinct definition of bullshit I've found:
+
+> bullshit is speech intended to persuade without regard for truth
+
 Anyway, I like to think I've lived enough to realize how only a small number of things are true about life and the world:
 
  - everyone is nearly the same, regardless of language, culture, or religion or skin colour or whatever
