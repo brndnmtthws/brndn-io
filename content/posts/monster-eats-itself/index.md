@@ -64,6 +64,14 @@ Here are some ideas of what should happen very quickly to fix the government:
  - introduce direct democracy reforms to allow people to vote directly on large issues
  - hold politicians accountable to their constituents by measuring their voting in government to how their constituents vote on issues
 
+## Hurtling toward our own demise
+
+I'm mostly of the belief these days that it's too late. We're staring down
+the barrel of an extinction event (climate change) and we're choosing to do
+nothing about it. Most people have decided to bury their heads in the sand,
+ignore what's happening around them, and keep going about their day engaging
+in capitalism and consumerism.
+
 ## Fewer speeches, less bullshit, more action
 
 Watching the politicians talk about how great they are was exhausting, and I
@@ -80,4 +88,5 @@ USA.
 
 ## Thanks for reading
 
-If you made it this far, a big special thanks for coming to my blog.
+If you made it this far, a big special thanks for coming to my blog. Come on
+over to [r/collapse](https://www.reddit.com/r/collapse/) to learn more.
