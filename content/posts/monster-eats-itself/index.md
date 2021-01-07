@@ -2,7 +2,7 @@
 title: "Monster Eats Itself"
 date: 2021-01-07T08:57:39-06:00
 draft: false
-covercaption: Where the people who run the country meet
+covercaption: Where the people who run the ~~USA~~ world meet
 tags:
 - systemic failure
 - US government
