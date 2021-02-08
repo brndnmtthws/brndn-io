@@ -38,7 +38,7 @@ image = "https://brndn.io/brenden-matthews-300.jpg"
 [params.social]
 twitter = "brndnmtthws"
 github = "brndnmtthws"
-email = "brenden@brndn.io"
+email = "hey@brenden.brndn.io"
 linkedin = "brndnmtthws"
 instagram = "brndnmtthws"
 rss = "posts/index.xml" # Add this to show RSS button in social.
