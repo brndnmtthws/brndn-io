@@ -22,7 +22,7 @@ description = "Brenden Matthews' blog and personal website"
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
 authorName = "Brenden Matthews" # Author full name
-authorEmail = "brenden@brndn.io" # Author email
+authorEmail = "sup@brenden.brndn.io" # Author email
 
 [params.assets]
 # customCSS = ["css/custom.css"]
