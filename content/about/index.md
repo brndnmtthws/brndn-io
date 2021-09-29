@@ -43,6 +43,7 @@ I've given talks at a number of different events including conferences, meetups,
 
 I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 100 public GitHub projects. Here are some of my popular projects:
 
+- [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews_code_9_22_21&a_aid=brendenm&a_bid=3eb61509), my Rust programming book
 - [Conky](https://github.com/brndnmtthws/conky), a system monitor for X
 - [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro bot for dollar cost averaging
 - [cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust), solutions to Cracking the Coding Interview problems written in Rust
