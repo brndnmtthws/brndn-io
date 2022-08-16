@@ -4,7 +4,7 @@ title = "Brenden's Blog"
 
 theme = "kiss"
 copyright = "Brenden Matthews, <a href=\"https://creativecommons.org/licenses/by/4.0/\">some rights reserved</a>."
-Paginate = 5 # Number of posts per page
+Paginate = 5                                                                                                       # Number of posts per page
 enableRobotsTXT = true
 canonifyURLs = true
 
@@ -20,40 +20,32 @@ author = "Brenden Matthews"
 description = "Brenden Matthews' blog and personal website"
 
 [params.rss] # Adding this tag enables RSS feed
-includeContent = true # Includes whole content in rss
-authorName = "Brenden Matthews" # Author full name
+includeContent = true                # Includes whole content in rss
+authorName = "Brenden Matthews"      # Author full name
 authorEmail = "sup@brenden.brndn.io" # Author email
 
 [params.assets]
 # customCSS = ["css/custom.css"]
 
 [params.info]
-enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "Brenden Matthews" # Title for home page
+enableSocial = true                                 # Adds OpenGraph and Twitter cards
+homeTitle = "Brenden Matthews"                      # Title for home page
 poweredby = false
-related = true # Includes related articles at the bottom of the article
-codeCopy = true # Add copy button above code blocks
+related = true                                      # Includes related articles at the bottom of the article
+codeCopy = true                                     # Add copy button above code blocks
 image = "https://brndn.io/brenden-matthews-300.jpg"
 
 [params.social]
-twitter = "brndnmtthws"
 github = "brndnmtthws"
 email = "hey@brenden.brndn.io"
-linkedin = "brndnmtthws"
-rss = "posts/index.xml" # Add this to show RSS button in social.
+rss = "posts/index.xml"                             # Add this to show RSS button in social.
 image = "https://brndn.io/brenden-matthews-300.jpg"
 
 [params.social.config]
-platforms = [
-    "rss",
-    "email",
-    "github",
-    "twitter",
-    "linkedin"
-]
+platforms = ["rss", "email", "github", "twitter", "linkedin"]
 
 [taxonomies]
-tag ="tags"
+tag = "tags"
 
 [blackfriday]
 hrefTargetBlank = true
