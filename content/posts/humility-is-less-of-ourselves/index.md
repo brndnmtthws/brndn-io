@@ -38,3 +38,6 @@ Authentic humility is rare, and when I think about the kind of people in life
 who I've liked the most, they tend to be the kind of people who are happy to
 talk about themselves when asked, but are more inclined to listen than speak
 unprompted.
+
+_And now a word from our sponsors..._ just kidding, I'm not selling anything
+here other than my opinions which are free (and thus worthless).
