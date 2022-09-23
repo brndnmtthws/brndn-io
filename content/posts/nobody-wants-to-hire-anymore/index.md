@@ -9,15 +9,19 @@ tags:
 - cognitive dissonance
 ---
 
-The word on the street is there's a "labour shortage". Looking at the data,
-however, show's a different picture. I've heard theories about many people
-retiring, or too many COVID excess deaths affecting the pool of labour, but
-looking at the data I'm not seeing numbers that reflect most of those theories.
+The word on the street is there's a "labour shortage". If we look at the data,
+however, it tells a different picture. I've heard theories about people
+retiring, or too many COVID excess deaths, or people being flush with cash
+because the government gave everyone a coulpe thousand bucks (which is about one
+month's rent), but looking at the data I'm not seeing numbers that reflect most
+of those theories.
 
-People are fixated on explaining thing with 1 theory, but reality
-is a very complex equation with infinite variables.
+People often become fixated on explaining everything with a Grand Unified
+Theory, but reality is a very complex equation with infinite variables. Simple
+explanations to why McDonald's can't find and retain talent are unlikely to be
+true, but in any case I doubt the problem is a lack of workers.
 
-Let's start by looking at the [unemployment rate](https://fred.stlouisfed.org/series/UNRATE):
+Let's look at the [unemployment rate](https://fred.stlouisfed.org/series/UNRATE):
 
 {{< imgproc "unemployment.png" None >}}
 Unemployment
@@ -73,6 +77,14 @@ Well shucks! That doesn't match the narrative either. There are 38.2 million
 people over 55 in the labour force now versus 38.7 pre-COVID. That's a
 difference of about 560,000 fewer people over 55 in the labour market, the lower
 aged cohorts make up the difference and more.
+
+Do people have too much money? Let's look at the [personal savings rate](https://fred.stlouisfed.org/series/PSAVERT):
+
+{{< imgproc "savings-rate.png" None >}}
+Savings rate
+{{< />}}
+
+That can't be it, savings are down below their pre-COVID levels. The pre-COVID peak was 8.3, and today we're at 5, which is 40% less!
 
 Okay, now what about the "wages are too damn high" narrative? Let's take a look at [real wages](https://fred.stlouisfed.org/series/LES1252881600Q):
 
