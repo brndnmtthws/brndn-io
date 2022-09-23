@@ -115,6 +115,7 @@ people? Is there some basic confusing in the C suites on how numbers work?
 Here's a summary of what we can infer from the data:
 
 * Corporate profits are up about 50% over pre-COVID levels
+* Personal savings are about 40% lower than pre-COVID levels
 * More people are in the labour market, especially younger people
 * Real wages have declined since their pre-COVID peak
 * Unemployment is low, but not quite as low as before COVID
