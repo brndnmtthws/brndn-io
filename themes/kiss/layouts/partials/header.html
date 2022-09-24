@@ -4,6 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}{{end}}" />
+{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
 {{ partial "seo_schema" . }}
 {{ if eq .IsHome false }}
 <title>{{ .Title }} | {{ .Site.Title }}</title>
