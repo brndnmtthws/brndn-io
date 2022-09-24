@@ -6,6 +6,8 @@ tags:
 - skills
 - exponential growth
 - compounding interest
+- learning
+- creativity
 covercaption: Compounding compounds
 math: true
 ---
