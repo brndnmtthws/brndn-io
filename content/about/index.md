@@ -46,10 +46,10 @@ I've given talks at a number of different events including conferences, meetups,
 
 ## Open Source
 
-I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 100 public GitHub projects. Here are some of my popular projects:
+I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 150 public GitHub projects, 2 of which have over 1,000 stars, 6 with over 100. Here are some of my projects:
 
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews_code_9_22_21&a_aid=brendenm&a_bid=3eb61509), my Rust programming book
-- [Dryoc](https://github.com/brndnmtthws/dryoc), a pure-Rust general purpose cryptography library, based on the legendary libsodium (which is based on the legendary NaCl from djb)
+- [dryoc](https://github.com/brndnmtthws/dryoc), a pure-Rust general purpose cryptography library, based on the legendary libsodium (which is based on the legendary NaCl from djb)
 - [Conky](https://github.com/brndnmtthws/conky), a system monitor for X
 - [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro bot for dollar cost averaging
 - [cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust), solutions to Cracking the Coding Interview problems written in Rust
