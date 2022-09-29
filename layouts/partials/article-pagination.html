@@ -74,7 +74,7 @@
     {{ $related := site.RegularPages.Related . | first 3 }}
     {{ with $related }}
       <div class="pt-8">
-        <h2 class="pt-3">Related</h2>
+        <h2 class="pt-3">Related posts</h2>
         <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 pt-3">
           {{ range . }}
