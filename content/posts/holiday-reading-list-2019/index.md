@@ -30,7 +30,7 @@ On to the list:
 {{< figure
     src="how-to-change-your-mind.png"
     alt="How to Change Your Mind"
-    class="max-w-[12rem] float-left mx-4 my-1"
+    class="max-w-[12rem] float-left ml-0 mr-4 my-1"
     >}}
 A book about psychedelic drugs and their theraputic value. It contains an interesting collection of history, anecdotes, and trip reports. There's _some_ science behind these types of drugs, which the book touches on, but it does seem a little bit hyped. The book mostly discusses psilocybin and LSD, but it also touches on some of the other related and trending drugs, such as ayahuasca. If you're curious and want to learn more, it's worth a read.
 
@@ -41,7 +41,7 @@ My main takeaway from the book is that these drugs affect the brain in a way tha
 {{< figure
     src="dune.png"
     alt="Dune"
-    class="max-w-[12rem] float-right mx-4 my-1"
+    class="max-w-[12rem] float-right mr-0 ml-4 my-1"
     >}}
 Frank Herbert's _Dune_ is a classic science fiction book, and one of the best selling of all times. Published in 1965, the books feels just as relevant today as it did when I read it growing up. This book inspired other science fiction, notably the Star Wars franchise. _Dune_ never really received much mainstream attention, so if you haven't heard of it, now might be a good time to read it.
 
@@ -54,7 +54,7 @@ If you can't get enough of the first book, there are 5 additional books in the s
 {{< figure
     src="how-to-win-friends-and-influence-people.png"
     alt="How to Win Friends and Influence People"
-    class="max-w-[12rem] float-left mx-4 my-1"
+    class="max-w-[12rem] float-left ml-0 mr-4 my-1"
     >}}
 Dale Carnegie's 1936 book _How to Win Friends and Influence People_ is the sort of book everyone should read at least once, preferably twice. A lot of the advice in the book seems obvious after you've read it, but it's still worth reading.
 
@@ -67,7 +67,7 @@ If you have read it previously, it might be worth reading again to brush up on y
 {{< figure
     src="sapiens.png"
     alt="Sapiens"
-    class="max-w-[12rem] float-right mx-4 my-1"
+    class="max-w-[12rem] float-right ml-4 mr-0 my-1"
     >}}
 _Sapiens_ by Yuval Noah Harari is a worthwhile and fascinating read. This one has been on everyone's list for the last few years, and for good reason. I couldn't pass up on an opportunity to add it to my list as well.
 
@@ -82,7 +82,7 @@ This book pairs well with the next one on my list, so you might want to read bot
 {{< figure
     src="selfish-gene.png"
     alt="The Selfish Gene"
-    class="max-w-[12rem] float-left mx-4 my-1"
+    class="max-w-[12rem] float-left ml-0 mr-4 my-1"
     >}}
 Richard Dawkins' _The Selfish Gene_ is a fascinating exploration of natural selection. I re-read this one recently and really enjoyed it. It's a bit long-winded at times, but it's a fascinating look into how nature _actually_ works. If you want to understand human behaviour, this is a great place to start.
 
@@ -95,7 +95,7 @@ Dawkins is a somewhat devisive figure, but I think he's one of the best controve
 {{< figure
     src="righteous-mind.png"
     alt="The Righteous Mind"
-    class="max-w-[12rem] float-right mx-4 my-1"
+    class="max-w-[12rem] float-right ml-4 mr-0 my-1"
     >}}
 The last book on my list has the very long title of _The Righteous Mind: Why Good People Are Divided by Politics and Religion_, written by Jonathan Haidt.  It's very relevant today, especially as we head into the 2020 US election, and it might be worth reading if you haven't already.
 

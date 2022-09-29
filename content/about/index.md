@@ -8,7 +8,7 @@ type: "about"
 {{< figure
     src="img/brenden-matthews.jpg"
     alt="How my face looks"
-    class="max-w-[16rem] float-left mx-4 my-1"
+    class="max-w-[16rem] float-left ml-0 mr-4 my-1"
     >}}
 I'm a serial entrepreneur, software engineer, artist, and adventurer who's
 worked with a number of startups over the past 20 years. I've helped scale 3
