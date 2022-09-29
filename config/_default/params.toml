@@ -71,6 +71,7 @@ showTermCount = true
 # domain = "llama.yoursite.com"
 
 [verification]
+google = "JBm8FFobHfRPpxQ8zk1685Vc440wvlwgLrCQ8ywgqTI"
 # google = ""
 # bing = ""
 # pinterest = ""

@@ -13,7 +13,7 @@ dateFormat = "2 January 2006"
 [author]
 name = "Brenden Matthews"
 image = "img/brenden-matthews.jpg"
-headline = "Opinions served up fresh with a side of computers and a dash of autism."
+headline = "Opinions served up fresh on everything from computers to economics."
 bio = "Human"
 links = [
   { email = "mailto:sup@brenden.brndn.io" },
