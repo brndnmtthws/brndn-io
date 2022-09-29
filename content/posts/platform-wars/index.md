@@ -7,8 +7,8 @@ tags:
 - platform wars
 - google
 - apple
-covercaption: Pew pew
 ---
+![Pew pew](cover.jpg)
 
 One of the basic concepts of capitalism is the idea that competition is good for consumers. I think in most cases this is true. One famous example is the [history of General Motors](https://en.wikipedia.org/wiki/History_of_General_Motors), a company that became so powerful and dominant that the US government considered breaking GM into separate companies.
 
@@ -48,10 +48,7 @@ For example, if I share a link on Twitter, it will replace that link with Twitte
 
 Without question the biggest winners are the platforms. They're optimized for stickiness, and the effect has been unquestionably powerful. It's like going to the grocery store and being allowed to buy as much ice cream as you want, but there are only two flavours available: chocolate or vanilla. All other flavours are bad.
 
-{{< imgproc "are-ya-winning-son" Fit "1100x1100" "tc fr pl4 pr4 pb4" >}}
-Winning
-{{< />}}
-
+![Winning?](are-ya-winning-son.jpg)
 
 Unlike the automobile industry, the software world exhibits strong network effects, especially since nearly every platform is some kind of social network.
 

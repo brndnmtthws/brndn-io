@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Brenden's Blog"
+
+description = "Brenden Matthews' blog and personal website"
+dateFormat = "2 January 2006"
+
+[author]
+name = "Brenden Matthews"
+image = "img/brenden-matthews.jpg"
+headline = "Opinions served up fresh with a side of computers and a dash of autism."
+bio = "Human"
+links = [
+  { email = "mailto:sup@brenden.brndn.io" },
+  { github = "https://github.com/brndnmtthws" },
+]

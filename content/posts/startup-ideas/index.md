@@ -6,8 +6,8 @@ tags:
 - startups
 - funding
 - advice
-covercaption: Is this a startup idea?
 ---
+![Startup](cover.jpg "Is this...a startup idea?")
 
 Starting any company is hard. Startups are even harder. If you want to start a company but don't have a business idea, then the first step is figuring out what to build.
 

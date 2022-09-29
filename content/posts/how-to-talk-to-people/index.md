@@ -6,8 +6,8 @@ tags:
 - life
 - how to
 - friends
-covercaption: It's good to have friends
 ---
+![Friends](cover.jpg "It's good to have friends")
 
 I've never been great at talking to people, especially strangers, but I'm much better than I used to be. In this post I'll share some of the things I've learned in my quest to be a better human.
 
@@ -60,9 +60,7 @@ I've noticed there is one short circuit for getting people out of small talk mod
 
 Conversations don't go far when you have nothing to talk about. You can only say so much about the weather or the local sports team before you run out of things to discuss. And definitely don't start talking about political or religious subjects unless it's actually appropriate to do so.
 
-{{< imgproc "night-doge" Fit "1100x1100" "tc fr pl4 pr4 pb4" >}}
-Baby Doge, my sheeb
-{{< />}}
+![Baby Doge, my sheeb](night-doge.jpg "Baby Doge, my sheeb")
 
 One trick, which I have many times suggested to others, is to get a dog. I get approached _constantly_ by strangers every day because of the fact that I have a dog, and she's kind of cute. There's a lot of other great benefits that come along with having a dog such as [reduced risk of heart disease](https://www.health.harvard.edu/staying-healthy/having-a-dog-can-help-your-heart--literally) (likely because of having to walk your dog every day). A lot of people love dogs and it's an easy subject to talk to just about anyone about.
 

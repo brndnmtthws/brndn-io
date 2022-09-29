@@ -5,15 +5,11 @@ draft: false
 hidden: true
 type: "about"
 ---
-
-# Brenden Matthews
-
-{{< imgproc "brenden-matthews" Fit "700x700" "fr pl5 pr5 pb4" >}}
-How my face looks
-{{< />}}
-
---------------------------
-
+{{< figure
+    src="img/brenden-matthews.jpg"
+    alt="How my face looks"
+    class="max-w-[16rem] float-left mx-4 my-1"
+    >}}
 I'm a serial entrepreneur, software engineer, artist, and adventurer who's
 worked with a number of startups over the past 20 years. I've helped scale 3
 separate $1B+ valuation companies through various stages of hypergrowth, and

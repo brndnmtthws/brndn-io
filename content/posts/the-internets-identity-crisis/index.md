@@ -5,8 +5,8 @@ draft: false
 tags:
 - internet
 - technology
-covercaption: Doge contemplating the Internet, and squirrels
 ---
+![Doge](cover.jpg "Doge contemplating the Internet, and squirrels")
 
 The [ISOC](https://en.wikipedia.org/wiki/Internet_Society) recently [sold the `.org` TLD registry to a private equity firm for $1.1b](https://www.keypointsabout.org/blog/advancing-the-internet-societys-mission-into-the-future). What this means, in the grand scheme of things, remains to be seen, but [many](https://savedotorg.org/) [people](https://blogs.harvard.edu/sj/2019/11/23/a-tale-of-icann-and-regulatory-capture-the-dot-org-heist/) [around](https://domainnamewire.com/wp-content/ICA-Letter-to-ICANN-Board-of-Directors-November-15-2019.pdf) [the](https://www.theregister.co.uk/2019/11/20/org_registry_sale_shambles/) [web](https://www.vice.com/en_us/article/59nvjd/private-equity-is-going-to-ruin-the-org-domain-system-and-screw-nonprofits) have expressed disapproval.
 

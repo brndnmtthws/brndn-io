@@ -2,12 +2,12 @@
 title: "\"Can I Pet Your Dog?\""
 date: 2019-11-15T01:29:06+0000
 draft: false
-covercaption: My pup at the Union Square dog run in Manhattan
 tags:
 - dogs
 - shibainu
 - life
 ---
+![Doge](cover.jpg "My pup at the Union Square dog run in Manhattan")
 
 I get asked all the time by strangers, something to the effect of "Can I pet
 your dog?". People see her, think she's cute, and feel a sudden strong urge

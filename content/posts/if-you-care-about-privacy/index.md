@@ -2,11 +2,11 @@
 title: "If You Care About Privacy"
 date: 2019-11-25T12:19:24-05:00
 draft: false
-covercaption: My pup cares about privacy. This photo has nothing to do with this post.
 tags:
 - privacy
 - advice
 ---
+![Doge](cover.jpg "My pup cares about privacy. This photo has nothing to do with this post.")
 
 It's hard to maintain privacy these days, ever since we started carrying around the ultimate Internet connected surveillance device in our pockets. So what can you do about it? Here's a brief guide.
 

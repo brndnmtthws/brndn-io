@@ -4,7 +4,7 @@ date: 2020-09-17T08:31:33-04:00
 draft: false
 tags:
 - career
-- job
+- jobs
 - jerks
 ---
 

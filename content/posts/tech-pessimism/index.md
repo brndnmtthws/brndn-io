@@ -7,8 +7,8 @@ tags:
 - pessimism
 - futurology
 - degrowth
-covercaption: Can our fossil fuel machines save us from the problem created by fossil fuels? 🤔
 ---
+![Jet fuel](cover.jpg "Can our fossil fuel machines save us from the problem created by fossil fuels? 🤔")
 
 For a long time I was a futurist, and an optimist about technology in general. I
 agreed with the thesis that technology makes everything better over time. These

@@ -72,10 +72,7 @@ much.
 
 ## Maybe there's no happy ending?
 
-{{< imgproc "confused" Fit "600x600" "tc fr pl4 pr4 pb4" >}}
-Buying a Tesla won't save the planet?
-{{< />}}
-
+![Buying a Tesla won't save the planet?](confused.jpg "Buying a Tesla won't save the planet?")
 
 One tough conclusion I've reached recently is that we (humans, that is) are
 headed in the wrong direction, and we're accelerating toward our own demise.

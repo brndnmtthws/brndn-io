@@ -52,9 +52,7 @@ used_.
 
 **Health care companies**: some health care businesses have no incentive to help patients get healthy. Without sick patients, they would go out of business. The best customers are repeat customers with insurance who stay chronically ill forever (or at least, they believe they're ill).
 
-{{< imgproc "iphone-11" Fit "500x500" "tc fr pl4 pr4 pb4" >}}
-It can make phone calls, too
-{{< />}}
+![It can make phone calls, too](iphone-11.jpg "It can make phone calls, too")
 
 **Consumer goods**: a lot of consumer goods are designed to last for short periods of time so that you need to keep buying new versions of the same thing ([planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence)). Classic examples are cell phones, automobiles, televisions, etc. While in some cases there are incremental technological improvements, the latest iPhone is a good example of how innovation has slowed to the point where buying the latest phone isn't necessary (do you _really_ need 3 cameras?).
 

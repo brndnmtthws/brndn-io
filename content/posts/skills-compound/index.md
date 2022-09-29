@@ -8,9 +8,8 @@ tags:
 - compounding interest
 - learning
 - creativity
-covercaption: Compounding compounds
-math: true
 ---
+![Skills](cover.jpg)
 
 Humans are pretty bad at intuiting about exponential growth. Whether it's
 [pollution](https://gml.noaa.gov/ccgg/trends/mlo.html), [population
@@ -35,7 +34,9 @@ If you're unsure, sometimes it can be as simple as creating a plot and seeing if
 the growth is accelerating all the time, which can sometimes be ascertained
 visually.
 
-But anyway, this post isn't so much about exponential growth, but rather it's about _skills_. Skills compound, and therefore they grow exponentially (provided you [continue to learn]({{< ref "always-be-learning" >}})).
+But anyway, this post isn't so much about exponential growth, but rather it's
+about _skills_. Skills compound, and therefore they grow exponentially (provided
+you [continue to learn]({{< ref "always-be-learning" >}})).
 
 To understand how skills compound, we can think about learning skills as a loop
 with steps that are something like this:
@@ -54,38 +55,45 @@ combination of skills, and that experience is worth a premium because there's
 value in knowing how X and Y combine to make Z, the difference of which is the
 learned premium.
 
-The _total_ value $v$ of your skills can be modeled as:
+The _total_ value \\(v\\) of your skills can be modeled as:
 
-$v = \displaystyle\sum_{i=1}^ns = sᵢp$
+{{< katex >}}
+$$
+v = \displaystyle\sum_{i=1}^ns = sᵢp
+$$
 
-Where $sᵢ$ is a skill, and $p$ is the learned premium.
+Where \\(sᵢ\\) is a skill, and \\(p\\) is the learned premium.
 
 Which is equivalent to:
 
-$v = \displaystyle\sum_{}s = s_{1}p + s_{2}p + s_{3}p + s_{4}p + s_{5}p + \cdots + s_{n}p$
+$$
+v = \displaystyle\sum_{}s = s_{1}p + s_{2}p + s_{3}p + s_{4}p + s_{5}p + \cdots + s_{n}p
+$$
 
-You can assume that $n$ is just a function of time, where the longer you spend working to develop your skills the greater the value of $n$ becomes. On the day you're born a fresh new baby, $n = 0$. Every time you learn a new skill, you get $n = n + 1$.
+You can assume that \\(n\\) is just a function of time, where the longer you spend working to develop your skills the greater the value of \\(n\\) becomes. On the day you're born a fresh new baby, \\(n = 0\\). Every time you learn a new skill, you get \\(n = n + 1\\).
 
-The individual value for each instance of $s_{n}$ is kind of irrelevant, as over
-time the compounding of $p$ and $n$ makes $s_{n}$ less significant. In fact, so
-long as $s_{n} >= 1$ and $p > 1$, your total skill value $v$ will always grow
-exponentially as $n$ grows (in other words, if you continuously learn new skills).
+The individual value for each instance of \\(s_{n}\\) is kind of irrelevant, as over
+time the compounding of \\(p\\) and \\(n\\) makes \\(s_{n}\\) less significant. In fact, so
+long as \\(s_{n} >= 1\\) and \\(p > 1\\), your total skill value \\(v\\) will always grow
+exponentially as \\(n\\) grows (in other words, if you continuously learn new skills).
 
-In dayjob parlance we talk about these things as skills ($s_{n}$) and experience
-($n$). If you are more skilled at learning (which is–on its own–a valuable
-skill) then your learned premium $p$ _increases_. That's right, $p$ is actually
-a function of $n$ too. We can model it this way:
+In dayjob parlance we talk about these things as skills (\\(s_{n}\\)) and experience
+(\\(n\\)). If you are more skilled at learning (which is–on its own–a valuable
+skill) then your learned premium \\(p\\) _increases_. That's right, \\(p\\) is actually
+a function of \\(n\\) too. We can model it this way:
 
-$p = n^\lambda$
+$$
+p = n^\lambda
+$$
 
-Where $\lambda$ is a made-up constant that represents the risk-free learning
+Where \\(\lambda\\) is a made-up constant that represents the risk-free learning
 premium (i.e., the minimum amount of premium you can attain from simply learning
 any skill at any level).
 
 Okay neat, but what do _I_ as an individual do with this information? In short,
-optimize for $p$ and $n$. Going deep (depth) into a subject or domain will
-increase your $p$ quite a bit, by increasing $\lambda$ through acquisition of
-specialized knowledge, however it's probably easier to increment $n$ by going
+optimize for \\(p\\) and \\(n\\). Going deep (depth) into a subject or domain will
+increase your \\(p\\) quite a bit, by increasing \\(\lambda\\) through acquisition of
+specialized knowledge, however it's probably easier to increment \\(n\\) by going
 wide (breadth) and learning lots of different (and easier to acquire) skills
 from various domains.
 

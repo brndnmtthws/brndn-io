@@ -22,9 +22,12 @@ the same.  Whether you're selling NFTs or AI, it's not so much about the product
 or what value it creates, but rather about whether or not you can attract people
 to click the buttons on your thing, ideally giving you money in the process.
 
-{{< imgproc "meme-magic" Fit "800x800" "tc fr pl4 pr4 pb4" >}}
-Can we synthesize meme magic?
-{{< />}}
+{{< figure
+    src="meme-magic.png"
+    alt="Meme magic"
+    caption="Can we synthesize meme magic?"
+    class="dark:bg-slate-200"
+    >}}
 
 The great meme stock craze of 2020-22 has created a new goldrush of startups
 trying to capitalize on this trend now, too. I won't name specific ones (because

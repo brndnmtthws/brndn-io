@@ -9,8 +9,8 @@ tags:
 - optimisim
 - pessimism
 - fascism
-covercaption: Wall of Vets, from [Reddit](https://www.reddit.com/r/pics/comments/hxsh16/wall_of_vets_in_portland/)
 ---
+![Wall of Vets](cover.jpg "Wall of Vets, from [Reddit](https://www.reddit.com/r/pics/comments/hxsh16/wall_of_vets_in_portland/)")
 
 I've always tried to be an optimist, but I think my natural state tends toward realism with a hint of pessimism. Sometimes optimism is at odds with the current state of reality.
 
@@ -18,7 +18,7 @@ If you spend much time reading the news lately, you might think think there's an
 
 I've spent a lot of time learning about history, and in particular studying the events around the second world war. By the way, there are multiple good WW2 documentaries on Netflix. I also recommend Oliver Stone's documentaries for an easy way to consume historical content.
 
-{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="pv4 w-100" width="450" controls="true" preload="auto">}}
+{{< video src="always-look-on-the-bright-side-of-life.mp4" classes="w-full" controls="true" preload="auto">}}
 
 One thing that fascinates me about WW2 history is the amount of positivity that remained against all odds. Life was incredibly difficult for anyone living in Germany, France, Britain, Japan, or any other place that became the site of battle. Countries were literally dropping huge bombs on major populated cities, and civilians were left to fend for themselves. Most people focus on the military aspect of war, but few tend to think about the people just trying to live their lives and get by while bombs were falling on their heads.
 

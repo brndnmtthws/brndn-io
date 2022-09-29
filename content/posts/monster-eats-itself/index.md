@@ -2,11 +2,11 @@
 title: "Monster Eats Itself"
 date: 2021-01-07T08:57:39-06:00
 draft: false
-covercaption: Where the people who run the ~~USA~~ world meet
 tags:
 - systemic failure
 - US government
 ---
+![USA](cover.jpg "Where the people who run the ~~USA~~ world meet")
 
 Yesterday an interesting thing happened, where disenfranchised folks walked right up into the US capitol after Donald Trump told them to do so. They weren't welcome there, and a few people ended up dead in the scuffles, and a lot of people were mad for a variety of reasons.
 

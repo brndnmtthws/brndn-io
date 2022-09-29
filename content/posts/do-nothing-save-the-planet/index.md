@@ -2,13 +2,13 @@
 title: "Do Nothing; Save the Planet"
 date: 2021-04-16T09:14:51-05:00
 draft: false
-covercaption: Humans did this
 tags:
 - mass extinction
 - do nothing
 - capitalism
 - degrowth
 ---
+![Humans did this](cover.jpg "Humans did this")
 
 I watched yesterday's budget committee meeting at the US senate (which [you
 can find

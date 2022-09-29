@@ -15,8 +15,7 @@ They might be on to something, but I think it's more likely they are not.
 
 I'll try to keep most of opinions to myself, and instead focus on the facts of human behaviour, because that is something that hasn't changed (and will probably not change drastically in our lifetimes, unless something drastically changes like widespread implementation of UBI or legalization of psychedelics).
 
-{{< imgproc "mona-fidget" None "" "fr pl4 pr4 pb4" >}}
-{{< />}}
+![Mona Lisa](mona-fidget.gif)
 
 First of all, working from home is hardly a _new_ thing. In fact, it's
 something that's become pretty popular of late in the tech community. Many
