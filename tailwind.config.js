@@ -2,8 +2,17 @@
 module.exports = {
   content: ["./layouts/**/*.html", "./content/**/*.{html,md}"],
   theme: {
-    extend: {},
+    extend: {
+      typography: ({ theme }) => ({
+        DEFAULT: {
+          css: {
+            "--tw-prose-body": theme("colors.slate.700 / 1"),
+            "--tw-prose-invert-body": theme("colors.slate.300 / 1"),
+          },
+        },
+      }),
+    },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
   darkMode: "class",
 };

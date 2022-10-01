@@ -26,7 +26,6 @@ to click the buttons on your thing, ideally giving you money in the process.
     src="meme-magic.png"
     alt="Meme magic"
     caption="Can we synthesize meme magic?"
-    class="dark:bg-slate-200"
     >}}
 
 The great meme stock craze of 2020-22 has created a new goldrush of startups
