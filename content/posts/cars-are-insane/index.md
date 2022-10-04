@@ -156,6 +156,10 @@ crown](https://www.cdc.gov/injury/wisqars/animated-leading-causes.html) for
 cohorts](https://www.npr.org/2022/04/22/1094364930/firearms-leading-cause-of-death-in-children).
 I wouldn't call that an improvement, or an excuse for cars.
 
+Pollution also [impairs cognitive
+functions](https://www.pnas.org/doi/full/10.1073/pnas.1809474115), so maybe it's
+too much to ask for people to apply reasoning to this problem.
+
 It makes you wonder: how much are we willing to poison ourselves to make sure
 the car companies keep posting record profits? Why have we built all our cities
 and infrastructure around the car, which is arguably the worst health problem
