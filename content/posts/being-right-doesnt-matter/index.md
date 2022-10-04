@@ -3,7 +3,7 @@ title: "Being Right Doesn't Matter"
 date: 2021-02-06T08:27:57-06:00
 draft: false
 tags:
-- frens
+- friends
 - elon
 - trees
 ---

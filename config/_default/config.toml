@@ -3,8 +3,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 10
-summaryLength = 70
-
+summaryLength = 25
 timeout = "60s"
 
 [outputs]
@@ -17,9 +16,6 @@ toLower = true
 [[related.indices]]
 name = 'tags'
 weight = 100
-[[related.indices]]
-name = 'keywords'
-weight = 80
 [[related.indices]]
 name = 'date'
 weight = 10
