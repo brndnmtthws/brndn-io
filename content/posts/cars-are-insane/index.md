@@ -137,7 +137,9 @@ plants and trees that would normally help scrub a tiny amount of that pollution
 out of the atmosphere. It's been shown that by adding greenery adjacent to
 roads, it also reduces pollution, but not as much as just not having a road.
 
-Road pollution has been [linked to dementia, Parkinson's disease, Alzheimer’s disease
+The [obesity epidemic is likely caused by
+cars](https://pubmed.ncbi.nlm.nih.gov/15261894/), at least in part. Road
+pollution has been [linked to dementia, Parkinson's disease, Alzheimer’s disease
 and multiple
 sclerosis](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-020-0565-4).
 It's also been [linked to lung
