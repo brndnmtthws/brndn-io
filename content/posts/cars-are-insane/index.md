@@ -147,11 +147,12 @@ cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448375/),
 more. [The EPA has a roundup of some more data
 here](https://www.epa.gov/mobile-source-pollution/research-health-effects-exposure-risk-mobile-source-pollution).
 
-For a long time cars were the leading cause of death for young people in the US,
-although [guns recently took the
-crown](https://www.cdc.gov/injury/wisqars/animated-leading-causes.html). For
-young healthy adults, it's probably still true that cars are the leading cause
-of death, though I haven't dug through the data to confirm this.
+For a long time cars were the leading direct cause of death for young people in the US,
+although [guns and opioid overdoses recently took the
+crown](https://www.cdc.gov/injury/wisqars/animated-leading-causes.html) for
+[specific
+cohorts](https://www.npr.org/2022/04/22/1094364930/firearms-leading-cause-of-death-in-children).
+I wouldn't call that an improvement, or an excuse for cars.
 
 It makes you wonder: how much are we willing to poison ourselves to make sure
 the car companies keep posting record profits? Why have we built all our cities
