@@ -10,7 +10,7 @@ tags:
 ---
 
 The word on the street is there's a "labour shortage". If we look at the data,
-however, it tells a different picture. I've heard theories about people
+however, it tells a different story. I've heard theories about people
 retiring, or too many COVID excess deaths, or people being flush with cash
 because the government gave everyone a coulpe thousand bucks (which is about one
 month's rent), but looking at the data I'm not seeing numbers that reflect most
