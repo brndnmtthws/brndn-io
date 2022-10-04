@@ -2,6 +2,11 @@
 title: "Cars Are Insane"
 date: 2022-10-04T12:19:27-05:00
 draft: false
+tags:
+- cars
+- pollution
+- climate change
+- health
 ---
 ![Cars, lol](cars.jpg "Photo by Denys Nevozhai")
 
