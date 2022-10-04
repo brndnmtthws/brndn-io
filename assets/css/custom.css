@@ -1276,6 +1276,10 @@ video {
   max-width: 16rem;
 }
 
+.max-w-\[24rem\] {
+  max-width: 24rem;
+}
+
 .max-w-\[12rem\] {
   max-width: 12rem;
 }
@@ -1487,11 +1491,6 @@ video {
 .dark .dark\:border-neutral-600 {
   --tw-border-opacity: 1;
   border-color: rgb(82 82 82 / var(--tw-border-opacity));
-}
-
-.dark .dark\:bg-slate-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:fill-white {
