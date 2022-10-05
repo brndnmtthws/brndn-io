@@ -11,9 +11,11 @@ description = "Brenden Matthews' blog and personal website"
 dateFormat = "2 January 2006"
 
 [author]
+headline = """Opinions served up fresh, on everything from computers to economics.
+
+[**Clicky for a short bio**](/about)."""
 name = "Brenden Matthews"
 image = "img/brenden-matthews.jpg"
-headline = "Opinions served up fresh on everything from computers to economics."
 bio = "Human"
 links = [
   { email = "mailto:sup@brenden.brndn.io" },
