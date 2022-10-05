@@ -1,25 +1,24 @@
-<!--
-Put this file in /layouts/shortcodes/gallery.html
-Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
--->
-<!-- count how many times we've called this shortcode; load the css if it's the first time -->
-{{- if not ($.Page.Scratch.Get "figurecount") }}<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />{{ end }}
-{{- $.Page.Scratch.Add "figurecount" 1 }}
-<div class="gallery caption-position-{{ with .Get "caption-position" | default "bottom" }}{{.}}{{end}} caption-effect-{{ with .Get "caption-effect" | default "slide" }}{{.}}{{end}} hover-effect-{{ with .Get "hover-effect" | default "zoom" }}{{.}}{{end}} {{ if ne (.Get "hover-transition") "none" }}hover-transition{{end}}" itemscope itemtype="http://schema.org/ImageGallery">
-	{{ range $index, $original := $.Page.Resources.Match (.Get "match") }}
-		{{ $.Scratch.Set "thumb" ($original.Fit "600x600") }}
-		{{ $thumb := $.Scratch.Get "thumb" }}
-		{{- $caption :=  $original.Name | replaceRE "\\..*" "" | humanize }}<!-- humanized filename without extension -->
-		<div class="box">
-			<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" size="{{ $original.Width }}x{{ $original.Height}}">
-				<div class="img" style="background-image: url('{{ $thumb.RelPermalink }}');" >
-					<img itemprop="thumbnail" src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" /><!-- <img> hidden if in .gallery -->
-				</div>
-				<figcaption>
-					<p>{{ $caption }}</p>
-				</figcaption>
-				<a href="{{ $original.RelPermalink }}" itemprop="contentUrl"></a><!-- put <a> last so it is stacked on top -->
-			</figure>
-		</div>
-	{{- end }}
-</div>
+{{- with .Page.Resources.Match (.Get "match") }}
+  <div class="pswp-gallery">
+    {{ range . }}
+      <figure>
+        <a
+          href="{{ .RelPermalink }}"
+          data-pswp-width="{{ .Width }}"
+          data-pswp-height="{{ .Height }}"
+          target="_blank"
+        >
+          <img
+            class="my-0 rounded-md"
+            srcset="
+            {{ (.Resize "330x").RelPermalink }} 330w,
+            {{ (.Resize "660x").RelPermalink }} 660w,
+            {{ (.Resize "1024x").RelPermalink }} 1024w,
+            {{ (.Resize "1320x").RelPermalink }} 2x"
+            src="{{ (.Resize "660x").RelPermalink }}"
+          />
+        </a>
+      </figure>
+    {{ end }}
+  </div>
+{{ end -}}

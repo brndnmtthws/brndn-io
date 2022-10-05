@@ -143,4 +143,16 @@
   {{ if templates.Exists "partials/extend-head.html" }}
     {{ partialCached "extend-head.html" .Site }}
   {{ end }}
+  {{ if .HasShortcode "gallery" }}
+    <script type="module">
+      import PhotoSwipeLightbox from "/photoswipe/photoswipe-lightbox.esm.min.js";
+      const lightbox = new PhotoSwipeLightbox({
+        gallery: ".pswp-gallery",
+        children: "figure",
+        pswpModule: () => import("/photoswipe/photoswipe.esm.min.js"),
+      });
+      lightbox.init();
+    </script>
+    <link rel="stylesheet" href="/photoswipe/photoswipe.css" />
+  {{ end }}
 </head>
