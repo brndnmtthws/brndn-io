@@ -112,5 +112,5 @@ don't go there anymore.
 
 ## This Website
 
-The source code for this website [is available on {{< icon "github"
->}}GitHub](https://github.com/brndnmtthws/brndn-io).
+The source code for this website [is available on
+GitHub](https://github.com/brndnmtthws/brndn-io).
