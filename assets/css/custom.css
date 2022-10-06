@@ -1197,6 +1197,10 @@ video {
   margin-top: 0px;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .mr-3 {
   margin-right: 0.75rem;
 }
