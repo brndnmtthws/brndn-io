@@ -67,6 +67,7 @@ The weird thing that happend after the breakup of Standard Oil was that many of 
 
 {{< figure
   src="Standard_Oil_chart_2022.png"
+  href="Standard_Oil_chart_2022.png"
   alt="Baby Standard Oils"
   caption="Baby Standard Oils, in 2022" >}}
 

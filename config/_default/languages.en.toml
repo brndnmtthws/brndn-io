@@ -11,12 +11,10 @@ description = "Brenden Matthews' blog and personal website"
 dateFormat = "2 January 2006"
 
 [author]
-headline = """Opinions served up fresh, on everything from computers to economics.
-
-[**Clicky for a short bio**](/about)."""
+headline = """Opinions served up fresh, on everything from computers to economics ([**bio**](/about))."""
 name = "Brenden Matthews"
 image = "img/brenden-matthews.jpg"
-bio = "Human"
+bio = "[Bio](/about)"
 links = [
   { email = "mailto:sup@brenden.brndn.io" },
   { github = "https://github.com/brndnmtthws" },

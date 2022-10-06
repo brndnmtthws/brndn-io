@@ -102,7 +102,11 @@ I've climbed mountains, ran marathons, and done some long distance cycling ([ran
 - I biked to the summit of [Mauna Kea](https://en.wikipedia.org/wiki/Mauna_Kea), a volcano in Hawaii, unassisted. The climb to Mauna Kea's summit might be the longest continuous vertical climb in the world (from sea to summit is over 13,000ft in vertical gain)
 - I biked from SF to Chico, through the northern Sierra Nevadas, and then on to Mount Shasta which I summited
 
-![Bro buddies](brobuddies.jpg "A couple of bro buddies on a bike trip, looking away from the camera, somewhere in Nevada")
+{{< figure
+  src="brobuddies.jpg"
+  href="brobuddies.jpg"
+  alt="Bro buddies"
+  caption="A couple of bro buddies on a bike trip, looking away from the camera, somewhere in Nevada" >}}
 
 ## Contact
 
