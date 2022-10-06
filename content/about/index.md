@@ -9,6 +9,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 sharingLinks: false
+showPagination: false
 ---
 {{< figure
     src="img/brenden-matthews.jpg"
