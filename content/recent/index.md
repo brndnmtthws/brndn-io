@@ -31,4 +31,4 @@ showPagination: false
     }
   })(remark_config.components || ["embed"], document);
 </script>
-<div id="remark42"></div>
+<div class="remark42__last-comments" data-max="100"></div>
