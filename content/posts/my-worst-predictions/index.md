@@ -9,13 +9,14 @@ tags:
 ---
 
 I've made my share of bad predictions. I've had lots of good predictions too.
-And being right often doesn't matter, because in the end nobody cares, and if
-you're going to go about placing bets based on your predictions, it's incredibly
+And being right often doesn't matter, because in the end almost nobody will care
+if you were right or wrong, and if you're going to go about placing bets based
+on your predictions, it's incredibly
 difficult to get the timing right.
 
 Some of my best predictions include my general bullishness on software and the
 internet since the 90s, betting on Airbnb, and also Bitcoin. In the case of the
-last on, I was right about my bet, but got the timing wrong.
+last one, I was right about my bet, but got the timing wrong.
 
 In terms of my _worst_ predictions, I have a few memorable ones. Most recently,
 I bet the Federal Reserve wouldn't follow through with rate hikes (which, as you
