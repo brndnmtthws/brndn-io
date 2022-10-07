@@ -8,7 +8,7 @@ rtl = false
 title = "Brenden's Blog"
 
 description = "Brenden Matthews' blog and personal website"
-dateFormat = "2 January 2006"
+dateFormat = "Jan 2, 2006"
 
 [author]
 headline = """Opinions served up fresh, on everything from computers to economics ([**bio**](/about))."""
