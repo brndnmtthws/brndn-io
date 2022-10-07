@@ -107,10 +107,11 @@ to limit the max loss.
 
 <figure class="max-w-[16rem] float-right mr-0 ml-4 my-1">
   <a href="Minimax.svg">
-    <img class="my-0 rounded-md bg-white p-2" src="Minimax.svg" alt="Minimax tree">
+    <img class="my-0 rounded-md bg-white p-2" src="Minimax.svg" alt="Minimax tree" />
   </a>
   <figcaption>Minimax tree, from Wikipedia, which is one way to implement minimax</figcaption>
 </figure>
+
 And now we arrive at my last thought which is the idea of applying
 [minimax](https://en.wikipedia.org/wiki/Minimax) to such bets. Minimax is short
 for minimizing the maximum loss (or the reverse, depending on which way you're

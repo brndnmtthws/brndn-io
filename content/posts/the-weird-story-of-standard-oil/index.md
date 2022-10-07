@@ -95,9 +95,10 @@ duopoly on internet connected mobile computers (aka "cell phones"). There are
 more examples, but those are the big ones.
 
 <figure class="max-w-[16rem] float-right mr-0 ml-4 my-1">
-  <img class="my-0 rounded-md" src="App_Store_(iOS).svg" alt="App Store">
+  <img class="my-0 rounded-md" src="App_Store_(iOS).svg" alt="App Store" />
   <figcaption>You can have any flavour of ice cream, but only if it's Apple Approved&#8482;</figcaption>
 </figure>
+
 You can certainly make some weak arguments against that, but you probably can't
 do it without doing a Google search and seeing some Google ads with Google
 Chrome, and if you're on mobile you're either using a Google phone or an Apple
