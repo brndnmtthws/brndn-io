@@ -32,7 +32,7 @@ population.
 {{< figure
     src="John_D_Rockefeller_1872.png"
     alt="John D. Rockefeller"
-    class="max-w-[12rem] float-left ml-0 mr-4 my-1"
+    class="sm:max-w-[12rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
     caption="John D. Rockefeller in 1872, after founding his new startup."
     >}}
 Fast forward to 1896, when John Rockefeller, founder of Standard Oil, decides
@@ -94,7 +94,7 @@ on web search, advertising, web browers, and Apple and Google together have a
 duopoly on internet connected mobile computers (aka "cell phones"). There are
 more examples, but those are the big ones.
 
-<figure class="max-w-[16rem] float-right mr-0 ml-4 my-1">
+<figure class="sm:max-w-[16rem] sm:float-right sm:mr-0 sm:ml-4 my-1">
   <img class="my-0 rounded-md" src="App_Store_(iOS).svg" alt="App Store" />
   <figcaption>You can have any flavour of ice cream, but only if it's Apple Approved&#8482;</figcaption>
 </figure>

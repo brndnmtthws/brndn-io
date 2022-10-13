@@ -106,7 +106,7 @@ to limit the max loss.
 
 ## Minimax
 
-<figure class="max-w-[16rem] float-right mr-0 ml-4 my-1">
+<figure class="sm:max-w-[16rem] sm:float-right sm:mr-0 sm:ml-4 my-1">
   <a href="Minimax.svg">
     <img class="my-0 rounded-md bg-white p-2" src="Minimax.svg" alt="Minimax tree" />
   </a>

@@ -1170,14 +1170,6 @@ video {
   order: -9999;
 }
 
-.float-right {
-  float: right;
-}
-
-.float-left {
-  float: left;
-}
-
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -1197,10 +1189,6 @@ video {
   margin-top: 0px;
 }
 
-.mt-8 {
-  margin-top: 2rem;
-}
-
 .mr-3 {
   margin-right: 0.75rem;
 }
@@ -1215,22 +1203,6 @@ video {
 
 .mb-1 {
   margin-bottom: 0.25rem;
-}
-
-.ml-0 {
-  margin-left: 0px;
-}
-
-.mr-4 {
-  margin-right: 1rem;
-}
-
-.mr-0 {
-  margin-right: 0px;
-}
-
-.ml-4 {
-  margin-left: 1rem;
 }
 
 .block {
@@ -1279,18 +1251,6 @@ video {
 
 .max-w-\[10rem\] {
   max-width: 10rem;
-}
-
-.max-w-\[16rem\] {
-  max-width: 16rem;
-}
-
-.max-w-\[24rem\] {
-  max-width: 24rem;
-}
-
-.max-w-\[12rem\] {
-  max-width: 12rem;
 }
 
 .grow {
@@ -1531,8 +1491,44 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:float-right {
+    float: right;
+  }
+
+  .sm\:float-left {
+    float: left;
+  }
+
   .sm\:mb-0 {
     margin-bottom: 0px;
+  }
+
+  .sm\:ml-0 {
+    margin-left: 0px;
+  }
+
+  .sm\:mr-4 {
+    margin-right: 1rem;
+  }
+
+  .sm\:mr-0 {
+    margin-right: 0px;
+  }
+
+  .sm\:ml-4 {
+    margin-left: 1rem;
+  }
+
+  .sm\:max-w-\[16rem\] {
+    max-width: 16rem;
+  }
+
+  .sm\:max-w-\[24rem\] {
+    max-width: 24rem;
+  }
+
+  .sm\:max-w-\[12rem\] {
+    max-width: 12rem;
   }
 
   .sm\:flex-row {

@@ -127,7 +127,7 @@ causes a variety of diseases including cancer, respiratory problems, and so on.
 {{< figure
     src="DARK_CLOUDS_OF_FACTORY_SMOKE_OBSCURE_CLARK_AVENUE_BRIDGE_-_NARA_-_550179.jpg"
     alt="Dark Clouds of Factory Smoke Obscure Clark Avenue Bridge"
-    class="max-w-[24rem] float-right mr-0 ml-4 my-1"
+    class="sm:max-w-[24rem] sm:float-right sm:mr-0 sm:ml-4 my-1"
     caption="Dark Clouds of Factory Smoke Obscure Clark Avenue Bridge. Cleveland, Ohio, 1970, EPA."
     >}}
 

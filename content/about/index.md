@@ -14,7 +14,7 @@ showPagination: false
 {{< figure
     src="img/brenden-matthews.jpg"
     alt="How my face looks"
-    class="max-w-[16rem] float-left ml-0 mr-4 my-1"
+    class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
     >}}
 I'm a serial entrepreneur, software engineer, artist, and adventurer who's
 worked with a number of startups over the past 20 years. I've helped scale 3
