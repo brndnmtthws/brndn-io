@@ -45,14 +45,7 @@ showTableOfContents = true
 showTaxonomies = false
 showWordCount = false
 showComments = true
-sharingLinks = [
-  "email",
-  "facebook",
-  "twitter",
-  "pinterest",
-  "reddit",
-  "linkedin",
-]
+sharingLinks = ["email", "facebook", "twitter", "reddit", "linkedin"]
 
 [list]
 showBreadcrumbs = false
