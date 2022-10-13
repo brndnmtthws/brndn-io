@@ -129,3 +129,7 @@ Mirror](https://www.youtube.com/watch?v=EpAICeAsEb4) and
 have the imagination to somehow turn their VR universe into something that isn't
 ad-based, and isn't just plain old video games? Maybe, but I am skeptical. Why
 bother when the ads are so profitable?
+
+I will add one more thing: I would not _bet against_ Meta, because regardless of
+the real motivations behind the VR push, I think their ad business will continue
+printing money for years to come.
