@@ -3,7 +3,7 @@ title: "Tech Pessimism"
 date: 2022-08-18T09:29:04-05:00
 draft: false
 tags:
-- tech
+- technology
 - pessimism
 - futurology
 - degrowth
