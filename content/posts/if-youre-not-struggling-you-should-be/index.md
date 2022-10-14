@@ -7,6 +7,7 @@ tags:
 - hamlet
 - shakespeare
 - hedonic treadmill
+- buddhism
 ---
 
 One harmful myth perpetuated by the various cultural medias is the idea that
