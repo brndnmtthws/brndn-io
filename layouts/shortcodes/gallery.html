@@ -12,11 +12,17 @@
             class="my-0 rounded-md"
             loading="lazy"
             srcset="
-          {{ (.Resize "330x").RelPermalink }} 330w,
-          {{ (.Resize "660x").RelPermalink }} 660w,
-          {{ (.Resize "1024x").RelPermalink }} 1024w,
-          {{ (.Resize "1320x").RelPermalink }} 2x"
+              {{ (.Resize "330x").RelPermalink }}  330w,
+              {{ (.Resize "660x").RelPermalink }}  660w,
+              {{ (.Resize "1024x").RelPermalink }} 1024w,
+              {{ (.Resize "1320x").RelPermalink }} 1320w
+            "
             src="{{ (.Resize "660x").RelPermalink }}"
+            sizes="(max-width: 300px) 330w,
+            (min-width: 300px) and (max-width: 600px) 660w,
+            (min-width: 600px) and (max-width: 1000px) 1024w,
+            (min-width: 1000px) and (max-width: 1280px) 1320w,
+            100vw"
           />
         </a>
       </figure>
