@@ -112,7 +112,7 @@ I've climbed mountains, ran marathons, and done some long distance cycling ([ran
 
 If you'd like to get in touch with me, the best way is [good old fashioned
 email](mailto:hifromyourblog@brenden.brndn.io).  I try to stay off the
-advertising platforms, although I might still have accounts on some of them, I
+advertising platforms. Although I may still have accounts on some of them, I
 don't go there anymore.
 
 ## This Website
