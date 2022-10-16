@@ -8,22 +8,44 @@
           data-pswp-height="{{ .Height }}"
           target="_blank"
         >
-          <img
-            class="my-0 rounded-md"
-            loading="lazy"
-            srcset="
-              {{ (.Resize "330x").RelPermalink }}  330w,
-              {{ (.Resize "660x").RelPermalink }}  660w,
-              {{ (.Resize "1024x").RelPermalink }} 1024w,
-              {{ (.Resize "1320x").RelPermalink }} 1320w
-            "
-            src="{{ (.Resize "660x").RelPermalink }}"
-            sizes="(max-width: 300px) 330w,
+          <picture>
+            <source
+              media="(max-width: 300px)"
+              srcset="{{ (.Resize "330x webp").RelPermalink }}"
+              type="image/webp"
+            />
+            <source
+              media="(min-width: 300px) and (max-width: 600px)"
+              srcset="{{ (.Resize "660x webp").RelPermalink }}"
+              type="image/webp"
+            />
+            <source
+              media="(min-width: 600px) and (max-width: 1000px)"
+              srcset="{{ (.Resize "1024x webp").RelPermalink }}"
+              type="image/webp"
+            />
+            <source
+              media="(min-width: 1000px)"
+              srcset="{{ (.Resize "1320x webp").RelPermalink }}"
+              type="image/webp"
+            />
+            <img
+              class="my-0 rounded-md"
+              loading="lazy"
+              srcset="
+                {{ (.Resize "330x").RelPermalink }}  330w,
+                {{ (.Resize "660x").RelPermalink }}  660w,
+                {{ (.Resize "1024x").RelPermalink }} 1024w,
+                {{ (.Resize "1320x").RelPermalink }} 1320w
+              "
+              src="{{ (.Resize "1024x").RelPermalink }}"
+              sizes="(max-width: 300px) 330w,
             (min-width: 300px) and (max-width: 600px) 660w,
             (min-width: 600px) and (max-width: 1000px) 1024w,
-            (min-width: 1000px) and (max-width: 1280px) 1320w,
+            (min-width: 1000px) 1320w,
             100vw"
-          />
+            />
+          </picture>
         </a>
       </figure>
     {{ end }}

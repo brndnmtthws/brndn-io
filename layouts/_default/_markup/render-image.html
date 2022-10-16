@@ -1,7 +1,6 @@
-{{ $url := urls.Parse (.Get "src") }}
-{{ $altText := .Get "alt" }}
-{{ $caption := .Get "caption" }}
-{{ $class := .Get "class" }}
+{{ $url := urls.Parse .Destination }}
+{{ $altText := .Text }}
+{{ $caption := .Title }}
 {{ if findRE "^https?" $url.Scheme }}
   <figure>
     <img class="my-0 rounded-md" src="{{ $url.String }}" alt="{{ $altText }}" />
@@ -15,7 +14,7 @@
     {{ $resource = resources.Get ($url.String) }}
   {{ end }}
   {{ with $resource }}
-    <figure {{ with $class }}class="{{ . }}"{{ end }}>
+    <figure>
       <a href="{{ $resource.RelPermalink }}">
         <picture>
           <source
