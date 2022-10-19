@@ -117,7 +117,7 @@ which shows the following results:
 
 Interestingly, we can see that the market paid the government $90.45 for bonds
 yielding 2.75% on $100 maturing in 10 years. That yield works out to about
-3.85%, as noted in the resuls.
+3.85%, as noted in the auction results.
 
 In other words, you could have bought $100 worth of debt from the US government
 for $90.45, and for the next 10 years you'd receive $1.375 every six months, and
