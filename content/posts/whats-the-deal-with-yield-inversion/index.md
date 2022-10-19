@@ -14,11 +14,12 @@ value goes negative, it's often interpreted as a sign that we're either in a
 recession, or about to be in a recession.
 
 Let's try to understand what's going on here. The term _yield_ is used to refer
-to the current market yield rate for a bond of a specific maturity. The 10 minus
-2 year yield is one of the most popular ones, but bonds come in all kinds of
+to the current market yield rate for a bond of a specific maturity. The 10 and 2
+year yields are some of the most popular ones, but bonds come in all kinds of
 maturities. US treasury bonds in particular come in all kinds of shapes and
-sizes but the ones most often cited are the 3 month, 2 year, 10 year, 20 year,
-and 30 year treasuries.
+sizes, but often cited are the 3 month, 2 year, 10 year, 20 year, and 30 year
+treasuries. The yields on these bonds are often interpreted as signals about
+future economic policies.
 
 [Wikipedia has a good
 run-down](https://en.wikipedia.org/wiki/United_States_Treasury_security) of all
