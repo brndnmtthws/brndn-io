@@ -66,6 +66,11 @@ $$
 Y = \dfrac{C_{payment}}{P_{market}}
 $$
 
+It's important to note that the _yield_ of a bond is inversely proportional to
+the market price of that bond. The coupon payment is fixed for the entire
+duration of the bond, so as the price of a bond goes down, the yield goes up,
+and vice versa.
+
 In the case of the 10 year treasuries, they pay 2.75% twice a year, which works
 out to 2 payments of $1.375. Now, as I said, if you buy a 10 year treasury directly from the government today, you won't be able to sell it for the $100 you paid. We can work out what you'd get for it by taking the current yield (which is 4.127%) and working backwards:
 
