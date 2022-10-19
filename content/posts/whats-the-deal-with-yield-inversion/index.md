@@ -76,13 +76,13 @@ In the case of the 10 year treasuries, they pay 2.75% twice a year, which works
 out to 2 payments of $1.375. Now, as I said, if you buy a 10 year treasury directly from the government today, you won't be able to sell it for the $100 you paid. We can work out what you'd get for it by taking the current yield (which is 4.127%) and working backwards:
 
 $$
-P_{market} =  \dfrac{\$2.75}{4.127\%}
+P_{market} =  \dfrac{\\$2.75}{4.127\\%}
 $$
 
 Which works out to:
 
 $$
-P_{market} = \$66.63
+P_{market} = \\$66.63
 $$
 
 Yikes! So if you pay $100 for a 10 year bond today, and try to turn around and
@@ -146,6 +146,12 @@ $$
 Where \\(C_{rate}\\) is the coupon rate (i.e., the face value yield on the
 bond). \\(n_{periods}\\) can be anywhere between 20 and 1 (in the case of 10
 year notes.
+
+The equation above might look complicated, but it's actually quite simple: you
+take the coupon rate, add the difference between the face and present value, and
+divide that by the mean of the face and present value. It's the same as the
+simple form (\\(Y = \dfrac{C}{P}\\)) except that we account for the difference
+between the market price and the face value.
 
 The math can get a bit more complicated if you want to, say, become a market
 maker, but in general it's not all that complicated. Prices on the open market
