@@ -170,7 +170,7 @@ When people talk about "yield inversion", they simply mean that the 2 year has
 become _more valuable_ in terms of yield than the 10 year. How does this happen?
 Well, it's simple
 
-## Is an inverted yield a recession predictor?
+## Is an inverted yield curve a recession predictor?
 
 In short, no. By the time the yield curve has inverted, the market is past the
 point of predicting a future recession, and it's now signalling that the central
