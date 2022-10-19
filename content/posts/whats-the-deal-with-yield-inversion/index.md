@@ -195,6 +195,10 @@ Here's what the [yield curve looks like going back to 1976](https://fred.stlouis
 
 ![Yield curve](yield-curve.png)
 
+The grey vertical areas in the chart above are periods officially denoted as
+recessions, and as you can see around 1980, 1990, 2003, 2008, right before 2020,
+and of course _now_, the yield curve was inverted.
+
 And our [real GDP](https://fred.stlouisfed.org/series/GDPC1#0) measured as a percentage changed since the previous quarter has been _ever so slightly_ negative the last 2 quarters:
 
 ![GDP growth](gdp.png)
