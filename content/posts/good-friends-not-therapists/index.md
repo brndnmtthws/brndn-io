@@ -8,6 +8,7 @@ tags:
 - stoicism
 - kafka
 - camus
+- philosophy
 ---
 
 One of my many unpopular opinions is that therapy is mostly a waste of money. To

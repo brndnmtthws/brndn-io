@@ -11,11 +11,21 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "All posts"
-pageRef = "posts"
+name = "About"
+pageRef = "about"
 weight = 10
 
 [[main]]
-name = "About"
-pageRef = "about"
+name = "Posts"
+pageRef = "posts"
 weight = 20
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+weight = 30
+
+[[main]]
+name = "Comments"
+pageRef = "comments"
+weight = 40
