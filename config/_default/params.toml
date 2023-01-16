@@ -44,7 +44,7 @@ showReadingTime = true
 showTableOfContents = true
 showTaxonomies = false
 showWordCount = false
-showComments = true
+showComments = false
 sharingLinks = ["email", "facebook", "twitter", "reddit", "linkedin"]
 
 [list]

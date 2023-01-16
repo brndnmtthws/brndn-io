@@ -24,8 +24,3 @@ weight = 20
 name = "Tags"
 pageRef = "tags"
 weight = 30
-
-[[main]]
-name = "Comments"
-pageRef = "comments"
-weight = 40
