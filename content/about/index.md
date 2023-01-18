@@ -106,7 +106,7 @@ I've climbed mountains, ran marathons, and done some long distance cycling ([ran
   src="brobuddies.jpg"
   href="brobuddies.jpg"
   alt="Bro buddies"
-  caption="A couple of bro buddies on a bike trip, looking away from the camera, somewhere in Nevada" >}}
+  caption="A couple of bro buddies on a bike trip, looking away from the camera (try to play it cool), somewhere in Nevada" >}}
 
 ## Contact
 
