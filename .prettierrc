@@ -1,7 +1,16 @@
 {
+  "semi": false,
+  "tabWidth": 2,
+  "proseWrap": "always",
   "overrides": [
     {
       "files": ["*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    },
+    {
+      "files": ["*.md"],
       "options": {
         "parser": "go-template"
       }
