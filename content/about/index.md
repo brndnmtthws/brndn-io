@@ -88,10 +88,11 @@ required). [Here's one example of some photos](/posts/commercial-real-estate).
 ## Videography
 
 I have a neglected [YouTube
-channel](https://www.youtube.com/user/aeouuuuuuuuuuuuuuu) (too time consuming,
-poor ROI), and I occasionally [stream on
-Twitch](https://www.twitch.tv/letsmakestuff). Notably, my work was featured in a
-documentary about WeWork on Hulu.
+channel](https://www.youtube.com/user/aeouuuuuuuuuuuuuuu), and I occasionally [streamed on
+Twitch](https://www.twitch.tv/letsmakestuff) in the past but I lack the passion these days.
+Notably, my work was featured in a documentary about WeWork on Hulu.
+
+Some of my YouTube content feels a bit cringe to me now, but I leave it out there anyway because some people seem to enjoy it 🙂
 
 ## Adventures
 
