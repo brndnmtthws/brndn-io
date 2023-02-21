@@ -27,9 +27,10 @@ I find myself often on the Eastern part of North America these days.
 This page contains a non-exhaustive list of some things I've done or worked
 on.
 
-These days I'm mostly interested in building new companies. Specifically, I'm
-looking for ways to match talent with opportunity. Talent is everywhere, but
-opportunity remains scarce for most.
+These days I'm mostly interested in working with early stage startups. In
+particural, I like businesses that create real value, aren't
+fraudulent/scammy, generate cash flow, and aren't necessarily dependent
+on cheap debt.
 
 ## As a Professional
 
