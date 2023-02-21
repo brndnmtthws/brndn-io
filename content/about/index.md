@@ -29,8 +29,8 @@ on.
 
 These days I'm mostly interested in working with early stage startups. In
 particural, I like businesses that create real value, aren't
-fraudulent/scammy, generate cash flow, and aren't necessarily dependent
-on cheap debt.
+fraudulent/scammy/hype-based, generate cash flow, and aren't necessarily
+dependent on cheap debt.
 
 ## As a Professional
 
