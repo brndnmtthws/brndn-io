@@ -22,8 +22,8 @@ separate $1B+ valuation companies through various stages of hypergrowth, and
 I've started a few companies of my own.
 
 I grew up in Canada, moved to San Francisco in 2009, and spent a number of
-years in New York. I don't identify with any particular nation or city, but
-I find myself often on the Eastern part of North America these days.
+years in New York. I don't identify with any particular nation state or city,
+but these days I often find myself often on the Eastern part of North America.
 This page contains a non-exhaustive list of some things I've done or worked
 on.
 
