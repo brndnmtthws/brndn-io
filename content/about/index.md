@@ -19,9 +19,13 @@ showPagination: false
 I'm a serial entrepreneur, software engineer, artist, and adventurer who's
 worked with a number of startups over the past 20 years. I've helped scale 3
 separate $1B+ valuation companies through various stages of hypergrowth, and
-I've started a few companies of my own. I grew up in Canada, moved to San
-Francisco in 2009, and spent some years in New York. This page contains a
-non-exhaustive list of some things I've done.
+I've started a few companies of my own.
+
+I grew up in Canada, moved to San Francisco in 2009, and spent a number of
+years in New York. I don't identify with any particular nation or city, but
+I find myself often on the Eastern part of North America these days.
+This page contains a non-exhaustive list of some things I've done or worked
+on.
 
 These days I'm mostly interested in building new companies. Specifically, I'm
 looking for ways to match talent with opportunity. Talent is everywhere, but
