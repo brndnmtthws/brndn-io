@@ -6,6 +6,8 @@ tags:
 - thinking
 - delayed gratification
 - books
+- advice
+- cognitive bias
 ---
 
 In Daniel Kahneman's pop psychology book _Thinking, Fast and Slow_, he
