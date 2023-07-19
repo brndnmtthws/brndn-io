@@ -23,7 +23,7 @@ skill), there are a few strategies we can employ to increase our luckiness:
 - We need to increase the number of opportunities to win. In other words, you should diversify your bets to allow you to take advantage of non-correlation. This idea is one of the core principles of the poorly understood [modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory).
 - We should try to minimize the maximum loss, also known as [Minmax](https://en.wikipedia.org/wiki/Minimax). With any big bet, you should ensure the catastrophic case does not wipe you out. Don't use up all your life savings by buying lottery tickets.
 
-## Failing Upwards
+## Failing, but in a good way
 
 One way to think about these ideas is that you should strive to fail upwards
 consistently. Failing upward means continuing on your way, like when you trip or
@@ -39,4 +39,7 @@ the way you want, but that's okay because so long as you continue to learn,
 grow, and place a few bets, you _will_ succeed. [Skills and experience compound
 over time]({{< ref "/posts/skills-compound" >}}), and so long as you keep failing upward the snowball effect will eventually take hold.
 
-The best way to fail downward is to give up entirely.
+Ultimately, how you choose to frame your failures matters. You will fail far
+more often than succeed.
+
+Lastly, the best way to fail downward is to give up entirely.
