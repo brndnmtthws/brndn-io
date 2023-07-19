@@ -7,8 +7,6 @@ rtl = false
 
 title = "Brenden's Blog"
 
-description = "Brenden Matthews' blog and personal website"
-dateFormat = "Jan 2, 2006"
 
 [author]
 headline = """Opinions served up fresh, on everything from computers to economics ([**bio**](/about))."""
@@ -19,3 +17,12 @@ links = [
   { email = "mailto:sup@brenden.brndn.io" },
   { github = "https://github.com/brndnmtthws" },
 ]
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+
+dateFormat = "Jan 2, 2006"
+
+description = "Brenden Matthews' blog and personal website"

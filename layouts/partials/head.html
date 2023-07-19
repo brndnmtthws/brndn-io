@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
+  {{ with site.Params.htmlCode | default .Site.LanguageCode }}
     <meta http-equiv="content-language" content="{{ . }}" />
   {{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -138,7 +138,7 @@
   {{/* Vendor */}}
   {{ partial "vendor.html" . }}
   {{/* Analytics */}}
-  {{ partialCached "analytics.html" .Site }}
+  {{ partial "analytics.html" . }}
   {{/* Extend head - eg. for custom analytics scripts, etc. */}}
   {{ if templates.Exists "partials/extend-head.html" }}
     {{ partialCached "extend-head.html" .Site }}
