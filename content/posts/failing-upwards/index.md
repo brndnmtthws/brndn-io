@@ -5,6 +5,7 @@ draft: false
 tags:
 - survivorship bias
 - failure
+- cognitive bias
 ---
 
 Survivorship bias often gets discussed as a cautionary tale. For example, someone might point out a person's or company's success, and another will retort with, "But that's just survivorship bias!".
