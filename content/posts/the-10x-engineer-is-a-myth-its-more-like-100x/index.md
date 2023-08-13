@@ -211,13 +211,13 @@ let's look at the data differently, in tabular form:
 
 | Percentile | Value | Count At or Below | Count Above | Total | Total Share |
 |---|---|---|---|---|---|
-| 20% | 1 | 3332 | 7320 | 747956 | 99.6% |
-| 50% | 3 | 5707 | 4945 | 742368 | 98.8% |
-| 80% | 22 | 8550 | 2102 | 717413 | 95.5% |
-| 99% | 1267 | 10545 | 107 | 362867 | 48.3% |
+| 20% | 1 | 3332 | 7320 | 747,956 | 99.6% |
+| 50% | 3 | 5707 | 4945 | 742,368 | 98.8% |
+| 80% | 22 | 8550 | 2102 | 717,413 | 95.5% |
+| 99% | 1267 | 10545 | 107 | 362,867 | 48.3% |
 
-In our dataset, we have a total of 10652 samples. We're looking at
-contributions from 10652 separate GitHub accounts across 200 distinct
+In our dataset, we have a total of 10,652 samples. We're looking at
+contributions from 10,652 separate GitHub accounts across 200 distinct
 projects. The "Value" column represents the number of commits needed to be in
 that percentile group. The "Total Share" column represents the percentage of
 the total number of commits per percentile cohort. "Total" is the sum of all commits above this cohort, and "Total Share" is the percentage of the _total number of commits_ being in the upper portion of that cohort represents.
