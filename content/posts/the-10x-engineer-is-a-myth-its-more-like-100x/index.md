@@ -1,5 +1,5 @@
 ---
-title: "The 10x Engineer Is a Myth: It's More Likely 100x"
+title: "The 10x Engineer Is a Myth: It's More Like 100x"
 date: 2023-08-12T11:42:38-04:00
 draft: false
 tags:
