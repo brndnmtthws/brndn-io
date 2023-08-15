@@ -91,6 +91,7 @@ I've contributed to a long list of open source projects over the years. I am pro
 - [tweet-delete](https://github.com/brndnmtthws/tweet-delete), a Twitter bot for deleting your tweets
 - [mother-of-dragons](https://github.com/brndnmtthws/mother-of-dragons), a miner management tool for DragonMint/Innosilicon mining hardware
 - [labhub](https://github.com/brndnmtthws/labhub), a bot for integrating GitLab CI with GitHub open source projects
+- [doge-streamer](https://github.com/brndnmtthws/doge-streamer), a tool for streaming multiple webcams of my dog Doge from my apartment when I'm away, in order to take the edge off the separation anxiety I feel when I leave her alone
 
 ## Writings
 
