@@ -34,3 +34,9 @@ HUGO_ENABLEGITINFO = "true"
 for = "/*"
 [headers.values]
 Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+
+[[redirects]]
+  from = "/blog/:year/:month/:day/:slug"
+  to = "/posts/:slug"
+  status = 301
+  force = true
