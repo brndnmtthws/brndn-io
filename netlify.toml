@@ -39,4 +39,3 @@ Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
   from = "/blog/:year/:month/:day/:slug"
   to = "/posts/:slug"
   status = 301
-  force = true
