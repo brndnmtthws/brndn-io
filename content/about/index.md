@@ -17,46 +17,65 @@ showPagination: false
     class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
     >}}
 I'm a serial entrepreneur, software engineer, artist, and adventurer who's
-worked with a number of startups over the past 20 years. I've helped scale 3
-separate $1B+ valuation companies through various stages of hypergrowth, and
-I've started a few companies of my own.
+worked with several startups over the past 20 years. I've helped scale 3
+separate $1B+ valuation companies through various stages of hypergrowth and
+started a few companies myself.
 
-I grew up in Canada, moved to San Francisco in 2009, and spent a number of
-years in New York. I don't identify with any particular nation state or city,
-but these days I often find myself often on the Eastern part of North America.
-This page contains a non-exhaustive list of some things I've done or worked
-on.
+I grew up in Canada, moved to San Francisco in 2009, and spent some years in
+New York. I don't identify with any particular nation state or city, but these
+days you'll usually find me in the North Eastern part of North America. This
+page contains a non-exhaustive list of things I've done or worked on.
 
-These days I'm mostly interested in working with early stage startups. In
-particural, I like businesses that create real value, aren't
+These days I'm primarily interested in working with early-stage startups. In
+particular, I like businesses that create real value, aren't
 fraudulent/scammy/hype-based, generate cash flow, and aren't necessarily
 dependent on cheap debt.
 
 ## As a Professional
 
-I've worked at a number of different startups including [Airbnb](https://www.airbnb.com/), Mesosphere
-(now known as [D2IQ](https://d2iq.com/)), [Braze](https://www.braze.com/), and others.
+I've worked at a number of different startups including
+[Airbnb](https://www.airbnb.com/), Mesosphere (now known as
+[D2IQ](https://d2iq.com/)), [Braze](https://www.braze.com/), and others.
 
-My first startup was a Canadian oil and gas company that manufactured instrumentation for oil and gas exploration. Specifically, we created tools for measuring pressure, temperature, and other metrics within oil and gas wells. The instrumentation was designed to withstand extremely high pressures, temperatures, and corrosive environments for months at a time.
+My first startup was a Canadian oil and gas company that manufactured
+instrumentation for oil and gas exploration. Specifically, we created tools for
+measuring pressure, temperature, and other metrics within oil and gas wells.
+The instrumentation was designed to withstand extremely high pressures,
+temperatures, and corrosive environments for many months.
 
-In 2009 I joined a company in California that provided telecom companies with mobile network telemetry tools, and also offered network optimization services. There I created a custom database that was highly optimized for our workloads, built our own RPC system, and wrote the first parser for Ericsson LTE layer 2 network data. That company was later acquired by Tektronix (after I left).
+In 2009 I joined a company in California that provided telecom companies with
+mobile network telemetry tools and also offered network optimization services.
+There I created a custom database that was highly optimized for our workloads,
+built our own RPC system, and wrote the first parser for Ericsson LTE layer 2
+network data. That company was later acquired by Tektronix (after I left).
 
-In 2013 I joined Airbnb where I worked on the data infrastructure team. I contributed to a number of open source projects during that time, including the [Apache Mesos](https://mesos.apache.org/) project which I became a PMC member of. I also contributed to Chronos, SmartStack, Kafka, and other projects during my time at Airbnb.
+In 2013 I joined Airbnb where I worked on the data infrastructure team. I
+contributed to a number of open source projects during that time, including the
+[Apache Mesos](https://mesos.apache.org/) project which I became a PMC member
+of. I also contributed to Chronos, SmartStack, Kafka, and other projects during
+my time at Airbnb.
 
-In 2015 I joined Mesosphere to continue working with Mesos. Mesosphere was founded by 2 of my Airbnb teammates, as well as a Twitter employee (the creator of Mesos itself). I helped scale the company, build the sales team, and laid the foundation for the service organization.
+In 2015 I joined Mesosphere to continue working with Mesos. Mesosphere was
+founded by 2 of my Airbnb teammates, as well as a Twitter employee (the creator
+of Mesos itself). I helped scale the company, build the sales team, and laid
+the foundation for the service organization.
 
-In 2018 I joined Braze, but decided to leave after just 6 months to start a new company.
+In 2018 I joined Braze, but decided to leave after just 6 months to start a new
+company, which in hindsight was a poor decision.
 
 After several years going HAM at [wantrepreneuring](/tags/wantrepreneur/), I've
 decided to spend my time on things with a higher likelihood of success than
 moonshot startups.
 
-These days I mainly collect money from investments, but I'm always open to
-interesting opportunities if they're worth my while.
+_[You can find a copy of my résumé here.](https://github.com/brndnmtthws/resume/blob/main/resume.pdf)_
 
 ## Public Speaking
 
-I've given talks at a number of different events including conferences, meetups, and private engagements. Some of the conferences I've spoken at in the past are [QCon](https://qconsf.com/), [All Things Open](https://allthingsopen.org/), MesosCon, ContainerCon, LinuxCon, and others.
+I've given talks at a number of different events including conferences,
+meetups, and private engagements. Some of the conferences I've spoken at in the
+past are [QCon](https://qconsf.com/), [All Things
+Open](https://allthingsopen.org/), MesosCon, ContainerCon, LinuxCon, and
+others.
 
 ## Open Source
 
@@ -79,7 +98,8 @@ I've published many things over the years, in addition to the content on this
 blog, and much of it has been lost to internet rot. Here are a few things you
 can still find:
 
-- [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews_code_9_22_21&a_aid=brendenm&a_bid=3eb61509), my Rust programming book
+- [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews_code_9_22_21&a_aid=brendenm&a_bid=3eb61509), my first Rust programming book (note: this is an affiliate link)
+- [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews2_rust_6_6_23&a_aid=brendenm&a_bid=cc069fd9&chan=mm_github), my second Rust programming book (note: this is an affiliate link)
 - [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
 ## Photography
@@ -93,15 +113,19 @@ required). [Here's one example of some photos](/posts/commercial-real-estate).
 ## Videography
 
 I have a neglected [YouTube
-channel](https://www.youtube.com/user/aeouuuuuuuuuuuuuuu), and I occasionally [streamed on
-Twitch](https://www.twitch.tv/letsmakestuff) in the past but I lack the passion these days.
-Notably, my work was featured in a documentary about WeWork on Hulu.
+channel](https://www.youtube.com/user/aeouuuuuuuuuuuuuuu), and I occasionally
+[streamed on Twitch](https://www.twitch.tv/letsmakestuff) in the past but I
+lack the passion these days. Notably, my work was featured in a documentary
+about WeWork on Hulu.
 
-Some of my YouTube content feels a bit cringe to me now, but I leave it out there anyway because some people seem to enjoy it 🙂
+Some of my YouTube content feels a bit cringe to me now, but I leave it out
+there anyway because some people seem to enjoy it 🙂
 
 ## Adventures
 
-I've climbed mountains, ran marathons, and done some long distance cycling ([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here's a few examples:
+I've climbed mountains, ran marathons, and done some long distance cycling
+([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here's a few
+examples:
 
 - I biked from SF to NYC unassisted in 27 days. I recorded a [daily video log on YouTube](https://www.youtube.com/playlist?list=PLfHJt4o9-rmCH1J_DTVoNxrnJiaPUNg_O)
 - I raced the Wolfpack Hustle Crash Race before the 2012 LA marathon, crashed 1 mile before the finish line, made it back to the start of the marathon, and then finished the marathon in under 4 hours
