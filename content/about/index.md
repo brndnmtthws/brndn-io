@@ -114,18 +114,19 @@ required). [Here's one example of some photos](/posts/commercial-real-estate).
 
 I have a neglected [YouTube
 channel](https://www.youtube.com/user/aeouuuuuuuuuuuuuuu), and I occasionally
-[streamed on Twitch](https://www.twitch.tv/letsmakestuff) in the past but I
+[streamed on Twitch](https://www.twitch.tv/letsmakestuff) in the past, but I
 lack the passion these days. Notably, my work was featured in a documentary
-about WeWork on Hulu.
+about WeWork on Hulu (for some reason, I still haven't received my [internet
+money](https://www.youtube.com/watch?v=Oc-9xNbvRqg) for that contribution).
 
 Some of my YouTube content feels a bit cringe to me now, but I leave it out
 there anyway because some people seem to enjoy it 🙂
 
 ## Adventures
 
-I've climbed mountains, ran marathons, and done some long distance cycling
-([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here's a few
-examples:
+I've climbed mountains, run marathons, and done some long distance cycling
+([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here are a
+few examples:
 
 - I biked from SF to NYC unassisted in 27 days. I recorded a [daily video log on YouTube](https://www.youtube.com/playlist?list=PLfHJt4o9-rmCH1J_DTVoNxrnJiaPUNg_O)
 - I raced the Wolfpack Hustle Crash Race before the 2012 LA marathon, crashed 1 mile before the finish line, made it back to the start of the marathon, and then finished the marathon in under 4 hours
