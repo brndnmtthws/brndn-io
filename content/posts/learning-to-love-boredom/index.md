@@ -6,6 +6,7 @@ tags:
 - boredom
 - creativity
 - idle
+- learning
 ---
 
 I'm learning to get better at being bored. In the past, I wouldn't say I liked
