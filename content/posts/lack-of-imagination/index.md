@@ -40,6 +40,8 @@ suffering and [continued
 extinction](https://en.wikipedia.org/wiki/Holocene_extinction) of much of life
 on Earth, which we humans will also be unable to avoid. We're making a choice, however, to prioritize _business as usual_ because it's the most convenient thing to do.
 
+![Urban Hell](urban-hell.jpg "The mixed-uses of this Austin nightmare include: parking, driving around the parking lot, complaining about parking, complaining about traffic, and enjoying the heat island effect due to the ground being covered by black asphalt and acting as a heat sink with a few trees around the periphery to simulate 'nature'")
+
 The power structures as they currently are have slowly designed and reinforced
 themselves to continue business...as usual, and thus they cannot change unless
 there's an extreme event or cataclysmic restructuring. Whether we do this
