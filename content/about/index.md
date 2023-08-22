@@ -125,14 +125,14 @@ there anyway because some people seem to enjoy it 🙂
 
 ## Adventures
 
-I've climbed mountains, run marathons, and done some long distance cycling
+I've climbed mountains, run marathons, and done some long-distance cycling
 ([randonneur style](https://en.wikipedia.org/wiki/Randonneuring)). Here are a
 few examples:
 
 - I biked from SF to NYC unassisted in 27 days. I recorded a [daily video log on YouTube](https://www.youtube.com/playlist?list=PLfHJt4o9-rmCH1J_DTVoNxrnJiaPUNg_O)
 - I raced the Wolfpack Hustle Crash Race before the 2012 LA marathon, crashed 1 mile before the finish line, made it back to the start of the marathon, and then finished the marathon in under 4 hours
 - I biked to the summit of [Mauna Kea](https://en.wikipedia.org/wiki/Mauna_Kea), a volcano in Hawaii, unassisted. The climb to Mauna Kea's summit might be the longest continuous vertical climb in the world (from sea to summit is over 13,000ft in vertical gain)
-- I biked from SF to Chico, through the northern Sierra Nevadas, and then on to Mount Shasta which I summited
+- I biked from SF to Chico, through the northern Sierra Nevadas, and then on to summit Mount Shasta
 
 {{< figure
   src="brobuddies.jpg"
@@ -142,10 +142,9 @@ few examples:
 
 ## Contact
 
-If you'd like to get in touch with me, the best way is [good old fashioned
-email](mailto:hifromyourblog@brenden.brndn.io).  I try to stay off the
-advertising platforms. Although I may still have accounts on some of them, I
-don't go there anymore.
+If you'd like to get in touch with me, the best way is [good old-fashioned
+email](mailto:hifromyourblog@brenden.brndn.io), but please don't contact me
+about products, services, or investment opportunities.
 
 ## This Website
 
