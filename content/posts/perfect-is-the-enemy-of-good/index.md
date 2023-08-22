@@ -1,7 +1,10 @@
 ---
 title: "Perfect Is the Enemy of Good"
-date: 2023-08-21T16:32:48-04:00
-draft: true
+date: 2023-08-22T13:17:48-04:00
+draft: false
+tags:
+- authenticity
+- perfection
 ---
 
 When someone asks me, "s'whattaya do?", I have a difficult time providing a
