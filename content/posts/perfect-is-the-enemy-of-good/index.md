@@ -98,14 +98,14 @@ which is unattainable.
 Take this masterpiece from Taylor Swift, a song called "Cruel Summer", in which
 Taylor complains about how hard it is dating boys:
 
-> And it's new, the shape of your body
-> It's blue, the feeling I've got
-> And it's ooh, whoa, oh
-> It's a cruel summer
-> It's cool, that's what I tell 'em
-> No rules in breakable heaven
-> But ooh, whoa oh
-> It's a cruel summer
+> And it's new, the shape of your body  
+> It's blue, the feeling I've got  
+> And it's ooh, whoa, oh  
+> It's a cruel summer  
+> It's cool, that's what I tell 'em  
+> No rules in breakable heaven  
+> But ooh, whoa oh  
+> It's a cruel summer  
 > With you
 
 She appears to be lamenting the fact that the man she's chosen doesn't equally
