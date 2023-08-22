@@ -44,10 +44,10 @@ think can be a huge roadblock to success for a lot of people.
 ## Perfection isn't Perfect
 
 There are several problems with achieving perfection. The first problem is that
-perfection is strictly unachievable. This is a goal that can never be achieved,
+perfection is strictly unattainable. This is a goal that can never be achieved,
 at least for any sufficiently complex problem. I suppose it might be possible
 for the simplest of works: you could perhaps produce the most perfect 10x10
-pixel image of the colour `#ffffff`, but we'll ignore such pointless
+pixel image of the colour `#ffffff`, but I'll ignore such
 arguments.
 
 Even if you genuinely and confidently believe you can produce perfect work (you
