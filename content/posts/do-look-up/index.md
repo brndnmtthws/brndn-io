@@ -6,6 +6,7 @@ tags:
 - scientism
 - technology
 - tourism
+- boredom
 ---
 
 There's a trope in New York City that you can identify tourists from their
