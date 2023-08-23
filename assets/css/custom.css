@@ -1376,6 +1376,10 @@ video {
     max-width: 12rem;
   }
 
+  .sm\:max-w-\[14rem\] {
+    max-width: 14rem;
+  }
+
   .sm\:max-w-\[16rem\] {
     max-width: 16rem;
   }

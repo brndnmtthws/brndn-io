@@ -20,6 +20,12 @@ overwhelmed at the time by the city: the lights, the sights, the sounds,
 everything happening all around all at once. It's overwhelming to the senses,
 whether you look up, down, or sideways.
 
+{{< figure
+    src="IMG_4363.jpg"
+    alt="Traffic lights on the ground"
+    class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
+    caption="In South Korea, they install pedestrian lights on the ground to aid people who walk around staring at their phones."
+    >}}
 The tourists get something right, though: they look around. They look up, down,
 sideways, and stare at all there is to see. They take it in, experience what's
 in front of them, and exist in the reality before them at that moment. Some of
