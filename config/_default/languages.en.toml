@@ -9,7 +9,7 @@ title = "Brenden's Blog"
 
 
 [author]
-headline = """Opinions served up fresh, on everything from computers to economics ([**bio**](/about))."""
+headline = """Opinions served up fresh, on everything from computers to economics [[**bio**]](/about)."""
 name = "Brenden Matthews"
 image = "img/brenden-matthews.jpg"
 bio = "[Who am I?](/about)"
