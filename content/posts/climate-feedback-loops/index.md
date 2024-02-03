@@ -17,9 +17,14 @@ effort to transition away from fossil fuels and move toward so-called "green"
 energy sources[^1]. As much airtime as this catch-phrase gets, there's little
 evidence to support any transition[^2].
 
-The [Kyoto protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) was adopted in 1997, and as you can see below it had little to no effect on pollution:
+The [Kyoto protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) was adopted
+in 1997, and as you can see below it had little to no effect on pollution, as
+you can see in the measurements of CO<sub>2</sub> in the atmosphere. It does not
+take a gifted mind to see the problem, any five-year-old child could tell you
+we're going in the wrong direction (and that same child today will pay the
+price in the future).
 
-![CO2 since Kyoto](co2-data.png "CO2 levels since 1997, the year the Kyoto protocol was adopted")
+![CO2 since Kyoto](co2-data.png "CO<sub>2</sub> levels since 1997, the year the Kyoto protocol was adopted")
 
 Other climate treaties have come along since 1997, and none of them have had a
 measurable impact on reducing pollution. No matter how much CEOs try to tell us
