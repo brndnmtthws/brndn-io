@@ -5,9 +5,7 @@ draft: false
 tags:
 - climate change
 - pollution
-- capitalism
 - Jevons paradox
-- scientism
 - feedback loops
 ---
 
