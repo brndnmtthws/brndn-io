@@ -58,8 +58,18 @@ The only way to escape this feedback loop is to put a price on carbon (i.e., a c
 
 ## 1.5C is a pipe dream
 
-At this point, staying below 1.5C is a pipe dream, and we've essentially already
-passed 2C[^4]. In 2023 and 2023, global temperatures started rising rapidly, and
+Staying below 1.5C is a pipe dream, and we've essentially already passed 2C[^4].
+There's no putting the proverbial cat back in the bag at this point.
+
+![2C achieved](era5_daily_sfc_temp_global_anomalies_ref1850-1900_1940-2023_dark.png "We've already hit 2C")
+
+2C represents catastrophe, and going well beyond 2C (which is very likely on our
+current trajectory) amounts to a series of extreme global catastrophes, a
+subject best left to science fiction authors to explore. One book I greatly
+enjoyed was [The Ministry for the
+Future](https://en.wikipedia.org/wiki/The_Ministry_for_the_Future).
+
+In 2023 and 2023, global temperatures started rising rapidly, and
 we began seeing 6 sigma deviations from historical means[^5]. Surface sea[^6]
 and air[^7] temperatures have deviated significantly, especially in the North
 Atlantic in 2023 and 2024. In the mainstream media this has been attributed to
