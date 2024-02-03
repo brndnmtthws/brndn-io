@@ -63,14 +63,16 @@ first choice to meet this increasing demand.
 
 The only way to escape this feedback loop is to put a price on carbon (i.e., a carbon tax). The only _real_ problem with a carbon tax is that no government wants to do it because of the fear that it may slow economic growth (which is a legitimate concern, it most likely _will_ slow economic growth). The alternative, of course, is cataclysm.
 
-## 1.5C is a pipe dream
+## 1.5°C is a pipe dream
 
-Staying below 1.5C is a pipe dream, and we've essentially already passed 2C[^4].
-There's no putting the proverbial cat back in the bag at this point.
+Staying below 1.5°C is a pipe dream, and we've essentially already passed
+2°C[^4]. There's no putting the proverbial cat back in the bag at this point, as
+we have no way to undo the pollution on the time scale necessary to arrest
+climate change.
 
-![2C achieved](era5_daily_sfc_temp_global_anomalies_ref1850-1900_1940-2023_dark.png "We've already hit 2C")
+![2°C achieved](era5_daily_sfc_temp_global_anomalies_ref1850-1900_1940-2023_dark.png "We've already hit 2°C")
 
-2C represents catastrophe, and going well beyond 2C (which is very likely on our
+2°C represents catastrophe, and going well beyond 2°C (which is very likely on our
 current trajectory) amounts to a series of extreme global catastrophes, a
 subject best left to science fiction authors to explore. One book I greatly
 enjoyed was [The Ministry for the
