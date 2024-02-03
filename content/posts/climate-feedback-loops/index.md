@@ -39,6 +39,8 @@ guarantees this will never happen. As more alternative energy sources come
 online, it will drive down the overall cost of energy, and demand will increase
 in response to cheaper energy.
 
+## Feedback loops
+
 We also have a variety of feedback loops to worry about. There are the big
 [climate feedback loops](https://en.wikipedia.org/wiki/Climate_change_feedback),
 which are not yet well understood, but it's unlikely they will work in our
