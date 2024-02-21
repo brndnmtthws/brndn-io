@@ -78,13 +78,13 @@ I've contributed to a long list of open source projects over the years. I am pro
 - [ThetaGang](https://github.com/brndnmtthws/thetagang), an implementation of "the wheel", an options trading strategy
 - [dryoc](https://github.com/brndnmtthws/dryoc), a pure-Rust general purpose cryptography library, based on the libsodium (which is based on the legendary [NaCl from djb](https://nacl.cr.yp.to/))
 - [cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust), solutions to interview problems from the book "Cracking the Coding Interview", in Rust
-- [genserver](https://github.com/brndnmtthws/genserver), an [Elixir GenServer](https://hexdocs.pm/elixir/GenServer.html) inspired Rust library
+- [genserver](https://github.com/brndnmtthws/genserver), an [Elixir GenServer](https://hexdocs.pm/elixir/GenServer.html)-inspired Rust library
 - [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro trading bot for dollar cost averaging into "cryptos", if you like that sort of thing
 - [The HODLer Manifesto](https://github.com/brndnmtthws/hodlermanifesto), a short manifesto on HODLing
 - [tweet-delete](https://github.com/brndnmtthws/tweet-delete), a Twitter bot for deleting your tweets
 - [mother-of-dragons](https://github.com/brndnmtthws/mother-of-dragons), a miner management tool for DragonMint/Innosilicon mining hardware
-- [labhub](https://github.com/brndnmtthws/labhub), a bot for integrating GitLab CI with GitHub open source projects
-- [doge-streamer](https://github.com/brndnmtthws/doge-streamer), a tool for streaming multiple webcams of my dog Doge from my apartment when I'm away, in order to take the edge off the separation anxiety I feel when I leave her alone
+- [labhub](https://github.com/brndnmtthws/labhub), a bot for integrating GitLab CI with GitHub open-source projects
+- [doge-streamer](https://github.com/brndnmtthws/doge-streamer), a tool for streaming multiple webcams of my dog Doge from my apartment when I'm away, to take the edge off the separation anxiety I feel when I leave her alone
 
 ## Writings
 
@@ -96,13 +96,15 @@ can still find:
 - [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews2_rust_6_6_23&a_aid=brendenm&a_bid=cc069fd9&chan=mm_github), my second Rust programming book (note: this is an affiliate link)
 - [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
-Below are some stats for this blog, showing number of posts and word counts per year:
+### Blog Stats
+
+Below are some stats for this blog, for the fellow data nerds out there. If you
+want to dig deeper, head over to [the GitHub
+repo](https://github.com/brndnmtthws/brndn-io).
 
 {{< chart >}}
 {{< postbyyear >}}
 {{< /chart >}}
-
-And the following chart shows in which months I'm producing the most content:
 
 {{< chart >}}
 {{< postbymonth >}}
