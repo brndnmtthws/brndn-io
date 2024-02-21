@@ -5,12 +5,12 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "blark"
-defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
+colorScheme          = "blark"
+defaultAppearance    = "light" # valid options: light or dark
 
-enableSearch = true
 enableCodeCopy = true
+enableSearch   = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
@@ -19,39 +19,39 @@ enableCodeCopy = true
 layout = "page" # valid options: basic, hamburger, custom
 
 [footer]
-showCopyright = true
-showThemeAttribution = false
 showAppearanceSwitcher = true
-showScrollToTop = true
+showCopyright          = true
+showScrollToTop        = true
+showThemeAttribution   = false
 
 [homepage]
-layout = "profile" # valid options: page, profile, custom
+layout     = "profile" # valid options: page, profile, custom
 showRecent = true
 
 [article]
-showDate = true
-showDateUpdated = false
-showAuthor = true
+showAuthor      = true
 showBreadcrumbs = false
-showDraftLabel = true
-showEdit = false
+showDate        = true
+showDateUpdated = false
+showDraftLabel  = true
+showEdit        = false
 # editURL = "https://github.com/username/repo/"
-editAppendPath = true
-showHeadingAnchors = true
-showPagination = true
-invertPagination = false
-showReadingTime = true
+editAppendPath      = true
+invertPagination    = false
+sharingLinks        = ["email", "facebook", "linkedin", "reddit", "twitter"]
+showComments        = false
+showHeadingAnchors  = true
+showPagination      = true
+showReadingTime     = true
 showTableOfContents = true
-showTaxonomies = false
-showWordCount = false
-showComments = false
-sharingLinks = ["email", "facebook", "twitter", "reddit", "linkedin"]
+showTaxonomies      = false
+showWordCount       = false
 
 [list]
-showBreadcrumbs = false
-showSummary = false
+groupByYear         = true
+showBreadcrumbs     = false
+showSummary         = true
 showTableOfContents = false
-groupByYear = true
 
 [sitemap]
 excludedKinds = ["taxonomy", "term"]

@@ -14,10 +14,10 @@
         {{ end }}
       </div>
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-      <div class="flex justify-between pt-3">
+      <div class="flex justify-between pt-2">
         <span>
           {{ if $prev }}
-            <a class="flex group" href="{{ $prev.RelPermalink }}">
+            <a class="flex group p-2 hover:bg-neutral-300 dark:hover:bg-neutral-700 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded" href="{{ $prev.RelPermalink }}">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -44,7 +44,7 @@
         </span>
         <span>
           {{ if $next }}
-            <a class="flex text-right group" href="{{ $next.RelPermalink }}">
+            <a class="flex text-right group p-2 hover:bg-neutral-300 dark:hover:bg-neutral-700 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded" href="{{ $next.RelPermalink }}">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
@@ -76,9 +76,9 @@
       <div class="pt-8">
         <h2 class="pt-3">Related posts</h2>
         <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 pt-3">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-1 pt-2">
           {{ range . }}
-            <a class="flex group" href="{{ .RelPermalink }}">
+            <a class="flex group p-2 hover:bg-neutral-300 dark:hover:bg-neutral-700 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded" href="{{ .RelPermalink }}">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
