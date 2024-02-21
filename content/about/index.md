@@ -21,15 +21,8 @@ worked with several startups over the past 20 years. I've helped scale 3
 separate $1B+ valuation companies through various stages of hypergrowth and
 started a few companies myself.
 
-I grew up in Canada, moved to San Francisco in 2009, and spent some years in
-New York. I don't identify with any particular nation state or city, but these
-days you'll usually find me in the North Eastern part of North America. This
-page contains a non-exhaustive list of things I've done or worked on.
-
-These days I'm primarily interested in working with early-stage startups. In
-particular, I like businesses that create real value, aren't
-fraudulent/scammy/hype-based, generate cash flow, and aren't necessarily
-dependent on cheap debt.
+I grew up in Canada, moved to San Francisco in 2009, and have recently spent
+most of my time in New York.
 
 ## As a Professional
 
