@@ -8,6 +8,10 @@ module.exports = {
           css: {
             "--tw-prose-body": theme("colors.slate.700 / 1"),
             "--tw-prose-invert-body": theme("colors.slate.300 / 1"),
+            picture: {
+              marginTop: "0",
+              marginBottom: "0",
+            },
           },
         },
       }),
@@ -15,4 +19,4 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography")],
   darkMode: "class",
-};
+}

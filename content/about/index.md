@@ -103,6 +103,18 @@ can still find:
 - [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews2_rust_6_6_23&a_aid=brendenm&a_bid=cc069fd9&chan=mm_github), my second Rust programming book (note: this is an affiliate link)
 - [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
+Below are some stats for this blog, showing number of posts and word counts per year:
+
+{{< chart >}}
+{{< postbyyear >}}
+{{< /chart >}}
+
+And the following chart shows in which months I'm producing the most content:
+
+{{< chart >}}
+{{< postbymonth >}}
+{{< /chart >}}
+
 ## Photography
 
 I've always had an interest in photography, and my blog features plenty of my
