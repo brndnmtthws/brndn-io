@@ -1,6 +1,6 @@
 ---
 title: "Passive vs. Active Philosophy"
-date: 2024-02-24T09:39:28-04:00
+date: 2024-02-24T09:52:25-05:00
 draft: true
 tags:
 - philosophy
