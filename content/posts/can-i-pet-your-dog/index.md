@@ -4,7 +4,7 @@ date: 2019-11-15T01:29:06+0000
 draft: false
 tags:
 - dogs
-- shibainu
+- shiba inu
 - life
 ---
 ![Doge](cover.jpg "My pup at the Union Square dog run in Manhattan")

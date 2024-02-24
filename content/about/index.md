@@ -21,13 +21,17 @@ worked with several startups over the past 20 years. I've helped scale 3
 separate $1B+ valuation companies through various stages of hypergrowth and
 started a few companies myself.
 
-I grew up in Canada, moved to San Francisco in 2009, and have recently spent
-most of my time in New York.
+I grew up in Canada, moved to San Francisco in 2009, and most recently, have
+recently spent most of my time in New York.
+
+I use this blog as a sort of journal, a place to put my thoughts, and something
+to look back on. Based on the feedback of the emails I occasionally receive
+about my posts here (thanks for the email, by the way), it seems that many
+people enjoy reading it, too.
 
 ## As a Professional
 
-I've worked at a number of different startups including
-[Airbnb](https://www.airbnb.com/), Mesosphere (now known as
+I've worked at many startups, including [Airbnb](https://www.airbnb.com/), Mesosphere (now known as
 [D2IQ](https://d2iq.com/)), [Braze](https://www.braze.com/), and others.
 
 My first startup was a Canadian oil and gas company that manufactured
@@ -36,43 +40,42 @@ measuring pressure, temperature, and other metrics within oil and gas wells.
 The instrumentation was designed to withstand extremely high pressures,
 temperatures, and corrosive environments for many months.
 
-In 2009 I joined a company in California that provided telecom companies with
+In 2009, I joined a company in California that provided telecom companies with
 mobile network telemetry tools and also offered network optimization services.
-There I created a custom database that was highly optimized for our workloads,
-built our own RPC system, and wrote the first parser for Ericsson LTE layer 2
+There, I created a custom database that was highly optimized for our workloads,
+built our own RPC system, and wrote the first parser for Ericsson LTE layer two
 network data. That company was later acquired by Tektronix (after I left).
 
-In 2013 I joined Airbnb where I worked on the data infrastructure team. I
+In 2013, I joined Airbnb, where I worked on the data infrastructure team. I
 contributed to a number of open source projects during that time, including the
-[Apache Mesos](https://mesos.apache.org/) project which I became a PMC member
+[Apache [Mesos](https://mesos.apache.org/) project, which I became a PMC member
 of. I also contributed to Chronos, SmartStack, Kafka, and other projects during
 my time at Airbnb.
 
-In 2015 I joined Mesosphere to continue working with Mesos. Mesosphere was
+In 2015, I joined Mesosphere to continue working with Mesos. Mesosphere was
 founded by 2 of my Airbnb teammates, as well as a Twitter employee (the creator
-of Mesos itself). I helped scale the company, build the sales team, and laid
-the foundation for the service organization.
+of Mesos itself). I helped scale the company, build the sales team, and laid the
+foundation for the service organization.
 
-In 2018 I joined Braze, but decided to leave after just 6 months to start a new
-company, which in hindsight was a poor decision.
+In 2018, I joined Braze but decided to leave after just six months to start a new
+company, which, in hindsight, was a poor decision.
 
-After several years going HAM at [wantrepreneuring](/tags/wantrepreneur/), I've
-decided to spend my time on things with a higher likelihood of success than
+After several years of going HAM at [wantrepreneuring](/tags/wantrepreneur/),
+I've decided to spend my time on things with a higher likelihood of success than
 moonshot startups.
 
 _[You can find a copy of my résumé here.](https://github.com/brndnmtthws/resume/blob/main/resume.pdf)_
 
 ## Public Speaking
 
-I've given talks at a number of different events including conferences,
-meetups, and private engagements. Some of the conferences I've spoken at in the
-past are [QCon](https://qconsf.com/), [All Things
-Open](https://allthingsopen.org/), MesosCon, ContainerCon, LinuxCon, and
-others.
+I've given talks at many events, including conferences, meetups, and private
+engagements. Some of the conferences I've spoken at are
+[QCon](https://qconsf.com/), [All Things Open](https://allthingsopen.org/),
+MesosCon, ContainerCon, LinuxCon, and others.
 
 ## Open Source
 
-I've contributed to a long list of open source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 150 public GitHub projects, 2 of which have over 1,000 stars, 6 with over 100. Here are some of my projects:
+I've contributed to a long list of open-source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 150 public GitHub projects, 2 of which have over 1,000 stars, 6 with over 100. Here are some of my projects:
 
 - [Conky](https://github.com/brndnmtthws/conky), a system monitor for X
 - [ThetaGang](https://github.com/brndnmtthws/thetagang), an implementation of "the wheel", an options trading strategy
