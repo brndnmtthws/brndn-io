@@ -5,6 +5,7 @@ draft: false
 tags:
 - Dunning–Kruger
 - imposter syndrome
+- bullshit
 ---
 
 Okay, the title is clickbait, and I am ashamed of that. So, I'll give you the
