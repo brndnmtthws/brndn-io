@@ -71,7 +71,7 @@ approach, which essentially involves responding with a request that will waste
 just enough of their time that, hopefully, they will realize it's not worth the
 effort. Here's what I've started replying to recruiter spams with:
 
-> Hey {{ derpnuts }},
+> Hey {{ recruiter }},
 >
 > I know that recruiting is a very difficult job, so I prefer to avoid wasting your time (and require the same courtesy in return). I’d be happy to chat further, however, these days I charge a $10,000 interviewing fee, which–upon the acceptance of an offer–can be applied as a credit to my wages.
 >
