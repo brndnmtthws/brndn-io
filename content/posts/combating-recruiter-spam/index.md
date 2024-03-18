@@ -2,6 +2,12 @@
 title: "Combating Recruiter Spam"
 date: 2024-03-18T09:49:06-04:00
 draft: false
+tags:
+- jobs
+- hiring
+- recruiters
+- spam
+- AI
 ---
 
 Anyone who's worked in computers for any amount of time has likely experienced a
@@ -42,8 +48,8 @@ Here's [one example I received](./raw-mail-1.txt) from one of their customers,
 along with a [drip campaign follow-up](./raw-mail-2.txt). If you look closely,
 you can see they use the email address I include in my résumé, which is
 [available on GitHub](https://github.com/brndnmtthws/resume/). They also did not
-include salary information in either the email or the job description, which is
-a red flag–and illegal in New York City.
+include salary information in either the email or the job description (I checked
+their Greenhouse posting), which is a red flag–_and_ illegal in New York City.
 
 I deleted my LinkedIn account a few years back as I got no value out of it, and
 most of the content on LinkedIn seems to be posted by insane people, so they
@@ -81,7 +87,7 @@ Brenden
 
 I use the Apple Mail [template
 trick](https://www.ericleeclark.com/create-email-templates-in-apple-mail-mojave/)
-to quickly send these responses, and I have so far had a 100% success rate in
+to send these responses quickly, and I have (so far) had a 100% success rate in
 driving recruiters away. In fact, I haven't received a single response from any
 recruiter yet!
 
