@@ -82,8 +82,8 @@ effort. Here's what I've started replying to recruiter spams with:
 > If you’d like to proceed, please let me know, and we can arrange payment. If I don’t hear back from you within one week, I will assume you have chosen not to proceed.
 >
 > All the best & thanks for the email,
-
-Brenden
+>
+> Brenden
 
 I use the Apple Mail [template
 trick](https://www.ericleeclark.com/create-email-templates-in-apple-mail-mojave/)
