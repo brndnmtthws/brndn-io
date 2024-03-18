@@ -1,0 +1,18 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  <h2 class="mt-8 text-2xl font-extrabold">
+    {{ i18n "shortcode.recent_articles" | emojify }}
+  </h2>
+  {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+    {{ partial "article-link.html" . }}
+  {{ end }}
+  <div class="py-1 mt-4">
+    <a
+      class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 font-semibold"
+      href="/posts"
+      aria-label="More posts"
+      title="More posts"
+    >
+      More posts...
+    </a>
+  </div>
+{{ end }}
