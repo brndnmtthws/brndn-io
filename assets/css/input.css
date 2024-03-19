@@ -2,11 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-.article-summary {
-  mask-image: linear-gradient(
-    180deg,
-    #000 50%,
-    rgba(0, 0, 0, 0.5),
-    transparent
-  );
+@layer base {
+  .mask-image-gradient {
+    mask-image: linear-gradient(
+      180deg,
+      #000 50%,
+      rgba(0, 0, 0, 0.5),
+      transparent
+    );
+  }
+
+  .no-mask-image-gradient {
+    mask-image: none;
+  }
 }

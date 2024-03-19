@@ -1,6 +1,6 @@
-<article class="mt-6 flex flex-row group rounded">
+<article class="mt-6 flex flex-row group">
   <a
-    class="hover:bg-neutral-300 dark:hover:bg-neutral-700 hover:bg-opacity-15 dark:hover:bg-opacity-15"
+    class="p-2 transition group-hover:bg-fuchsia-400 dark:group-hover:bg-fuchsia-600 group-hover:bg-opacity-30 dark:group-hover:bg-opacity-30 group-hover:shadow-[0_0_30px_20px_rgba(0,0,0,0.5)] group-hover:shadow-fuchsia-400/30 dark:group-hover:shadow-fuchsia-600/30 rounded-lg"
     href="{{ .RelPermalink }}"
   >
     {{- $images := $.Resources.ByType "image" }}
@@ -77,14 +77,16 @@
       {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
         <div class="pt-2 prose max-w-prose">
           <div
-            class="article-summary line-clamp-3 dark:text-neutral-400 text-neutral-500"
+            class="mask-image-gradient group-hover:no-mask-image-gradient line-clamp-3 dark:text-neutral-400 text-neutral-500"
           >
             {{ .Summary | emojify }}
           </div>
           <div
             class="invisible text-center group-hover:visible text-neutral-800 dark:text-neutral-200 font-semibold text-base"
           >
+            <span class="text-lg animate-pulse-fast">☺️ ✨</span>
             Read more...
+            <span class="text-lg animate-pulse-fast">💫 🤣</span>
           </div>
         </div>
       {{ end }}
