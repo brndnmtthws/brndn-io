@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate        = 10
-summaryLength   = 25
+summaryLength   = 50
 timeout         = "120s"
 
 [outputs]

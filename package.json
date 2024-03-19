@@ -6,6 +6,6 @@
     "tailwindcss": "^3.4.1"
   },
   "scripts": {
-    "build": "npx tailwindcss -o ./assets/css/custom.css"
+    "build": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css"
   }
 }
