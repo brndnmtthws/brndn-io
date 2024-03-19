@@ -1399,11 +1399,6 @@ video {
   line-height: 1.5rem;
 }
 
-.text-neutral-200 {
-  --tw-text-opacity: 1;
-  color: rgb(229 229 229 / var(--tw-text-opacity));
-}
-
 .text-neutral-400 {
   --tw-text-opacity: 1;
   color: rgb(163 163 163 / var(--tw-text-opacity));
@@ -1526,6 +1521,11 @@ video {
 
 :is(.dark .dark\:fill-white) {
   fill: #fff;
+}
+
+:is(.dark .dark\:text-neutral-200) {
+  --tw-text-opacity: 1;
+  color: rgb(229 229 229 / var(--tw-text-opacity));
 }
 
 :is(.dark .dark\:text-neutral-400) {
