@@ -1,1 +1,6 @@
+#!/bin/sh
+
 npm run build
+git add assets/css/custom.css
+
+npx lint-staged
