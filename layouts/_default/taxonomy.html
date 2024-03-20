@@ -16,22 +16,27 @@
       </div>
     </section>
   {{ end }}
-  <section class="-mx-2 flex flex-wrap overflow-hidden">
+  <section class="mt-3 -mx-2 flex flex-wrap overflow-hidden">
     {{ range .Data.Terms.ByCount }}
       <article
-        class="my-3 w-full overflow-hidden px-2 sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5"
+        class="my-1 py-1 w-full overflow-hidden px-2 sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 "
       >
-        <h2 class="flex items-center">
+        <h2>
           <a
-            class="text-xl font-medium flex-grow decoration-primary-500 hover:underline hover:underline-offset-2"
             href="{{ .Page.RelPermalink }}"
-            >{{ .Page.Title }}</a
+            class="flex items-center group hover:bg-neutral-300 dark:hover:bg-neutral-700 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded"
           >
-          {{ if $.Site.Params.taxonomy.showTermCount | default true }}
-            <div class="text-base text-neutral-400">
-              {{ .Count }}
+            <div
+              class="text-xl font-medium flex-grow decoration-primary-500 group-hover:underline group-hover:underline-offset-2"
+            >
+              {{ .Page.Title }}
             </div>
-          {{ end }}
+            {{ if $.Site.Params.taxonomy.showTermCount | default true }}
+              <div class="text-base text-neutral-400">
+                {{ .Count }}
+              </div>
+            {{ end }}
+          </a>
         </h2>
       </article>
     {{ end }}
