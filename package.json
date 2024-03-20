@@ -8,6 +8,8 @@
     "tailwindcss": "^3.4.1"
   },
   "scripts": {
+    "server": "hugo server -D --navigateToChanged",
+    "watch": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css --watch",
     "build": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css",
     "prepare": "husky"
   },
