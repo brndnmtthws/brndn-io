@@ -16,3 +16,22 @@
     mask-image: none;
   }
 }
+
+@layer utilities {
+  .animyguy:after {
+    content: "😁";
+    animation: aniguy 1500ms infinite;
+  }
+
+  @keyframes aniguy {
+    0% {
+      content: "😁";
+    }
+    70% {
+      content: "😁";
+    }
+    100% {
+      content: "🤣";
+    }
+  }
+}

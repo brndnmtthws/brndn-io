@@ -25,10 +25,15 @@
   {{- end }}
 {{- end }}
 {{- if .Site.Params.header.showTitle | default true }}
-  <a
-    class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 hover:scale-110 transition"
-    rel="me"
-    href="{{ "" | relLangURL }}"
-    >{{ .Site.Title | markdownify | emojify }}</a
-  >
+  <div class="relative group transition hover:scale-110">
+    <a
+      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+      rel="me"
+      href="{{ "" | relLangURL }}"
+      >{{ .Site.Title | markdownify | emojify }}
+    </a>
+    <div
+      class="absolute top-0 -right-8 animyguy shadow-md invisible group-hover:visible"
+    ></div>
+  </div>
 {{- end }}
