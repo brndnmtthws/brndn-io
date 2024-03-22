@@ -32,7 +32,7 @@
               {{ .Page.Title }}
             </div>
             {{ if $.Site.Params.taxonomy.showTermCount | default true }}
-              <div class="text-base text-neutral-400">
+              <div class="ml-1 text-xl font-medium text-neutral-400 self-start">
                 {{ .Count }}
               </div>
             {{ end }}
