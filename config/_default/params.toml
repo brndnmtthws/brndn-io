@@ -15,6 +15,9 @@ enableSearch   = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
+[author]
+name = "Brenden Matthews"
+
 [header]
 layout = "page" # valid options: basic, hamburger, custom
 

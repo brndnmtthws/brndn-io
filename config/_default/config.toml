@@ -1,6 +1,7 @@
 baseURL                = "https://brndn.io/"
 defaultContentLanguage = "en"
 
+enableGitInfo   = true
 enableRobotsTXT = true
 paginate        = 10
 summaryLength   = 50

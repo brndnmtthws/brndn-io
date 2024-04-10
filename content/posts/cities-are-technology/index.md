@@ -1,6 +1,6 @@
 ---
 title: "Cities Are Technology"
-date: 2024-04-04T13:36:02-04:00
+date: 2024-04-09T13:36:02-04:00
 draft: false
 tags:
 - cities
