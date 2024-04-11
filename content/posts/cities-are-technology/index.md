@@ -10,13 +10,14 @@ tags:
 - climate change
 - urban design
 ---
-![A future no one asked for.](cover.png "It's not the future we wanted, but what we got. The backward cars and other weirdness are good examples of why we are not 'AI' yet.")
 
 When people think of _technology_ they likely imagine your typical futurology:
 robots, artificial intelligence, and space travel. But technology is more
 interesting than science fiction porn. It's the way we manipulate the world
 around us. It's the way we shape our environment to suit our needs. And in that
 sense, cities _are_ technology.
+
+![A future no one asked for.](cover.png "It's not the future we wanted, but what we got. The backward cars and other weirdness are good examples of why we are not 'AI' yet.")
 
 By one definition, technology is the application of science to solve problems.
 And cities are the embodiment of that. They are the result of thousands of years
