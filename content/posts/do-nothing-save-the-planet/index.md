@@ -7,8 +7,8 @@ tags:
 - do nothing
 - capitalism
 - degrowth
+- pollution
 ---
-![Humans did this](cover.jpg "Humans did this")
 
 I watched yesterday's budget committee meeting at the US senate (which [you
 can find
@@ -16,6 +16,8 @@ here](https://www.budget.senate.gov/hearings/the-cost-of-inaction-on-climate-cha
 It was mildly interesting, and it left me with the impression that
 politicians plan on continuing to change nothing while we march toward
 extinction.
+
+![Humans did this](cover.jpg "Humans did this")
 
 It's worth reading the [testimony of David
 Wallace-Wells](https://www.budget.senate.gov/imo/media/doc/David%20Wallace-Wells%20-%20Testimony%20-%20U.S%20Senate%20Budget%20Committee%20Hearing.pdf),

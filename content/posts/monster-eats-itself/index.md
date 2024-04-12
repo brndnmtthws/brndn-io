@@ -6,13 +6,14 @@ tags:
 - systemic failure
 - US government
 ---
-![USA](cover.jpg "Where the people who run the ~~USA~~ world meet")
 
 Yesterday an interesting thing happened, where disenfranchised folks walked right up into the US capitol after Donald Trump told them to do so. They weren't welcome there, and a few people ended up dead in the scuffles, and a lot of people were mad for a variety of reasons.
 
+![USA](cover.jpg "Where the people who run the ~~USA~~ world meet")
+
 There were a few really interesting things that happened in the aftermath which I felt like writing about. Or rather, there were things that _didn't_ happen. Things people _weren't_ saying spoke more about the problem than what they were saying.
 
-I was watching the politicians give their self congratulatory speeches live on C-SPAN after the whole thing was resolved, and I couldn't help but notice how absurd the whole thing seemed. 
+I was watching the politicians give their self congratulatory speeches live on C-SPAN after the whole thing was resolved, and I couldn't help but notice how absurd the whole thing seemed.
 
 ## Failure to acknowledge systemic failure
 
@@ -54,15 +55,15 @@ _damn_ needed right now.
 
 Here are some ideas of what should happen very quickly to fix the government:
 
- - eliminate the electoral college and the whole circus surrounding it
- - standardize voting practices
- - ban gerrymandering
- - switch to ranked-choice voting
- - implement proportional representation
- - curb presidential powers–or better yet, eliminate the position outright
- - increase the total number of politicians in the government to provide better representation of diverse groups
- - introduce direct democracy reforms to allow people to vote directly on large issues
- - hold politicians accountable to their constituents by measuring their voting in government to how their constituents vote on issues
+- eliminate the electoral college and the whole circus surrounding it
+- standardize voting practices
+- ban gerrymandering
+- switch to ranked-choice voting
+- implement proportional representation
+- curb presidential powers–or better yet, eliminate the position outright
+- increase the total number of politicians in the government to provide better representation of diverse groups
+- introduce direct democracy reforms to allow people to vote directly on large issues
+- hold politicians accountable to their constituents by measuring their voting in government to how their constituents vote on issues
 
 ## Hurtling toward our own demise
 

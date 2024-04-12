@@ -7,9 +7,10 @@ tags:
 - funding
 - advice
 ---
-![Startup](cover.jpg "Is this...a startup idea?")
 
 Starting any company is hard. Startups are even harder. If you want to start a company but don't have a business idea, then the first step is figuring out what to build.
+
+![Startup](cover.jpg "Is this...a startup idea?")
 
 The main difference between a small business and a startup is your level of ambition, and how much money you can raise. Paul Graham [defines it as "startup = growth"](http://www.paulgraham.com/growth.html), but (most) startups only grow if they have resources (i.e., people, capital) to do so. The number of companies that start out bootstrapped, have growth, and never need to raise any money is _extremely_ small, like infinitesimal. From a probabilistic perspective you're better off trying to build things that are easy to fundraise for.
 

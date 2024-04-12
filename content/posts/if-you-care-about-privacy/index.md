@@ -6,9 +6,10 @@ tags:
 - privacy
 - advice
 ---
-![Doge](cover.jpg "My pup cares about privacy. This photo has nothing to do with this post.")
 
 It's hard to maintain privacy these days, ever since we started carrying around the ultimate Internet connected surveillance device in our pockets. So what can you do about it? Here's a brief guide.
+
+![Doge](cover.jpg "My pup cares about privacy. This photo has nothing to do with this post.")
 
 ## Vote with your wallet
 

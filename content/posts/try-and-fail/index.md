@@ -8,9 +8,10 @@ tags:
 - success
 - adventure
 ---
-![Ursulu](cover.jpg "Christening Ursula, my canoe")
 
 I've long held the belief that it's better to try and fail, than to never even attempt doing something. Along with a few successes in life, I have had a very long list of failures to my name. Here's a story about one such failure.
+
+![Ursulu](cover.jpg "Christening Ursula, my canoe")
 
 I was at a social gathering a few days ago and I had a conversation with someone about how I'd tried to paddle a canoe down the Mississippi in 2017.
 

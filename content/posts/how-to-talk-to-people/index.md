@@ -7,9 +7,10 @@ tags:
 - how to
 - friends
 ---
-![Friends](cover.jpg "It's good to have friends")
 
 I've never been great at talking to people, especially strangers, but I'm much better than I used to be. In this post I'll share some of the things I've learned in my quest to be a better human.
+
+![Friends](cover.jpg "It's good to have friends")
 
 One of the easiest things you can do to improve your life is to get better at interacting with everyone you meet. The more good interactions you have in life, the more friends you'll make, and the more doors will open for you. Being likeable goes a really long way. Humans are very social creatures, and we're happiest when we have strong connections and communities.
 

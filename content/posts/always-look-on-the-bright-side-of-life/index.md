@@ -10,9 +10,10 @@ tags:
 - pessimism
 - fascism
 ---
-![Wall of Vets](cover.jpg "Wall of Vets, from [Reddit](https://www.reddit.com/r/pics/comments/hxsh16/wall_of_vets_in_portland/)")
 
-I've always tried to be an optimist, but I think my natural state tends toward realism with a hint of pessimism. Sometimes optimism is at odds with the current state of reality.
+I've always tried to be an optimist, but I think my natural state tends toward realism with a hint of pessimism. Sometimes, optimism is at odds with the current state of reality.
+
+![Wall of Vets](cover.jpg "Wall of Vets, from [Reddit](https://www.reddit.com/r/pics/comments/hxsh16/wall_of_vets_in_portland/)")
 
 If you spend much time reading the news lately, you might think think there's an ongoing civil war. My opinion is that you'd have to be incredibly ignorant to look at current events and not understand how decades of racial injustice, oppression, stagnant wage growth, and decreasing opportunities have led to social unrest. Add to that a new populist movement toward fascism, and you've got a recipe for disaster.
 

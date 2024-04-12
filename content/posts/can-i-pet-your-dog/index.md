@@ -7,12 +7,13 @@ tags:
 - shiba inu
 - life
 ---
-![Doge](cover.jpg "My pup at the Union Square dog run in Manhattan")
 
 I get asked all the time by strangers, something to the effect of "Can I pet
 your dog?". People see her, think she's cute, and feel a sudden strong urge
 to touch her. Some people will just reach out without asking, but the
 majority of people ask first.
+
+![Doge](cover.jpg "My pup at the Union Square dog run in Manhattan")
 
 I don't object, but I'm not sure my dog always enjoys it when people put
 their hands on her, or in her face.

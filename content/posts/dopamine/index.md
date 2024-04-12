@@ -7,7 +7,6 @@ tags:
 - startups
 - technology
 ---
-![Sugar](cover.jpg "Sugar is one way to deliver a hit of dopamine")
 
 Dopamine is a chemical in our brains associated with good feels. Rather
 than explaining it myself, I'll share a quote from the book _"The Righteous
@@ -21,6 +20,8 @@ In the text above, the author is discussing why politically divided
 individuals get so heated about politics. One
 suggestion, as the author notes, is that tribal signalling (what political arguments often are) triggers a
 dopamine reward in the brain.
+
+![Sugar](cover.jpg "Sugar is one way to deliver a hit of dopamine")
 
 ## Tech companies and dopamine
 

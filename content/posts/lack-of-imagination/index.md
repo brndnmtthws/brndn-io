@@ -4,9 +4,8 @@ date: 2023-08-18T15:53:52-04:00
 draft: false
 tags:
 - climate
-
+- technology
 ---
-![The Starry Night](Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg "Van Gogh's Starry Night")
 
 Humans have accomplished some remarkable things throughout our history. Today,
 however, despite all we've accomplished, it feels like we're backsliding [while
@@ -15,6 +14,8 @@ some enormous challenges, but there's [no evidence of
 progress](https://gml.noaa.gov/ccgg/trends/) aside from some political and
 corporate greenwashing and virtue-signaling campaigns to keep us all consuming
 (aka "business as usual").
+
+![The Starry Night](Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg "Van Gogh's Starry Night")
 
 If the [Hitchhiker's Guide to the
 Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)

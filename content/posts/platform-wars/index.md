@@ -8,9 +8,10 @@ tags:
 - google
 - apple
 ---
-![Pew pew](cover.jpg)
 
 One of the basic concepts of capitalism is the idea that competition is good for consumers. I think in most cases this is true. One famous example is the [history of General Motors](https://en.wikipedia.org/wiki/History_of_General_Motors), a company that became so powerful and dominant that the US government considered breaking GM into separate companies.
+
+![Pew pew](cover.jpg)
 
 GM was never broken up, and in the end their dominance waned. Now [GM ranks 4th globally](https://en.wikipedia.org/wiki/List_of_manufacturers_by_motor_vehicle_production#2017) in terms of number of vehicles sold, so they hardly went away, but they don't control anywhere close to the majority of the market.
 
@@ -52,7 +53,7 @@ Without question the biggest winners are the platforms. They're optimized for st
 
 Unlike the automobile industry, the software world exhibits strong network effects, especially since nearly every platform is some kind of social network.
 
-Users lose out (or as I like to say, users get used), small publishers lose out, and the amount of diversity of thought and ideas becomes narrow and 
+Users lose out (or as I like to say, users get used), small publishers lose out, and the amount of diversity of thought and ideas becomes narrow and
 
 ## In the digital age, does ownership exist?
 

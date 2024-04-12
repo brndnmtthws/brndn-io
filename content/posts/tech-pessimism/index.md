@@ -8,12 +8,12 @@ tags:
 - futurology
 - degrowth
 ---
-![Jet fuel](cover.jpg "Can our fossil fuel machines save us from the problem created by fossil fuels? 🤔")
-
 For a long time I was a futurist, and an optimist about technology in general. I
 agreed with the thesis that technology makes everything better over time. These
 days, I'm older and (maybe?) wiser, and I've become a lot more pessimistic about
 technology in general.
+
+![Jet fuel](cover.jpg "Can our fossil fuel machines save us from the problem created by fossil fuels? 🤔")
 
 At the moment we're living in the 6th mass extinction event, which is entirely
 the result of human activities. This fact is not something that's up for debate,

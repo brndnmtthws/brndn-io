@@ -9,12 +9,13 @@ tags:
 - learning
 - creativity
 ---
-![Skills](cover.jpg)
 
 Humans are pretty bad at intuiting about exponential growth. Whether it's
 [pollution](https://gml.noaa.gov/ccgg/trends/mlo.html), [population
 growth](https://www.youtube.com/watch?v=8x98KFcMJeo), or the way a virus
 spreads, our brains are bad at understanding the impact of such growth.
+
+![Skills](cover.jpg)
 
 Exponential growth tends to feel slow at first, and then at some point you
 realize it's all happening quite quickly.

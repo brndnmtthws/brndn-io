@@ -8,9 +8,10 @@ tags:
 - music
 - creativity
 ---
-![You can buy one of these on Amazon, but it might be a counterfeit.](cover.jpg "You can buy one of these on Amazon, but it might be a counterfeit.")
 
 As a kid growing up, I studied music in school and played a few different instruments. One instrument I always wanted to learn was the guitar, which I never did because I could only play what the school had available for free, because my parents couldn't afford to buy me my own.
+
+![You can buy one of these on Amazon, but it might be a counterfeit.](cover.jpg "You can buy one of these on Amazon, but it might be a counterfeit.")
 
 I think the most important skill anyone can have is the skill of learning. Afterall, my belief is that the whole point of going to school is to learn how to learn, rather than memorizing course material. This is something my father told me long ago, and it's something that's stuck with me.
 
