@@ -16,53 +16,56 @@ showPagination: false
     alt="How my face looks"
     class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
     >}}
-I'm a serial entrepreneur, software engineer, artist, and adventurer who's
-worked with several startups over the past 20 years. I've helped scale 3
-separate $1B+ valuation companies through various stages of hypergrowth and
-started a few companies myself.
+I am a seasoned entrepreneur, skilled software engineer, talented artist, and
+adventurous spirit with a rich history of collaborating with numerous startups
+over the past two decades. I have played a pivotal role in driving the
+exponential growth of three companies, each surpassing a valuation of $1
+billion, and have also embarked on my own entrepreneurial ventures.
 
-I grew up in Canada, moved to San Francisco in 2009, and most recently, have
-recently spent most of my time in New York.
+Originally from Canada, I moved to San Francisco in 2009 and have recently been
+based primarily in New York. This blog serves as a personal journal, a platform
+for sharing my thoughts, and a valuable record of my experiences. It is
+heartening to receive occasional emails from readers who find my posts engaging
+and insightful.
 
-I use this blog as a sort of journal, a place to put my thoughts, and something
-to look back on. Based on the feedback of the emails I occasionally receive
-about my posts here (thanks for the email, by the way), it seems that many
-people enjoy reading it, too.
+I approach my work with a deep sense of competence and confidence, drawing from
+my extensive expertise and diverse skill set. I thrive on challenges and have
+consistently demonstrated my ability to navigate through various stages of
+growth and innovation. Beyond my professional pursuits, I have a passion for
+adventure, having climbed mountains, completed marathons, and embarked on
+long-distance cycling journeys.
+
+I invite you to join me on this journey of exploration and discovery as we delve
+into the realms of entrepreneurship, software engineering, art, and the wonders
+of the world. Let's embark on this exciting adventure together!
 
 ## As a Professional
 
 I've worked at many startups, including [Airbnb](https://www.airbnb.com/), Mesosphere (now known as
 [D2IQ](https://d2iq.com/)), [Braze](https://www.braze.com/), and others.
 
-My first startup was a Canadian oil and gas company that manufactured
-instrumentation for oil and gas exploration. Specifically, we created tools for
-measuring pressure, temperature, and other metrics within oil and gas wells.
-The instrumentation was designed to withstand extremely high pressures,
-temperatures, and corrosive environments for many months.
+My professional journey began with a Canadian oil and gas company specializing
+in manufacturing instrumentation for oil and gas exploration. Our tools were
+designed to measure pressure, temperature, and other metrics within wells,
+withstanding extreme conditions for extended periods.
 
-In 2009, I joined a company in California that provided telecom companies with
-mobile network telemetry tools and also offered network optimization services.
-There, I created a custom database that was highly optimized for our workloads,
-built our own RPC system, and wrote the first parser for Ericsson LTE layer two
-network data. That company was later acquired by Tektronix (after I left).
+In 2009, I joined a California-based company that provided telecom companies
+with mobile network telemetry tools and network optimization services. During my
+time there, I developed a highly optimized custom database, built an RPC system,
+and wrote the initial parser for Ericsson LTE layer two network data. The
+company was later acquired by Tektronix.
 
-In 2013, I joined Airbnb, where I worked on the data infrastructure team. I
-contributed to a number of open source projects during that time, including the
-[Apache [Mesos](https://mesos.apache.org/) project, which I became a PMC member
-of. I also contributed to Chronos, SmartStack, Kafka, and other projects during
-my time at Airbnb.
+In 2013, I became part of the data infrastructure team at Airbnb. During my
+tenure, I made contributions to various open-source projects, including the
+Apache Mesos project, where I eventually became a PMC member. Additionally, I
+worked on projects like Chronos, SmartStack, Kafka, and more.
 
-In 2015, I joined Mesosphere to continue working with Mesos. Mesosphere was
-founded by 2 of my Airbnb teammates, as well as a Twitter employee (the creator
-of Mesos itself). I helped scale the company, build the sales team, and laid the
-foundation for the service organization.
+In 2015, I joined Mesosphere, a company founded by two former Airbnb colleagues
+and the creator of Mesos. My role involved scaling the company, establishing the
+sales team, and laying the groundwork for the service organization.
 
-In 2018, I joined Braze but decided to leave after just six months to start a new
-company, which, in hindsight, was a poor decision.
-
-After several years of going HAM at [wantrepreneuring](/tags/wantrepreneur/),
-I've decided to spend my time on things with a higher likelihood of success than
-moonshot startups.
+In 2018, I briefly joined Braze but decided to leave after six months to pursue
+my own entrepreneurial ventures.
 
 _[You can find a copy of my résumé here.](https://github.com/brndnmtthws/resume/blob/main/resume.pdf)_
 
@@ -75,19 +78,23 @@ MesosCon, ContainerCon, LinuxCon, and others.
 
 ## Open Source
 
-I've contributed to a long list of open-source projects over the years. I am probably most well known for creating a project called [Conky](https://github.com/brndnmtthws/conky). Today I have more than 150 public GitHub projects, 2 of which have over 1,000 stars, 6 with over 100. Here are some of my projects:
+I've contributed to a long list of open-source projects over the years. I am
+probably most well-known for creating a project called
+[Conky](https://github.com/brndnmtthws/conky). Today, I have more than 150
+public GitHub projects, 2 of which have over 1,000 stars and 6 of which have
+over 100. Here are some of my projects:
 
 - [Conky](https://github.com/brndnmtthws/conky), a system monitor for X
 - [ThetaGang](https://github.com/brndnmtthws/thetagang), an implementation of "the wheel", an options trading strategy
-- [dryoc](https://github.com/brndnmtthws/dryoc), a pure-Rust general purpose cryptography library, based on the libsodium (which is based on the legendary [NaCl from djb](https://nacl.cr.yp.to/))
-- [cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust), solutions to interview problems from the book "Cracking the Coding Interview", in Rust
+- [dryoc](https://github.com/brndnmtthws/dryoc), a pure-Rust general-purpose cryptography library based on the libsodium library (which is based on the legendary [NaCl from djb](https://nacl.cr.yp.to/))
+- [cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust), solutions to interview problems from the book "Cracking the Coding Interview" in Rust
 - [genserver](https://github.com/brndnmtthws/genserver), an [Elixir GenServer](https://hexdocs.pm/elixir/GenServer.html)-inspired Rust library
-- [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro trading bot for dollar cost averaging into "cryptos", if you like that sort of thing
+- [optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro), a Coinbase Pro trading bot for dollar cost averaging into "cryptos" if you like that sort of thing
 - [The HODLer Manifesto](https://github.com/brndnmtthws/hodlermanifesto), a short manifesto on HODLing
 - [tweet-delete](https://github.com/brndnmtthws/tweet-delete), a Twitter bot for deleting your tweets
 - [mother-of-dragons](https://github.com/brndnmtthws/mother-of-dragons), a miner management tool for DragonMint/Innosilicon mining hardware
 - [labhub](https://github.com/brndnmtthws/labhub), a bot for integrating GitLab CI with GitHub open-source projects
-- [doge-streamer](https://github.com/brndnmtthws/doge-streamer), a tool for streaming multiple webcams of my dog Doge from my apartment when I'm away, to take the edge off the separation anxiety I feel when I leave her alone
+- [doge-streamer](https://github.com/brndnmtthws/doge-streamer), a tool for streaming multiple webcams of my dog Doge from my apartment when I'm away to take the edge off the separation anxiety I feel when I leave her alone
 
 ## Writings
 
@@ -101,13 +108,16 @@ can still find:
 
 ### Blog Stats
 
-Below are some stats for this blog, for the fellow data nerds out there. If you
-want to dig deeper, head over to [the GitHub
-repo](https://github.com/brndnmtthws/brndn-io).
+Below are some stats for this blog for my fellow data nerds. If you want to dig
+deeper, head over to [the GitHub repo](https://github.com/brndnmtthws/brndn-io).
+
+Counts of posts and words by year:
 
 {{< chart >}}
 {{< postbyyear >}}
 {{< /chart >}}
+
+Counts of posts and words by month:
 
 {{< chart >}}
 {{< postbymonth >}}
@@ -115,7 +125,7 @@ repo](https://github.com/brndnmtthws/brndn-io).
 
 ## Photography
 
-I've always had an interest in photography, and my blog features plenty of my
+I've always been interested in photography, and my blog features plenty of
 original photography. You are welcome to use the imagery under the terms of the
 [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/) if you'd
 like, which permits you to do whatever you want with it (no attribution
