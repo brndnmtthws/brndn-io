@@ -1,5 +1,5 @@
 ---
-title: "Biology Is Self Correcting"
+title: "Biology Is Self-correcting"
 date: 2024-04-25T14:25:47-04:00
 draft: false
 tags:
