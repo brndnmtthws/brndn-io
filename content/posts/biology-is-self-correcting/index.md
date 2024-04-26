@@ -7,7 +7,7 @@ tags:
 - AI
 - technology
 - great filter
-- fermi paradox
+- Fermi paradox
 ---
 
 Thought leaders worldwide have been weighing in on the AI mania that has gripped
