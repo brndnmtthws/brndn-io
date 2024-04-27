@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.12",
+    "@tailwindcss/typography": "^0.5.13",
+    "browserslist": "^4.23.0",
     "caniuse-lite": "^1.0.30001612",
     "concurrently": "^8.2.2",
     "husky": "^9.0.11",
@@ -18,5 +19,10 @@
   },
   "lint-staged": {
     "*.{html,json,yaml}": "prettier --write"
-  }
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "not dead"
+  ]
 }
