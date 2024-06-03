@@ -41,8 +41,9 @@ of the world. Let's embark on this exciting adventure together!
 
 ## As a Professional
 
-I've worked at many startups, including [Airbnb](https://www.airbnb.com/), Mesosphere (now known as
-[D2IQ](https://d2iq.com/)), [Braze](https://www.braze.com/), and others.
+I've worked at many startups, including [Airbnb](https://www.airbnb.com/),
+Mesosphere (now known as [D2IQ](https://d2iq.com/)),
+[Braze](https://www.braze.com/), and others.
 
 My professional journey began with a Canadian oil and gas company specializing
 in manufacturing instrumentation for oil and gas exploration. Our tools were
@@ -99,12 +100,11 @@ over 100. Here are some of my projects:
 ## Writings
 
 I've published many things over the years, in addition to the content on this
-blog, and much of it has been lost to internet rot. Here are a few things you
-can still find:
+blog, although much of it has been lost to internet rot. Here are a few things
+you can still find:
 
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews_code_9_22_21&a_aid=brendenm&a_bid=3eb61509), my first Rust programming book (note: this is an affiliate link)
-- [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews2_rust_6_6_23&a_aid=brendenm&a_bid=cc069fd9&chan=mm_github), my second Rust programming book (note: this is an affiliate link)
-- [Programming in Rust: the good, the bad, the ugly.](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
+- [Rust Advanced Techniques](https://www.manning.com/books/rust-advanced-techniques?utm_source=brendenm&utm_medium=affiliate&utm_campaign=book_matthews2_rust_6_6_23&a_aid=brendenm&a_bid=cc069fd9&chan=mm_github), my second Rust programming book (note: this is an affiliate link)
 
 ### Blog Stats
 
