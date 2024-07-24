@@ -4,6 +4,8 @@ date: 2024-07-24T14:11:54-04:00
 draft: false
 tags:
 - habits
+- positive reinforcement
+- personal development
 ---
 
 It's surprisingly easy to form habits. And it's less difficult to break them
