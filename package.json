@@ -2,9 +2,9 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.14",
     "browserslist": "^4.23.3",
-    "caniuse-lite": "^1.0.30001651",
+    "caniuse-lite": "^1.0.30001653",
     "concurrently": "^8.2.2",
-    "husky": "^9.1.4",
+    "husky": "^9.1.5",
     "lint-staged": "^15.2.9",
     "prettier": "^3.3.3",
     "prettier-plugin-go-template": "^0.0.15",
