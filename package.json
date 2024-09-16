@@ -2,13 +2,13 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "browserslist": "^4.23.3",
-    "caniuse-lite": "^1.0.30001659",
-    "concurrently": "^9.0.0",
-    "husky": "^9.1.5",
+    "caniuse-lite": "^1.0.30001660",
+    "concurrently": "^9.0.1",
+    "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
     "prettier": "^3.3.3",
     "prettier-plugin-go-template": "^0.0.15",
-    "tailwindcss": "^3.4.10"
+    "tailwindcss": "^3.4.11"
   },
   "scripts": {
     "dev": "concurrently --kill-others \"npm run server\" \"npm run watch\"",
