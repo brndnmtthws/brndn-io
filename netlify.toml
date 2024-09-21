@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [build.environment]
-HUGO_VERSION = "0.133.1"
+HUGO_VERSION = "0.134.3"
 GO_VERSION = "1.22.2"
 
 [context.production.environment]
@@ -32,7 +32,7 @@ for = "/*"
 Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 
 [[redirects]]
-  from = "/blog/:year/:month/:day/:slug"
-  to = "/posts/:slug"
-  status = 301
-  force = true
+from = "/blog/:year/:month/:day/:slug"
+to = "/posts/:slug"
+status = 301
+force = true
