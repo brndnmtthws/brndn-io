@@ -1,29 +1,32 @@
-baseURL                = "https://brndn.io/"
+baseURL = "https://brndn.io/"
 defaultContentLanguage = "en"
 
-enableGitInfo   = true
+enableGitInfo = true
 enableRobotsTXT = true
-paginate        = 10
-summaryLength   = 50
-timeout         = "120s"
+# paginate = 10
+summaryLength = 50
+timeout = "120s"
+
+[pagination]
+pagerSize = 10
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
 
 [related]
 includeNewer = true
-threshold    = 80
-toLower      = true
-  [[related.indices]]
-  name   = 'tags'
-  weight = 100
-  [[related.indices]]
-  name   = 'date'
-  weight = 10
+threshold = 80
+toLower = true
+[[related.indices]]
+name = 'tags'
+weight = 100
+[[related.indices]]
+name = 'date'
+weight = 10
 
 [imaging]
-anchor         = 'Smart'
-bgColor        = '#ffffff'
-hint           = 'photo'
-quality        = 90
+anchor = 'Smart'
+bgColor = '#ffffff'
+hint = 'photo'
+quality = 90
 resampleFilter = 'Lanczos'
