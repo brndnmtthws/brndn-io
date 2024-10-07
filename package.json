@@ -2,7 +2,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "browserslist": "^4.24.0",
-    "caniuse-lite": "^1.0.30001666",
+    "caniuse-lite": "^1.0.30001667",
     "concurrently": "^9.0.1",
     "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
