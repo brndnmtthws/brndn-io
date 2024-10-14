@@ -1,6 +1,6 @@
 ---
 title: "Travel Obsession"
-date: 2024-14-10T14:42:48-04:00
+date: 2024-10-14T14:42:48-04:00
 draft: false
 tags:
 - travel
