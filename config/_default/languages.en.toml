@@ -1,13 +1,13 @@
-displayName  = "EN"
-isoCode      = "en"
+displayName = "EN"
+isoCode = "en"
 languageCode = "en"
 languageName = "English"
-rtl          = false
-weight       = 1
+rtl = false
+weight = 1
 
 title = "Brenden's Blog"
 
-[author]
+[params.author]
 bio = "[Who am I?](/about)"
 headline = """Opinions served up fresh, on everything from computers to economics [[**bio**]](/about)."""
 image = "img/brenden-matthews.jpg"
@@ -19,8 +19,8 @@ name = "Brenden Matthews"
 
 [params]
 displayName = "EN"
-isoCode     = "en"
-rtl         = false
+isoCode = "en"
+rtl = false
 
 dateFormat = "Jan 2, 2006"
 

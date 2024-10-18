@@ -6,54 +6,51 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 autoSwitchAppearance = true
-colorScheme          = "blark"
-defaultAppearance    = "light" # valid options: light or dark
+colorScheme = "blark"
+defaultAppearance = "light" # valid options: light or dark
 
 enableCodeCopy = true
-enableSearch   = true
+enableSearch = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
-
-[author]
-name = "Brenden Matthews"
 
 [header]
 layout = "page" # valid options: basic, hamburger, custom
 
 [footer]
 showAppearanceSwitcher = true
-showCopyright          = true
-showScrollToTop        = true
-showThemeAttribution   = false
+showCopyright = true
+showScrollToTop = true
+showThemeAttribution = false
 
 [homepage]
-layout     = "profile" # valid options: page, profile, custom
+layout = "profile" # valid options: page, profile, custom
 showRecent = true
 
 [article]
-showAuthor      = true
+showAuthor = true
 showBreadcrumbs = false
-showDate        = true
+showDate = true
 showDateUpdated = false
-showDraftLabel  = true
-showEdit        = false
+showDraftLabel = true
+showEdit = false
 # editURL = "https://github.com/username/repo/"
-editAppendPath      = true
-invertPagination    = false
-sharingLinks        = ["email", "facebook", "linkedin", "reddit", "twitter"]
-showComments        = false
-showHeadingAnchors  = true
-showPagination      = true
-showReadingTime     = true
+editAppendPath = true
+invertPagination = false
+sharingLinks = ["email", "facebook", "linkedin", "reddit", "twitter"]
+showComments = false
+showHeadingAnchors = true
+showPagination = true
+showReadingTime = true
 showTableOfContents = true
-showTaxonomies      = false
-showWordCount       = false
+showTaxonomies = false
+showWordCount = false
 
 [list]
-groupByYear         = true
-showBreadcrumbs     = false
-showSummary         = true
+groupByYear = true
+showBreadcrumbs = false
+showSummary = true
 showTableOfContents = false
 
 [sitemap]
