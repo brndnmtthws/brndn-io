@@ -6,6 +6,8 @@ tags:
 - habits
 - positive reinforcement
 - personal development
+- mindfulness
+- lifestyle
 ---
 
 It's surprisingly easy to form habits. And it's less difficult to break them
