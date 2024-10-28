@@ -3,10 +3,11 @@ title: "Growth vs. Grind"
 date: 2024-03-22T12:14:32-04:00
 draft: false
 tags:
-  - growth
-  - grind
-  - laziness
-  - startups
+- growth
+- grind
+- laziness
+- startups
+- luck
 ---
 
 It's worth discussing the difference between growth and grind mindsets. Growth
