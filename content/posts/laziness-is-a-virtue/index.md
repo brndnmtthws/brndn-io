@@ -6,6 +6,7 @@ tags:
 - laziness
 - virtue
 - philosophy
+- luck
 ---
 
 Young people are often fed some variation of the belief that hard work will be
