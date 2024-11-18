@@ -79,7 +79,7 @@
           <div
             class="line-clamp-5 md:line-clamp-4 group-hover:overflow-hidden text-neutral-600 md:text-neutral-500 group-hover:text-neutral-800 dark:text-neutral-400 md:dark:text-neutral-500 group-hover:dark:text-neutral-200"
           >
-            {{ .Summary | emojify }}
+            {{ .Summary | plainify | emojify }}
           </div>
           <div
             class="flex mt-1 items-center justify-center invisible text-center group-hover:visible text-neutral-800 dark:text-neutral-200 text-base"
