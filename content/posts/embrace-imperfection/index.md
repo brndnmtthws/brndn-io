@@ -34,7 +34,7 @@ I think that's a pretty good message to take to heart. It's not about being
 disengaged, disinterested, or apathetic. Rather, it's just a matter of being
 realistic and accepting that most of life is mundane, and that's okay.
 Furthermore, everything and everyone is imperfect. The entire world as we know
-it is in a constant state of disrepair, degredation, decomposition, and entropy.
+it is in a constant state of disrepair, degradation, decomposition, and entropy.
 It's a miracle that anything works at all, and yet here we are. Every day is a
 gift, and we should be grateful for it.
 
@@ -54,7 +54,7 @@ plunge into vinyl).
 
 There's a real charm and beauty in imperfection. It's what makes us human, and
 every human is perfectly imperfect. We all have our flaws, our quirks, our
-idiosyncracies, and our baggage.
+idiosyncrasies, and our baggage.
 
 In the context of modern dating, I think a big reason why so many people are
 lonely and unhappy is because they have unrealistic expectations. People want a
