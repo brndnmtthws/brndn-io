@@ -2,7 +2,14 @@
 title: "High Hopes, Low Expectations"
 date: 2024-12-02T15:25:33-05:00
 draft: false
-tags: []
+tags:
+- expectations
+- contentment
+- instant gratification
+- personal growth
+- perfectionism
+- detachment
+- gratitude
 ---
 
 Although I [have written about this idea before](posts/embrace-imperfection), I
