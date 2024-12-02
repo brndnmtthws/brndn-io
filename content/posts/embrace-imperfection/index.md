@@ -7,6 +7,10 @@ tags:
 - photography
 - imperfection
 - acceptance
+- stoicism
+- mindfulness
+- personal growth
+- contentment
 ---
 
 I have a saying, or perhaps a mantra, that I like to repeat to myself: "High
