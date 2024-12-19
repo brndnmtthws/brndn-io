@@ -2,7 +2,13 @@
 title: "Performative Existing"
 date: 2024-12-19T08:03:07-05:00
 draft: false
-tags: []
+tags:
+- performative behavior
+- social media
+- authenticity
+- self-awareness
+- modern culture
+- self-reflection
 ---
 
 Sometimes we do things because we want to, sometimes we do things because we
