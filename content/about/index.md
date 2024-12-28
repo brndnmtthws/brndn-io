@@ -16,57 +16,52 @@ showPagination: false
     alt="How my face looks"
     class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
     >}}
-I am a seasoned entrepreneur, skilled software engineer, talented artist, and
-adventurous spirit with a rich history of collaborating with numerous startups
-over the past two decades. I have played a pivotal role in driving the
-exponential growth of three companies, each surpassing a valuation of $1
-billion, and have also embarked on my own entrepreneurial ventures.
+I’m a seasoned entrepreneur, skilled software engineer, multifaceted artist, and
+adventurous spirit with over two decades of experience partnering with startups.
+Along the way, I’ve helped three companies each exceed a $1 billion valuation,
+and I’ve also pursued my own entrepreneurial ventures.
 
-Originally from Canada, I moved to San Francisco in 2009 and have recently been
-based primarily in New York. This blog serves as a personal journal, a platform
-for sharing my thoughts, and a valuable record of my experiences. It is
-heartening to receive occasional emails from readers who find my posts engaging
-and insightful.
+Originally from Canada, I moved to San Francisco in 2009 before transitioning
+much of my work to New York. This blog doubles as both personal journal and
+living archive for my projects, thoughts, and adventures—a space where I’m
+always grateful to hear from readers who find value in what I share.
 
-I approach my work with a deep sense of competence and confidence, drawing from
-my extensive expertise and diverse skill set. I thrive on challenges and have
-consistently demonstrated my ability to navigate through various stages of
-growth and innovation. Beyond my professional pursuits, I have a passion for
-adventure, having climbed mountains, completed marathons, and embarked on
-long-distance cycling journeys.
+My approach combines competence, confidence, and curiosity. I thrive on
+challenges, drawing on diverse skills to navigate and scale through different
+stages of growth and innovation. Beyond professional pursuits, I’ve climbed
+mountains, run marathons, embarked on long-distance cycling tours, and maintain
+a daily yoga practice.
 
-I invite you to join me on this journey of exploration and discovery as we delve
-into the realms of entrepreneurship, software engineering, art, and the wonders
-of the world. Let's embark on this exciting adventure together!
+I invite you to join me in exploring entrepreneurship, software engineering,
+art, and the wonders of life. Let’s take this journey together.
 
 ## As a Professional
 
-I've worked at many startups, including [Airbnb](https://www.airbnb.com/),
-Mesosphere (now known as [D2IQ](https://d2iq.com/)),
-[Braze](https://www.braze.com/), and others.
+I've worked at several startups, including [Airbnb](https://www.airbnb.com/),
+[Mesosphere (now D2IQ)](https://d2iq.com/), and [Braze](https://www.braze.com/),
+among others.
 
-My professional journey began with a Canadian oil and gas company specializing
-in manufacturing instrumentation for oil and gas exploration. Our tools were
-designed to measure pressure, temperature, and other metrics within wells,
-withstanding extreme conditions for extended periods.
+My professional journey began at a Canadian oil and gas company that specialized
+in manufacturing instrumentation for exploration. Our tools measured pressure,
+temperature, and other metrics inside wells, often under extreme conditions for
+extended periods.
 
-In 2009, I joined a California-based company that provided telecom companies
-with mobile network telemetry tools and network optimization services. During my
-time there, I developed a highly optimized custom database, built an RPC system,
-and wrote the initial parser for Ericsson LTE layer two network data. The
-company was later acquired by Tektronix.
+In 2009, I joined a California-based firm providing mobile network telemetry and
+optimization services for telecom companies. While there, I developed a custom
+database, built an RPC system, and wrote the initial parser for Ericsson LTE
+layer two network data. The company was later acquired by Tektronix.
 
-In 2013, I became part of the data infrastructure team at Airbnb. During my
-tenure, I made contributions to various open-source projects, including the
-Apache Mesos project, where I eventually became a PMC member. Additionally, I
-worked on projects like Chronos, SmartStack, Kafka, and more.
+I joined Airbnb in 2013 as part of the data infrastructure team, contributing to
+various open-source initiatives, including Apache Mesos (where I became a PMC
+member), Chronos, SmartStack, and Kafka. In 2015, I moved to Mesosphere, founded
+by two former Airbnb colleagues and the creator of Mesos, to help scale the
+company, establish the sales team, and lay the groundwork for its service
+organization.
 
-In 2015, I joined Mesosphere, a company founded by two former Airbnb colleagues
-and the creator of Mesos. My role involved scaling the company, establishing the
-sales team, and laying the groundwork for the service organization.
-
-In 2018, I briefly joined Braze but decided to leave after six months to pursue
-my own entrepreneurial ventures.
+By 2019, I shifted my focus to entrepreneurship after a brief stint at Braze,
+deciding to pursue my own ventures and build upon the extensive startup
+experiences I’d gained. I also began writing books on Rust programming, a topic
+I am passionate about.
 
 _[You can find a copy of my résumé here.](https://github.com/brndnmtthws/resume/blob/main/resume.pdf)_
 
