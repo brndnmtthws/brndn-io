@@ -37,6 +37,11 @@ art, and the wonders of life. Let’s take this journey together.
 
 ## As a Professional
 
+{{< figure
+    src="IMG_8568.jpg"
+    alt="Another photo of me"
+    class="sm:max-w-[16rem] sm:float-right sm:mr-0 sm:ml-4 my-1"
+    >}}
 I've worked at several startups, including [Airbnb](https://www.airbnb.com/),
 [Mesosphere (now D2IQ)](https://d2iq.com/), and [Braze](https://www.braze.com/),
 among others.
@@ -94,6 +99,11 @@ over 100. Here are some of my projects:
 
 ## Writings
 
+{{< figure
+    src="IMG_8194.jpg"
+    alt="Yet another photo of me"
+    class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
+    >}}
 I've published many things over the years, in addition to the content on this
 blog, although much of it has been lost to internet rot. Here are a few things
 you can still find:
