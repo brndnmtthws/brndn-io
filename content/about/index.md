@@ -55,11 +55,7 @@ In 2009, I joined a California-based firm providing mobile network telemetry and
 optimization services for telecom companies. While there, I developed a custom
 database, built an RPC system, and wrote the initial parser for Ericsson LTE
 layer two network data. The company was later acquired by Tektronix.
-{{< figure
-    src="IMG_8194.jpg"
-    alt="Yet another photo of me"
-    class="sm:max-w-[16rem] sm:float-left sm:ml-0 sm:mr-4 my-1"
-    >}}
+
 I joined Airbnb in 2013 as part of the data infrastructure team, contributing to
 various open-source initiatives, including Apache Mesos (where I became a PMC
 member), Chronos, SmartStack, and Kafka. In 2015, I moved to Mesosphere, founded
@@ -83,11 +79,6 @@ MesosCon, ContainerCon, LinuxCon, and others.
 
 ## Open Source
 
-{{< figure
-    src="IMG_8492.jpg"
-    alt="One more for good measure"
-    class="sm:max-w-[16rem] sm:float-right sm:ml-0 sm:mr-4 my-1"
-    >}}
 I've contributed to a long list of open-source projects over the years. I am
 probably most well-known for creating a project called
 [Conky](https://github.com/brndnmtthws/conky). Today, I have more than 150
