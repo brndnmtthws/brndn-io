@@ -7,6 +7,11 @@ tags:
 - catharsis
 - creativity
 - thinking
+- self-expression
+- communication
+- self-reflection
+- clarity
+- blogging
 ---
 
 Writing is not easy, and it's easier for some than others. Personally I don't
