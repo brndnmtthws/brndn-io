@@ -8,11 +8,11 @@ weight = 1
 title = "Brenden's Blog"
 
 [params.author]
-bio = "[Who am I?](/about)"
+bio = "Software engineer, artist, author, entrepreneur, dog lover."
 headline = """Opinions served up fresh, on everything from computers to economics [[**bio**]](/about)."""
 image = "img/brenden-matthews.jpg"
 links = [
-  { email = "mailto:sup@brenden.brndn.io" },
+  { email = "mailto:hifromyourblog@brenden.brndn.io" },
   { github = "https://github.com/brndnmtthws" },
 ]
 name = "Brenden Matthews"
