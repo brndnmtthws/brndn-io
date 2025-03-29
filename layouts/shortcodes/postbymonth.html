@@ -1,0 +1,56 @@
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $posts := where $posts "Draft" false }}
+{{ $p := newScratch }}
+{{ range $posts }}
+  {{ $p.Add (.Date.Month.String | first 3) (slice .) }}
+{{ end }}
+{{ $posts := $p.Values }}
+{{ $months := (slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec") }}
+type: 'bar',
+options: {
+    plugins: {
+        title: {
+            display: true,
+            text: 'Blog Posts by Month'
+        },
+    },
+    scales: {
+        y: {
+            type: 'linear',
+            display: true,
+            position: 'left',
+        },
+        y1: {
+            type: 'linear',
+            display: true,
+            position: 'right',
+            z: 1,
+            grid: {
+                drawOnChartArea: false,
+            },
+        },
+    },
+},
+data: {
+  labels: [{{ range $months }}'{{.}}',{{ end }}],
+  datasets: [{
+    type: 'bar',
+    label: '# of posts',
+    yAxisID: 'y',
+    order: 2,
+    borderColor: 'rgba(153, 102, 255, 0.8)',
+    backgroundColor: 'rgba(153, 102, 255, 0.8)',
+    borderRadius: 5,
+    data: [{{ range $months }}{{if isset $posts .}}{{ index $posts . | len }}{{ else }}0{{ end }},{{ end }}],
+  },
+  {
+    type: 'line',
+    label: '# of words',
+    yAxisID: 'y1',
+    order: 1,
+    borderColor: 'rgba(240, 99, 132, 0.8)',
+    backgroundColor: 'rgba(240, 99, 132, 0.8)',
+    borderRadius: 5,
+    data: [{{ range $months }}{{ $vals := 0 }}{{ range index $posts . }}{{ $vals = add $vals .WordCount }}{{ end }}{{ $vals }},{{ end }}],
+  }]
+}

@@ -1,0 +1,344 @@
+Return-Path: <david@chalk.dev>
+Received: from compute7.internal (compute7.nyi.internal [10.202.2.48])
+	 by sloti44n40 (Cyrus 3.11.0-alpha0-251-g8332da0bf6-fm-20240305.001-g8332da0b) with LMTPA;
+	 Tue, 12 Mar 2024 13:26:21 -0400
+X-Cyrus-Session-Id: sloti44n40-1710264381-3148530-2-4879550415546754872
+X-Sieve: CMU Sieve 3.0
+X-Spam-known-sender: no
+X-Spam-sender-reputation: 500 (none)
+X-Spam-score: 4.6
+X-Spam-hits: BAYES_99 3.5, BAYES_999 1.2, DCC_REPUT_13_19 -0.1, HTML_MESSAGE 0.001,
+  LOTS_OF_MONEY 0.001, ME_HAS_VSSU 0.001, ME_SC_NH -0.001,
+  ME_SENDERREP_NEUTRAL 0.001, RCVD_IN_DNSWL_NONE -0.0001,
+  RCVD_IN_MSPIKE_H2 -0.001, SPF_HELO_NONE 0.001, SPF_PASS -0.001,
+  T_KAM_HTML_FONT_INVALID 0.01, T_SCC_BODY_TEXT_LINE -0.01, LANGUAGES en,
+  BAYES_USED user, SA_VERSION 3.4.6
+X-Spam-source: IP='209.85.208.173', Host='mail-lj1-f173.google.com', Country='US',
+  FromHeader='dev', MailFrom='dev'
+X-Spam-charsets: plain='UTF-8', html='UTF-8'
+X-Resolved-to: brndnmtthws+resume@fastmail.com
+X-Delivered-to: resume@brenden.brndn.io
+X-Mail-from: david@chalk.dev
+Received: from mx2 ([10.202.2.201])
+  by compute7.internal (LMTPProxy); Tue, 12 Mar 2024 13:26:21 -0400
+Received: from mx2.messagingengine.com (localhost [127.0.0.1])
+	by mailmx.nyi.internal (Postfix) with ESMTP id 77EB16A007F
+	for <resume@brenden.brndn.io>; Tue, 12 Mar 2024 13:26:20 -0400 (EDT)
+Received: from mailmx.nyi.internal (localhost [127.0.0.1])
+    by mx2.messagingengine.com (Authentication Milter) with ESMTP
+    id FF5A3C9D66D.BD86A6A00A6;
+    Tue, 12 Mar 2024 13:26:20 -0400
+ARC-Seal: i=1; a=rsa-sha256; cv=none; d=messagingengine.com; s=fm1; t=
+    1710264380; b=bsAIq3SU0sua8KDY5smnEDt7bmSK+G9fCclkOKH7snYqYEChtc
+    MwF5eA93px0AN0L3sj6JGesAAv8S1hHVTl0b2QS53yaMxHa1kZdbg3fFa1NfDtad
+    SR2DtP0Wt3eukP+BHbdhdZcCgS07teGU/NLOCWyOaS5EGUVacr0jYP+FPsixRTWL
+    YTsAT6/eHXQ0R76Lo6ncKwgHZl+Kwm50SPELJyoYHwrc2Ii8afo08VLeYk5bpv8+
+    6tmpmS+5ubBI1OhtUc38yrRSAv0cQ5YFZBGdx8s/CLMP9hyqmX1RqWhVl/OwLdWV
+    zppwyFdfou/JlihYJTyIXqSgatkylvHW+Y/Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=
+    messagingengine.com; h=mime-version:from:in-reply-to:references
+    :list-unsubscribe:date:message-id:subject:to:content-type; s=
+    fm1; t=1710264380; bh=iQ6r21a6Lx/aCND78PauwpFxlCGljTa9sUsuJAKjhV
+    M=; b=BTuhvfZB6snmPnsUBpvvrNENKf4gL7ORPFIN3sUkn5KqE64UusODsSdSSi
+    +Z/lVXZMBnOv3Ud44058sN85sKCHg4mnFdvN9piR+j35TueZHM38ehKwsFAy/xbe
+    GokgE3f8bv/5X44YC4gF+LHFEld1a/tYkcwsW4+SVqFfDQ96B7wQzpQAtCYzDq3X
+    P8LTttlPqUZgW0vyEOONk/MdylosusKE8rZWL3rqi0Gdlchc3ENohMexOx6XWGe0
+    C5yRsDA9gk8YGBYYilzCBfjqU0fea2Ral8cNVOL9Q9RjvvhiLi5k3yKsPdTB8i2p
+    zvQZ/CTW4Ll74jtvnfUctc3Hfn+A==
+ARC-Authentication-Results: i=1; mx2.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=mail-lj1-f173.google.com
+    policy.ptr=mail-lj1-f173.google.com;
+    bimi=none (No BIMI records found);
+    arc=none (no signatures found);
+    dkim=pass (2048-bit rsa key sha256) header.d=chalk.dev
+    header.i=@chalk.dev header.b=H+ds6pHj header.a=rsa-sha256
+    header.s=google;
+    dmarc=pass policy.published-domain-policy=reject
+    policy.applied-disposition=none policy.evaluated-disposition=none
+    (p=reject,d=none,d.eval=none) policy.policy-from=p
+    header.from=chalk.dev;
+    iprev=pass smtp.remote-ip=209.85.208.173 (mail-lj1-f173.google.com);
+    spf=pass smtp.mailfrom=david@chalk.dev
+    smtp.helo=mail-lj1-f173.google.com
+X-ME-Authentication-Results: mx2.messagingengine.com;
+    x-aligned-from=pass (Address match);
+    x-google-dkim=pass (2048-bit rsa key) header.d=1e100.net
+      header.i=@1e100.net header.b=EurC8p4G;
+    x-return-mx=pass header.domain=chalk.dev policy.is_org=yes
+      (MX Records found: alt2.aspmx.l.google.com,aspmx.l.google.com,aspmx2.googlemail.com,aspmx3.googlemail.com,alt1.aspmx.l.google.com);
+    x-return-mx=pass smtp.domain=chalk.dev policy.is_org=yes
+      (MX Records found: aspmx2.googlemail.com,aspmx3.googlemail.com,alt1.aspmx.l.google.com,alt2.aspmx.l.google.com,aspmx.l.google.com);
+    x-tls=pass smtp.version=TLSv1.3 smtp.cipher=TLS_AES_256_GCM_SHA384
+      smtp.bits=256/256;
+    x-vs=commercial:mce score=18 state=11
+Authentication-Results: mx2.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=mail-lj1-f173.google.com
+      policy.ptr=mail-lj1-f173.google.com
+Authentication-Results: mx2.messagingengine.com;
+    bimi=none (No BIMI records found)
+Authentication-Results: mx2.messagingengine.com;
+    arc=none (no signatures found)
+Authentication-Results: mx2.messagingengine.com;
+    dkim=pass (2048-bit rsa key sha256) header.d=chalk.dev
+      header.i=@chalk.dev header.b=H+ds6pHj header.a=rsa-sha256
+      header.s=google;
+    dmarc=pass policy.published-domain-policy=reject
+      policy.applied-disposition=none policy.evaluated-disposition=none
+      (p=reject,d=none,d.eval=none) policy.policy-from=p
+      header.from=chalk.dev;
+    iprev=pass smtp.remote-ip=209.85.208.173 (mail-lj1-f173.google.com);
+    spf=pass smtp.mailfrom=david@chalk.dev
+      smtp.helo=mail-lj1-f173.google.com
+X-ME-VSSU: VW5zdWI9aHR0cHM6Ly96bnNyYy5jb20vdW5zdWJzY3JpYmUvM2MxZDA0Y2Q0NjgwNDhlZD
+    lhZjcwMmI1N2Y2YmUwOWI
+X-ME-VSSU: VW5zdWI9aHR0cHM6Ly96bnNyYy5jb20vdW5zdWJzY3JpYmUvY29uZmlybS8zYzFkMDRjZD
+    Q2ODA0OGVkOWFmNzAyYjU3ZjZiZTA5Yg
+X-ME-VSCause: gggruggvucftvghtrhhoucdtuddrgedvledrjeefgddutddtucetufdoteggodetrfdotf
+    fvucfrrhhofhhilhgvmecuhfgrshhtofgrihhlpdggtfgfnhhsuhgsshgtrhhisggvpdfu
+    rfetoffkrfgpnffqhgenuceurghilhhouhhtmecufedttdenucdnffhirhgvtghtrfhroh
+    hsphgvtghtucdludekmdenucfjughrpegghfgjfhfjfffkuffvtgesrgdtreertddtjeen
+    ucfhrhhomhepffgrvhhiugcuvegrrhhlihhslhgvuceouggrvhhiugestghhrghlkhdrug
+    gvvheqnecuggftrfgrthhtvghrnhepvdetffdvfeeikeeugfefjedvvdevkeehuedtjeei
+    tedtieejheevjedvvddvtdfgnecuffhomhgrihhnpehgrhgvvghnhhhouhhsvgdrihhopd
+    gthhgrlhhkrdgrihdplhhinhhkvgguihhnrdgtohhmpdiinhhsrhgtrdgtohhmnecukfhp
+    pedvtdelrdekhedrvddtkedrudejfeenucevlhhushhtvghrufhiiigvpedtnecurfgrrh
+    grmhepihhnvghtpedvtdelrdekhedrvddtkedrudejfedphhgvlhhopehmrghilhdqlhhj
+    uddqfhdujeefrdhgohhoghhlvgdrtghomhdpmhgrihhlfhhrohhmpeeouggrvhhiugestg
+    hhrghlkhdruggvvheqpdhnsggprhgtphhtthhopedupdhrtghpthhtohepoehrvghsuhhm
+    vgessghrvghnuggvnhdrsghrnhgunhdrihhoqe
+X-ME-VSScore: 18
+X-ME-VSCategory: commercial:mce
+X-ME-CSA: none
+X-ME-Received: <xmx:PJDwZQFjtrRJ8J5imPBYQmmExz9JSYMayP-wK5y1wzDHEEQ1D202qA>
+Received-SPF: pass
+    (chalk.dev: Sender is authorized to use 'david@chalk.dev' in 'mfrom' identity (mechanism 'include:_spf.google.com' matched))
+    receiver=mx2.messagingengine.com;
+    identity=mailfrom;
+    envelope-from="david@chalk.dev";
+    helo=mail-lj1-f173.google.com;
+    client-ip=209.85.208.173
+Received: from mail-lj1-f173.google.com (mail-lj1-f173.google.com [209.85.208.173])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mx2.messagingengine.com (Postfix) with ESMTPS id BD86A6A00A6
+	for <resume@brenden.brndn.io>; Tue, 12 Mar 2024 13:26:19 -0400 (EDT)
+Received: by mail-lj1-f173.google.com with SMTP id 38308e7fff4ca-2d459a0462fso12927241fa.2
+        for <resume@brenden.brndn.io>; Tue, 12 Mar 2024 10:26:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=chalk.dev; s=google; t=1710264377; x=1710869177; darn=brenden.brndn.io;
+        h=to:subject:message-id:date:list-unsubscribe-post:list-unsubscribe
+         :references:in-reply-to:from:mime-version:from:to:cc:subject:date
+         :message-id:reply-to;
+        bh=iQ6r21a6Lx/aCND78PauwpFxlCGljTa9sUsuJAKjhVM=;
+        b=H+ds6pHjRwef3Xzk3H96Kd9HgkRaOKHJZzy7eLSbsOi3vbfu5NbOYVBQMSZD45Dcx/
+         txVdSfHOrtCzKLBJKMdh4zBjDyZBjWtN1ABVWcx4oIkl/RmRaHndXhJW6dSY0FUMsxZz
+         7SIhig07RiNQEv+Jui2Gu/kUTGmiHNvZ8Bdx2U++vJs4PFcTDm3AwVEpY/BkzksMPNMb
+         XFLCjCuiqtlrqLSlv8lYxu0MsCbwTpUEcBymdAqlqNSTfbjNZkuCKB9jBlXaxNBM8LSH
+         WMEYaDm3jNfdxS4m2aj3XVRgy3VMckKUlBlZWEUQiE2d91ew1tSkiJE2YehL3hVpRgnN
+         ZN5g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1710264377; x=1710869177;
+        h=to:subject:message-id:date:list-unsubscribe-post:list-unsubscribe
+         :references:in-reply-to:from:mime-version:x-gm-message-state:from:to
+         :cc:subject:date:message-id:reply-to;
+        bh=iQ6r21a6Lx/aCND78PauwpFxlCGljTa9sUsuJAKjhVM=;
+        b=EurC8p4GyVbLHSL3hb4JFuonnWTprGeKBp40KSRSgbbAJt498X0f+LiWgOsMGSGQ2K
+         I6YFFy4dmHkrV1yTQazElRthSCIXg331Of+TPOnsPU8bLhtC7//54okE+YjOOUyFOh4T
+         9FW6ubeoQxEa4Lk8cHlM+10CxeZgPvZQSII2O8B3ZWxGdNExBQEEpNTWoLszdwdtlw/j
+         4orxB81pMT5jNVNyBpsZSn/b+HTwPIGVddG+fQvb5VObsQ2wFtYMsUMvc3QdXMHnXVgd
+         95kvgJ5vAdTHf8kNPPAvS5EdjfT3pZcHtZesXP7TOWNdZu4/8uCO0cbaIefzTng2EJrr
+         SeyA==
+X-Gm-Message-State: AOJu0Yxqn3YYoIzAPJidxsgtZ4UjlQ9f1h69ay2rA157rwlI+xEZfN+O
+	W0j3v78w9bA5kUnpZ+bwLU36vPdPrWMzFg21VIqWCUj7FiOhsjL+oelQ3iNiD/rMFtHYTGUtJVQ
+	I+fDYeUtJqLNyJ7+03x5/lztFgHCebhZv/1Qxk83g8WxxjHik
+X-Google-Smtp-Source: AGHT+IFN9BV5fEbOIAhNRi6SA1C0aQmrU9vvlLNgOZgCMT1xhxMcm6bcvqhAXrdNWtgj1LlEorPWk1YjQmNJdNhVLfM=
+X-Received: by 2002:a2e:a98c:0:b0:2d4:3bbb:87e0 with SMTP id
+ x12-20020a2ea98c000000b002d43bbb87e0mr5536424ljq.21.1710264377314; Tue, 12
+ Mar 2024 10:26:17 -0700 (PDT)
+Received: from 58431258424 named unknown by gmailapi.google.com with HTTPREST;
+ Tue, 12 Mar 2024 10:26:16 -0700
+MIME-Version: 1.0
+From: David Carlisle <david@chalk.dev>
+In-Reply-To: <CABC+T6mCqe_8mxOcKQxixJ_MtfiuREO=jFx=-wpJNtedoXdZpA@mail.gmail.com>
+References: <CABC+T6mCqe_8mxOcKQxixJ_MtfiuREO=jFx=-wpJNtedoXdZpA@mail.gmail.com>
+X-ZenSr-ID: NtrKfXngAWlzHKL
+List-Unsubscribe: <https://znsrc.com/unsubscribe/confirm/3c1d04cd468048ed9af702b57f6be09b>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Date: Tue, 12 Mar 2024 10:26:16 -0700
+Message-ID: <CABC+T6=+=zVeSi77yRr226jxeQRK5-w3o0dDne1MKyJJkfzX+Q@mail.gmail.com>
+Subject: Re: Brenden - We're hiring Software Engineers at Chalk
+To: resume@brenden.brndn.io
+Content-Type: multipart/alternative; boundary="000000000000aeb04b061379f4d9"
+
+--000000000000aeb04b061379f4d9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Brenden,
+
+I hope things are going well for you! I wanted to send a quick note to
+follow-up =E2=80=93
+
+We are hiring Software Engineers
+<https://boards.greenhouse.io/chalkinc/jobs/4031707005> to join our team at
+Chalk <https://chalk.ai/about> and I=E2=80=99d be really excited about the =
+chance
+to work together.
+
+We=E2=80=99re at a particularly exciting stage and I=E2=80=99d love to conn=
+ect.
+
+Thanks again Brenden,
+
+David
+
+On Tue, Mar 05, 2024 at 04:32 PM David Carlisle<david@chalk.dev> wrote:
+
+Hi Brenden,
+
+I work at Chalk <https://chalk.ai/> and we=E2=80=99re hiring Software Engin=
+eers
+<https://boards.greenhouse.io/chalkinc/jobs/4031707005> to join the team
+<https://www.linkedin.com/company/chalkai/people/>. We think you could be a
+great fit.
+
+Chalk is building machine learning infrastructure to answer the world=E2=80=
+=99s
+hardest questions. We make it easy for machine learning teams to build
+high-performance pipelines that deliver data to models at the right time.
+We orchestrate infrastructure and automatically track data lineage so
+developers can work confidently and focus on their unique products and
+insights.
+
+We=E2=80=99re lucky to have an all-star founding team. Elliot
+<https://www.linkedin.com/in/elliotmarx/> started his career at Affirm
+where he built the policy and resolver framework (the inspiration for
+Chalk). He then started Haven Money which Credit Karma acquired to power
+its banking products. Andy <https://www.linkedin.com/in/amoreland/> got his
+start at Palantir working on large government data infrastructure projects
+before co-founding Haven with Elliot. And Marc
+<https://www.linkedin.com/in/marcff/> (our CEO) spent many years at Google
+where he helped to launch the first version of Google Wallet. He went on to
+start Index which Stripe acquired as its in-store payment solution =E2=80=
+=93 it=E2=80=99s
+now called Stripe Terminal.
+
+Across their experiences, they have seen and tackled the challenge of
+building the data infrastructure that's required to make high quality
+credit, risk and fraud decisions. That led Marc, Elliot and Andy to Chalk =
+=E2=80=94
+data infrastructure for machine learning with a best-in-class developer
+experience.
+
+Look forward to hearing from you,
+
+David
+
+David Carlisle
+Recruiter at Chalk <https://chalk.ai/>
+$10M Seed Funding Announcement
+<https://chalk.ai/blog/announcing-chalk-10m-seed-funding>
+
+
+David Carlisle
+Recruiter at Chalk <https://chalk.ai/>
+$10M Seed Funding Announcement
+<https://chalk.ai/blog/announcing-chalk-10m-seed-funding>
+
+Unsubscribe <https://znsrc.com/unsubscribe/3c1d04cd468048ed9af702b57f6be09b=
+>
+
+--000000000000aeb04b061379f4d9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><div><span style=3D"background-color:transparent;color:rgb(0,0,0)">Hi =
+Brenden,</span></div><div><br></div><div><span style=3D"background-color:tr=
+ansparent;color:rgb(0,0,0)">I hope things are going well for you! I wanted =
+to send a quick note to follow-up =E2=80=93</span></div><div><br></div><div=
+><span style=3D"background-color:transparent;color:rgb(0,0,0)">We are hirin=
+g </span><a href=3D"https://boards.greenhouse.io/chalkinc/jobs/4031707005" =
+style=3D"background-color:transparent;color:rgb(17,85,204)" rel=3D"noopener=
+ noreferrer">Software Engineers</a><span style=3D"background-color:transpar=
+ent;color:rgb(0,0,0)"> to join our team at </span><a href=3D"https://chalk.=
+ai/about" style=3D"background-color:transparent;color:rgb(17,85,204)" rel=
+=3D"noopener noreferrer">Chalk</a><span style=3D"background-color:transpare=
+nt;color:rgb(0,0,0)"> and I=E2=80=99d be really excited about the chance to=
+ work together. </span></div><div><br></div><div><span style=3D"background-=
+color:transparent;color:rgb(0,0,0)">We=E2=80=99re at a particularly excitin=
+g stage and I=E2=80=99d love to connect.</span></div><div><br></div><div><s=
+pan style=3D"background-color:transparent;color:rgb(0,0,0)">Thanks again Br=
+enden,</span></div><div><br></div><div><span style=3D"background-color:tran=
+sparent;color:rgb(0,0,0)">David=C2=A0</span></div><br><div>On Tue, Mar 05, =
+2024 at 04:32 PM David Carlisle&lt;<a href=3D"mailto:david@chalk.dev">david=
+@chalk.dev</a>&gt; wrote:</div><div><blockquote style=3D"margin:0px 0px 0px=
+ 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><div><div><=
+span style=3D"color:rgb(0,0,0);background-color:transparent">Hi Brenden,</s=
+pan></div><div><br></div><div><span style=3D"color:rgb(0,0,0);background-co=
+lor:transparent">I work at </span><a href=3D"https://chalk.ai/" rel=3D"noop=
+ener noreferrer" target=3D"_blank" style=3D"color:rgb(17,85,204);background=
+-color:transparent">Chalk</a><span style=3D"color:rgb(0,0,0);background-col=
+or:transparent"> and we=E2=80=99re hiring </span><a href=3D"https://boards.=
+greenhouse.io/chalkinc/jobs/4031707005" rel=3D"noopener noreferrer" target=
+=3D"_blank" style=3D"color:rgb(17,85,204);background-color:transparent">Sof=
+tware Engineers</a><span style=3D"color:rgb(0,0,0);background-color:transpa=
+rent"> to join the </span><a href=3D"https://www.linkedin.com/company/chalk=
+ai/people/" rel=3D"noopener noreferrer" target=3D"_blank">team</a><span sty=
+le=3D"color:rgb(0,0,0);background-color:transparent">. We think you could b=
+e a great fit.</span></div><div><br></div><div><span style=3D"color:rgb(0,0=
+,0);background-color:transparent">Chalk is building machine learning infras=
+tructure to answer the world=E2=80=99s hardest questions. We make it easy f=
+or machine learning teams to build high-performance pipelines that deliver =
+data to models at the right time. We orchestrate infrastructure and automat=
+ically track data lineage so developers can work confidently and focus on t=
+heir unique products and insights.</span></div><div><br></div><div><span st=
+yle=3D"color:rgb(0,0,0);background-color:transparent">We=E2=80=99re lucky t=
+o have an all-star founding team. </span><a href=3D"https://www.linkedin.co=
+m/in/elliotmarx/" rel=3D"noopener noreferrer" target=3D"_blank" style=3D"co=
+lor:rgb(17,85,204);background-color:transparent">Elliot</a><span style=3D"c=
+olor:rgb(0,0,0);background-color:transparent"> </span><span style=3D"backgr=
+ound-color:transparent">started his career at Affirm where he built the pol=
+icy and resolver framework (the inspiration for Chalk). He then started Hav=
+en Money which Credit Karma acquired to power its banking products. </span>=
+<a href=3D"https://www.linkedin.com/in/amoreland/" rel=3D"noopener noreferr=
+er" target=3D"_blank" style=3D"background-color:transparent;color:rgb(17,85=
+,204)">Andy</a><span style=3D"background-color:transparent"> got his start =
+at Palantir working on large government data infrastructure projects before=
+ co-founding Haven with Elliot. And </span><a href=3D"https://www.linkedin.=
+com/in/marcff/" rel=3D"noopener noreferrer" target=3D"_blank" style=3D"back=
+ground-color:transparent;color:rgb(17,85,204)">Marc</a><span style=3D"backg=
+round-color:transparent;color:rgb(0,0,0)"> (our CEO) spent many years at Go=
+ogle where he helped to launch the first version of Google Wallet. He went =
+on to start Index which Stripe acquired as its in-store payment solution =
+=E2=80=93 it=E2=80=99s now called Stripe Terminal.</span></div><div><br></d=
+iv><div><span style=3D"background-color:transparent">Across their experienc=
+es, they have seen and tackled the challenge of building the data infrastru=
+cture that&#39;s required to make high quality credit, risk and fraud decis=
+ions. That led Marc, Elliot and Andy to Chalk =E2=80=94 data infrastructure=
+ for machine learning with a best-in-class developer experience.=C2=A0</spa=
+n></div><div><br></div><div><span style=3D"color:rgb(0,0,0);background-colo=
+r:transparent">Look forward to hearing from you,</span></div><div><br></div=
+><div><span style=3D"color:rgb(0,0,0);background-color:transparent">David=
+=C2=A0</span></div><div><br></div><div dir=3D"ltr">David Carlisle<div>Recru=
+iter at=C2=A0<a href=3D"https://chalk.ai/" target=3D"_blank">Chalk</a></div=
+><div><a href=3D"https://chalk.ai/blog/announcing-chalk-10m-seed-funding" t=
+arget=3D"_blank">$10M Seed Funding Announcement</a></div><div><img width=3D=
+"96" height=3D"29" src=3D"https://ci3.googleusercontent.com/mail-sig/AIorK4=
+yThTNzT46WS4RuPhdmWM2FYK7XbETXQcSh232dFmYEhALq6w1d6DigE-fYiy4swZkNer67RRM">=
+</div></div></div></blockquote></div><div><br></div><div dir=3D"ltr">David =
+Carlisle<div>Recruiter at=C2=A0<a href=3D"https://chalk.ai/" target=3D"_bla=
+nk">Chalk</a></div><div><a href=3D"https://chalk.ai/blog/announcing-chalk-1=
+0m-seed-funding" target=3D"_blank">$10M Seed Funding Announcement</a></div>=
+<div><img width=3D"96" height=3D"29" src=3D"https://ci3.googleusercontent.c=
+om/mail-sig/AIorK4yThTNzT46WS4RuPhdmWM2FYK7XbETXQcSh232dFmYEhALq6w1d6DigE-f=
+Yiy4swZkNer67RRM"></div></div></div><div><br></div><div><a href=3D"https://=
+znsrc.com/unsubscribe/3c1d04cd468048ed9af702b57f6be09b">Unsubscribe</a></di=
+v><img align=3D"left" width=3D"0" height=3D"0" style=3D"border:0;width:0px;=
+height:0px;" alt=3D"" src=3D"https://znsrc.com/o/dtnhsuezyqut">
+
+--000000000000aeb04b061379f4d9--
