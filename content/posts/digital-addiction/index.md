@@ -18,7 +18,7 @@ tags:
 - modern life
 ---
 
-I was sitting on the subway yesterday when I glanced up from my book and noticed something striking: every single person in my line of sight was absorbed in their phone. While this scene has become commonplace, something about this particular moment stopped me. It wasn't just the ubiquity of screens but what this tableau revealed about our evolving relationship with attention itself.
+I was sitting on the subway yesterday when I glanced up from my book and noticed something striking: every single person in my line of sight was absorbed in their phone, beautifully lined up in a picture-perfect row of devices. While this scene has become commonplace, something about this particular moment stopped me. It wasn't just the ubiquity of screens but what this tableau revealed about our evolving relationship with attention itself. Frustratingly, I didn't have my camera with me.
 
 ![Reading a book on the subway](1.jpg "Reading a book on the subway")
 
