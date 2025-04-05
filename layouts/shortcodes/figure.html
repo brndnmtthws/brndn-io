@@ -1,0 +1,77 @@
+{{ $url := urls.Parse (.Get "src") }}
+{{ $altText := .Get "alt" }}
+{{ $class := .Get "class" }}
+{{ $caption := .Inner }}
+{{ if findRE "^https?" $url.Scheme }}
+<figure>
+<img class="my-0 rounded-md hover:rounded-3xl transition-all duration-200" src="{{ $url.String }}" alt="{{ $altText }}" />
+{{ with $caption }}
+<figcaption class="text-sm [&_a]:text-gray-500 dark:[&_a]:text-gray-400">
+{{ . }}
+</figcaption>
+{{ end }}
+</figure>
+{{ else }}
+{{ $resource := "" }}
+{{ if $.Page.Resources.GetMatch ($url.String) }}
+{{ $resource = $.Page.Resources.GetMatch ($url.String) }}
+{{ else if resources.GetMatch ($url.String) }}
+{{ $resource = resources.Get ($url.String) }}
+{{ end }}
+{{ with $resource }}
+<figure {{ with $class }}class="{{ . }}"{{ end }}>
+<a href="{{ $resource.RelPermalink }}">
+<picture>
+<source
+media="(max-width: 400px)"
+srcset="{{ (.Resize "600x webp").RelPermalink }}"
+type="image/webp"
+/>
+<source
+media="(min-width: 400px) and (max-width: 1000px)"
+srcset="{{ (.Resize "1024x webp").RelPermalink }}"
+type="image/webp"
+/>
+<source
+media="(min-width: 1000px)"
+srcset="{{ (.Resize "1320x webp").RelPermalink }}"
+type="image/webp"
+/>
+<img
+class="my-0 rounded-md hover:rounded-3xl transition-all duration-200"
+alt="{{ $altText }}"
+loading="lazy"
+srcset="
+  {{ (.Resize "600x").RelPermalink }}  600w,
+  {{ (.Resize "1024x").RelPermalink }} 1024w,
+  {{ (.Resize "1320x").RelPermalink }} 1320w
+"
+src="{{ (.Resize "1024x").RelPermalink }}"
+sizes="(max-width: 400px) 600w,
+(min-width: 400px) and (max-width: 1000px) 1024w,
+(min-width: 1000px) 1320w,
+100vw"
+/>
+</picture>
+</a>
+{{ with $caption }}
+<figcaption class="text-sm [&_a]:text-gray-500 dark:[&_a]:text-gray-400">
+{{ . }}
+</figcaption>
+{{ end }}
+</figure>
+{{ else }}
+<figure>
+<img
+class="my-0 rounded-md hover:rounded-3xl transition-all duration-200"
+src="{{ $url.String }}"
+alt="{{ $altText }}"
+/>
+{{ with $caption }}
+<figcaption class="text-sm [&_a]:text-gray-500 dark:[&_a]:text-gray-400">
+{{ . }}
+</figcaption>
+{{ end }}
+</figure>
+{{ end }}
+{{ end }}

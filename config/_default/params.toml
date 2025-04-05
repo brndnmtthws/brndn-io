@@ -1,0 +1,71 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+autoSwitchAppearance = true
+colorScheme = "blark"
+defaultAppearance = "light" # valid options: light or dark
+
+enableCodeCopy = true
+enableSearch = true
+
+# mainSections = ["section1", "section2"]
+# robots = ""
+
+[header]
+layout = "page" # valid options: basic, hamburger, custom
+
+[footer]
+showAppearanceSwitcher = true
+showCopyright = true
+showScrollToTop = true
+showThemeAttribution = false
+
+[homepage]
+layout = "profile" # valid options: page, profile, custom
+showRecent = true
+
+[article]
+showAuthor = true
+showBreadcrumbs = false
+showDate = true
+showDateUpdated = false
+showDraftLabel = true
+showEdit = false
+# editURL = "https://github.com/username/repo/"
+editAppendPath = true
+invertPagination = false
+# sharingLinks = ["email", "facebook", "linkedin", "reddit", "twitter"]
+showComments = false
+showHeadingAnchors = true
+showPagination = true
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = false
+showWordCount = false
+
+[list]
+groupByYear = true
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = false
+
+[sitemap]
+excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+showTermCount = true
+
+[fathomAnalytics]
+# site = "ABC12345"
+# domain = "llama.yoursite.com"
+
+[verification]
+google = "JBm8FFobHfRPpxQ8zk1685Vc440wvlwgLrCQ8ywgqTI"
+# google = ""
+# bing = ""
+# pinterest = ""
+# yandex = ""
