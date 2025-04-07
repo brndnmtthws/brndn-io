@@ -1,0 +1,27 @@
+displayName = "EN"
+isoCode = "en"
+languageCode = "en"
+languageName = "English"
+rtl = false
+weight = 1
+
+title = "Brenden's Blog"
+
+[params.author]
+bio = "Software engineer, artist, author, entrepreneur, dog lover."
+headline = """Opinions served up fresh, on everything from computers to economics [[**bio**]](/about)."""
+image = "img/brenden-matthews.jpg"
+links = [
+  { email = "mailto:hifromyourblog@brenden.brndn.io" },
+  { github = "https://github.com/brndnmtthws" },
+]
+name = "Brenden Matthews"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+
+dateFormat = "Jan 2, 2006"
+
+description = "Brenden Matthews' blog and personal website"

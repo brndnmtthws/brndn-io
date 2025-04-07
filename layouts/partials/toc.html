@@ -1,0 +1,30 @@
+<details
+  id="toc-details"
+  class="-ms-5 mt-0 overflow-hidden rounded-lg ps-1 open:[&_svg]:rotate-0 sm:open"
+>
+  <summary
+    class="block cursor-pointer bg-darkly-100 py-1 ps-5 text-lg font-semibold text-neutral-800 dark:bg-darkly-700 dark:text-neutral-100 lg:hidden"
+  >
+    <div class="flex items-center">
+      <svg
+        class="-rotate-90 transform text-neutral-800 dark:text-neutral-100 transition-all duration-300"
+        fill="none"
+        height="24"
+        width="24"
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+      >
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+      <div class="pl-1">{{ i18n "article.table_of_contents" }}</div>
+    </div>
+  </summary>
+  <div
+    class="border-s border-dotted border-darkly-300 py-1 ps-1 dark:border-darkly-600"
+  >
+    {{ .TableOfContents | emojify }}
+  </div>
+</details>

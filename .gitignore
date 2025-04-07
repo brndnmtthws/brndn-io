@@ -1,0 +1,14 @@
+public/
+.vscode/
+.cursor/
+.cursorrules
+.DS_Store
+resources/_gen/
+.hugo_build.lock
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

@@ -1,0 +1,110 @@
+{{ if .Params.showPagination | default (.Site.Params.article.showPagination | default true) }}
+  {{ if or .NextInSection .PrevInSection }}
+    {{ $next := .NextInSection }}
+    {{ $prev := .PrevInSection }}
+    {{ if .Params.invertPagination | default (.Site.Params.article.invertPagination | default false) }}
+      {{ $next = .PrevInSection }}
+      {{ $prev = .NextInSection }}
+    {{ end }}
+    <div class="pt-8">
+      <div class="pt-3 flex justify-between">
+        <h2>Previous</h2>
+        {{ if $next }}
+          <h2>Next</h2>
+        {{ end }}
+      </div>
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-2">
+        <span>
+          {{ if $prev }}
+            <a
+              class="flex group p-2 hover:bg-slate-400/20 dark:hover:bg-slate-700/20 rounded-sm"
+              href="{{ $prev.RelPermalink }}"
+            >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-darkly-600 ltr:inline rtl:hidden dark:text-neutral-100 dark:group-hover:text-darkly-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-darkly-600 ltr:hidden rtl:inline dark:text-neutral-100 dark:group-hover:text-darkly-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-darkly-500"
+                  >{{ $prev.Title | emojify }}</span
+                >
+                <span
+                  class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400"
+                >
+                  {{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
+                    {{ partial "meta/date.html" $prev.Date }}
+                  {{ end }}
+                </span>
+              </span>
+            </a>
+          {{ end }}
+        </span>
+        <span>
+          {{ if $next }}
+            <a
+              class="flex text-right group p-2 hover:bg-darkly-200 dark:hover:bg-darkly-800 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded-sm"
+              href="{{ $next.RelPermalink }}"
+            >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-darkly-500"
+                  >{{ $next.Title | emojify }}</span
+                >
+                <span
+                  class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400"
+                >
+                  {{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
+                    {{ partial "meta/date.html" $next.Date }}
+                  {{ end }}
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-darkly-600 ltr:inline rtl:hidden dark:text-neutral-100 dark:group-hover:text-darkly-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-darkly-600 ltr:hidden rtl:inline dark:text-neutral-100 dark:group-hover:text-darkly-400"
+                >&larr;</span
+              >
+            </a>
+          {{ end }}
+        </span>
+      </div>
+    </div>
+    {{ $related := site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+      <div class="pt-8">
+        <h2 class="pt-3">Related posts</h2>
+        <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-1 pt-2">
+          {{ range . }}
+            <a
+              class="flex group p-2 hover:bg-darkly-200 dark:hover:bg-darkly-800 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded-sm"
+              href="{{ .RelPermalink }}"
+            >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-darkly-500"
+                  >{{ .Title | emojify }}</span
+                >
+                <span
+                  class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400"
+                >
+                  {{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
+                    {{ partial "meta/date.html" .Date }}
+                  {{ end }}
+                </span>
+              </span>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
