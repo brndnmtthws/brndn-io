@@ -1,7 +1,6 @@
 public/
 .vscode/
 .cursor/
-.cursorrules
 .DS_Store
 resources/_gen/
 .hugo_build.lock

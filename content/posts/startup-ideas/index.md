@@ -21,7 +21,7 @@ Starting any company is hard. Startups are even harder. If you want to start a c
 
 The main difference between a small business and a startup is your level of ambition, and how much money you can raise. Paul Graham [defines it as "startup = growth"](http://www.paulgraham.com/growth.html), but (most) startups only grow if they have resources (i.e., people, capital) to do so. The number of companies that start out bootstrapped, have growth, and never need to raise any money is _extremely_ small, like infinitesimal. From a probabilistic perspective you're better off trying to build things that are easy to fundraise for.
 
-Consider Zapier—one of the rare truly bootstrapped successes. They reached $140M+ in ARR without VC funding[^1], but for every Zapier, there are thousands of bootstrapped companies that never break $1M in revenue. The odds aren't great.
+Consider Zapier—one of the rare truly bootstrapped successes. They reached $140M+ in ARR without VC funding, but for every Zapier, there are thousands of bootstrapped companies that never break $1M in revenue. The odds aren't great.
 
 ## Some Truths Before You Start
 
@@ -36,7 +36,7 @@ Here's a few things I've learned from living startups:
 - you need to know when to quit, pivot, or move on entirely
 - bad founders kill companies at all stages, and in later stages you can't fix it by raising more money
 
-Just look at WeWork—they raised over $11 billion but still imploded spectacularly because of leadership issues. Meanwhile, Figma was built with just $67M (before their $20B Adobe acquisition) because they executed brilliantly on product and go-to-market[^2].
+Just look at WeWork—they raised over $11 billion but still imploded spectacularly because of leadership issues. Meanwhile, Figma was built with just $67M (before their $20B Adobe acquisition) because they executed brilliantly on product and go-to-market[^1].
 
 ## A Process for Generating Startup Ideas
 
@@ -98,4 +98,4 @@ Just look at Facebook—it wasn't the first social network (remember Friendster 
 
 Focus less on finding the perfect idea and more on becoming the kind of founder who can turn an average idea into an exceptional company.
 
-[^2]: Constine, Josh. "Figma raises $50 million Series D." TechCrunch, 2020.
+[^1]: "Figma raises $50 million Series D." TechCrunch, 2020.

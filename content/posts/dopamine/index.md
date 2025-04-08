@@ -19,9 +19,8 @@ tags:
   - user behavior
 ---
 
-Dopamine is a chemical in our brains associated with good feelings and reward. Rather
-than explaining it myself, I'll share a quote from the book _"The Righteous
-Mind: Why Good People Are Divided by Politics and Religion"_, (pp. 102-103):
+Dopamine is a chemical in our brains associated with good feelings and reward.
+Jonathan Haidt discusses this connection in his book _"The Righteous Mind: Why Good People Are Divided by Politics and Religion"_, drawing on pages 102-103:
 
 > All animal brains are designed to create flashes of pleasure when the animal does something important for its survival, and small pulses of the neurotransmitter dopamine in the ventral striatum (and a few other places) are where these good feelings are manufactured. Heroin and cocaine are addictive because they artificially trigger this dopamine response. Rats who can press a button to deliver electrical stimulation to their reward centers will continue pressing until they collapse from starvation.
 >
