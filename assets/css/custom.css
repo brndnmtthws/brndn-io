@@ -2786,6 +2786,12 @@
       content: "🤣";
     }
   }
+  .prose p {
+    text-wrap: pretty;
+  }
+  .prose h1, h2, h3, h4, h6 {
+    text-wrap: balance;
+  }
   .prose picture {
     margin-block: calc(var(--spacing) * 0);
     display: block;
