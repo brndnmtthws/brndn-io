@@ -2446,6 +2446,9 @@
     font-size: var(--text-sm);
     line-height: var(--tw-leading, var(--text-sm--line-height));
   }
+  sup.footnote-ref + sup.footnote-ref, sup > a.footnote-ref + sup > a.footnote-ref, sup + sup, sup.footnote-ref + sup, sup + sup.footnote-ref {
+    margin-left: 0.25em;
+  }
   .mask-image-gradient {
     mask-image: linear-gradient( 180deg, #000 40%, rgba(0, 0, 0, 0.5), transparent );
   }
@@ -2785,6 +2788,12 @@
     100% {
       content: "🤣";
     }
+  }
+  .prose p {
+    text-wrap: pretty;
+  }
+  .prose h1, h2, h3, h4, h6 {
+    text-wrap: balance;
   }
   .prose picture {
     margin-block: calc(var(--spacing) * 0);

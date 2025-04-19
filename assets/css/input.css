@@ -45,6 +45,14 @@
     @apply text-sm;
   }
 
+  sup.footnote-ref + sup.footnote-ref,
+  sup > a.footnote-ref + sup > a.footnote-ref,
+  sup + sup,
+  sup.footnote-ref + sup,
+  sup + sup.footnote-ref {
+    margin-left: 0.25em;
+  }
+
   .mask-image-gradient {
     mask-image: linear-gradient(
       180deg,
@@ -422,6 +430,17 @@
     100% {
       content: "🤣";
     }
+  }
+
+  .prose p {
+    @apply text-pretty;
+  }
+  .prose h1,
+  h2,
+  h3,
+  h4,
+  h6 {
+    @apply text-balance;
   }
 
   .prose picture {

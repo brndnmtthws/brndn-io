@@ -167,4 +167,4 @@ I've already said it, but I'll repeat myself by closing on this note: like anyth
 Whether in person or through a screen, human connection remains one of life's most rewarding pursuits. The tools and contexts may change, but the fundamental principles of good conversation—curiosity, respect, attentiveness, and generosity—remain timeless.
 
 [^1]: Bailenson, J. N. (2021). "Nonverbal overload: A theoretical argument for the causes of Zoom fatigue." Technology, Mind, and Behavior, 2(1).
-[^2]: Casciaro, T., Gino, F., & Kouchaki, M. (2020). "The contaminating effects of building instrumental ties: How networking can make us feel dirty." Administrative Science Quarterly, 59(4), 705-735.
+[^2]: Casciaro, T., Gino, F., & Kouchaki, M. (2014). "The contaminating effects of building instrumental ties: How networking can make us feel dirty." Administrative Science Quarterly, 59(4), 705-735.

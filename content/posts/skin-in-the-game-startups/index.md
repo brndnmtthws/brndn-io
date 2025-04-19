@@ -45,7 +45,7 @@ if you do well, I do well. If I do well, you do well. It's a win-win.
 There are a few examples of skin in the game startups, but one of my
 favourite examples are the education startups that have popped up recently
 utilizing income sharing agreements. There's a great [Freakonomics podcast
-about these](http://freakonomics.com/podcast/student-debt/). The model is
+about these](https://freakonomics.com/podcast/the-1-5-trillion-question-how-to-fix-student-loan-debt-ep-377/). The model is
 simple: once a student graduates from a school and gets a job, they share a
 portion of their salary for a specified period of time with the school they
 attended.
@@ -85,7 +85,7 @@ It's been a while since the incumbents were novel and useful for me.
 
 Here are a few examples of innovative business models that incorporate skin in the game principles:
 
-**Outcome-based healthcare**: Companies like [Iora Health](https://www.iorahealth.com/) are pioneering value-based care models where compensation is tied to patient outcomes rather than the number of procedures performed. Healthcare providers are incentivized to keep patients healthy, not just treat them when they're sick.
+**Outcome-based healthcare**: Companies like [One Medical Seniors (formerly Iora Health)](https://www.onemedical.com/sixty-five-plus/) pioneered value-based care models where compensation is tied to patient outcomes rather than the number of procedures performed. Healthcare providers are incentivized to keep patients healthy, not just treat them when they're sick.
 
 **Performance-based marketing agencies**: Some digital marketing agencies are moving to models where they get paid based on the results they deliver rather than hourly rates. For example, they might take a percentage of increased revenue attributed to their campaigns instead of charging fixed fees.
 

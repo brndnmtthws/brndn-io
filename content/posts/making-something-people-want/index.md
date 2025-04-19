@@ -24,13 +24,23 @@ tags:
 ---
 ![Make something people want](make-something-people-want.jpg "Make something people want")
 
-Y&nbsp;Combinator has a famous motto: _make something people want_. The first reference I could find to that motto was [this blog post from Paul Graham](http://www.paulgraham.com/good.html).
+Y&nbsp;Combinator has a famous motto: _make something people want_. The first
+reference I could find to that motto was [this blog post from Paul
+Graham](http://www.paulgraham.com/begood.html).
 
-I think it's a great motto: people will pay for things they want, thus you can make a business out of it. But I can't help notice, most companies these days aren't being built for _people_, they're being built for companies. B2B businesses are easier because companies have lots of money to spend on things.
+I think it's a great motto: people will pay for things they want, thus you
+can make a business out of it. But I can't help notice, most companies these
+days aren't being built for _people_, they're being built for companies. B2B
+businesses are easier because companies have lots of money to spend on things.
 
-Additionally, some of the companies making things people want (e.g., Reddit) have turned to ads because you can get a lot more money out of companies running ads than you can out of ordinary people paying to use your product.
+Additionally, some of the companies making things people want (e.g., Reddit)
+have turned to ads because you can get a lot more money out of companies
+running ads than you can out of ordinary people paying to use your product.
 
-I looked quickly at the [top YC company list](https://www.ycombinator.com/topcompanies/) and did some analysis (using [HTTPie](https://httpie.org/), [pup](https://github.com/ericchiang/pup), [jq](https://github.com/stedolan/jq), and standard UNIX tools):
+I looked quickly at the YC company list (link inactive as of 2025)
+and did some analysis (using [HTTPie](https://httpie.org/),
+[pup](https://github.com/ericchiang/pup),
+[jq](https://github.com/jqlang/jq), and standard UNIX tools):
 
 ```console
 $ http https://www.ycombinator.com/topcompanies/index.html | pup 'div[data-sectors] json{}' | jq '.[]."data-sectors"' | sort | uniq -c | sort -nr

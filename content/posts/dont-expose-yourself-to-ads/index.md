@@ -31,7 +31,7 @@ One important (and mostly non-mainstream) concept is the idea of manufactured
 consent. The idea was originally described in a book authored by Noam Chomsky
 and Edward Herman in the 1980s. For a quick summary, [check out this video
 on YouTube](https://www.youtube.com/watch?v=pf-tQYcZGM4) which provides a great overview ([use
-youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) to completely
+yt-dlp](https://github.com/yt-dlp/yt-dlp) to completely
 avoid the ads).
 
 The central thesis of manufactured consent is that mass media serves as a system for communicating messages and symbols to the general populace. Its function is to amuse, entertain, inform, and inculcate individuals with the values, beliefs, and codes of behavior that will integrate them into the institutional structures of the larger society.

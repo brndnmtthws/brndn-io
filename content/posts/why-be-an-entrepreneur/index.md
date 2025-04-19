@@ -5,23 +5,23 @@ draft: false
 tags:
   - startups
   - entrepreneur
-  - life-goals
+  - life goals
   - autonomy
-  - work-culture
+  - work culture
   - equity
   - ownership
-  - labor-value
-  - social-impact
-  - wealth-inequality
+  - labor value
+  - social impact
+  - wealth inequality
   - compensation
-  - company-structure
+  - company structure
   - hierarchy
-  - corporate-culture
+  - corporate culture
   - capitalism
-  - cooperative-model
-  - employee-ownership
-  - social-justice
-  - economic-systems
+  - cooperative model
+  - employee ownership
+  - social justice
+  - economic systems
   - entrepreneurship
   - alternative business models
   - purpose-driven business
