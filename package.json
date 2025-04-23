@@ -1,16 +1,16 @@
 {
   "devDependencies": {
-    "@tailwindcss/cli": "^4.1.3",
+    "@tailwindcss/cli": "^4.1.4",
     "@tailwindcss/typography": "^0.5.16",
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.14.1",
     "browserslist": "^4.24.4",
-    "caniuse-lite": "^1.0.30001712",
+    "caniuse-lite": "^1.0.30001715",
     "concurrently": "^9.1.2",
     "husky": "^9.1.7",
-    "lint-staged": "^15.5.0",
+    "lint-staged": "^15.5.1",
     "prettier": "^3.5.3",
     "prettier-plugin-go-template": "^0.0.15",
-    "tailwindcss": "^4.1.3"
+    "tailwindcss": "^4.1.4"
   },
   "scripts": {
     "dev": "concurrently --kill-others \"npm run server\" \"npm run watch\"",
