@@ -36,7 +36,7 @@ Speaking about China as a success story is considered heresy by Western orthodox
   <div id="heat-engine-loading" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-gray-600 dark:text-gray-400 font-sans">Loading Animation...</div>
 </div>
 <figcaption class="w-full text-sm text-gray-500 dark:text-gray-400 italic mt-2">
-  I asked ChatGPT to hallucinate a heat engine for me, and this is what it came up with after 20 attempts. A visual metaphor for transforming energy, or something so advanced that it's beyond our feeble human comprehension?
+  I asked ChatGPT to hallucinate a heat engine for me, and this is what it came up with after 20 attempts and a lot of guidance. A visual metaphor for something so advanced that it's beyond our feeble human comprehension?
 </figcaption>
 </div>
 
