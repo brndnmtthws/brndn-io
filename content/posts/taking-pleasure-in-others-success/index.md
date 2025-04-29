@@ -88,13 +88,15 @@ I find connecting with others challenging, and the vulnerability shown on screen
 is striking. But the most powerful aspect is the genuine joy I feel witnessing
 their successes.
 
-The participants are [authentic]({{< ref "when-youre-authentic-rejection-is-a-gift" >}}), courageous, and put themselves out there not for
-fame, but with a sincere desire to find connection and love. Seeing them
-navigate challenges and achieve moments of happiness is genuinely uplifting.
-It's a powerful reminder that celebrating others' victories can bring immense
-satisfaction. This feeling of finding joy in others' success, sometimes called
-"compersion," is essentially the opposite of Schadenfreude. Actively cultivating
-it can strengthen social bonds and even improve our own sense of well-being.[^3]
+The participants are [authentic]({{< ref
+"when-youre-authentic-rejection-is-a-gift" >}}), courageous, and put themselves
+out there not for fame, but with a sincere desire to find connection and love.
+Seeing them navigate challenges and achieve moments of happiness is genuinely
+uplifting. It's a powerful reminder that celebrating others' victories can bring
+immense satisfaction. This feeling of finding joy in others' success, sometimes
+called "compersion," is essentially the opposite of Schadenfreude. Actively
+cultivating it can strengthen social bonds and even improve our own sense of
+well-being.[^3]
 
 ## What is Love, Anyway?
 
