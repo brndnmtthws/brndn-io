@@ -6,15 +6,19 @@ tags:
 - flow
 - productivity
 - slow
+- yoga
+- mindfulness
+- exercise
+- intentionality
 ---
 
-At the yoga studio, many people come and go. Often, you encounter newcomers who treat their first yoga class like a [HIIT](https://en.wikipedia.org/wiki/High-intensity_interval_training) workout. They rush through transitions, sometimes literally jumping between poses (asanas). In their minds, yoga seems less like a deliberate flow and more like a race to the finish line. They might substitute five rapid pushups for a single, controlled chaturanga (often missing the pose's subtleties), and fly through their upward-facing dog without syncing movement to breath.
+At the yoga studio, many people come and go. Often, you encounter newcomers who treat their first yoga class like a [HIIT](https://en.wikipedia.org/wiki/High-intensity_interval_training) workout. They rush through transitions, sometimes literally jumping between poses (āsanas). In their minds, yoga seems less like a deliberate flow and more like a race to the finish line. They might substitute five rapid pushups for a single, controlled chaturanga (often missing the pose's subtleties), and fly through their upward-facing dog without syncing movement to breath.
 
 If some of those terms are unfamiliar, don't worry. They're common in yoga, but their specific meanings aren't essential for this post's core message. The key takeaway involves the *pace* of movement.
 
-For a little context: asanas are the poses held in yoga. In vinyasa classes, a popular style, you flow between these poses in a dance-like sequence, synchronizing movement with breath. "Taking a vinyasa" often refers to a specific sequence: moving from plank (like a push-up start) down to chaturanga (a halfway-down push-up with elbows tucked), transitioning into upward-facing dog (rolling over the toes, lifting the chest, straightening arms), and finally settling into downward-facing dog (hips high, heels grounding).
+For a little context: āsanas are the poses held in yoga. In vinyāsa classes, a popular style, you flow between these poses in a dance-like sequence, synchronizing movement with breath. "Taking a vinyāsa" often refers to a specific sequence: moving from plank (like a push-up start) down to chaturanga (a halfway-down push-up with elbows tucked), transitioning into upward-facing dog (rolling over the toes, lifting the chest, straightening arms), and finally settling into downward-facing dog (hips high, heels grounding).
 
-The transitions between these distinct asanas constitute the "flow," and linking this flow to the breath is fundamental to vinyasa yoga. The tendency for newcomers, however, is often to rush.
+The transitions between these distinct āsanas constitute the "flow," and linking this flow to the breath is fundamental to vinyāsa yoga. The tendency for newcomers, however, is often to rush.
 
 ## It's Not a Race
 
