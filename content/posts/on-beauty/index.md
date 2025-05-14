@@ -69,6 +69,8 @@ Art is often thought of as being about beauty. We typically think of art as beau
 Claude Monet, Reflections of Clouds on the Water-Lily Pond, c. 1920, 200 × 1276 cm[^1]
 {{% /figure %}}
 
+Monet's dedication to capturing the ephemeral beauty of his water garden at Giverny was profound. Over the last thirty years of his life, he painted around 250 works in his "Water Lilies" series. So engrossed was he in this subject that after World War I, he had a new, larger studio built specifically to accommodate the creation of monumental canvases depicting his beloved lilies. He later donated 22 of these vast paintings to the French state, and they now form the breathtaking panorama at the Musée de l'Orangerie in Paris, enveloping visitors in his watery, floral world. His commitment persisted even as his eyesight failed due to cataracts, a challenge that subtly shifted the colors and details in his later pieces, adding another layer to his exploration of perception and light.
+
 Some art tries to capture beauty. Or the art _uses_ beauty to express its message, as a sort of delivery mechanism for an idea, a meme. A painting of a war scene might be technically beautiful—the way light is captured, the composition, the color harmony—while depicting something horrific, creating a tension that forces us to confront difficult truths.
 
 Good art tends to be more than just the beauty aspect: the artist uses beauty to express something that, for them, can only be expressed through the art. The art is the medium, and as Marshall McLuhan famously observed, the medium is the message. When Michelangelo carved David from marble, he wasn't just creating something beautiful—he was speaking about human potential, divine creation, and the Renaissance ideals of his time.
