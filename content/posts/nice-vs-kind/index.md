@@ -4,6 +4,13 @@ date: 2025-09-23T20:38:52-04:00
 draft: false
 tags:
 - kindness
+- niceness
+- ethics
+- philosophy
+- psychology
+- self-improvement
+- mindfulness
+- stoicism
 ---
 
 Kindness and niceness aren't the same thing. This may sound like I'm splitting
