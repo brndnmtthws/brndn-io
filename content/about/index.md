@@ -33,6 +33,18 @@ If you’re curious what to expect, the short version is:
 - Photography and other creative projects
 - Adventures, endurance sports, and staying healthy
 
+## Start Here
+
+If you’re new, here are a few posts to start with:
+
+- [The Value of Tools](/posts/the-value-of-tools) — Tools, leverage, and value creation
+- [Growth vs. Grind](/posts/growth-vs-grind) — Sustainable ambition
+- [The 10x Engineer Is a Myth: It's More Like 100x](/posts/the-10x-engineer-is-a-myth-its-more-like-100x) — Power laws in software and teams
+- [Cities Are Technology](/posts/cities-are-technology) — Urbanism, infrastructure, and the car-shaped problem
+- [Analogue Joy in a Digital World](/posts/analogue-joy) — Film, physical media, and digital minimalism
+
+Or browse everything in the [post archive](/posts).
+
 ## Work
 
 {{% figure
