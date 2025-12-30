@@ -2,7 +2,14 @@
 title: "Who Are You When No One Is Watching?"
 date: 2025-12-30T15:52:10-05:00
 draft: false
-tags: []
+tags:
+- authenticity
+- identity
+- self-perception
+- performance
+- presence
+- solitude
+- self-reflection
 ---
 
 If a “true” self exists at all, it probably only appears when no one is watching.
