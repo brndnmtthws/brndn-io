@@ -13,8 +13,11 @@
   --font-libre-baskerville:
     "Libre Baskerville", ui-serif, Georgia, Cambria, "Times New Roman", Times,
     serif;
+  --font-mono:
+    "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
   --font-fira-code:
-    "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
   --color-darkly-50: oklch(96.14% 0.001 286.38);
   --color-darkly-100: oklch(92.85% 0.003 286.35);
@@ -812,59 +815,40 @@
     url(/fonts/source-sans-3-latin-900-italic.woff) format("woff");
 }
 
-/* fira-code-latin-300-normal */
+/* berkeley-mono-regular */
 @font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 300;
-  src:
-    url(/fonts/fira-code-latin-300-normal.woff2) format("woff2"),
-    url(/fonts/fira-code-latin-300-normal.woff) format("woff");
-}
-
-/* fira-code-latin-400-normal */
-@font-face {
-  font-family: "Fira Code";
+  font-family: "Berkeley Mono";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    url(/fonts/fira-code-latin-400-normal.woff2) format("woff2"),
-    url(/fonts/fira-code-latin-400-normal.woff) format("woff");
+  src: url(/fonts/berkeley-mono-regular.woff2) format("woff2");
 }
 
-/* fira-code-latin-500-normal */
+/* berkeley-mono-bold */
 @font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 500;
-  src:
-    url(/fonts/fira-code-latin-500-normal.woff2) format("woff2"),
-    url(/fonts/fira-code-latin-500-normal.woff) format("woff");
-}
-
-/* fira-code-latin-600-normal */
-@font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 600;
-  src:
-    url(/fonts/fira-code-latin-600-normal.woff2) format("woff2"),
-    url(/fonts/fira-code-latin-600-normal.woff) format("woff");
-}
-
-/* fira-code-latin-700-normal */
-@font-face {
-  font-family: "Fira Code";
+  font-family: "Berkeley Mono";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    url(/fonts/fira-code-latin-700-normal.woff2) format("woff2"),
-    url(/fonts/fira-code-latin-700-normal.woff) format("woff");
+  src: url(/fonts/berkeley-mono-bold.woff2) format("woff2");
+}
+
+/* berkeley-mono-oblique */
+@font-face {
+  font-family: "Berkeley Mono";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/fonts/berkeley-mono-oblique.woff2) format("woff2");
+}
+
+/* berkeley-mono-bold-oblique */
+@font-face {
+  font-family: "Berkeley Mono";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/fonts/berkeley-mono-bold-oblique.woff2) format("woff2");
 }
 
 /* libre-baskerville-latin-400-normal */

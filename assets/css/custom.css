@@ -5,8 +5,8 @@
   :root, :host {
     --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-      "Courier New", monospace;
+    --font-mono: "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-blue-600: oklch(54.6% 0.245 262.881);
     --color-blue-700: oklch(48.8% 0.243 264.376);
@@ -81,7 +81,7 @@
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-libre-baskerville: "Libre Baskerville", ui-serif, Georgia, Cambria, "Times New Roman", Times,
     serif;
-    --font-fira-code: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    --font-fira-code: "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
     --color-darkly-50: oklch(96.14% 0.001 286.38);
     --color-darkly-100: oklch(92.85% 0.003 286.35);
@@ -3066,39 +3066,32 @@
   src: url(/fonts/source-sans-3-latin-900-italic.woff2) format("woff2"), url(/fonts/source-sans-3-latin-900-italic.woff) format("woff");
 }
 @font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 300;
-  src: url(/fonts/fira-code-latin-300-normal.woff2) format("woff2"), url(/fonts/fira-code-latin-300-normal.woff) format("woff");
-}
-@font-face {
-  font-family: "Fira Code";
+  font-family: "Berkeley Mono";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(/fonts/fira-code-latin-400-normal.woff2) format("woff2"), url(/fonts/fira-code-latin-400-normal.woff) format("woff");
+  src: url(/fonts/berkeley-mono-regular.woff2) format("woff2");
 }
 @font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 500;
-  src: url(/fonts/fira-code-latin-500-normal.woff2) format("woff2"), url(/fonts/fira-code-latin-500-normal.woff) format("woff");
-}
-@font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 600;
-  src: url(/fonts/fira-code-latin-600-normal.woff2) format("woff2"), url(/fonts/fira-code-latin-600-normal.woff) format("woff");
-}
-@font-face {
-  font-family: "Fira Code";
+  font-family: "Berkeley Mono";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(/fonts/fira-code-latin-700-normal.woff2) format("woff2"), url(/fonts/fira-code-latin-700-normal.woff) format("woff");
+  src: url(/fonts/berkeley-mono-bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Berkeley Mono";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/fonts/berkeley-mono-oblique.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Berkeley Mono";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/fonts/berkeley-mono-bold-oblique.woff2) format("woff2");
 }
 @font-face {
   font-family: "Libre Baskerville";
