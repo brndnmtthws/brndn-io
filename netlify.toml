@@ -1,8 +1,9 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "bun run build && hugo --gc --minify"
 
 [build.environment]
+BUN_VERSION = "1.3.10"
 HUGO_VERSION = "0.145.0"
 GO_VERSION = "1.23.5"
 
@@ -12,16 +13,16 @@ HUGO_ENABLEGITINFO = "true"
 GIT_LFS_ENABLED = "true"
 
 [context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+command = "bun run build && hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "bun run build && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+command = "bun run build && hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
