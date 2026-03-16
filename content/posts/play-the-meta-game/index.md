@@ -55,38 +55,36 @@ them, not their target audience. In other words: everyone is selfish and acts
 according to their own best interests at all times, and once you understand that
 and act accordingly, you can start to use it to your advantage.
 
-Let's explore some more concrete examples of the metagame in action:
-
 ### Career Development
 
 Playing the game: Working hard at your job, meeting all expectations, and hoping someone notices your contributions.
-Playing the metagame: Understanding that visibility often matters more than productivity. Building relationships with decision-makers, documenting your wins, and strategically positioning yourself for promotion or opportunities before they're even announced.
+Playing the metagame: Realizing promotion decisions usually happen before the formal process starts, so you make sure the people making them already know what you've done.
 
 ### Education
 
 Playing the game: Studying hard to get good grades and absorb knowledge.
-Playing the metagame: Recognizing that credentials and networks often matter more than actual knowledge. Choosing schools or programs based on their alumni network strength rather than just educational quality.
+Playing the metagame: Knowing the diploma and the people attached to it can carry more weight than what you learned in class. Sometimes the alumni network is the real product.
 
 ### Finance
 
 Playing the game: Saving money from your paycheck and being frugal.
-Playing the metagame: Creating assets that appreciate or generate passive income, understanding tax optimization strategies, and building systems that make money work for you instead of you working for money.
+Playing the metagame: Buying things that keep paying you after you bought them, and structuring it so the IRS doesn't take more than it has to.
 
 ### Entrepreneurship
 
 Playing the game: Creating a better product than competitors.
-Playing the metagame: Creating a product with network effects that becomes more valuable as more people use it, making it nearly impossible for competitors to catch up once you reach critical mass.
+Playing the metagame: Building something that gets harder to compete with every time another user shows up.
 
 ### Content Creation
 
 Playing the game: Creating high-quality content consistently.
-Playing the metagame: Understanding platform algorithms and optimizing for them, creating content that encourages sharing and engagement regardless of quality, and building systems to scale your content production.
+Playing the metagame: Making things the algorithm will shove in other people's faces, even if that matters more than whether the thing is any good.
 
-The beauty of the metagame is that it's infinitely layered. Once everyone starts playing at one level of meta, a new meta emerges above it. Consider cryptocurrency: Bitcoin was meta to traditional finance, then Ethereum created a meta layer above Bitcoin by enabling programmable money, then various DeFi protocols created yet another meta layer.
+It keeps going. Once everyone starts playing at one level of meta, a new one shows up above it. Consider cryptocurrency: Bitcoin was meta to traditional finance, then Ethereum created a meta layer above Bitcoin by enabling programmable money, then various DeFi protocols created yet another meta layer.
 
-However, the metagame isn't about cynical manipulation or cutting corners. The most elegant metagame players create genuine win-win scenarios. They align incentives so that what benefits them also benefits others. Think of how the best tech companies create platforms where third-party developers can thrive while strengthening the core platform.
+The cleanest version is when people get what they want and you still get what you want. That's just incentives lining up. Think of how the best tech companies create platforms where third-party developers can thrive while strengthening the core platform.
 
-The metagame also requires understanding people's true motivations, not just their stated ones. People rarely act irrationally—they act according to their own incentives, which might not be obvious. By understanding these hidden motivations, you can design systems and interactions that naturally lead to your desired outcomes.
+You also have to notice what people actually respond to. They say one thing, then chase status, money, attention, safety, or whatever else is really driving them. If you can see that clearly, you can build around it.
 
 Some practical ways to start playing the metagame:
 
@@ -96,6 +94,6 @@ Some practical ways to start playing the metagame:
 4. Study the people who seem to effortlessly succeed—they're likely playing a different game than everyone else.
 5. Create systems that work for you rather than you working within systems designed by others.
 
-The ultimate metagame move might be realizing when the game isn't worth playing at all—when you can step outside entirely and create something new. The most innovative companies didn't just outcompete existing players; they created entirely new markets where the old rules didn't apply.
+Sometimes the right move is to quit playing and go build something else. The most innovative companies didn't just outcompete existing players; they created entirely new markets where the old rules didn't apply.
 
-So while others are focused on winning the current game, look for opportunities to change the game itself. That's where the truly transformative opportunities lie—not in being the best player of a game someone else designed, but in becoming the architect of the next game everyone else will be trying to master.
+So while other people are busy trying to win the current game, keep an eye out for chances to change the board.

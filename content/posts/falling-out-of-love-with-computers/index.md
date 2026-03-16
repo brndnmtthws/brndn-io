@@ -33,7 +33,7 @@ But then, of course, Google became an advertising company.
 It started selling our attention to the highest bidder, literally auctioning what we see and when we see it. And it turns out that was one of the most profitable ideas in human history.
 
 Today Google makes hundreds of billions of dollars a year in advertising revenue.
-Google—while not *technically* the world’s largest company—remains among the most profitable. It dominates the advertising economy and wields immense power over the flow of information. It earns tens of billions in net income and stands as one of the most powerful gatekeepers of attention and information. In many ways, Google gatekeeps the internet and the information that's available to us.
+Google—while not *technically* the world’s largest company—remains among the most profitable. And for a huge number of people, if Google doesn’t surface something, it may as well not exist.
 
 That’s where things began to sour.
 
@@ -48,7 +48,7 @@ Now there’s basically one good website left—Wikipedia—and maybe a handful 
 Google’s results have grown noisy. Reddit’s full of bots. And the so‑called “social” platforms feel anything but social. It’s all clickbait, doomscrolling, and dark patterns wrapped in a dopamine loop. The only people winning are the ones selling your attention back to you.
 
 It’s strange to say, but I’ve fallen out of love with computers.
-They once empowered; now they extract.
+They used to feel like tools I could bend to my will. Now most of them feel like slot machines with better typography.
 Everything’s optimized for profit, not people. Every design choice, every notification, every “suggested for you” feed is just an algorithm whispering, *stay a little longer, scroll a little more*.
 
 And maybe it’s not even the computers’ fault. Maybe it’s capitalism’s. The machine just does what we tell it to do: maximize engagement, maximize revenue, maximize GDP. We’ve built a planet‑sized optimization loop for the *buy button*.
@@ -75,11 +75,11 @@ In *The Hitchhiker’s Guide to the Galaxy*, there’s this universal encycloped
 >
 > Current projections suggest that within the next century, the species will either merge with its machines entirely or perish while attempting to upgrade the Wi‑Fi.
 
-Sometimes I imagine some curious alien anthropologist dictating that entry while peering through a telescope at New York City—a trillion flickering blue screens glowing in the night, each human hunched over their private portal, eyes down, scrolling like it’s a sacred act. And honestly, they wouldn’t be wrong.
+Sometimes I imagine some curious alien anthropologist dictating that entry while peering through a telescope at New York City—a trillion flickering blue screens glowing in the night, each human hunched over their private portal, eyes down, scrolling like it’s a sacred act. Then I get on the subway and realize the joke barely needs exaggeration.
 
 ---
 
-So now we have trillion‑dollar companies fighting for milliseconds of our time, while we mistake motion for meaning. The news cycles around outrage because outrage sells. Even politics has become an engagement strategy. Everything feels like a performance now, even authenticity.
+So now we have trillion‑dollar companies fighting for milliseconds of our time. You can feel it in the way every app nudges, every headline pokes at your nerves, every political post is written like it’s trying to win the day instead of say anything true.
 
 And yet I’m still here.
 Still using computers every day. Still addicted. Still dependent. I make my living on them. I can’t just walk away. But I’ve been trying to rebuild a relationship with *reality*—to spend more time in places that don’t have screens, that don’t have an algorithm deciding what deserves my attention.
@@ -91,6 +91,4 @@ Everywhere I go in New York, people are walking around with their heads down, fa
 
 I don’t want to be one of them. I don’t want to live my life as a vessel for ads or as data in someone’s engagement dashboard. I want to exist in the real world again, even if that world is messy, awkward, and analogue.
 
-Maybe I’m not alone in this feeling—and maybe that’s not such a bad thing.
-
-Maybe others are falling out of love with computers too.
+Maybe other people feel this too. I don’t know. I just know the spell broke for me a while ago.

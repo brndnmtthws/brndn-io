@@ -16,9 +16,9 @@ tags:
 ---
 ![Photo by Denys Nevozhai](cars.jpg "Photo by Denys Nevozhai")
 
-Imagine a technology so destructive that it kills 1.3 million people annually, consumes vast portions of our cities, and contributes significantly to climate change—yet we've designed our entire society around it. This isn't science fiction; it's the reality of our car-dependent world.
+Cars kill 1.3 million people every year, eat up huge chunks of our cities, and pump out a depressing amount of pollution. We've built everyday life around them anyway.
 
-Our modern cities have been shaped by a century of car-centric urban planning, leading to consequences that affect our health, environment, and quality of life in profound ways. As someone who's deeply interested in sustainable urban development, I've watched channels like "Not Just Bikes" and "Climate Town" document these impacts. But the real story goes far beyond what we see in viral videos or news headlines.
+After a century of car-centric planning, daily life in a lot of cities now assumes you drive everywhere, whether that makes sense or not. As someone who's deeply interested in sustainable urban development, I've watched channels like "Not Just Bikes" and "Climate Town" document these impacts. Those videos usually catch the obvious stuff. The deeper problem is how much money, land, and damage we've decided to absorb just to keep the whole system going.
 
 The scale of our car dependency is staggering:
 
@@ -90,7 +90,7 @@ data: {
 }
 {{< /chart >}}
 
-These numbers tell a sobering story. Car dependency affects nearly every aspect of public health:
+Car dependency shows up almost everywhere in public health:
 
 - Air pollution claims [6-7 million lives globally](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00090-0/fulltext) each year
 - Vehicle emissions increase rates of [lung cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448375/), [diabetes](https://www.thelancet.com/journals/lanpla/article/PIIS2542-5196(18)30140-2/fulltext), and [heart disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2844969/)
@@ -98,7 +98,7 @@ These numbers tell a sobering story. Car dependency affects nearly every aspect 
 - Americans waste 54 hours per year in traffic, costing $1,080 in time and fuel
 - Traffic noise pollution increases stress, disrupts sleep, and contributes to cardiovascular disease
 
-The social fabric of our communities has also been torn apart:
+It also makes people more isolated and less free to move around:
 
 - Children's independent mobility has plummeted 90% since the 1970s
 - Low-income households spend up to 30% of their income on transportation
@@ -113,7 +113,7 @@ The social fabric of our communities has also been torn apart:
 Dark Clouds of Factory Smoke Obscure Clark Avenue Bridge[^1]
 {{% /figure %}}
 
-But there's hope. Cities worldwide are proving that another way is possible:
+Some cities have already cut car use and gotten real results:
 
 **Copenhagen**: A city transformed
 
@@ -143,7 +143,7 @@ But there's hope. Cities worldwide are proving that another way is possible:
 - Integrated transportation network
 - Reduced car dependency
 
-The path forward is clear. We need to:
+None of this is mysterious. We need to:
 
 1. Invest in efficient public transit systems
 2. Create protected bike infrastructure
@@ -154,14 +154,14 @@ The path forward is clear. We need to:
 7. Remove minimum parking requirements
 8. Implement "complete streets" policies
 
-The results speak for themselves:
+You can see the pattern in places that actually changed policy:
 
 - Barcelona's superblocks: 25% less pollution, 33% more green space
 - Oslo: Zero pedestrian and cyclist deaths in 2019
 - Seoul: 639% increase in biodiversity after removing an elevated highway, 3.6°C reduction in urban heat
 
-The transformation won't happen overnight, but we don't have to imagine what success looks like—we can see it in cities that have already taken these steps. The question isn't whether we need to change our car-dependent system, but how quickly we can implement solutions that have already proven successful elsewhere.
+This stuff takes time, but it's not theoretical. Paris removed parking and car traffic dropped. Seoul tore out a highway and got a river back. We already know a lot of these moves work.
 
-The choice is ours: continue down the unsustainable path of car dependency, or build cities that prioritize human health, community, and sustainability. The evidence is clear. The solutions exist. We just need the courage to change.
+We can keep widening roads, forcing people to drive, and acting surprised when everything gets louder, deadlier, and more expensive. Or we can start taking space back for transit, bikes, and people on foot.
 
 [^1]: By Frank John Aleksandrowicz - U.S. National Archives and Records Administration, Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=17100801)

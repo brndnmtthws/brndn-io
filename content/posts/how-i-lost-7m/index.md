@@ -26,9 +26,9 @@ apartment with thin walls, $50,000 in credit card debt, and a credit score of
 
 Five years ago, I was worth over $7 million.
 
-This isn't a story about market crashes or economic downturns. This is a story
-about human fallibility—specifically, mine. If you're looking for a cautionary
-tale about greed, overconfidence, and the psychological pitfalls of sudden
+I didn't lose this money in one crash or one bad year. I lost it through my own
+greed, overconfidence, and inability to leave well enough alone. If you're
+looking for a cautionary tale about the psychological pitfalls of sudden
 wealth, welcome. I've lived it all so you don't have to.
 
 ## The Unlikely Millionaire
@@ -95,8 +95,6 @@ recover my previous losses through increasingly complex and leveraged market
 positions. I was playing a game I didn't fully understand with stakes I couldn't
 afford to lose.
 
-The numbers tell the story with brutal efficiency:
-
 On June 18, 2021, my Interactive Brokers account showed $5.1 million.
 
 ![Interactive Brokers account balance on June 18, 2021: $5.1 million](1.png)
@@ -105,8 +103,8 @@ One year later, that same account held just $264,000.
 
 ![Interactive Brokers account balance on June 17, 2022: $264 thousand](2.png)
 
-The following years brought a perfect storm of continued financial mistakes,
-failed startups, and personal challenges. Depression and anxiety became
+Over the next few years, I kept making bad financial decisions, the startups
+kept failing, and my mental health got worse. Depression and anxiety became
 unwelcome companions as I watched my financial security evaporate. My focus
 narrowed to a desperate search for income as I submitted thousands of job
 applications, enduring hundreds of interviews over a year and a half before
@@ -165,10 +163,11 @@ decision made sense at the time with the information and emotional state I had.
 I don't regret my generosity, though it contributed to my downfall. I don't
 regret taking entrepreneurial risks, though they didn't pay off.
 
-What I would change is my approach to risk management. I'd create financial
-firewalls to protect a core of wealth from my own worst impulses. I'd recognize
-that helping others requires first securing your own position. I'd accept that
-market timing is a game where even professionals mostly fail.
+What I would change is my approach to risk management. I'd set aside a chunk of
+money I was not allowed to trade, borrow against, or touch when I got
+compulsive. I'd recognize that helping others requires first securing your own
+position. I'd accept that market timing is a game where even professionals
+mostly fail.
 
 And I'd remind myself that money is a terrible measuring stick for success or
 worth.
@@ -186,8 +185,8 @@ don't change the essence of the story.
 
 My silver lining is a substantial tax loss carryforward that will shelter future
 gains, should I ever have any. More valuable is the perspective I've gained on
-what constitutes a good life. It isn't the balance in your accounts but the
-relationships you nurture, the meaningful work you do, and your capacity for
-contentment regardless of circumstance.
+what constitutes a good life. These days that has a lot more to do with my two
+dogs, work I care about, and not waking up every morning feeling like my life
+is riding on a number on a screen.
 
-You can always make more money. You cannot make more time. Use yours wisely.
+I don't get the time back, and that's the part that still stings.

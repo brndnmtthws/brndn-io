@@ -86,12 +86,12 @@ explaining what a meme is (for those who don't know, he's the person who coined
 the term _meme_). The definition of "meme" is certainly not "funny image on the
 Internet". Memes have existed long before the Internet.
 
-What's particularly fascinating about the current "meme marketing" trend is how it fundamentally misunderstands what makes memes work in the first place. Memes spread because they tap into shared experiences, emotions, or cultural reference points in a way that feels authentic and relatable. The moment a company tries to engineer this process, it almost inevitably falls flat.
+The current "meme marketing" trend gets the whole thing backwards. Memes spread because people recognize something in them and want to pass it along. The moment a company tries to engineer that, it usually dies on contact.
 
-Remember when brands started using "bae" and "on fleek" in their tweets? Or when McDonald's tried to capitalize on the "Rick and Morty" Szechuan sauce phenomenon? These attempts at meme-jacking often end up as case studies in corporate cringe rather than viral marketing successes.
+Remember when brands started using "bae" and "on fleek" in their tweets? Or when McDonald's tried to capitalize on the "Rick and Morty" Szechuan sauce phenomenon? That stuff doesn't go viral, it just makes the brand look desperate.
 
-The real irony is that occasionally, brands do become meme-worthy—but rarely when they're trying to. Wendy's Twitter account gained cultural relevance not by forcing memes but by adopting an unexpectedly sassy persona that felt genuine. The "Meanwhile at Amazon" photos of Jeff Bezos' increasingly muscular appearance became meme fodder organically, not through a calculated campaign.
+Occasionally, brands do become meme-worthy, but almost never on purpose. Wendy's Twitter account mattered because the voice actually felt like someone was having fun. The "Meanwhile at Amazon" photos of Jeff Bezos' increasingly muscular appearance became meme fodder on their own, not because somebody mapped out a campaign for it.
 
-If there's any lesson here for startups, it's this: focus on building something genuinely valuable or interesting. The best "meme marketing" happens when your product or company does something remarkable enough that people naturally want to talk about it, share it, and yes, maybe even meme it.
+If you're a startup, build something people actually want to talk about. The best "meme marketing" is usually just people noticing you did something weird, good, or interesting enough that they start passing it around on their own.
 
-In the end, trying to manufacture memes to save your struggling startup is like trying to go viral by announcing "I'm going viral!" It fundamentally misunderstands the nature of organic cultural phenomena and the intelligence of your audience. Build something worth talking about instead, and let the internet decide if it's meme-worthy.
+Trying to manufacture memes to save your struggling startup is like trying to go viral by announcing "I'm going viral!" People can tell when the joke is really an ad. Build something worth talking about, then let the internet do whatever it's going to do.

@@ -23,21 +23,21 @@ Over the past few weeks I've noticed an increase in commercial real estate vacan
 
 ![Empty storefronts have become increasingly common](cover.jpg)
 
-The trend isn't just anecdotal. According to data from CBRE, Manhattan's retail vacancy rate reached 12.1% in Q1 2020, up from 8.3% at the same time last year[^1]. This continues a pattern that had already been developing due to e-commerce competition, but has accelerated dramatically in recent months.
+According to data from CBRE, Manhattan's retail vacancy rate reached 12.1% in Q1 2020, up from 8.3% at the same time last year[^1]. That was already heading the wrong way before this year. The shutdown just shoved it forward.
 
 I have a short position on [REM](https://www.ishares.com/us/products/239543/ishares-mortgage-real-estate-capped-etf) with the expectation that real estate (especially commercial real estate) is in for a big price correction. [Carl Icahn has also talked about this](https://www.cnbc.com/2020/03/13/icahn-reveals-his-biggest-short-position-amid-market-turmoil-commercial-real-estate.html), noting that the commercial mortgage market is on the brink of collapse.
 
-What's particularly concerning is that commercial real estate tends to lag behind residential in terms of price corrections. While residential real estate can adjust quickly to market conditions, commercial properties often have long-term leases that mask underlying problems until they suddenly emerge all at once.
+Commercial real estate usually lags residential on price corrections. Residential can reprice fast; commercial leases are longer, so the damage stays half-hidden until it doesn't.
 
-The crisis facing retail isn't just about the pandemic—it's an acceleration of a structural change that was already underway. Traditional retail has been struggling with the rise of e-commerce for years. U.S. e-commerce grew by 14.9% in 2019 alone[^2], and many brick-and-mortar retailers were already operating on thin margins.
+The pandemic sped up a decline that was already underway. Traditional retail has been getting squeezed by e-commerce for years. U.S. e-commerce grew by 14.9% in 2019 alone[^2], and a lot of brick-and-mortar retailers were already barely making it.
 
-As they say, a picture's worth a thousand words. The following photos were taken during my evening walk and show the extent of vacancies in what were previously some of Manhattan's most desirable retail corridors:
+These were all taken on my walk tonight through some of Manhattan's most expensive retail corridors:
 
 {{< gallery match="photos/*.jpg" >}}
 
-Some experts predict that we'll see a reimagining of these spaces in the coming years. Vacant retail might convert to fulfillment centers, experiential venues, or healthcare facilities. Others may simply remain empty until landlords accept the new market reality and reduce rents significantly.
+Some of these spaces will get repurposed. Maybe fulfillment, maybe experiential stuff, maybe healthcare. Others will just sit there until landlords cut rents enough to fill them.
 
-What's clear is that the Manhattan streetscape is changing before our eyes, and the commercial real estate market will need to adapt to a very different future than the one investors had anticipated even a year ago.
+Right now Manhattan looks like a place in between versions, with landlords still pretending the old one is coming back.
 
 [^1]: CBRE Quarterly Report, Q1 2020
 [^2]: U.S. Department of Commerce, Annual Retail Trade Survey, 2019

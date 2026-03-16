@@ -16,7 +16,7 @@ tags:
 
 We humans are complex animals, and our brains developed over hundreds of thousands of years to survive on a rugged unforgiving planet. We invented technologies that became luxuries, and for many (in the West, at least) we live relatively easy lives, by historical standards. It wasn't until the late 1800s in the US that indoor plumbing was commonplace, which is surprisingly recent[^1].
 
-One weakness of our well-adapted brains is that we tend to feel losses more strongly than gains. This is a well-known phenomenon in behavioral economics called "loss aversion," as seeing your account go down feels much worse than watching it go up[^2]. It's not just that it feels worse, but the magnitude of the feeling is much greater when we lose than win.
+One weakness of our well-adapted brains is that we tend to feel losses more strongly than gains. This is a well-known phenomenon in behavioral economics called "loss aversion," as seeing your account go down feels much worse than watching it go up[^2]. Losses just hit harder than gains of the same size.
 
 I should be clear, there are a lot of major problems in the world, such as:
 
@@ -45,7 +45,7 @@ The answer, I think, is pretty simple: it's a combination of our natural tendenc
 
 Even in an entirely different economic or political system, the problems would likely remain because, at the end of the day, humans have adapted to hoard and self-preserve.
 
-That brings me to my final point, the title of this post: even when things do seem bad, it tends to be that they're not as bad as they seem. Our brains tend to get into hyperfixated states when it comes to anything scary, and we lose sight of the big picture. Our minds start to race, negative thoughts perpetuate themselves, and we get stuck into cycles and patterns that are detrimental.
+Even when things do seem bad, they're usually not as bad as they seem. Our brains tend to get into hyperfixated states when it comes to anything scary, and we lose sight of the big picture. Our minds start to race, negative thoughts perpetuate themselves, and we get stuck in loops that make everything feel worse.
 
 Anxiety occurs when we feel challenged, but are unsure how to overcome the challenge. It's a natural response to the fear that something bad may happen in the future, and it likely served us well as hunter-gatherers, but for most people, this response is a net negative[^4].
 
@@ -53,13 +53,13 @@ These days most of our worries aren't so much about getting trampled by bison, b
 
 So what can we do about this mismatch between our primitive brain responses and modern reality?
 
-For one, we can practice mindfulness—the act of observing our thoughts without judgment. When anxiety strikes, try to step back and recognize it as just a sensation, a quirk of your evolutionary programming rather than an accurate assessment of reality[^5].
+For one, we can practice mindfulness. When anxiety spikes, it helps to notice what's happening and name it before it starts running the whole show: elevated heart rate, racing thoughts, the sense that everything is on fire. Usually it isn't[^5].
 
-Second, we can deliberately cultivate perspective by regularly reminding ourselves of the broader context and the genuine progress we've made.
+Second, it helps to zoom out a bit. Sometimes that just means remembering that a bad week is a bad week, not proof that your whole life is broken.
 
-And finally, we can embrace gratitude not as an abstract concept but as a daily practice, actively noting the small comforts and innovations that make our lives better than those of even the wealthiest kings from centuries past.
+And gratitude does help, if only in a very basic way. Hot water, antibiotics, a stocked fridge, insulation, ibuprofen, a text from a friend: I'll take that over being some king in 1420 dying from a tooth infection.
 
-The next time you feel overwhelmed by problems both personal and global, remember this: your brain is designed to amplify threats and downplay advantages. It's never as bad as it seems, and recognizing this truth might be the most important step toward both your personal happiness and our collective ability to solve the very real problems we do face.
+When everything feels overwhelming, personal or global, it helps to remember that your brain is built to amplify threats and downplay what's okay. Things can still be bad. But usually they're a little less catastrophic than they feel in the moment, and that's useful to remember if you want to stay sane long enough to deal with them.
 
 [^1]: Ogle, Maureen. "Water Supply, Waste Management, and the Modern Home." The Oxford Encyclopedia of American Social History, 2012.
 

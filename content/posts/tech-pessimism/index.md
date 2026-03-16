@@ -87,9 +87,10 @@ intentional degrowth (call it a "soft landing"), or unintentional degrowth
 ("hard landing"), which will come about one way or another, and probably much
 Faster Than Expected™.
 
-## A Nuanced Approach to Tech Pessimism
-
-My pessimism isn't about technology itself—it's about the systems in which technology operates. We've created economic and political structures that often divert technological progress away from solving our most pressing problems and toward maximizing short-term profits or consolidating power.
+What gets me is not the gadgets, it's the choke points around them. We keep
+building things that could help, then handing the rollout over to landlords,
+utilities, lobbyists, and the same political class that can't stop shoveling
+money at fossil fuels.
 
 There are still remarkable technological developments happening. For instance:
 
@@ -99,19 +100,24 @@ There are still remarkable technological developments happening. For instance:
 4. Satellite technology is connecting previously unreachable areas to the internet.
 5. Medical technology has extended lifespans and improved quality of life for millions.
 
-These advances aren't insignificant. But what makes me pessimistic is how these technologies get deployed, who benefits from them, and whether they're addressing our most fundamental challenges.
+None of that means much if the stuff that actually matters gets kneecapped on
+the way in.
 
-The heat pump example illustrates this perfectly. The technology is mature and effective—modern cold-climate heat pumps work efficiently down to -15°F or lower, contrary to common misinformation. The problem isn't technological but structural: upfront costs, split incentives (landlords vs. tenants), regulatory barriers, and active resistance from entrenched interests.
+Heat pumps are a good example. The technology works. Modern cold-climate units
+work fine well below zero, despite the constant nonsense online. The real issue
+is that a homeowner has to eat the upfront cost, a landlord has no reason to
+care if the tenant pays the heating bill, and oil companies would love to keep
+it that way.
 
-## The Internet's Unfulfilled Promise
+The Internet is its own depressing example. It used to feel like a place you
+went. Now it feels like five websites deciding what you're allowed to see.
 
-The Internet's evolution is particularly disappointing. What began as a decentralized network that democratized information and connection has increasingly consolidated into a handful of walled gardens. The technology itself remains revolutionary, but its implementation has drifted far from its original promise.
+Instead of flattening power, it mostly gave the biggest platforms better tools
+to shape attention. The feeds are tuned to keep you scrolling, not to make you
+better informed or less insane.
 
-Rather than creating a more level playing field, it has in many ways amplified existing power dynamics. The algorithms that determine what we see optimize for engagement rather than truth, community, or human flourishing.
-
-## Beyond Pessimism
-
-While my assessment may sound bleak, I don't advocate for giving up. Instead, I suggest a more clear-eyed approach to technology:
+So no, I don't think the answer is to give up. I just don't buy the lazy story
+that better tech automatically drags us somewhere better.
 
 1. **Local resilience matters**: Building technology that works at community scales and enhances local resilience can bypass many of the systemic barriers to adoption.
 
@@ -123,8 +129,15 @@ While my assessment may sound bleak, I don't advocate for giving up. Instead, I 
 
 5. **Technological humility**: We should remain skeptical of "tech will save us" narratives that promise easy solutions to complex problems, while still appreciating genuine progress.
 
-Perhaps what I'm advocating isn't so much tech pessimism as tech realism—acknowledging both the tremendous potential of technology and the very real barriers to realizing that potential. The challenge isn't inventing new technologies (though that remains important) but creating the social, economic, and political conditions for beneficial technologies to flourish.
+I'm less interested in inventing some new label for that than in being honest
+about the bottleneck. We already know how to build a lot of useful things. The
+hard part is getting them adopted before incumbents, bad incentives, and
+political cowardice smother them.
 
-Whether we pursue intentional degrowth or find another path forward, our relationship with technology will need to evolve. We need technologies that enhance our resilience rather than increasing our vulnerability, that distribute power rather than concentrating it, and that work within planetary boundaries rather than accelerating their transgression.
+Whether we pursue intentional degrowth or blunder into the other kind, I'd
+rather put my faith in technology that makes communities harder to break and
+less dependent on giant fragile systems.
 
-That may require a fundamental reorientation of how we develop, deploy, and govern technology—moving from asking "Can we?" to "Should we?" and "Who benefits?" Perhaps then, technology might help us build the future we actually want to live in, rather than the one we seem to be hurtling toward.
+If a piece of tech only works under perfect political conditions, with honest
+utilities, aligned incentives, and no lobbying pressure, then I don't trust it
+to save us from anything.

@@ -31,11 +31,11 @@ After spending time on this subreddit, I've noticed something striking: most peo
 
 ## The Mirror's Harsh Gaze
 
-We are our own worst critics. We stare at ourselves in the mirror daily, fixating on perceived flaws rather than strengths. We compare our unfiltered reality to others' highlight reels and feel inadequate. We see every imperfection in ourselves while missing our own beauty.
+Most of us know our own face too well. We stare at it in the mirror every day and end up fixating on the one thing that feels off. Then we stack that against other people's best photos and decide we're coming up short.
 
 This self-criticism is amplified by our exposure to unrealistic beauty standards in magazines, movies, and social media. These images rarely reflect reality—they're highly modified, perfectly lit, professionally styled, and extensively edited. This type of photography isn't authentic; its purpose is to sell products or project an idealized image rather than capture a person's true essence.
 
-Authenticity, however, is genuinely beautiful. When people express their true selves, flaws and all, it demonstrates self-confidence and self-acceptance. Displaying imperfections shows comfort in your own skin—a sign of strength, not weakness.
+What actually gets me is when somebody looks like themselves. A crooked smile, bad skin, weird expression, whatever. That kind of photo feels relaxed in a way polished images usually don't.
 
 I believe most everyone has beauty. Personally, I find the polished photography in advertisements and Instagram often off-putting. I'm drawn to candid, unposed, unedited photos that capture real people in real moments.
 
@@ -45,12 +45,12 @@ A skilled photographer with the right eye can make anyone look remarkable with p
 
 Reading comments on r/amiugly reveals that most responses are positive and supportive. People are generally kind, yet we tend to fixate on negative comments, particularly from trolls. Sometimes we dismiss genuine compliments as insincere or biased, unable to accept the positive feedback.
 
-Beauty is subjective—what appeals to one person may not appeal to another. And outward appearances are only one aspect of beauty. I've met people who look stunning in photos but reveal inner ugliness through their words and actions. Focusing solely on superficial beauty is shallow and ultimately unfulfilling.
+People also underrate how specific taste is. Some faces get more interesting the longer you look at them. And outward appearances are only one aspect of beauty. I've met people who look stunning in photos but reveal inner ugliness through their words and actions. Focusing only on surface-level beauty is a dead end.
 
 ## Everyone's Best Angle
 
 In my years photographing people, I've discovered everyone has their best angles, expressions, and moments. With the right approach, everyone can be captured beautifully.
 
-Remember that comparison is the thief of joy. The people you see in advertisements or on Instagram represent a carefully curated and edited version of reality. Even those seemingly perfect individuals have bad days, insecurities, and flaws.
+The people you see in advertisements or on Instagram are showing a carefully edited slice of reality. Even the ones who seem perfect have bad days, insecurities, and plenty of unflattering photos.
 
 If you're curious, you can browse r/amiugly yourself at <https://old.reddit.com/r/amiugly/>.

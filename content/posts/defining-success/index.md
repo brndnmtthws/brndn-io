@@ -44,8 +44,8 @@ crisis later in life. In his memoir *A Confession*, he describes how, after
 achieving fame and fortune, he found himself questioning the meaning of life and
 the value of his accomplishments. Ultimately, Tolstoy found greater fulfillment
 not in accolades or possessions, but in simple living, spiritual growth, and his
-relationships with others. His journey is a powerful reminder that external
-success often fails to satisfy our deeper needs for meaning and connection.
+relationships with others. What sticks with me is that he got everything he was
+supposed to want and still felt hollow.
 
 What most people truly want, I believe, is to be surrounded by people they love
 and who love them back, and to know they made a positive difference in those
@@ -57,9 +57,7 @@ longevity[^1]. One participant in the study, who had achieved great professional
 success, reflected late in life that his most cherished memories were not of
 career milestones, but of time spent with family and friends. Psychiatrist
 George Vaillant, who directed the study for decades, famously summarized its
-findings: "Happiness is love. Full stop." This real-life example from a landmark
-study underscores the enduring importance of relationships over material
-achievements.
+findings: "Happiness is love. Full stop." Hard to improve on that.
 
 It turns out there's a scientific reason why chasing bigger houses and faster
 cars often feels unsatisfying. Psychologists call it the "hedonic treadmill"[^2][^2b].
@@ -67,8 +65,8 @@ We quickly adapt to positive changes in our lives–a raise, a new car, a bigger
 house. The initial thrill fades, we return to our baseline happiness level, and we
 start craving the *next* thing to get that temporary boost. We overestimate how
 much happiness these external achievements will bring, trapping ourselves in a
-cycle of desire and adaptation. The only way off this treadmill isn't to run
-faster, but to fundamentally rethink what we're chasing.
+cycle of desire and adaptation. For me, the useful question has become: am I
+actually making my life better, or just refreshing the feeling for a week?
 
 ## The Necessary Illusions?
 
@@ -89,8 +87,7 @@ entirely)[^3], feeling secure and capable is undeniably important.
 York City subway car costs roughly $2 million. A full train has 8-10 cars. So, my
 daily commute vehicle? Easily worth $16-20 million. Take that, luxury sedan!)
 
-The crucial point isn't whether wanting these things is "bad," but understanding
-*why* we want them. Are you buying that shiny new gadget because it genuinely
+What matters is *why* we want them. Are you buying that shiny new gadget because it genuinely
 enhances your life, or because you hope it will make others *think* your life is
 better? Are you pursuing that promotion for the challenge and growth, or for the
 perceived status it confers?
@@ -130,8 +127,8 @@ fault.
 
 This isn't just sentiment; research backs it up. Engaging in prosocial behaviors—
 acts of kindness, volunteering, contributing to a cause—provides significant
-psychological rewards. Giving enhances mood, fosters a sense of purpose,
-strengthens social bonds, and contributes to lasting life satisfaction[^5][^5b].
+psychological rewards. Giving tends to make people feel more connected and a bit
+less trapped inside themselves[^5][^5b].
 
 Grand gestures can be nice, but don't underestimate the power of small, consistent
 acts of kindness, especially those that cost nothing but time or attention. They
@@ -175,10 +172,9 @@ or to cultivate an image of sophistication? Are you reading that book because it
 fascinates you, or because it's on some "must-read" list that you think will
 impress others?
 
-Being present means engaging authentically with yourself and your surroundings.
-It means aligning your actions with your values, not performing for an imaginary
-audience. True success isn't about convincing others you're successful; it's about
-cultivating a life that feels genuinely good and meaningful *to you*. Research
+Being present, at least for me, looks a lot less glamorous than people make it
+sound. It looks like leaving my phone at home for a walk, cooking dinner, paying
+attention, and noticing whether my life actually feels like mine. Research
 consistently links mindfulness and presence with reduced stress, better emotional
 regulation, and increased overall well-being[^6].
 
@@ -203,8 +199,7 @@ works wonders. Try writing about your motivations, your evolving goals, and what
 *your* unique definition of success looks like right now. The very act of
 articulating these ideas clarifies them.
 
-There's extensive research confirming the positive impact of journaling on
-mental health and well-being. Studies, including systematic reviews and
+There's good research on journaling too. Studies, including systematic reviews and
 controlled trials, consistently show that various forms of journaling—like
 expressive writing (exploring thoughts and feelings about stressful events) or
 gratitude journaling—can significantly reduce symptoms of anxiety, depression,
@@ -218,8 +213,8 @@ your internal landscape on paper, you create an opportunity to identify
 patterns, challenge unhelpful thoughts, and consciously cultivate a more mindful
 and present state. Some studies even suggest tangible physical benefits,
 possibly linked to stress reduction, like improved immune function or faster
-recovery times[^9]. It's a powerful, low-cost tool for understanding yourself
-and navigating life's complexities.
+recovery times[^9]. More simply: writing things down helps you catch what you're
+actually thinking.
 
 ## Redefining the Finish Line
 

@@ -23,7 +23,7 @@ There are much better examples than dogs of animals who employ tools, such as bi
 
 ## Tools as Force Multipliers
 
-What makes tools so powerful is their ability to provide leverage—they allow us to accomplish more with less effort, time, and resources. Archimedes famously said, "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." This insight captures the essence of what makes tools valuable: they extend our natural capabilities beyond what our bodies alone could achieve.
+Tools matter because they let us do things our bodies can't do on their own, or at least not nearly as well. Archimedes famously said, "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
 
 {{% figure
     src="archimedes.jpg"
@@ -37,13 +37,13 @@ In terms of our day to day lives, tools provide us with _leverage_, they allow u
 
 ## The Evolution of Tools in the Digital Age
 
-The most impactful technology companies of the current era got to where they are by creating tools that provided unprecedented leverage:
+A lot of big technology companies got big by building tools people kept reaching for:
 
 * **Communication tools**: The early internet pioneers created _email_, a way to send electronic mail to anyone anywhere on the globe, which later evolved into _instant messaging_, arguably one of the most valuable inventions that came out of the internet. What once required physical delivery systems, days of transit, and significant cost became instant and nearly free.
 
 * **Information navigation tools**: Browsers were developed as a way to visualize and navigate content on the internet through a web of links between documents. The web browser is a tool that unlocked an incredible amount of new technologies by creating a standardized way to access and interact with distributed information.
 
-* **Search tools**: Google made a search index that used a reputation-based algorithm called "PageRank" (a pun on how one cofounder was named _Page_) to build a search engine that was remarkably useful at the time. This tool condensed the entire web into an accessible, searchable format, providing unprecedented access to information.
+* **Search tools**: Google made a search index that used a reputation-based algorithm called "PageRank" (a pun on how one cofounder was named _Page_) to build a search engine that was remarkably useful at the time. Suddenly you could find some weird page on the open web in seconds instead of stumbling around for it.
 
 * **Social tools**: Facebook created a simple tool for connecting with friends and family, exchanging messages, sharing photos, arguing about moral panics, political opinions, and spamming your conspiracy theories. While I'm being somewhat facetious, these platforms are remarkably powerful tools for human connection and information sharing.
 
@@ -69,13 +69,13 @@ What's most interesting about Leonardo's observation is that it is, itself, a _t
 
 ## Modern Tools That Create Disproportionate Value
 
-Today, we see numerous examples of tools that create enormous value by providing leverage in different domains:
+You can see the same pattern all over the place:
 
 1. **Development tools**: Frameworks like React or Next.js allow developers to build complex web applications with a fraction of the code and time previously required. Version control systems like Git enable collaboration that would be impossible otherwise.
 
 2. **No-code tools**: Platforms like Webflow, Airtable, and Zapier allow non-technical people to create software solutions that would have required expensive development teams just a few years ago.
 
-3. **Creative tools**: Digital audio workstations, video editing software, and design applications have democratized creation, allowing individuals to produce professional-quality work from their homes.
+3. **Creative tools**: Digital audio workstations, video editing software, and design applications made it much cheaper and more practical to record music, cut video, or design something decent without renting a studio.
 
 4. **AI tools**: Systems like GPT for text generation, DALL-E for image creation, or GitHub Copilot for code assistance extend human creativity by handling routine tasks and suggesting possibilities we might not have considered.
 
@@ -85,13 +85,13 @@ Today, we see numerous examples of tools that create enormous value by providing
 
 At some point the tools become so complex that we forget to think about tools as compositions of other tools either through supply chains or abstractions built atop abstractions, and instead we think of these tools as magic. Software seems to have this modern day appeal as being magical, so much so that we have started referring to any kind of software that appears complex beyond explanation as "AI". This is especially valuable to sales and marketing people who are trying to ride the AI hype wave which seems to have had a new renassaince recently thanks to some recent advances in text generation.
 
-The most powerful tools often hide their complexity through abstraction. The smartphone in your pocket contains technologies that would have been considered miraculous just a few decades ago, yet we use them without understanding the intricate systems making them work. This abstraction itself is a meta-tool—it allows us to wield powerful capabilities without requiring us to understand their inner workings.
+The most powerful tools often hide their complexity through abstraction. The smartphone in your pocket can do things that used to require a backpack full of separate devices, and most of us don't know much about how any of it works. That layer of abstraction is a tool too: it lets you use the thing without studying the whole stack first.
 
 ## Value Creation Through Tools
 
 To sum up my core thesis in this rambling essay, I think the greatest value from technology is the creation of tools. The act of creation of any kind (whether it's art, tooling, food, or anything else that is new or novel) is the highest form of value creation. Merely hoarding wealth doesn't _create_ value, because money is imaginary and on its own it cannot _create_ anything, unless you use that money to pay someone who _is_ creative and has the skills to create new things like tools and art and cooking techniques that produce delicious foods.
 
-The most profound tools share several characteristics:
+The tools I keep valuing most tend to have a few things in common:
 
 1. They provide significant leverage, allowing users to accomplish much more with less effort
 2. They lower barriers to creation, enabling more people to participate
@@ -99,8 +99,8 @@ The most profound tools share several characteristics:
 4. They often become platforms upon which other tools can be built
 5. They frequently disappear into the background, becoming infrastructure we take for granted
 
-In other words: to create real value, focus on building tools that solve real problems or unlock new technologies. And perhaps the highest form of value creation is building tools that help others create tools—creating the leverage that creates leverage.
+If you want to build something useful, build a tool that solves an actual problem or opens up some new technical possibility. The really interesting ones make it easier for other people to build too.
 
-Our uniquely human capacity for recursive tool-making—creating tools that create tools that create tools—may be the most powerful force for progress we possess. It's a capability worth celebrating, understanding, and most importantly, putting to use in service of meaningful challenges.
+Maybe that's the real trick humans are good at: making tools, then making better tools with those tools, and repeating the process. I'd rather see that aimed at something hard and worthwhile than at another layer of bullshit.
 
 [^1]: By Mechanics Magazine, Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=1921693)

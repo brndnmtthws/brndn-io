@@ -21,7 +21,7 @@ Capitalism isn't a force of nature—it's a human-created system. For it to func
 
 ## The Housing Affordability Challenge
 
-Housing affordability has become a pressing issue across Western nations. When examined through an incentive lens, the situation becomes clearer. Housing has become increasingly unaffordable largely because key incentives are misaligned.
+Housing affordability has become a pressing issue across Western nations. Housing has become increasingly unaffordable largely because too many people make money when homes get scarcer, pricier, or sit unused.
 
 Browse forums like [r/REBubble](https://old.reddit.com/r/REBubble/) or read comments on tech sites discussing housing prices, and you'll repeatedly encounter familiar explanations:
 
@@ -41,7 +41,7 @@ According to recent [vacancy data from the US census](https://www.census.gov/hou
 
 ![Vacant Homes](vacant-hoooms.png)
 
-While definitions of "vacancy" can vary, 15 million is substantial enough to challenge the simple "not enough homes" narrative. Rather than an absolute shortage, we seem to have a distribution problem—plenty of housing exists, but not necessarily available to those who need it most.
+While definitions of "vacancy" can vary, 15 million is substantial enough to challenge the simple "not enough homes" narrative. A lot of housing exists; the problem is that too much of it is being held back, misused, or priced for someone else.
 
 I observe this phenomenon in New York City, where many luxury condominiums in affluent areas show few lights at night, suggesting lower occupancy rates. Meanwhile, the city also faces issues with rent-stabilized vacant units, where [some landlords deliberately keep apartments off the market](https://www.curbed.com/2023/07/landlords-bluffing-vacant-apartments-warehousing-nyc.html).
 
@@ -57,19 +57,19 @@ Financial leverage drives housing costs upward, especially when interest rates r
 
 ## Potential Housing Market Improvements
 
-Creating a healthier housing market would require realigning incentives. Potential approaches might include:
+If you want different outcomes here, you have to change what the system rewards. Potential approaches might include:
 
 1. Reconsidering preferential tax treatment for investment properties
 2. Evaluating government subsidies in the housing finance system
 3. Implementing meaningful vacancy taxes to discourage property underutilization
 4. Recognizing housing's dual nature as both essential infrastructure and financial asset
 
-The current market dynamics often favor those who already own property while creating barriers for newcomers. This contributes to wealth inequality as housing costs consume an ever-larger portion of income for non-owners.
+People who already own property get the upside, and people trying to buy in get squeezed by rising prices and rent.
 
-The system increasingly rewards asset ownership over productivity, innovation, or other forms of social contribution. Success often correlates with market entry timing rather than merit or effort.
+More and more, it pays better to have bought at the right time than to actually build or do anything.
 
 In essence: we should consider whether housing policies should prioritize shelter as a fundamental need or investment returns as the primary goal.
 
 Realistically, though, significant change faces substantial obstacles. Powerful interests benefit from current arrangements, making transformative reform politically challenging.
 
-The fundamental question remains: do we want a society where housing serves people, or one where people serve the housing market?
+If housing is going to be treated first as an asset, this is the result.

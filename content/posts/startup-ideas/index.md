@@ -19,9 +19,9 @@ Starting any company is hard. Startups are even harder. If you want to start a c
 
 ![Startup](cover.jpg "Is this...a startup idea?")
 
-The main difference between a small business and a startup is your level of ambition, and how much money you can raise. Paul Graham [defines it as "startup = growth"](http://www.paulgraham.com/growth.html), but (most) startups only grow if they have resources (i.e., people, capital) to do so. The number of companies that start out bootstrapped, have growth, and never need to raise any money is _extremely_ small, like infinitesimal. From a probabilistic perspective you're better off trying to build things that are easy to fundraise for.
+My rough distinction between a small business and a startup is ambition, and how much money you can raise. Paul Graham [defines it as "startup = growth"](http://www.paulgraham.com/growth.html), but (most) startups only grow if they have resources (i.e., people, capital) to do so. The number of companies that start out bootstrapped, have growth, and never need to raise any money is _extremely_ small, like infinitesimal. You're usually better off building something that's easy to fundraise for.
 
-Consider Zapier—one of the rare truly bootstrapped successes. They reached $140M+ in ARR without VC funding, but for every Zapier, there are thousands of bootstrapped companies that never break $1M in revenue. The odds aren't great.
+Consider Zapier—one of the rare truly bootstrapped successes. They reached $140M+ in ARR without VC funding, but for every Zapier, there are thousands of bootstrapped companies that never break $1M in revenue. The point isn't that bootstrapping can't work, it's that using Zapier as your plan is a bad bet.
 
 ## Some Truths Before You Start
 
@@ -44,12 +44,12 @@ Just look at WeWork—they raised over $11 billion but still imploded spectacula
 
 Coming up with startup ideas isn't difficult, the hardest part is figuring out whether or not it's worth pursuing. **Start with a problem**, something you experience every day, something you find frustrating or are passionate about, and something you want to fix. The best products are almost always things people built for themselves.
 
-Stripe began when the Collison brothers were frustrated with how difficult it was to accept payments online. Airbnb started because the founders couldn't afford their rent and had space for an air mattress. Notion came from the founder's desire for a better note-taking tool. These personal pain points led to billion-dollar companies.
+Stripe began when the Collison brothers were frustrated with how difficult it was to accept payments online. Airbnb started because the founders couldn't afford their rent and had space for an air mattress. Notion came from the founder's desire for a better note-taking tool. A lot of huge companies started that way, with founders scratching at something that annoyed them personally.
 
 Startup ideas should meet a few minimum requirements, such as:
 
 1. It should be something you can build an MVP of by yourself. If you can't iterate on the product it will be extremely hard to get things right.
-2. The market should be sufficiently large. The bigger the market, the bigger the opportunity. Look for problems that afflict nearly everyone everywhere.
+2. The market needs to be big enough that, if you get this right, you can still build a real company. I like problems that show up constantly for a lot of people or businesses, not tiny edge cases.
 3. Is this a problem you can _actually_ solve?
 4. Are _you_ the right person to solve it?
 
@@ -72,7 +72,7 @@ The founders of Instacart famously built their first version in just a few hours
 
 It's always worth getting buzz if possible. If you can get media attention, or get to the front page of top of Hacker News or Product Hunt, it becomes _much_ easier to start a company. Once your brand, product, or name is in the general consciousness of the startup community, everything gets easier.
 
-Getting buzz without spending money is more of an art than a science. It's about having the right timing, the right messaging, and offering something people want.
+Getting buzz without spending money is weird and inconsistent. Sometimes a launch hits because the angle is obvious and people immediately want the thing, and sometimes it goes nowhere for reasons that are hard to pin down.
 
 Unusual strategies can work wonders. Coinbase grew by giving away small amounts of Bitcoin to new users when crypto was still obscure. Loom used creative demo videos that went viral. Notion deliberately limited access early on, creating a sense of exclusivity that had people begging for invites.
 
@@ -94,8 +94,8 @@ Lastly, always remember that ideas themselves are worthless (unless you can sell
 
 The only difference between success and failure is execution.
 
-Just look at Facebook—it wasn't the first social network (remember Friendster and MySpace?). Google wasn't the first search engine. Uber wasn't the first ride-sharing app. What set these companies apart was ruthless, relentless execution on a good-enough idea, not the originality of the concept itself.
+Just look at Facebook—it wasn't the first social network (remember Friendster and MySpace?). Google wasn't the first search engine. Uber wasn't the first ride-sharing app. Those companies won because they kept shipping, distributing, and improving while everyone else stalled out. The idea itself wasn't the rare part.
 
-Focus less on finding the perfect idea and more on becoming the kind of founder who can turn an average idea into an exceptional company.
+So spend less time trying to dream up the perfect idea. Pick something decent and see if you can actually make it work.
 
 [^1]: "Figma raises $50 million Series D." TechCrunch, 2020.

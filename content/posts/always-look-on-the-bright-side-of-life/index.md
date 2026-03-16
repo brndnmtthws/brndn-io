@@ -41,9 +41,9 @@ I think about what's currently going on in the world, and while it worries me, I
 
 One thing that gives me hope about the future is the way people have decided to reject authoritarian tendencies through civil disobedience. This is something that, to the best of my knowledge, didn't occur as widely in Germany during Hitler's rise to power. For the most part, he consolidated control with relatively limited organized opposition.
 
-The Internet and social media—for better or worse—has made it much more difficult for governments to act with impunity, because it's relatively easy to share information. As long as people are free to share information unobstructed, governments face greater accountability for their actions.
+The Internet and social media have made it harder for governments to get away with things quietly, because people can share photos, video, and firsthand accounts almost instantly. As long as people are free to share information unobstructed, governments face greater accountability for their actions.
 
-A world without censorship is a free world. And perhaps that's the bright side we can all look to—that despite challenges, we have greater tools for transparency and resistance than ever before. As the Monty Python song reminds us, sometimes the most powerful act is to whistle and "Always Look on the Bright Side of Life."
+That's the bright side, I guess: it's harder to bury what's happening when everyone has a camera and a connection. That's probably as close as real life gets to "Always Look on the Bright Side of Life."
 
 [^1]: Atwood, K. (2011). "Women Heroes of World War II: 26 Stories of Espionage, Sabotage, Resistance, and Rescue." Chicago Review Press.
 [^2]: Hatherley, O. (2016). "Keep Calm and Carry On – the sinister message behind the slogan that seduced the nation." The Guardian.

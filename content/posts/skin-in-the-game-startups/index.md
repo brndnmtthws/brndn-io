@@ -83,38 +83,24 @@ It's been a while since the incumbents were novel and useful for me.
 
 ## Promising Examples of Skin in the Game Startups
 
-Here are a few examples of innovative business models that incorporate skin in the game principles:
+A few more:
 
-**Outcome-based healthcare**: Companies like [One Medical Seniors (formerly Iora Health)](https://www.onemedical.com/sixty-five-plus/) pioneered value-based care models where compensation is tied to patient outcomes rather than the number of procedures performed. Healthcare providers are incentivized to keep patients healthy, not just treat them when they're sick.
+**Outcome-based healthcare**: Companies like [One Medical Seniors (formerly Iora Health)](https://www.onemedical.com/sixty-five-plus/) pioneered value-based care models where compensation is tied to patient outcomes rather than the number of procedures performed. If the patient keeps bouncing back into the office, that's a failure, not a revenue strategy.
 
-**Performance-based marketing agencies**: Some digital marketing agencies are moving to models where they get paid based on the results they deliver rather than hourly rates. For example, they might take a percentage of increased revenue attributed to their campaigns instead of charging fixed fees.
+**Performance-based marketing agencies**: A cleaner version of the agency model is getting paid on attributable revenue instead of billable hours. If the campaign doesn't move the numbers, the agency feels it too.
 
-**Chef by Proper Food**: This meal delivery service allows you to pay based on your satisfaction with meals. If you don't like the meal, you don't pay for it. This creates an incentive for the company to maintain quality and learn quickly from customer feedback.
+**Chef by Proper Food**: This meal delivery service lets you pay based on whether you liked the meal. If you don't like it, you don't pay. That's real downside, not a survey in your inbox.
 
-**Cargo insurance innovations**: Companies like [Loadsure](https://www.loadsure.net/) are creating new insurance models where premiums are calculated based on real-time data and actual risk exposure rather than historical averages. The insurer shares in the efficiency gains from better risk management.
-
-## How to Build a Skin in the Game Startup
-
-If you're interested in building a skin in the game startup, here are some principles to consider:
-
-1. **Align incentives**: Your business model should create a direct connection between your success and your customers' success.
-
-2. **Be transparent**: Make it clear to customers how your incentives are aligned with theirs. Transparency builds trust.
-
-3. **Measure what matters**: Define metrics that truly capture value creation for customers, not just outputs or activities.
-
-4. **Share risk meaningfully**: Go beyond lip service—actually put your profits at risk when customers don't get the outcomes they're seeking.
-
-5. **Create feedback loops**: Build systems that help you learn quickly when customers aren't getting value, so you can adjust accordingly.
+**Cargo insurance innovations**: [Loadsure](https://www.loadsure.net/) prices cargo insurance off the shipment that's actually moving through the world, not just a stale historical average. That's closer to the bet being made.
 
 ## The Future of Business Models
 
-I believe we're at the beginning of a fundamental shift in how businesses create and capture value. The internet has made information more accessible and markets more efficient, which means customers are increasingly able to judge companies based on the actual value they deliver.
+I don't know if this becomes some grand shift, but I do think more companies will end up here. The internet made comparison cheap, and customers are better at spotting when a company is only pretending to be on their side.
 
-In this environment, skin in the game startups have a competitive advantage. They can build deeper trust with customers, align their organizations more effectively around customer outcomes, and potentially capture more value in the long run by delivering more value.
+In that world, having skin in the game is an advantage because it's harder to fake. You're either willing to get paid when the customer gets the result, or you're not.
 
-The standard playbook of manipulative marketing, planned obsolescence, and customer lock-in is becoming less effective as consumers become more sophisticated and alternatives proliferate. Companies that directly tie their success to their customers' success will be better positioned to thrive.
+The standard playbook of manipulative marketing, planned obsolescence, and customer lock-in also seems a little more tired than it used to. There are more alternatives, and people are quicker to notice when the business model is working against them.
 
-So if you're thinking about starting a company, consider how you might incorporate skin in the game principles into your business model. Not only is it potentially a competitive advantage, but it's also simply a more satisfying way to build a business—knowing that your success is genuinely tied to creating value for others.
+So if you're starting a company, I'd at least ask where you're willing to share downside instead of just talking about upside. That's the whole thing.
 
-The most powerful innovations often aren't technological but rather involve rethinking the fundamental relationships between businesses and their customers. Skin in the game startups represent exactly this kind of innovation, and I'm excited to see how they evolve in the coming years.
+Sometimes the interesting part isn't the tech at all. It's whether the company is finally forced onto the same side of the table as the customer.

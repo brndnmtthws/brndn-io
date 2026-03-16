@@ -48,13 +48,13 @@ I not-so-recently deleted most of my social media accounts and kicked my news ad
 
 The relief is profound. Get addicted to something good instead—yoga, volunteering, contributing to open source software, whatever. Focus on one thing and do it well. It's rewarding–and who knows, [maybe you'll one day master that thing]({{<ref "the-arduous-path-to-mastery">}})?
 
-It's not just me: research shows that excessive digital technology use is linked with higher stress, reduced attention span, poorer sleep, and less time spent in-person, which diminishes mood and well-being. High levels of online multitasking and information overload are correlated with increased anxiety and chronic stress. Both very high and very low levels of digital engagement are associated with decreased well-being; moderate, intentional use fares best. In-person interactions, which are key to well-being, are often crowded out by digital distraction, with studies linking screen time to diminished social skills and empathy.[^5][^7]
+And yes, there is actual research behind this stuff. When your attention is getting yanked around all day by apps and notifications, your stress goes up, your sleep gets worse, and real life gets pushed to the side.[^5][^7]
 
 Kick your virtual reality habit by deleting those apps, and try reality reality.
 
 ## Quality Over Quantity in Relationships
 
-Nowhere is "more is worse" more obvious than in our social lives. Research shows it's the quality, not quantity, of relationships that matters. A 2010 Harvard study found that a few deep, meaningful friendships predict happiness and life satisfaction far better than a crowd of acquaintances.[^9] More recent research confirms that deeper, meaningful relationships yield greater satisfaction and emotional health than numerous superficial contacts. Excessive social or dating app options can actually amplify choice paralysis and reduce relational satisfaction, as users fear missing out on "better" options. In digital environments, prioritizing genuine connection over volume of interaction aligns with greater happiness and lower rates of loneliness.[^10][^11]
+Nowhere is "more is worse" more obvious than in our social lives. Research shows it's the quality, not quantity, of relationships that matters. A 2010 Harvard study found that a few deep, meaningful friendships predict happiness and life satisfaction far better than a crowd of acquaintances.[^9] The same basic problem shows up on dating apps too: too many options turns people into tabs you never close, and you start treating everyone as potentially temporary because maybe someone "better" is one more swipe away.[^10][^11]
 
 I can personally vouch for what the research says. After stepping away from dating apps, I can't claim to be any more successful at meeting people offline—but I am undeniably happier. The constant cycle of swiping, rejection, ghosting, and feeling like you're never quite enough (because there's always the illusion of someone better out there) is exhausting. Letting go of all that pressure has been a relief. And honestly, being single has its perks—like total freedom, and, well, the internet is always there if you need a little company.
 
@@ -84,13 +84,13 @@ Take a cue from my dogs: learn to enjoy less. Walter is thrilled chewing on a pi
 
 This isn't about living an austere life—quite the opposite. It's about making space for abundance in what truly matters by cutting back on what doesn't. The fewer distractions we have, the more we can appreciate what remains.
 
-There's a richness to simplicity that no amount of money can buy. Research shows that decluttering and reducing possessions measurably improves mental clarity, focus, and reduces stress. Minimalist environments are associated with better air quality, fewer allergens, and improved physical health. A minimalist lifestyle supports mindful consumption: individuals tend to buy higher-quality, longer-lasting items and experience more satisfaction and less decision fatigue. Simpler physical and digital environments facilitate better sleep, healthier diets, and greater productivity by removing distractions. Marie Kondo was onto something when she said that the key to tidiness (and happiness) is to keep only the things that spark joy.[^12][^13]
+My apartment basically forces this on me. At 450sqft, every dumb purchase becomes my problem immediately. The upside is that less junk really does make the place feel calmer, and I'm a lot less likely to buy random crap when I know I'll have to look at it every day.[^12][^13] Marie Kondo was onto something.
 
 While I wish I could afford an apartment bigger than 450sqft, it has the nice quality of forcing me to live with less. So in a way, I'm probably happier than I would be in a bigger place.
 
-So next time you're faced with an endless menu of options—literal or metaphorical—consider that the best choice might be the place with fewer, better options. Or just ask the chef what they do best, and trust their expertise over the tyranny of unlimited choice.
+Give me the restaurant with five things on the menu and one cook who knows exactly what they're doing. Or better yet, just tell me what to order.
 
-More isn't better. More is worse. And realizing that might be one of the most liberating truths you ever discover.
+More isn't better. More is worse.
 
 [^1]: I'm not saying money is bad, but it's a good example of something that people are taught to believe more is better. Beyond a certain point, money doesn't make you happier once you've met your basic needs.
 [^2]: Schwartz, B. (2004). The Paradox of Choice: Why More Is Less.

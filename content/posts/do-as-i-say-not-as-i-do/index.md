@@ -15,16 +15,17 @@ tags:
   - psychology
 ---
 
-It's easy to preach, but it's hard to be congruent with whatever philosophies
-you espouse. Certainly there are people who do as they say they do, but I suspect
-the majority of those who (like myself) write blog posts on self-help themes
-don't practice much of what they preach.
+I can write about a philosophy a lot more easily than I can live it. Certainly
+there are people who do as they say they do, but I suspect the majority of those
+who (like myself) write blog posts on self-help themes don't practice much of
+what they preach.
 
-Consider fitness gurus. People who tend to be physically fit are often that way
-not just because they work hard, but because they've won the genetic lottery in
-some way. Research suggests that fitness outcomes are influenced by genetics
-anywhere from 40-70%, with one [twin study finding that genetic factors account
-for 47-80% of fitness trait variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921580/). My unscientific observations align with this research.
+Consider fitness gurus. A lot of physically fit people started with advantages
+that make staying fit easier in the first place. Research suggests that fitness
+outcomes are influenced by genetics anywhere from 40-70%, with one [twin study
+finding that genetic factors account for 47-80% of fitness trait
+variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921580/). My
+unscientific observations align with this research.
 
 Someone who's less naturally physically fit can certainly achieve similar (or
 even higher) levels of fitness, but to do so they would have to override their
@@ -32,9 +33,9 @@ natural tendencies. This might mean battling their body's set point weight or
 fighting against their natural appetite regulation—things that come effortlessly
 to others.
 
-This post isn't really about nature versus nurture or fitness specifically, but
-rather about how the most vocal advocates often say what people _want_ to hear
-without necessarily practicing what they preach.
+Fitness is just one version of the same thing: the loudest advocates are often
+selling people what they _want_ to hear while living by a different set of
+rules.
 
 Politicians are perhaps the quintessential example of the "do as I say not as I
 do" mantra. We've all seen examples of politicians who champion one cause
@@ -46,8 +47,8 @@ rhetoric but quietly employs undocumented workers for their household at below
 minimum wage. They pander to their voter base while simultaneously benefiting
 from the very situation they publicly condemn.
 
-The point is to be skeptical of anyone who preaches anything—including me—and
-rather than listening to what people say, focus on what they _do_.
+I try to treat anyone preaching anything—including me—with some suspicion, and
+pay more attention to what they _do_ than what they say.
 
 If you work in any field related to human behavior, you quickly learn that asking
 people what they think is often unreliable. This is why political polls can be
@@ -59,17 +60,16 @@ than for their preferred candidate, especially in places with winner-takes-all
 voting systems. Better systems like ranked choice voting can help, though they're
 not perfect solutions.
 
-To truly understand human behavior, you need to observe actions without people
-knowing they're being observed. The observer effect is so powerful that it forms
-the basis for how we design scientific studies. Double-blind experiments—where
-neither the subject nor the researcher knows who's in which group—help control for
-this bias, but some error is inevitable.
+If you want a cleaner read on human behavior, it helps to watch what people do
+when they don't know they're being watched. The observer effect is strong
+enough that it shapes how we design scientific studies. Double-blind
+experiments—where neither the subject nor the researcher knows who's in which
+group—help control for this bias, but some error is inevitable.
 
 Measuring human behavior is inherently complex because surface-level observations
 rarely reveal underlying intentions. If you track someone's food purchases to
 understand their diet, you might see they frequent McDonald's but never know if
 they're going for the Happy Meal toys rather than the food.
 
-The takeaway? The gurus, the preachers, the podcasters—they're all just humans
-like the rest of us. They might offer valuable insights, but remember: nobody
-deserves uncritical admiration. Judge people by their actions, not their words.
+Gurus, preachers, podcasters, whoever: they're just people. Some of them have
+useful things to say. I still wouldn't hand over my judgment to any of them.

@@ -26,16 +26,16 @@ There's an entire movement celebrating mediocrity. Sweden has a [Museum of
 Failure](https://museumoffailure.com/) showcasing corporate disasters like
 Google Glass and Colgate Lasagna (yes, that was real). Writers gather for "Bad
 Poetry Nights" to compose deliberately terrible verse. Artists meet for "Crap
-Art Club" where the goal is to make something awful. It's brilliant—by removing
-the pressure to be good, they free themselves to actually create.
+Art Club" where the goal is to make something awful. Once the pressure's off,
+people actually make things.
 
 ## Perfectionism
 
 Perfectionism is rooted in our desperate need to impress others. We're tribal
-creatures, hardwired to fit in. The lone wolf, the black sheep—these aren't just
-metaphors but evolutionary warnings. To be rejected by the tribe once meant
-death. So we contort ourselves into whatever shape we think will earn
-acceptance, even if it means never trying anything we might fail at.
+creatures, hardwired to fit in. Being the odd one out has always scared us. To
+be rejected by the tribe once meant death. So we contort ourselves into
+whatever shape we think will earn acceptance, even if it means never trying
+anything we might fail at.
 
 Here's the cruel irony: perfectionism doesn't make us better—it paralyzes us. [A
 recent meta-analysis of 416
@@ -47,8 +47,8 @@ self-sabotage where the fear of doing something wrong ensures you never do
 anything at all.
 
 Quality exists on a spectrum—perfect, good, mediocre, bad, terrible, abysmal.
-But these judgments are wildly subjective. What matters isn't where you land on
-the spectrum but that you're on it at all.
+But these judgments are wildly subjective. For me, the important part is
+getting on the spectrum in the first place.
 
 ## Bad Art
 
@@ -88,8 +88,8 @@ Bob Ross embodied this philosophy perfectly: make happy little accidents. He
 rarely sold his paintings, preferring to give them away to PBS stations,
 students, and charities. As Bob Ross Inc. later explained, selling paintings
 "wasn't really Bob's thing"—he understood that the value wasn't in the finished
-product but in the joy of creation itself. A man who understood, perhaps better
-than anyone, the profound value of doing things badly.
+product but in the joy of creation itself. He painted, gave the stuff away, and
+kept it moving.
 
 ## Embrace Imperfection
 
@@ -116,14 +116,13 @@ to myself.)
 
 ## Feel Good
 
-But here's the real reason to do things badly: it feels good. In a world that
-often leaves us depleted, creating something—anything—is an act of defiance. The
-act of creation is as fundamental to being human as eating or sleeping. It
-brings meaning to our lives, requires no one's permission, and stands apart from
-the endless cycle of consumption and productivity. We're told we should spend
-money, consume content, buy products, order delivery. We're not encouraged to
-make anything (unless it's content for a website that needs your content to sell
-ads alongside).
+But here's the real reason to do things badly: it feels good. A lot of modern
+life leaves me fried and passive. Making something, even something small and
+kind of lousy, cuts through that. It gives shape to a day, requires no one's
+permission, and breaks up the endless loop of consumption and productivity.
+We're told we should spend money, consume content, buy products, order
+delivery. We're not encouraged to make anything (unless it's content for a
+website that needs your content to sell ads alongside).
 
 Einstein played violin terribly—when he tried to play with pianist Artur
 Schnabel, Schnabel reportedly exclaimed, "For pity's sake, Albert, can't you
@@ -137,11 +136,9 @@ optimizing for other people's approval. Start optimizing for your own happiness.
 
 In a world where every hobby must become a side hustle, where we're all
 [performing our lives]({{<ref "performative-existing">}}) for Instagram likes,
-doing something badly—just for the hell of it—becomes revolutionary. It's a
-middle finger to the optimization industrial complex. It's choosing joy over
-metrics, process over product, being over performing.
+doing something badly—just for the hell of it—becomes revolutionary. It cuts
+against all the pressure to turn every spare hour into something legible,
+tracked, and improved.
 
 So go ahead. Write that terrible poem. Paint that ugly picture. Play that
-instrument badly. Do it with gusto, with pride, with the knowledge that in a
-world obsessed with excellence, your willingness to be mediocre is its own kind
-of perfection.
+instrument badly. Be shameless about it.

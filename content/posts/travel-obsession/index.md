@@ -25,11 +25,11 @@ tags:
   - consumer culture
 ---
 
-At some point in recent history, travel transformed from a luxury into a cultural expectation. The rise of social media has dramatically changed how and why we travel. A 2019 study found that 40% of millennials choose travel destinations based on "Instagrammability" rather than cost or cultural experience[^1]. While technology has proliferated travel information and made the world more accessible, it has also shifted our motivations in subtle ways.
+At some point in recent history, travel stopped feeling optional and started feeling like something you're supposed to do. The rise of social media has dramatically changed how and why we travel. A 2019 study found that 40% of millennials choose travel destinations based on "Instagrammability" rather than cost or cultural experience[^1]. While technology has proliferated travel information and made the world more accessible, it has also shifted our motivations in subtle ways.
 
 ## Paradise Lost: The Double-Edged Sword of Tourism
 
-Travel offers incredible benefits: exposure to new cultures, expanded worldviews, and meaningful connections across borders. Yet there's an interesting paradox in modern travel culture where the performance of the experience sometimes overshadows the experience itself. Venice, for example, receives over 30 million tourists annually despite having just 50,000 residents[^2]—transforming a once-thriving city into what some locals describe as a "living museum."
+Travel can still crack open your perspective in a way not much else does. Yet there's an interesting paradox in modern travel culture where the performance of the experience sometimes overshadows the experience itself. Venice, for example, receives over 30 million tourists annually despite having just 50,000 residents[^2]—transforming a once-thriving city into what some locals describe as a "living museum."
 
 {{% figure
     src="maya-bay.jpg"
@@ -49,13 +49,13 @@ In Lisbon, residents have begun actively fighting back against the tourism indus
     %}}
 Hallstatt, Austria[^9]
 {{% /figure %}}
-Meanwhile, in the Alpine village of Hallstatt, Austria (population 800), which reportedly receives over a million tourists annually after allegedly inspiring Disney's Frozen, officials erected physical barriers to block photography viewpoints and installed fences to prevent tourists from photographing residents' homes and entering private property[^7]. These increasingly common reactions reflect how overwhelmed communities are taking matters into their own hands when tourism threatens their environments and way of life.
+Meanwhile, in the Alpine village of Hallstatt, Austria (population 800), which reportedly receives over a million tourists annually after allegedly inspiring Disney's Frozen, officials erected physical barriers to block photography viewpoints and installed fences to prevent tourists from photographing residents' homes and entering private property[^7]. When a town starts putting up barriers just so people will stop treating it like a backdrop, something has gone badly off the rails.
 
-The environmental impact of travel deserves consideration too. A single round-trip flight from New York to London generates roughly 986 kg of CO2 per passenger[^3]—more than the average person in many developing countries produces in an entire year. This isn't to suggest we should never fly, but rather to encourage mindfulness about when and how we travel.
+The environmental impact of travel deserves consideration too. A single round-trip flight from New York to London generates roughly 986 kg of CO2 per passenger[^3]—more than the average person in many developing countries produces in an entire year. I'm not arguing for some purity test here. I just think it's worth being a little more honest about which trips matter and which ones are habit.
 
 ## Experience vs. Exhibition
 
-I'm reminded of an old Reddit post where someone asked, "How do you know when you've become a man?" The top answer was simply: "Climb a mountain. Tell no one." That response resonates because it speaks to experiencing things for their inherent value rather than external validation—a philosophy that can transform how we approach travel, and life for that matter.
+I'm reminded of an old Reddit post where someone asked, "How do you know when you've become a man?" The top answer was simply: "Climb a mountain. Tell no one." That stuck with me because it gets at how easy it is to turn an experience into a performance the second other people are watching.
 
 The "Instagram vs. reality" phenomenon at popular destinations reveals another dimension of travel culture. Places like Bali's Gates of Heaven, where tourists queue for hours to take photos with mirrors creating the illusion of reflection pools, demonstrate how our desire for the perfect shot can replace authentic experience. Meanwhile, destinations like Barcelona and Kyoto have implemented tourism restrictions to protect local quality of life[^4].
 
@@ -63,7 +63,7 @@ The "Instagram vs. reality" phenomenon at popular destinations reveals another d
 
 These days, I've found unexpected joy in exploring my immediate surroundings—discovering hidden parks, quiet coffee shops, and neighborhood stories that tourists rarely see. There's a certain richness in developing deep knowledge of one place rather than shallow familiarity with many. The Japanese concept of *mono no aware*—the pathos of things—teaches appreciation for the beauty in impermanence and can be practiced anywhere.
 
-Perhaps the most meaningful travel isn't measured by distance covered or landmarks photographed, but by the quality of attention we bring to our experiences. Whether across the world or across the street, being fully present might be the most rewarding journey of all.
+Lately I've been more interested in how I move through a place than how far away it is. Some of the better days have been close to home, paying attention instead of trying to collect proof that I went somewhere.
 
 [^1]: Schofields Insurance. "Holiday Booking Trends 2019." <https://www.schofields.ltd.uk/blog/5123/holiday-booking-trends/>
 [^2]: UNESCO. "Venice and its Lagoon." Accessed October 26, 2024. <https://whc.unesco.org/en/list/394/>

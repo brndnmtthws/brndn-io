@@ -32,8 +32,8 @@ the challenge of dating with autism.
 It's a strange human tendency, but many of us, myself included sometimes, can
 find a peculiar sort of satisfaction when others stumble or fail. This feeling,
 often called Schadenfreude, seems particularly strong when directed towards
-people we dislike or perhaps envy. While the feeling might provide a fleeting
-sense of superiority, it often leaves a bitter aftertaste.
+people we dislike or perhaps envy. I can feel the little hit of smugness in the
+moment, then feel gross for having enjoyed it at all.
 
 This tendency manifests clearly online. Entire communities sometimes spring up,
 dedicated to dissecting the lives and perceived flaws of public figures or even
@@ -47,26 +47,25 @@ well-being, increasing anxiety, depression, and eroding social trust.[^4]
 Even mainstream media can fall into this pattern, focusing heavily on the
 perceived wrongdoings of certain individuals. While holding people accountable
 is important, the constant stream of negativity directed at public figures can
-feel less like news and more like a collective obsession with disapproval. It
-raises the question: does dwelling on others' flaws actually make us feel better
-or improve anything?
+feel less like news and more like a collective obsession with disapproval. Most
+of the time it just keeps the ugliness going.
 
 ## The Science Behind the Negativity
 
 Why do we sometimes take pleasure in others' misfortune or get drawn into
 negativity? The feeling of joy when seeing others fail, known as Schadenfreude,
-isn't just a quirky personality trait; it activates reward centers in our
-brains, particularly when the misfortune happens to someone we envy or perceive
-as a rival.[^1] Interestingly, this response can be stronger in individuals with
+activates reward centers in our brains, particularly when the misfortune happens
+to someone we envy or perceive as a rival.[^1] Interestingly, this response can
+be stronger in individuals with
 lower self-esteem, perhaps as a way to temporarily feel better about oneself
 through social comparison.[^2]
 
 _(Guilty as charged.)_
 
 Adding to this is our brain's inherent "negativity bias." Evolutionarily, paying
-attention to threats and negative events was crucial for survival. As a result,
-negative experiences often have a stronger psychological impact than positive or
-neutral ones. This bias can make online negativity, gossip, and criticism feel
+attention to threats and negative events kept us alive. As a result, negative
+experiences often have a stronger psychological impact than positive or neutral
+ones. This bias can make online negativity, gossip, and criticism feel
 particularly potent and draw us in more easily than positive content.[^4] It's
 worth remembering that often [it's never as bad as it seems]({{< ref
 "its-never-as-bad-as-it-seems" >}}).
@@ -92,8 +91,7 @@ The participants are [authentic]({{< ref
 "when-youre-authentic-rejection-is-a-gift" >}}), courageous, and put themselves
 out there not for fame, but with a sincere desire to find connection and love.
 Seeing them navigate challenges and achieve moments of happiness is genuinely
-uplifting. It's a powerful reminder that celebrating others' victories can bring
-immense satisfaction. This feeling of finding joy in others' success, sometimes
+uplifting. Watching it makes me want to root for people more often. This feeling of finding joy in others' success, sometimes
 called "compersion," is essentially the opposite of Schadenfreude. Actively
 cultivating it can strengthen social bonds and even improve our own sense of
 well-being.[^3]
@@ -112,9 +110,9 @@ _to_ us. Many wait to be swept off their feet, wanting to be passengers rather
 than active participants in creating loving connections. You complain about your
 "bad dates", while failing to acknowledge that _you_ are 50% of the date. While
 that might work for some, building love often requires effort, intention, work,
-compromise. Psychological perspectives actually emphasize love as an active
-process of _giving_–through kindness, effort, and thoughtful actions–which is
-strongly linked to the giver's own happiness and fulfillment.[^6]
+compromise. I think love is a thing you do–through kindness, effort, and
+thoughtful actions–and that giving side of it is strongly linked to the giver's
+own happiness and fulfillment.[^6]
 
 Consider the love shared with pets. My dogs, for example, offer incredible
 affection, but our bond isn't entirely unconditional. It's built on mutual care:
@@ -133,8 +131,8 @@ more broadly.[^7]
 
 ![Real love](3.jpg "Real love")
 
-Ultimately, real love might be about seeing someone clearly, accepting them
-fully–flaws and all–in the present moment. It's the opposite of pretending
+Real love, at least as I understand it, means seeing someone clearly and not
+secretly trying to edit them into a different person. It's the opposite of pretending
 to care while secretly wishing they were different. And sometimes, love means
 making difficult choices, like letting someone go when you know deep down that
 the connection isn't right.
@@ -148,10 +146,9 @@ others feels good. Celebrating their wins becomes a source of joy in itself.
 This act of celebrating others fosters connection and counteracts the negativity
 bias that can sometimes dominate our attention.[^3]
 
-Giving is often harder than receiving; creating is harder than consuming. Giving
-love is an act of creation, while passively waiting to receive it is
-consumption. This doesn't diminish the importance of being loved, but highlights
-the active, often challenging, nature of truly _giving_ love.[^6] Research suggests
+Giving love is harder than waiting around to receive it. It asks something of
+you. This doesn't diminish the importance of being loved, but highlights the
+active, often challenging, nature of truly _giving_ love.[^6] Research suggests
 that engaging in acts of kindness and focusing on others' well-being (forms of
 giving love) can significantly boost our own happiness and life satisfaction.
 
@@ -162,15 +159,14 @@ other's unique ways of showing care ([learning to listen first]({{< ref
 "speak-last" >}}) is key). It's a nuanced dance, not a simple
 checklist.
 
-The beautiful thing about giving love is its accessibility. It's available to
-offer anywhere, anytime. It doesn't necessitate grand gestures or constant
-declarations. Often, the simplest starting point is choosing _not_ to hate.
+Giving love is usually pretty ordinary. It doesn't need grand gestures or
+constant declarations. A lot of the time it starts with choosing _not_ to hate.
 
 Hate is love's corrosive opposite. We often dispense negativity freely while
-struggling to express warmth or appreciation. Choosing love, empathy, and
-celebration over cynicism and criticism is the harder, but ultimately more
-rewarding, path. Instead of getting consumed by distant figures or online dramas
-we can't control, perhaps the best use of our energy is to cultivate love and
+struggling to express warmth or appreciation. In daily life that mostly means
+trying not to feed the cynicism, and being quicker to show warmth than
+contempt. Instead of getting consumed by distant figures or online dramas we
+can't control, perhaps the best use of our energy is to cultivate love and
 positivity in our immediate surroundings–within our communities, families, and
 friendships, [contributing positively]({{< ref "contributing-positively" >}})
 where we can. Focusing locally fosters a sense of empowerment and connection,

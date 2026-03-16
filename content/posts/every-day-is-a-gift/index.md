@@ -31,9 +31,8 @@ while biology has had billions of years to perfect itself, and it has created
 the most efficient machines ever devised, there are still so many things that
 can disrupt life at any moment.
 
-Our entire existence is a miracle: Earth is an improbably perfect planet,
-orbiting just the right sized star, at just the right distance, with just enough
-of an atmosphere, and the perfect mix of elements in their ideal states.
+Our entire existence is a miracle. Earth is one planet, around one star, with
+the conditions that happened to let life get going and stick around.
 
 Trying to quantify the likelihood of existing is pretty difficult. An exercise,
 perhaps, best left to the imagination. But, we can pull the thread a little and
@@ -81,11 +80,9 @@ for the things I should be grateful for on a daily basis.
 
 I like this idea of trying to put everything into the context of the universe.
 Next time I stub my toe, I will try to stop myself and remember that it took
-billions of years of evolution to even be able to have a toe. I should be
-grateful that biology has created such a remarkable system for warning me that
-I'm at risk of injuring my foot: _pain_, a signal delivered by _nerves_, to the
-greatest—albeit deeply flawed—portable computer the universe devised: our
-_brain_.
+billions of years of evolution to even be able to have a toe. And the thing
+that makes me swear and hop around for a minute is also the thing warning me
+not to make it worse: _pain_, carried by _nerves_, to my very flawed _brain_.
 
 Your pain feels small once you zoom out a little. Sure, my toe hurts now, but in
 5 minutes I will probably forget that I stubbed my toe at all. The fact that I
@@ -99,23 +96,22 @@ years is less than a proverbial blink of the eye.
 
 ## Everyday Miracles We Take for Granted
 
-Beyond stubbed toes, we're surrounded by miracles we barely notice. Your morning
-coffee? It required a global supply chain, selective breeding over centuries,
+Your morning coffee? It required a global supply chain, selective breeding over centuries,
 precise roasting chemistry, and clean water that would have been unimaginable
 luxury for most of human history. In 1900, typhoid fever struck 100 people per
 100,000; after water chlorination, it dropped to just 0.1 per 100,000[^8].
 
 That text from a friend? You're communicating instantly across distances that
 once took months to traverse. The ability to capture and share a sunset photo?
-You're wielding technology that would seem like pure magic to someone from just
-50 years ago.
+You can pull a slab of glass out of your pocket, point it at the sky, and send
+that exact view to someone else in a few seconds.
 
 Even our working lives have transformed dramatically. Our
 great-great-grandparents worked 60-70 hours per week—annual working hours have
 been cut by 60% since 1870[^9]. In 1900, more than 1 in 5 American workers were
-children under age 16[^10]. Today, we worry about work-life balance and taking
-"mental health days" from the comfort of climate-controlled offices, not about
-losing fingers in factory machinery as a 10-year-old.
+children under age 16[^10]. A lot of us now spend our time worrying about
+work-life balance and whether to take a "mental health day." A century ago, a
+10-year-old could be working around factory machinery.
 
 ## Gratitude
 
@@ -137,7 +133,8 @@ common diseases that were once death sentences a thing of the past.
 
 ## The Gift of Existing Against All Odds
 
-The universe itself appears fine-tuned for our existence. Physicists have
+Some physicists argue that the universe looks oddly tuned for our existence.
+Physicists have
 identified six fundamental constants that must fall within extremely narrow
 ranges for life to exist. The cosmological constant, for instance, must be
 precise to 122 decimal places—if slightly larger, space would expand too rapidly
@@ -148,20 +145,18 @@ the universe, you wouldn't have enough atoms.
 
 So next time you stub your toe, try to remember those millions of other sperm
 who gave their lives, and that it was you who won the greatest lottery known to
-humanity. Remember that you're experiencing a minor inconvenience in a universe
-that shouldn't mathematically exist, on a planet perfectly positioned around a
-stable star, in a body that's the product of 3.8 billion years of evolution,
-during the safest and most prosperous era in human history.
+humanity. You're dealing with a minor inconvenience while living on a planet
+that can support you, in a body shaped by 3.8 billion years of evolution, at a
+time when a stubbed toe is usually just a stubbed toe.
 
 Every ordinary moment—every breath, every heartbeat, every mundane Tuesday
 afternoon—is statistically miraculous. We exist against odds so astronomical
 that mathematics itself struggles to express them in a way we can wrap our heads
-around. And perhaps that's the ultimate reframe: not that we should feel
-grateful despite life's difficulties, but that the very fact we're here to
-experience difficulties at all is the most extraordinary gift imaginable.
+around. I don't always feel grateful in the moment, and I doubt I ever will.
+But it helps to remember that even getting to have this annoying Tuesday
+afternoon is pretty wild.
 
-There it is, written in the language of the universe—_math_: every day truly is
-a gift.
+Maybe that's enough: every day is a gift.
 
 [^1]: National Center for Biotechnology Information, "Fertilization - Molecular Biology of the Cell" (<https://www.ncbi.nlm.nih.gov/books/NBK26843/>)
 [^2]: CDC Morbidity and Mortality Weekly Report, "Achievements in Public Health, 1900-1999: Healthier Mothers and Babies" (<https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm>)

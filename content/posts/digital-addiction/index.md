@@ -20,9 +20,9 @@ tags:
 
 ![People on subway looking at phones](1.jpg)
 
-I was sitting on the subway the other day and glanced up from my book to notice something that shouldn't be remarkable, yet somehow was: every single person in my line of sight was staring at their phone. This wasn't the first time I'd observed this phenomenon, but something about this particular moment struck me differently. It wasn't just that everyone was looking at their phones—it was the mechanical thumb-scrolling and the complete disconnection from their surroundings.
+I was sitting on the subway the other day and glanced up from my book to notice something that shouldn't be remarkable, yet somehow was: every single person in my line of sight was staring at their phone. This wasn't the first time I'd observed this phenomenon, but something about this particular moment struck me differently. Everyone had the same blank, thumb-scrolling look, like the train car had gone quiet in a way that felt off.
 
-We've created an alternate reality that fits in our pockets, and it's easy to let it consume our attention. But finding balance might be simpler than we think.
+We carry around a version of the world that's always louder and more immediate than whatever is right in front of us. But finding balance might be simpler than we think.
 
 ## Present in the Moment or Just Documenting It?
 
@@ -30,17 +30,17 @@ We've created an alternate reality that fits in our pockets, and it's easy to le
 
 Have you noticed people at concerts watching the entire show through their phone screens? Or travelers at landmarks more concerned with getting the perfect photo than experiencing the place they traveled thousands of miles to see?
 
-There's a certain irony in spending considerable resources to attend special events or visit beautiful places, only to experience them primarily through a screen. We've become documentarians of our own lives rather than full participants in them.
+There's a certain irony in spending considerable resources to attend special events or visit beautiful places, only to experience them primarily through a screen. At some point the phone stops being a way to remember the moment and starts getting in between you and the thing you came for.
 
 ![Tourist taking selfie at landmark](3.jpg)
 
-What's fascinating is how quickly this behavior has normalized. Just a decade ago, smartphones were novelties we occasionally checked. Now, for many of us, "phone in hand" has become the default state. The people fully present and engaged with their surroundings sometimes seem like the unusual ones.
+The strange part is how quickly this behavior has normalized. Just a decade ago, smartphones were novelties we occasionally checked. Now, for many of us, "phone in hand" has become the default state. The people fully present and engaged with their surroundings sometimes seem like the unusual ones.
 
 ## Connection Quality vs. Connection Quantity
 
 ![Person alone surrounded by social media notifications](4.jpg)
 
-Despite having more ways to connect than ever before, many people report feeling increasingly isolated. We might have hundreds of online friends and followers, yet deep conversations and meaningful relationships can still feel elusive.
+I've noticed how easy it is to be in constant contact and still feel oddly cut off. We might have hundreds of online friends and followers, yet deep conversations and meaningful relationships can still feel elusive.
 
 Our digital connections often follow different patterns than face-to-face interactions. Instead of the natural, unpredictable flow of human conversation, we exchange carefully crafted likes, comments, and shares. These interactions provide a sense of connection, but sometimes leave us wanting something more substantial.
 
@@ -50,7 +50,7 @@ What's interesting is how we often turn to digital spaces when feeling lonely, c
 
 ![Social media apps competing for attention](5.jpg)
 
-Our devices compete fiercely for our attention. The business models behind many platforms depend on maximizing the time we spend engaged with content, regardless of whether that engagement leaves us feeling informed or fulfilled.
+Our devices compete fiercely for our attention. Many platforms make money by keeping us on the app longer, whether we leave feeling sharper or just drained.
 
 The algorithms determining what content we see are designed primarily to keep us scrolling and clicking. This can sometimes create environments where we primarily encounter perspectives similar to our own, narrowing rather than broadening our worldview.
 
@@ -72,7 +72,7 @@ I've caught myself in this loop countless times: feeling unsettled, checking my 
 
 ![Person enjoying nature without devices](7.jpg)
 
-I don't have perfect solutions to these challenges—I'm navigating them myself. But awareness is certainly the first step toward intentional change. Once we recognize these patterns in ourselves, we can begin making conscious choices rather than operating on autopilot.
+I don't have perfect solutions to these challenges—I'm navigating them myself. For me, things only started to shift once I began catching the habit in real time: reaching for my phone at a red light, in the elevator, during any lull. Seeing it that clearly made it harder to keep pretending it was random.
 
 Some approaches I've found helpful:
 
@@ -90,4 +90,4 @@ Some approaches I've found helpful:
 
 The technology itself isn't inherently problematic—it's our relationship with it that deserves reflection. These tools can enhance our lives tremendously when used with intention, but they can also diminish our experiences when used mindlessly.
 
-Perhaps the most rewarding practice in today's world is simply being present—looking up, noticing the world around you, and engaging with it directly rather than through a screen. I'm trying to practice this more often. Maybe you'll join me?
+I'm trying to get better at looking up more often and leaving a little more of life undocumented. That feels more useful to me than another hour disappeared into the screen.

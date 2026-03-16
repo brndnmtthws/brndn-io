@@ -31,7 +31,7 @@ In South Korea, they install pedestrian lights on the ground to aid people who w
 
 The tourists get something right, though: they look around. They look up, down, sideways, and stare at all there is to see. They take it in, experience what's in front of them, and exist in the reality before them at that moment. Some of those who live here will walk around staring at their phones, scrolling through Instagram or TikTok on the subway, refreshing constantly while the vibrant reality passes by right in front of them.
 
-When we avoid eye contact with strangers and disconnect from our surroundings, we might miss the experience of one of the greatest cities in one of the greatest times to be alive according to a variety of metrics.
+When we avoid eye contact with strangers and disconnect from our surroundings, we miss the city that's right in front of us.
 
 ## The Evolution of Distraction
 
@@ -39,16 +39,16 @@ Internet-connected mobile devices and social media platforms aren't solely respo
 
 ## Finding Balance in a Digital World
 
-In the age of AI advancement and [scientism](https://en.wikipedia.org/wiki/Scientism), it's refreshing to see people who manage to walk around New York City looking up, but it doesn't have to be only the tourists who take a moment to enjoy their surroundings. I won't pretend I don't look at my phone sometimes, but I'm trying to be more conscious and aware of how engaging these pocket-sized devices can be, and how they sometimes interrupt our connection with the physical world by competing for our attention.
+It's refreshing to see people in New York City who still walk around looking up, and it doesn't have to be only the tourists. I won't pretend I don't look at my phone sometimes, but I'm trying to be more conscious of how engaging these pocket-sized devices can be, and how they pull against whatever physical world is right in front of me.
 
 ## Technological Reflection
 
-The proliferation of ad-based media (which includes news outlets, social platforms, and everything in between) presents significant questions about attention and values. Similarly, other technological developments like industrial agriculture, transportation systems, corporate structures, and powerful innovations have created both opportunities and challenges throughout history.
+Ad-based media, whether it's news outlets, social platforms, or anything in between, trains people to keep clicking instead of paying attention. This isn't new; plenty of older systems were built to optimize for efficiency first and let the human cost land wherever it landed.
 
-The discourse around technology has evolved, and while I appreciate innovation's potential, it feels as if the pendulum sometimes swings too far when new technologies prioritize engagement over genuine enhancement of human experience. The current incentives combined with hype cycles and occasional misuse of terminology can leave us craving simplicity rather than complexity.
+I like new technology. I just get tired of hearing every new thing framed as progress when so much of it is really about squeezing out a little more engagement. Between the incentives, the hype cycles, and people using words loosely, I usually come away wanting something dumber and more straightforward.
 
 ## Reclaiming Attention
 
-Every time I see a website prompting me to install an app, or encounter self-checkout systems with complex interfaces, I'm reminded of the value of occasional digital disconnection. Perhaps we could all benefit from periodic breaks from our devices—moments when we can look up, around, and fully engage with the remarkable world surrounding us.
+Every time I see a website prompting me to install an app, or encounter self-checkout systems with complex interfaces, I'm reminded of the value of occasionally putting this stuff down for a bit.
 
-The tourists' upward gaze isn't just about seeing tall buildings—it's about being present, curious, and open to wonder. And that's something worth emulating, no matter how long we've lived in a place.
+When tourists look up, they're not doing it to make a point. They're just still paying attention. I'd like to hang onto more of that, no matter how long I've lived here.

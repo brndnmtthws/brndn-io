@@ -9,7 +9,7 @@ tags:
   - cognitive dissonance
 ---
 
-You've probably heard about the "labour shortage" everywhere. But what's really happening in the job market? There are many theories floating around—early retirements, COVID deaths, government stimulus making people flush with cash—but the data tells a more nuanced story than these simple explanations suggest.
+You've probably heard about the "labour shortage" everywhere. But what's really happening in the job market? People point to early retirements, COVID deaths, or stimulus checks, but the numbers don't neatly support any one of those stories.
 
 Let's explore what the numbers actually show about the current state of the labour market.
 
@@ -59,7 +59,7 @@ Finally, let's look at [corporate profits](https://fred.stlouisfed.org/series/CP
 
 ![Corporate profits](corporate-profits.png)
 
-Corporate profits have increased approximately 50% over pre-COVID levels, raising interesting questions about resource allocation in the economy.
+Corporate profits have increased approximately 50% over pre-COVID levels. So this is not a case of there simply being no money to pay people more.
 
 Here's what we can deduce from this data:
 
@@ -71,10 +71,8 @@ Here's what we can deduce from this data:
 * Overall labour participation rate has decreased, despite more total workers
 * The population has grown by over 1.6 million people
 
-This data suggests that rather than a simple "labour shortage," we're experiencing a market adjustment where wages haven't kept pace with changing worker expectations and living costs. Many businesses appear reluctant to increase compensation to the levels that would bring sidelined workers back into the labor force.
+This doesn't look like a clean "labour shortage" to me. It looks more like wages haven't kept up with inflation, and a lot of businesses don't want to raise pay enough to pull people back in.
 
-What might this mean for the economy going forward? As interest rates rise, we may see pressure on overleveraged businesses and individuals, potentially affecting both hiring and wages. Inflation concerns will likely continue as companies adjust pricing strategies.
+If interest rates keep rising, some businesses are going to run out of room to dodge that problem. They can keep trying to hire at yesterday's wages, or they can pay up.
 
-The economic outlook contains both challenges and opportunities. Businesses that adapt to the new realities of the labour market—offering competitive compensation, flexibility, and growth—will find themselves better positioned to attract talent and thrive in this evolving environment. Meanwhile, workforce development programs and policy changes may help address the structural mismatches in the labour market.
-
-For individual workers, developing in-demand skills and being strategic about job choices becomes increasingly important in navigating this complex landscape.
+From where I'm sitting, the tension is pretty simple: workers are getting squeezed, profits are up, and employers are still hoping the old bargain will come back.

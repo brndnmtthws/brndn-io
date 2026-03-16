@@ -35,7 +35,7 @@ To understand how skills compound, we can think about learning skills as a loop 
 * You know how to do X, but you don't know Y yet
 * You invest time to learn Y, and this gets added to your set of skills
 * You apply X and Y to solve Z
-* Not only have you mastered X and Y, but combined they also create a new skill, Z (which is a superset, but could also be considered distinct on its own)
+* You now know how to use X and Y together to do Z, which is really its own skill (even if it's also a superset of the others)
 
 For example, imagine you know how to code (X) but don't know statistics (Y). You learn statistics to build a machine learning model (Z). Now you have three skills—coding, statistics, and machine learning—each valuable on its own, but especially powerful in combination.
 
@@ -78,10 +78,10 @@ So what do _you_ as an individual do with this information? In short, optimize f
 
 Going deep (depth) into a subject will increase your \\(p\\) quite a bit by increasing \\(\lambda\\) through acquisition of specialized knowledge. Think of someone who becomes an expert in a programming language versus someone with only basic knowledge.
 
-However, it's often easier to increment \\(n\\) by going wide (breadth) and learning lots of different (and easier to acquire) skills from various domains. A programmer who also understands design, communication, and business strategy can create more complete solutions than one who only codes.
+However, it's often easier to increment \\(n\\) by going wide (breadth) and learning lots of different (and easier to acquire) skills from various domains. A programmer who can write clearly or has decent product instincts will usually ship better work than one who only writes code.
 
-The most successful people often combine depth in one or two areas with breadth across many complementary domains. Look at someone like Elon Musk, who combines engineering knowledge with business acumen, or creative professionals who understand both design and technology.
+The pattern I keep noticing is depth in one or two things, then enough range around them to make that depth more useful. Look at someone like Elon Musk, who combines engineering knowledge with business acumen, or creative professionals who understand both design and technology.
 
-The key insight? Don't just accumulate random skills—seek out skills that compound with what you already know. And never stop learning.
+So I don't think it's about collecting skills at random. It's about finding ones that stack well with what you already know.
 
 Or, at least that's how I see it.

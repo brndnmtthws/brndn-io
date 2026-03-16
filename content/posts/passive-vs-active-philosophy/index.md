@@ -42,12 +42,10 @@ To me it has felt for a long time like there's been an uptick in the general inf
 
 Passivity is choosing to be infantilized, or in other words, it's choosing to let someone else make your decisions. Being active is harder, but the result will almost always be better.
 
-The transition from passive to active philosophy isn't always easy. It requires acknowledging that no one is coming to save you, and that your life's trajectory is primarily your responsibility. It means facing fears, accepting potential failure, and developing resilience when things don't work out. But this transition is also profoundly liberating.
+Making that shift usually feels bad at first. You have to admit that nobody is going to swoop in and sort your life out for you. You have to do things before you feel ready, risk looking stupid, and deal with the mess when something blows up. It's still better.
 
-When you embrace an active philosophy, you begin to see opportunities where others see obstacles. You recognize that most barriers are self-imposed or at least negotiable. You stop waiting for permission to pursue your goals or for perfect conditions before taking action.
+Once you start operating that way, a lot of things look less fixed. Some barriers are real, but plenty are softer than they first appear. You stop waiting for permission or for perfect conditions and just start.
 
-This mindset shift affects everything: how you approach your career, your relationships, your health, and your creative pursuits. Rather than complaining about what's wrong with the world, you ask yourself, "What can I do about this?" Rather than waiting to be chosen, you choose yourself.
+I think this shows up most obviously in work and creative projects. Instead of spending all your time talking about what's broken, you start asking what you can actually do next. And if nobody picks you, you can still make something.
 
-The beautiful paradox is that by taking full responsibility for your life—something that might initially seem burdensome—you actually gain freedom. The freedom to direct your own path, to create meaningful work, to build genuine connections, and to experience the deep satisfaction that comes from knowing you're the author of your own story.
-
-So ask yourself: Are you passively watching your life unfold, or actively shaping it? The choice, as it always has been, is yours.
+Taking that responsibility can feel heavy, but it does buy you something real: you're not stuck waiting around for someone else to begin your life for you.

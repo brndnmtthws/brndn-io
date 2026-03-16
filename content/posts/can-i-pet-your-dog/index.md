@@ -56,17 +56,17 @@ between the expected gratification and what actually happens.
 
 ## The Psychology Behind the Pet
 
-I've come to see these dog-petting interactions as a microcosm of our larger relationship with technology and convenience. When someone approaches my Shiba, they're often seeking a quick dopamine hit—that moment of connection and joy that comes from petting a cute animal. It's not unlike opening Instagram and scrolling for likes or checking email for that validation we crave.
+These dog-petting interactions remind me of all the other little hits people go looking for all day. When someone approaches my Shiba, they're often seeking a quick dopamine hit—that moment of connection and joy that comes from petting a cute animal. It's not unlike opening Instagram and checking whether anyone liked what you posted, or refreshing your inbox for no good reason.
 
 What fascinates me is the reaction when that expected hit doesn't come. My Shiba, in her aloof independence, inadvertently becomes a pattern-breaker. She doesn't conform to the expected script, and that momentary disruption can be jarring for people accustomed to getting what they want when they want it.
 
-This isn't to say there's anything wrong with wanting to pet a cute dog—it's one of life's simple pleasures. But I do wonder if these small moments of denied expectation might actually be valuable in a world where so many of our desires are instantly satisfied.
+Wanting to pet a cute dog is normal. But I do wonder if these small moments where that expectation falls flat are useful when so much else now shows up right when we ask for it.
 
 ## Finding Balance in a Fast-Paced World
 
-I think there's something to be learned from my Shiba's indifference. She doesn't perform emotion or connection for the benefit of others. She engages when she genuinely wants to engage. There's an authenticity there that feels increasingly rare.
+My Shiba's indifference changes the interaction. She doesn't fake enthusiasm, and she doesn't care if that throws someone off. If she wants to engage, she will. If not, she won't.
 
-Many of our digital tools promise connection but deliver something that often feels hollow. A text message isn't the same as a conversation. A like isn't the same as appreciation. The convenience of modern life is wonderful in many ways, but it can also create a false sense that meaningful experiences should be as instantly available as everything else.
+A text message isn't the same as a conversation. A like isn't the same as appreciation. The convenience of modern life is wonderful in many ways, but it can also create a false sense that meaningful experiences should be as instantly available as everything else.
 
 ## But What Does It Mean?
 
@@ -87,10 +87,8 @@ your face _not_ glued to your phone.
 
 ## The Lesson from an Aloof Shiba
 
-Perhaps the most valuable lesson my Shiba offers to strangers isn't the fleeting joy of petting her (when she allows it), but rather the small reminder that not everything in life responds to our immediate desires. Some things—whether they're relationships, skills, or experiences—require patience, respect for boundaries, and an acceptance that gratification isn't always instant.
+What seems to surprise people most is that she does not care about their timeline. They want the friendly-dog moment right now, and sometimes she just isn't interested. That's really it.
 
-When people who genuinely love dogs take the time to approach her properly—getting down to her level, letting her come to them, not making sudden movements—she's much more likely to engage. It's a small but meaningful example of how slowing down and respecting another being's autonomy can lead to more authentic connection.
+When people who genuinely love dogs take the time to approach her properly—getting down to her level, letting her come to them, not making sudden movements—she's much more likely to engage. That's usually how it goes with aloof dogs: give them room and let them decide.
 
-In a world increasingly designed around immediacy, maybe the occasional rejection from a disinterested Shiba Inu is exactly the kind of small reality check we need. A gentle reminder that the best things in life—deep friendships, mastery of skills, genuine connection with animals and nature—still require time, patience, and an acceptance that not everything is available on demand.
-
-So yes, you can pet my dog. Just don't expect her to perform gratitude for the privilege. And in that small moment of potential disappointment, there might be something more valuable than the pet itself—a tiny invitation to reconsider our relationship with convenience, expectation, and the increasingly rare art of waiting for something worthwhile.
+So yes, you can pet my dog. Just don't expect her to act honored by the opportunity. If she walks away, that's the whole lesson.

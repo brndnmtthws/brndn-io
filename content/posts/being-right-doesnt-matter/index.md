@@ -94,23 +94,22 @@ it all in, and process it like the trees do.
 
 ## The Graveyard of Correct but Failed Ideas
 
-History is littered with people who were right but ineffective. Consider these examples:
-
-- **Betamax vs. VHS**: Sony's Betamax format was technically superior to VHS in almost every way. The picture quality was better, the tapes were more durable, and the technology was more refined. Yet VHS won decisively because JVC, its creator, focused on licensing widely and making longer recording times possible—factors that mattered more to consumers than technical quality.
-
-- **Nikola Tesla**: Perhaps the most famous example of being right but losing anyway. Tesla pioneered alternating current, wireless power transmission, and numerous other innovations that were decades ahead of their time. Yet he died nearly penniless while the more business-savvy (and sometimes ethically flexible) Thomas Edison became wealthy and famous.
-
-- **Climate scientists**: For decades, they've been right about the trajectory of global warming, yet their correct predictions haven't translated into timely action because they lacked the persuasive power to overcome economic interests.
+You can find this pattern everywhere if you want to. Climate scientists have
+been right for years and it barely matters when money and convenience want
+something else.
 
 I've personally experienced this dynamic countless times in my career. At one company, I argued persistently against a technical approach that I knew was flawed. I had diagrams, data, and logic on my side. I was spectacularly right—and completely ineffective. The project proceeded as planned, failed exactly as I predicted, and cost the company millions.
 
-Did being right matter? Not at all. What would have mattered was if I had built better relationships with key decision-makers, framed my concerns in terms of their priorities, or found ways to demonstrate the risks more vividly. Being right in isolation accomplished nothing.
+It still didn't matter. I wasn't close enough to the people making the call,
+and I was talking like the argument should win on its own. It never does.
 
 ## The Social Layer Trumps Logic
 
-What I've come to understand is that human decision-making has a logic layer and a social layer. The logic layer is where facts, evidence, and reasoning live. The social layer is where relationships, emotions, status, and identity reside.
+Most people don't make decisions from facts first and then sprinkle in the
+social stuff after. The social stuff is the thing. Facts get filtered through
+ego, trust, fear, loyalty, timing, all the usual human garbage.
 
-We like to think that the logic layer is in charge, but in reality, the social layer almost always trumps it. This happens for deeply evolutionary reasons—our ancestors' survival depended more on group belonging than on being factually correct about every situation.
+We like to pretend otherwise because it sounds better.
 
 This explains why:
 
@@ -120,30 +119,23 @@ This explains why:
 
 ## Learning to Play Both Layers
 
-The most effective people aren't those who focus exclusively on being right or exclusively on being likable. They're the ones who understand how to operate on both layers simultaneously.
+The people I know who actually get things done understand this instinctively.
+They know when to push, when to let something go, who needs to hear what, and
+how much truth the room can tolerate before it shuts down.
 
-This doesn't mean abandoning truth or integrity. Rather, it means recognizing that truth without influence is often wasted. Some practical approaches:
-
-1. **Build relationships before you need them**. People are more receptive to uncomfortable truths from those they trust and like.
-
-2. **Understand what others value**. Frame your correct ideas in terms of what matters to your audience, not what matters to you.
-
-3. **Choose your battles**. Not every hill is worth dying on, even when you're right.
-
-4. **Tell stories, not just facts**. Humans are wired to respond to narrative in ways they don't respond to data.
-
-5. **Be willing to compromise**. A partially implemented good idea is better than a perfectly correct but ignored one.
+I was slow to learn that. I thought if I had the cleanest argument I had done
+my job. Usually that was me losing and calling it integrity.
 
 ## The Wisdom of Trees
 
 Coming back to the tree metaphor—trees don't argue about who's right. They don't try to convince other trees of anything. They simply focus on growing toward the light, staying rooted, and persisting through seasons of abundance and scarcity.
 
-There's something profound in that approach. The tree doesn't waste energy on being recognized as correct. It just quietly goes about being what it is, adapting to its environment, and thriving when possible.
-
-Perhaps that's the real wisdom here: recognizing that being effective matters more than being right, and that sometimes the most growth happens when we focus less on correctness and more on connection.
+What I like about that is how little of it depends on being acknowledged. The
+tree isn't standing there waiting for someone to admit it had the best take.
 
 I still value truth and accuracy. I still believe facts matter. But I've learned that facts alone rarely change minds or situations. The human element—the relationships, the emotions, the timing, the framing—often determines whether a correct idea lives or dies.
 
 So yes, if I could tell my younger self anything, it wouldn't be which stocks to buy or which job offers to take. It would be: "Being right isn't enough. Learn how people actually work, not just how they should work."
 
-And maybe, like the trees, I'd suggest taking the long view. After all, in the grand scheme of things, what matters isn't being proven right in the moment, but whether your life grows in directions that bring you peace and connection over time.
+Maybe that's the long view. Not winning every argument. Just growing in a way
+that doesn't leave you angry, isolated, and technically correct.

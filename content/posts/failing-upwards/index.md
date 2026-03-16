@@ -27,9 +27,9 @@ tags:
 
 Survivorship bias often gets discussed as a cautionary tale. For example, someone might point out a person's or company's success, and another will retort with, "But that's just survivorship bias!"
 
-What's rarely discussed is how to internalize survivorship bias in an actionable way. If you _know_ that most success stories (whether in business, investing, dating, or even the actual lottery) are primarily the result of luck rather than skill, how can you use this information to your advantage?
+What's less discussed is what to do with survivorship bias once you take it seriously. If you _know_ that most success stories (whether in business, investing, dating, or even the actual lottery) are primarily the result of luck rather than skill, how can you use this information to your advantage?
 
-To generate a return in life, we need to take risks, and the reward is generally proportional to the risk undertaken and the probability of success. If success in any endeavor is primarily a matter of luck, there are several strategies we can employ to increase our "luckiness":
+To generate a return in life, we need to take risks, and the reward is generally proportional to the risk undertaken and the probability of success. If success in any endeavor is primarily a matter of luck, a few things can tilt the odds and make you "luckier":
 
 - **Place many small bets**: Follow a variation of the [martingale strategy](https://en.wikipedia.org/wiki/Martingale_(betting_system)), which involves placing lots of small bets successively, adjusting your approach based on what you learn each time.
 - **Increase your opportunities**: Diversify your bets to take advantage of non-correlation. This idea forms one of the core principles of [modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)-don't put all your eggs in one basket.
@@ -39,17 +39,17 @@ To generate a return in life, we need to take risks, and the reward is generally
 
 One way to think about these ideas is that you should strive to fail upwards consistently. Failing upward means stumbling but continuing on your path–like when you trip but immediately get back up and keep walking. Failing downward is when you trip and lie on the ground feeling sorry for yourself, hoping someone will rescue you.
 
-Upward failure refreshes you with the knowledge that while this particular bet didn't pay off, you can move on to the next opportunity with valuable lessons in hand.
+Upward failure means this bet didn't work, but you're still in the game and usually a little less naive than before.
 
-Upward failure embraces the expectation that most things in life won't work out exactly as planned, but that's okay. As long as you continue to learn, grow, and place thoughtful bets, you _will_ eventually succeed. [Skills and experience compound over time]({{< ref "/posts/skills-compound" >}}), and if you keep failing upward, the snowball effect will eventually take hold.
+Upward failure embraces the expectation that most things in life won't work out exactly as planned, but that's okay. If you keep learning and keep placing thoughtful bets, your odds get better. [Skills and experience compound over time]({{< ref "/posts/skills-compound" >}}), and failing upward gives that process more surface area.
 
 ## Real-World Examples of Failing Upwards
 
 Consider these examples of successful "failing upwards":
 
-1. **In entrepreneurship**: The average successful entrepreneur has 3.8 failures before their breakout success. Reid Hoffman created SocialNet before LinkedIn. Evan Williams built Odeo (a podcast platform) that flopped before pivoting to Twitter. They extracted critical lessons from each failure and kept moving forward.
+1. **In entrepreneurship**: The average successful entrepreneur has 3.8 failures before their breakout success. Reid Hoffman created SocialNet before LinkedIn. Evan Williams built Odeo (a podcast platform) that flopped before pivoting to Twitter.
 
-2. **In scientific discovery**: James Dyson created 5,126 failed prototypes before finally developing the bagless vacuum cleaner that made him a billionaire. Each "failure" was actually an iteration that taught him something vital about what didn't work.
+2. **In scientific discovery**: James Dyson created 5,126 failed prototypes before finally developing the bagless vacuum cleaner that made him a billionaire. Those prototypes showed him, one by one, what still clogged, leaked, or just didn't work.
 
 3. **In creative pursuits**: J.K. Rowling was rejected by 12 publishers before Harry Potter was accepted. Stephen King's first novel was rejected 30 times. They treated rejection as information rather than defeat.
 
@@ -59,9 +59,9 @@ Consider these examples of successful "failing upwards":
 
 To make failing upwards a practice rather than just a concept:
 
-1. **Create a "failure resume"** - Document your failures alongside what you learned from each one. This transforms setbacks into assets and helps you recognize patterns.
+1. **Create a "failure resume"** - Document your failures alongside what you learned from each one. It helps you spot the mistakes and bad assumptions you keep repeating.
 
-2. **Follow the "1% rule"** - Improve just 1% every day in response to failures and feedback. These tiny gains compound dramatically over time.
+2. **Follow the "1% rule"** - Improve just 1% every day in response to failures and feedback. Small adjustments like that can add up if you're doing this for years.
 
 3. **Use "pre-mortems"** - Before starting a project, imagine it has failed, then work backward to identify potential pitfalls. This helps you minimize predictable failures while embracing the productive ones.
 
@@ -71,7 +71,7 @@ To make failing upwards a practice rather than just a concept:
 
 ## The Alternative: Failing Downwards
 
-The contrast to failing upwards is clear in how people respond to setbacks:
+You can see the difference in how people respond to setbacks:
 
 - Those who fail downwards see failure as evidence of personal deficiency
 - They ruminate on what went wrong rather than what to do next
@@ -83,10 +83,8 @@ Ultimately, how you choose to frame your failures matters more than the failures
 
 ## The Hidden Advantage of Failure
 
-There's a counterintuitive advantage to experiencing failure: it creates resilience and wisdom that cannot be gained any other way. Those who have never failed often develop fragile egos and become risk-averse, limiting their ultimate potential.
+Failure does have one useful side effect: if it doesn't knock you out, it usually leaves you harder to fool the next time. People who haven't been tested much often get brittle and risk-averse.
 
-The most successful people aren't those who avoid failure—they're those who have developed the capacity to extract value from it and keep moving forward. Each failure builds the muscle of resilience that eventually becomes their competitive advantage.
+The people who do well over time are usually the ones who can take the hit, figure out what it means, and try again. That matters because every serious project eventually stops feeling theoretical.
 
-Failing upwards isn't just about bouncing back—it's about bouncing forward, using each setback as a springboard to reach heights that would have been impossible without the lessons learned along the way.
-
-The best way to fail downward is to give up entirely. The surest way to fail upward is to keep going.
+That's all "failing upward" really is: staying in motion, adjusting, and not letting one bad outcome turn into your whole identity.

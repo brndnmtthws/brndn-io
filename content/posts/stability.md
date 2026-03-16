@@ -75,27 +75,20 @@ account.
 One thing that seems to be pretty stable is the [upward trend in corporate
 profits](https://www.bea.gov/data/income-saving/corporate-profits).
 
-## Software Stability vs. Economic Stability: A Deeper Comparison
+## Software Stability and Economic Stability
 
-The parallels between software stability and economic stability run deeper than they might initially appear:
+This is one of the reasons it reminds me of software. You can test each piece on
+its own and still have the whole thing behave strangely once real people start
+using it. Monetary policy looks similar. Economists can model one slice of the
+economy and still get blindsided when everything starts bouncing off everything
+else.
 
-### Complex Systems with Emergent Behaviors
-
-Both software systems and economic systems are complex, with countless interacting parts that create emergent behaviors difficult to predict. In software, we write unit tests for individual components but still encounter unexpected behaviors when those components interact. Similarly, economists can model individual market behaviors but struggle to predict how the entire system will respond to policy changes.
-
-### Stakeholder Perspectives
-
-In software, stability means different things to different stakeholders:
-
-- For developers, it might mean "doesn't crash when running tests"
-- For ops teams, it means "doesn't bring down production at 3 AM"
-- For users, it means "lets me accomplish my task without frustration"
-
-In economics, stability similarly means different things to different groups:
-
-- For Wall Street, it means "predictable returns and asset appreciation"
-- For businesses, it means "manageable input costs and consumer demand"
-- For workers, it means "steady employment and wages that keep pace with living costs"
+In software, "stable" usually means one thing to the people building it and
+another to the people stuck using it. A developer might mean "the test suite is
+green." A user means "it didn't eat my work." The Fed has the same problem,
+except the split is more cynical: Wall Street hears "stable" and thinks
+predictable asset prices, while workers hear it and hope rent, food, and wages
+stop drifting further apart.
 
 ### Misaligned Incentives
 
@@ -109,9 +102,11 @@ If we take the Fed's mandate for "stable prices" seriously, we might ask what ac
 - Healthcare and education inflation outpace wage growth decade after decade?
 - Asset prices (stocks, real estate) consistently grow faster than wages?
 
-From a systems perspective, true stability might be better defined as "sustainable equilibrium" rather than "numbers going up." A truly stable system can withstand shocks, self-correct after perturbations, and maintain balance among its various components.
-
-But this kind of deep stability often requires sacrificing short-term gains for long-term resilience—something our quarterly-results-focused economic and political systems rarely reward.
+I'd call stability something more boring and more useful than "numbers going
+up." It's whether a person can get sick, lose a job, or hit a bad patch without
+their life immediately flying off the rails. We don't build for that kind of
+stability because it usually means giving up some short-term upside, and our
+economic and political systems are basically allergic to that trade.
 
 ## Who Benefits from "Instability"?
 
@@ -126,14 +121,10 @@ Meanwhile, the one metric that has shown remarkable stability is corporate profi
 
 ## Building Better Systems
 
-Whether in software or economics, truly stable systems require:
-
-1. **Feedback from all stakeholders**, not just the most powerful
-2. **Diverse perspectives** in the design and governance process
-3. **Transparent mechanisms** that can be understood and scrutinized
-4. **Built-in circuit breakers** to prevent catastrophic failure
-5. **Alignment between incentives and desired outcomes**
-
-Until our economic systems incorporate these principles, we'll continue to see "stability" that works wonderfully for some while creating precarious conditions for many others.
+If you actually wanted stability for regular people, you'd build systems around
+their failure modes instead of around investor expectations. You'd ask whether a
+rate hike cools prices without just making life worse for the people already
+getting squeezed, and whether the people making the call have any reason to care
+about that answer.
 
 As we watch the Fed raise rates today in the name of controlling inflation, it's worth asking: whose stability are they really engineering, and at whose expense?

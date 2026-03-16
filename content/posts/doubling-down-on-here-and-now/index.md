@@ -21,8 +21,8 @@ point. Presence isn’t something you figure out once and move on from. It’s a
 practice, a remembering.
 
 It’s a tricky concept—hard to describe, slippery to pin down. Presence seems to
-have layers. But maybe the best way to understand what presence *is* is to first
-talk about what it *isn’t.*
+have layers. So I keep ending up at the same place: noticing what pulls me out
+of it.
 
 ## The Opposite of Presence
 
@@ -127,7 +127,7 @@ will never match the comfort of your own home. People who work in the tourism
 industry are often overworked and underpaid, and are probably sick of giving the
 exact same experience to the same people over and over again.
 
-But it’s not the airplane that makes things magical; it’s your *attention.* Most
+What changes on a trip is often just that you’re finally paying attention. Most
 people don’t need more novelty—they need to learn how to *notice* again. You
 probably enjoy travel because it’s the only time you focus on the present moment
 rather than worrying about where you’re going next. You did all this planning
@@ -181,8 +181,8 @@ present can’t necessarily make your sad feels go away. I’m talking about sit
 with whatever *is*—the hard stuff, the real stuff—and not letting it own you.
 Detach from it, and let it go, so it can’t own you.
 
-Eventually, all of these techniques come down to the same thing: bringing the
-mind home.
+When any of this works, I get a little quieter. My shoulders drop. I stop
+arguing with where I am.
 
 ## Presence in Practice
 
@@ -204,10 +204,10 @@ simplicity of it. Let the thoughts come, then gently push them aside.
 Enjoy your chair. Enjoy your coffee—the warmth of the cup, the stillness between
 sips. Enjoy the boredom. Appreciate the mundane things around you.
 
-Yes—*boredom.* What a gift it is to be bored. Great things happen when we’re
-bored. Boredom is not a void; it’s a clearing, a space where creativity sneaks
-in. But most of us can’t handle it. We reach for our phones, our scrolls, our
-dopamine drips.
+Yes—*boredom.* What a gift it is to be bored. Some of my best ideas have shown
+up only after I got stuck with nothing but a park bench or a subway ride and my
+own brain. But most of us can’t handle it. We reach for our phones, our
+scrolls, our dopamine drips.
 
 Delete the apps. Turn off notifications. Uninstall the sludge. All of it is
 engineered to pull you out of yourself. It’s the opposite of presence.
@@ -229,9 +229,9 @@ Fantasizing about the next upgrade. Letting your brain spiral into comparison or
 craving. Worrying about things that haven’t happened. Lamenting over things that
 already have.
 
-You have to throw yourself a rope. No one’s coming to save you. Most people
-don’t stick around when things fall apart—they scatter. Don’t count on rescue;
-cultivate resilience. Be your own hero; save yourself.
+At some point you have to do something for yourself. Most people don’t stick
+around when things fall apart—they scatter. Better to learn how to steady
+yourself than wait around for some dramatic rescue that probably isn’t coming.
 
 ## The Ritual of Returning
 
@@ -250,16 +250,16 @@ hold, and *release.* Top it all off and round it out by lying like a corpse for
 ten minutes.
 
 Yoga, for me, is a daily ritual that brings me back to the here and now. If I
-skip it, I feel off. When I practice consistently, I feel whole. It’s not about
-flexibility or aesthetics—it’s about presence. I don’t do it for the Instagram
-points; I do it for the peace. Granted, I suppose in some ways it makes me a
-hypocrite to write about it on my blog, but I’m okay with that.
+skip it, I feel off. When I practice consistently, I feel whole. What it gives
+me day to day is pretty simple: I get out of my head, into my body, and leave
+feeling steadier than when I walked in. Granted, I suppose in some ways it
+makes me a hypocrite to write about it on my blog, but I’m okay with that.
 
 Yoga might not be your thing. That’s fine. It could be running, painting,
 woodworking, playing music, reading, writing, tending plants, sitting on a bench
-people-watching. The form doesn’t matter. The focus does. And even more
-importantly, the consistency. Do it not because you think it impresses others;
-do it because it makes you feel whole.
+people-watching. Pick the thing that lets you lock in, then keep coming back to
+it. Do it not because you think it impresses others; do it because it makes you
+feel whole.
 
 It’s not about competition. There are no trophies in yoga class. The only prize
 is presence. The people who show up just for themselves—the quiet ones, the
@@ -270,9 +270,8 @@ That’s the whole point.
 
 ## Being a Human Being
 
-Presence isn’t about becoming something new. It’s about returning to what you
-already are. It’s learning to stop outsourcing your peace to the next
-notification, the next trip, the next plan.
+Presence, at least as I understand it, is what’s left when you stop handing
+your peace over to the next notification, the next trip, the next plan.
 
 The monkey mind, perhaps, isn’t so bad after all, because monkeys are just doing
 what they do best: being themselves—swinging from branches, playing in the
@@ -281,6 +280,6 @@ leaves, mating, sleeping.
 Try doubling down on the here and now. Forget the past. Stop hallucinating about
 the future. Sit. Breathe. Notice. Repeat.
 
-Be here. Be human. That’s enough.
+That’s enough for me.
 
 [^1]: https://en.wikipedia.org/wiki/Ram_Dass#Neem_Karoli_Baba

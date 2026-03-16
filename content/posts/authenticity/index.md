@@ -15,13 +15,13 @@ tags:
   - communication ethics
 ---
 
-Most of us experience life through the lens of social expectations—the generally accepted norms and implicit guidelines about appropriate behavior in various contexts. These expectations create an interesting intersection between societal ideals and our lived experience.
+Most of us experience life through the lens of social expectations—the generally accepted norms and implicit guidelines about appropriate behavior in various contexts. They shape what we show, what we hide, and how much of ourselves feels safe to reveal.
 
-While many aspire to authentic self-expression, maintaining complete authenticity presents genuine challenges in a world that often incentivizes strategic self-presentation. Professional networking platforms exemplify this dynamic, creating environments where career advancement naturally encourages highlighting accomplishments and capabilities in ways that may sometimes diverge from more nuanced self-perception.
+Most people want to be real, but that gets complicated fast in places where polish gets rewarded. Professional networking platforms make that obvious: career pressure pushes people to highlight their wins and smooth out the parts that don't fit the story.
 
 ## The Professional Self-Presentation Spectrum
 
-Platforms like LinkedIn serve specific professional purposes, primarily facilitating career development and industry connections. By design, these environments emphasize professional accomplishments and capabilities rather than the full spectrum of human experience. This focused presentation serves legitimate purposes—helping qualified candidates connect with suitable opportunities and enabling organizations to identify potential team members.
+Platforms like LinkedIn serve specific professional purposes, primarily facilitating career development and industry connections. By design, these environments emphasize professional accomplishments and capabilities rather than the full spectrum of human experience. That's the point of the platform—it helps qualified candidates find opportunities and helps organizations find potential team members.
 
 But LinkedIn is a _weird_ place. The performative nature of the platform has created what researchers call "digital impression management," where users carefully curate their professional personas. Studies examining impression management on LinkedIn have found that users often strategically present themselves to enhance their personal branding, sometimes at the expense of complete authenticity.[^1]
 
@@ -29,17 +29,17 @@ While useful for specific professional objectives, such platforms represent just
 
 For those finding certain networking platforms misaligned with their values, alternatives exist—from curating a more selective professional presence to exploring different approaches to career development. The key consideration involves finding approaches that align with your personal values while meeting your professional needs.
 
-This exploration extends far beyond any specific platform, addressing the broader question of authenticity across various life contexts. Professional networking sites simply offer a clear illustration of the tension between strategic self-presentation and authentic expression that exists throughout much of modern life.
+This goes beyond any one platform. LinkedIn is just an obvious example of the tradeoff: how much do you present yourself cleanly, and how much do you let people see the messier truth.
 
 ## The Rarity and Value of Authenticity
 
-Genuine authenticity represents something truly special in both personal and professional contexts. The courage to express oneself honestly—appropriately calibrated to different relationships and settings—creates opportunities for meaningful connection that superficial interactions cannot match.
+When someone is actually honest about who they are, relationships change. The courage to express yourself honestly—appropriately calibrated to different relationships and settings—creates opportunities for meaningful connection that superficial interactions cannot match.
 
-Research consistently shows that authentic relationships significantly impact our wellbeing. The Harvard Study of Adult Development, which has followed participants for nearly 80 years, found that the quality of close relationships was the strongest predictor of both happiness and health—far outweighing wealth, fame, or professional achievement.[^2] What makes these relationships so powerful? Authenticity plays a central role.
+Research consistently shows that authentic relationships significantly impact our wellbeing. The Harvard Study of Adult Development, which has followed participants for nearly 80 years, found that the quality of close relationships was the strongest predictor of both happiness and health—far outweighing wealth, fame, or professional achievement.[^2] You don't get that kind of closeness by managing every impression.
 
 ## Understanding Authenticity Barriers
 
-What makes authentic self-expression challenging in daily life? The primary barrier often stems not from fear of truth itself, but from concern about potential consequences of transparency in various situations.
+What makes authentic self-expression challenging in daily life? Usually it's not the truth itself that scares people. It's what might happen after they say it.
 
 Consider a common example: when asked for an opinion about a friend's new hairstyle that you find unflattering. In this scenario, many people choose supportive comments rather than candid assessment. This response typically reflects care for the relationship rather than deception—prioritizing the friend's feelings over absolute candor in a relatively minor matter.
 
@@ -57,9 +57,9 @@ In the case where you want to provide critical feedback, to a friend or colleagu
 
 ## Authenticity as a Relationship Filter
 
-One of authenticity's most valuable functions involves its natural filtering effect on relationships. By expressing yourself genuinely (with appropriate consideration for context and others' feelings), you naturally attract people who appreciate your authentic self while creating distance from those who prefer performance over genuine connection.
+Authenticity has a way of sorting people. If you express yourself honestly, with some care for context and other people's feelings, the people who like the real you tend to stick around. The ones who need a performance usually don't.
 
-Over time, this filtering mechanism creates a community aligned with your values and comfortable with appropriate honesty—a powerful foundation for meaningful relationships built on mutual understanding rather than managed impressions.
+Over time, that leaves you with people who can handle some honesty and don't need you to keep managing how you come across.
 
 ## Finding Balance in Different Contexts
 
@@ -70,7 +70,7 @@ The authenticity journey involves developing nuanced approaches for different co
 3. **Public Platforms**: Determining how much of yourself to share in more public venues based on your personal boundaries and objectives
 4. **Inner Circle**: Cultivating relationships where authenticity flourishes, providing essential spaces for genuine self-expression
 
-This balanced approach recognizes that authenticity exists on a spectrum rather than as an absolute state—a thoughtful navigation between genuine self-expression and appropriate social consideration that varies across different relationships and contexts in our lives.
+Authenticity isn't all-or-nothing. It shifts with the relationship, the stakes, and the setting, and that doesn't make it fake.
 
 [^1]: Paliszkiewicz, J., & Madra-Sawicka, M. (2016). Impression Management in Social Media: The Example of LinkedIn. Management, 11(3), 203-212. [Link](https://www.fm-kp.si/zalozba/ISSN/1854-4231/11_203-212.pdf)
 

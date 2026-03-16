@@ -39,15 +39,15 @@ Unlike lies, which deliberately contradict the truth, bullshit is fundamentally 
 
 ## The Taxonomy of Modern Bullshit
 
-Bullshit appears in many forms in contemporary life:
+You run into different flavours of it all the time:
 
-**Institutional Bullshit**: The corporate mission statements that no one believes, the bureaucratic procedures that serve no practical purpose, the performance reviews that don't measure actual performance.
+**Institutional Bullshit**: The corporate mission statements that no one believes, and the performance reviews where everyone already knows the score before the form gets filled out.
 
 **Marketing Bullshit**: The "revolutionary" products that are minor iterations, the "scientific breakthroughs" that aren't peer-reviewed, the "limited time offers" that run perpetually.
 
 **Social Bullshit**: The networking events where everyone pretends to care about each other's business cards, the small talk that follows strict unwritten rules, the performative outrage on social media.
 
-**Intellectual Bullshit**: The thought leaders recycling obvious ideas as profound insights, the TED talks that simplify complex problems into 18-minute narratives with neat solutions, the business books stretching a single observation into 300 pages.
+**Intellectual Bullshit**: The thought leaders recycling obvious ideas as profound insights, and the business books that take one decent observation and whip it into 300 pages of airport slop.
 
 **Aspirational Bullshit**: The Instagram lifestyles built on careful curation and hidden debt, the "morning routines of successful people" that no actual successful person follows, the productivity systems that produce nothing but more systems.
 
@@ -70,11 +70,11 @@ Some extreme bullshitters, however, abhor the anti-bullshit rhetoric and even ta
 
 ## The Bullshit Detection Kit
 
-How do you develop a reliable bullshit detector? Here are some tools I've found useful:
+This is roughly how I spot it:
 
 **1. Follow the incentives**: Almost always, the quickest path to finding bullshit is to ask "who benefits from me believing this?" When a skincare company tells you that you need seven different products for your face, consider their incentive to sell you seven products instead of two.
 
-**2. Look for falsifiability**: Real claims can be proven wrong. Bullshit is often constructed to be unfalsifiable. When someone says "this investment can't lose," they're operating in the realm of bullshit because they've removed the possibility of being proven wrong.
+**2. Look for falsifiability**: If there's no way for the claim to fail, it's probably bullshit. "This investment can't lose" is bullshit for exactly that reason. The person saying it has built themselves an escape hatch before anything has even happened.
 
 **3. Notice emotional manipulation**: Bullshit often bypasses rational thought by triggering emotional responses. When you feel a sudden surge of fear, outrage, or inspiration without much actual information being conveyed, your bullshit detector should activate.
 
@@ -88,9 +88,9 @@ How do you develop a reliable bullshit detector? Here are some tools I've found 
 
 The first step in recognizing bullshit is to reject unearned authority, and realize that no one person is above another regardless of corporate title (a made up thing) or political position (another made up thing). All these things do not exist in nature, and as the stoics would say they go against nature.
 
-But recognizing bullshit is just the beginning. Living beyond it requires:
+Once you start seeing it, a few other things matter too:
 
-**Authentic communication**: Say what you mean, mean what you say. This doesn't require being rude or abandoning tact, but it does mean prioritizing genuine expression over impression management.
+**Authentic communication**: Talk plainly. Don't shape every sentence around how you want to be perceived. This doesn't require being rude or abandoning tact, but it does mean prioritizing genuine expression over impression management.
 
 **Seeking truth over comfort**: Sometimes the truth is uncomfortable. Bullshit offers comfortable falsehoods—the easy explanation, the reassuring narrative. Transcending bullshit means being willing to sit with discomfort.
 
@@ -102,6 +102,6 @@ But recognizing bullshit is just the beginning. Living beyond it requires:
 
 You can usually detect bullshit by analyzing incentives. Once you can properly recognize the bullshit, you can transcend it and reach the next plane of existence—not bullshit-free (because there will always be some), but bullshit-aware and bullshit-resistant.
 
-I invite everyone to join me up here. The view is clearer, the air is fresher, and the conversations are infinitely more interesting. It might seem like a lonely path at first, but you'll find that many people are quietly searching for the same thing—relationships and communities built on something more substantial than shared delusions.
+It's a lonely path at first, or it can feel that way. Then you start noticing who else is tired of pretending, and those are usually the people worth talking to.
 
 PS: If you're a book publisher and you want to help me publish my book "Everything's Bullshit", LMK thanks. I await your email. (See? Even I can't resist a little bullshit sometimes.)

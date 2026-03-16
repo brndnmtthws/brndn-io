@@ -11,8 +11,8 @@ tags:
 ---
 
 Every January gym attendance spikes by nearly 150%, yet by mid-February about
-90% of those new faces have vanished.[^1] We crave transformation, but sticking
-around for the unglamorous middle is where real change happens.
+90% of those new faces have vanished.[^1] Everyone wants the big reset. The part
+that actually does something is sticking around once it gets dull.
 
 Showing up regularly with "good enough" effort often outperforms sporadic bursts of
 perfectionism. I admire people who are consistent, dependable, and reliable. And I
@@ -22,7 +22,7 @@ who tries something a few times, gets frustrated, and gives up.[^2] But mastery 
 always the goal, and that's perfectly fine. Sometimes, being _just okay_ at something
 and enjoying the process is rewarding in itself.
 
-Mediocrity, in this sense of steady effort, is often underrated. While the word
+I've come around on mediocrity, at least this version of it. While the word
 itself might carry negative connotations of simply "falling short," I want to
 contemplate with you, the reader, its hidden strength when it represents
 consistent, reliable effort. As someone who leans towards perfectionism, I know
@@ -38,14 +38,11 @@ constant sunshine, zero problems. Real life, even in paradise, has its rainy
 days and imperfections. This caricature of life, where everything is flawless,
 sets an unattainable standard.
 
-Furthermore, the constant stream of curated perfection on social media platforms
-like Instagram and TikTok exacerbates this issue. We scroll through feeds filled
-with idealized moments and carefully constructed images, a digital reality often
-more appealing—and seemingly more perfect—than the sometimes messy, imperfect
-reality right in front of us. This relentless exposure can make it harder to
-appreciate, or even engage with, the 'good enough' moments of our own lives,
-presenting a sharp contrast to the gradual, imperfect progress that true
-consistency fosters.[^3]
+Instagram and TikTok don't help. You open the app for a minute and get hit with
+other people's polished highlights until your own regular life starts to look
+shabby by comparison. That makes it harder to appreciate, or even engage with,
+the 'good enough' parts of your own life, including the slow progress that comes
+from doing something again tomorrow.[^3]
 
 ## The Power of Showing Up
 
@@ -55,11 +52,11 @@ My parents tried to instill it, perhaps not always effectively, but experiencing
 the impact of reliability (and unreliability) firsthand as an adult truly drove the
 lesson home.
 
-Showing up is the simplest way to be present and express genuine interest. A
-friend who's consistently there is a real friend; one who's rarely around might
-as well be an acquaintance. Despite its clear value, why do we often overlook
-simple, dependable consistency? Perhaps it lacks the glamour or romance of
-dramatic, heroic efforts, yet it's often far more impactful in the long run.
+Showing up is the simplest way to be present and express genuine interest. The
+friends I trust most are the ones who are actually there, over and over. Despite
+its clear value, why do we often overlook simple, dependable consistency? Maybe
+it feels less exciting than some big dramatic gesture, but over time it's what
+actually changes a relationship.
 
 Often, showing up demands little effort—replying to a message, returning a call,
 reaching out first. It's surprisingly common for these simple gestures to be
@@ -67,11 +64,10 @@ overlooked, perhaps because they lack the drama of grand efforts. Yet, this basi
 consistency is a powerful signal of respect for another person's time and attention.
 
 What is the cognitive bias in our thinking that leads us to devalue showing up?
-This might be a case of the _novelty bias_: our brains over-value fresh,
-dramatic outcomes and under-value quiet, repeated efforts. That's why we get so
-excited about vacationing for a week: it gives us that hit of something new,
-something fresh. Recognizing this quirk helps us appreciate the power of showing
-up.
+Maybe it's just novelty bias. My brain definitely over-values the new, shiny
+thing and under-values the boring thing done again. That's probably part of why
+a one-week vacation feels so vivid. Seeing that in myself makes it easier to
+take showing up more seriously.
 
 ## Appreciating Routines
 
@@ -86,14 +82,9 @@ that goal is simply to show up reliably.[^5]
 
 ## "Rome wasn't built in a day."
 
-This isn't just a cliché; it reflects the reality that the vast Roman Empire,
-with its intricate network of roads, aqueducts, and monumental structures, grew
-not from a single grand plan perfectly executed, but through centuries of
-incremental, consistent effort. Each road paved, each aqueduct segment
-constructed, each law codified—these were the routine, often mundane, actions
-that collectively built an enduring civilization. It underscores how significant
-achievements often arise from the cumulative effect of persistent, small,
-routine actions.
+The cliché survives because it's true. Rome took centuries of roads, aqueducts,
+laws, repairs, and ordinary labor. Big things usually get built that way:
+through a pile of unglamorous work that somebody kept coming back to.
 
 Much of success in life involves attrition: those who manage to stick around
 long enough often become the experts, leaders, or respected figures in their
@@ -119,22 +110,20 @@ building any skill or talent, consistent practice over time is the only reliable
 to expertise. There are no real shortcuts.
 
 Take Thomas Edison's relentless pursuit of a practical incandescent light bulb.
-His success wasn't a single flash of brilliance but the culmination of
-methodical, persistent experimentation. Reports often mention _thousand_ of
-unsuccessful attempts—with figures ranging from over 1,000 to as many as
+He ran experiment after experiment until something worked. Reports often mention
+_thousand_ of unsuccessful attempts—with figures ranging from over 1,000 to as many as
 10,000—before finding a viable filament material.[^7] Edison famously viewed
 these attempts not as failures but as discoveries of what _didn't_ work,
 stating, "I have not failed. I've just found 10,000 ways that _won't_ work." He
-didn't wait for the perfect design to materialize; he actively persisted through
-iteration and imperfection, embodying the power of consistent effort over
-paralyzing perfectionism.
+kept going through bad versions instead of waiting for a perfect one to appear.
 
 You don't need to strive for perfection, but by simply showing up consistently over time,
 you might accidentally discover one day that you've become quite good at whatever it is.
 I've certainly found this to be true in my own life—I've inadvertently developed competence
 in several areas simply because I enjoyed them and kept at them, day after day.
 
-There's still plenty I'm not good at, which means endless opportunities for growth.
+There's still plenty I'm not good at, which means there's no shortage of things
+to work on.
 That potential excites me and keeps me showing up, practicing the things I want to
 improve at.
 

@@ -170,7 +170,7 @@ become _more valuable_ in terms of yield than the 10 year. How does this happen?
 
 ## Is an Inverted Yield Curve a Recession Predictor?
 
-In short, not exactly. By the time the yield curve has inverted, the market is past the
+Not really, at least not in the simple way people often imply. By the time the yield curve has inverted, the market is past the
 point of predicting a future recession, and it's now signaling that the central
 bank will likely adjust rates in the future.
 
@@ -183,11 +183,11 @@ The current federal funds rate is 3-3.25%, but the yield on the 2 year is 4.554%
 as of today. So what the bond market is telling you is that it expects interest
 rates to come down from their current point within 2 years.
 
-The reasons for why yield curve inversion is not necessarily a perfect predictor of recessions are as follows:
+A few things make the signal messier than it first appears:
 
 * Yields aren't determined by recessions alone, they're determined by central bank policies which incorporate many economic factors.
-* Markets are forward facing, but they also reflect what we already know: since market prices are determined by participants (i.e., there are no price controls or central pricing authorities), when yields invert it's merely reflecting all available data.
-* While yield curve inversion has historically preceded recessions, it's more of a symptom than a cause, and the time between inversion and recession can vary significantly.
+* Markets price in expectations quickly. Since prices come from participants rather than any central authority, an inversion usually means traders are reacting to information that's already out there.
+* While yield curve inversion has historically preceded recessions, it mostly reflects expectations about slower growth and future rate cuts, and the time between inversion and recession can vary significantly.
 
 ## Are We in a Recession? Is a Recession Coming?
 
@@ -218,7 +218,7 @@ You can reasonably argue that:
 the very least _pause_ on raising rates, and possibly even _adjust_ rates in the
 future.
 
-The question of whether we're "in a recession" or not involves both technical definitions and real economic impacts, but if we go by the common definition of "2 consecutive
+Whether we're "in a recession" depends on which definition you care about, but if we go by the common definition of "2 consecutive
 quarters of negative real growth" (which is widely accepted), then the data suggests we may be in a technical recession.
 
 ## What This Means for Investors
@@ -229,8 +229,8 @@ likely need to respond by adjusting monetary policy. The Federal
 Reserve, on the other hand, has maintained it's focused on getting inflation down. In other
 words, there's currently a tension between market expectations and central bank policy.
 
-History has shown that markets often incorporate valuable collective wisdom, though this doesn't mean they're always right in the short term. As the saying goes, "markets can stay irrational longer than you can remain solvent."
+Bond traders aren't omniscient, but they're clearly pricing in weaker growth and lower rates down the line. As the saying goes, "markets can stay irrational longer than you can remain solvent."
 
-In any case, with yields as high as they currently are on bonds, this may present an interesting opportunity for investors to pick up quality fixed-income assets at discounted prices. As always, diversification and alignment with your own investment timeframe and risk tolerance remain key considerations.
+With yields this high, bonds are at least worth a harder look than they were a year ago. Whether that matters to you mostly comes down to how long you can afford to hold them.
 
 For those interested in learning more about bond investing, [FINRA offers helpful educational resources](https://www.finra.org/investors/learn-to-invest/types-investments/bonds) aimed at retail investors.

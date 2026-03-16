@@ -22,7 +22,7 @@ tags:
 
 "I don't know."
 
-Three words that, when spoken genuinely, reveal more wisdom than a thousand confident declarations.
+Three words that usually tell me someone is thinking straight.
 Yet they're among the hardest words for many of us to say.
 
 There's a fine line between confidence and arrogance. Few have mastered the art
@@ -32,10 +32,10 @@ experience–a rare breed.
 
 ## The Self-Help Trap
 
-Modern self-help literature constantly tells us to "believe in yourself" and "exude confidence"—advice that sounds reasonable on the surface. But there's a critical nuance these books often miss: confidence without competence is just arrogance in disguise. The problem isn't confidence itself, but rather the false confidence that emerges when we overestimate our knowledge and underestimate our ignorance.
+Modern self-help literature constantly tells us to "believe in yourself" and "exude confidence"—advice that sounds reasonable on the surface. But there's a critical nuance these books often miss: if you're talking past what you actually know, people can feel it. The problem isn't confidence itself, but rather the false confidence that emerges when we overestimate our knowledge and underestimate our ignorance.
 
-This creates a paradox: the people who most need to hear "be more humble" are often
-the least likely to recognize this need in themselves. Meanwhile, those already prone
+The people who most need to hear "be more humble" are usually the last to think
+it applies to them. Meanwhile, those already prone
 to self-doubt might take such advice as confirmation that their uncertainty is a weakness.
 
 ## The Courage to Say "I Don't Know"
@@ -78,7 +78,7 @@ tend to rise to positions of influence despite their limitations.
 
 ## The Hidden Benefits of Not Knowing
 
-Intellectual humility isn't just about avoiding arrogance–it opens doors to genuine growth:
+For me, being less certain has had a few obvious benefits:
 
 1. **Better learning**: When you acknowledge gaps in your knowledge, you create space to fill them.
 2. **Stronger relationships**: People trust those who are honest about their limitations.
@@ -90,17 +90,13 @@ Intellectual humility isn't just about avoiding arrogance–it opens doors to ge
 
 I recognize that expressing uncertainty doesn't always serve me well, particularly
 when trying to impress others. But I'd rather remain authentic than pretend to
-know more than I do. There's a quiet strength in acknowledging the limits of
-your knowledge–it leaves room for growth that arrogance never will.
+know more than I do. Admitting the limits of what I know usually leads to a better
+conversation, and it keeps me from slipping into that bluffing tone I hate hearing in other people.
 
 The next time you're tempted to speak with certainty about something you only partially
-understand, consider taking a breath and saying those three powerful words: "I don't know."
-It might feel uncomfortable at first, but that discomfort is the sensation of becoming
-wiser. And in a world drowning in false certainty, your intellectual humility might be
-exactly what we need more of.
-
-Perhaps true confidence isn't about knowing all the answers, but about being secure enough
-to admit when you don't. In the pursuit of knowledge, sometimes the wisest step is to
-know less – or rather, to acknowledge how little we truly know.
+understand, consider taking a breath and saying "I don't know."
+It can feel awkward at first. It still does for me sometimes. But I'd rather deal
+with that than keep pretending. Around the people I actually respect, saying less
+and being honest about what I don't know tends to go over better anyway.
 
 [^1]: Price, P. C., & Stone, E. R. (2004). Intuitive evaluation of likelihood judgment producers: Evidence for a confidence heuristic. *Journal of Behavioral Decision Making*, 17(3), 181–199.

@@ -41,8 +41,8 @@ disrespect. Cutting through the small talk so the line at Duane Reade moves?
 That's a kind of respect, too. Sometimes you give up your subway seat to someone
 who needs it, but you don't need to exchange words or even smile.
 
-There's also the "nice guy" stereotype—politeness with a price tag. It's not
-kindness; it's a tactic. Niceness expects a return. Kindness doesn't
+There's also the "nice guy" stereotype—politeness with a price tag. You can
+feel the ask hiding inside it. Niceness expects a return. Kindness doesn't
 invoice. If a friend asks to borrow money, it's nice to float the loan and
 expect it back; it's kind to help without turning the relationship into a
 ledger. Kindness given freely beats niceness on credit. You can't use niceness
@@ -121,15 +121,17 @@ There's also a spillover effect that makes me a little optimistic about people
 and how far a little kindness can go. Cooperative behavior has been shown to
 ripple through social networks—sometimes out to "three degrees" of separation—so
 your generosity to me today can show up later in how I treat somebody you'll
-never meet[^7]. No scoreboard, no strings—just the thing that helps, and then
-keeps helping.
+never meet[^7]. One decent thing can keep traveling long after the moment itself
+is over.
 
 If kindness is the positive project, the baseline is simpler: first, do no harm.
 Ahimsa, the principle of non-violence, is broader than
 not hitting people; it's a refusal to injure when you can avoid it—including
 with your mouth, your actions, your timing, your tweets. It's a decent way to move
 through a city: less needless snark, less sidewalk sabotage, less weaponizing of
-other people's time. First, do no harm—ahimsa as everyday etiquette[^8]. It begins with yourself and extends outward. In other words, give yourself a break.
+other people's time. First, do no harm—ahimsa as everyday etiquette[^8]. That
+applies at home, too; if you're constantly grinding yourself into dust, you're
+probably not bringing your best self to anybody else.
 
 ## Be Kind, Be Nice
 
@@ -141,8 +143,9 @@ thing.
 
 I'm not claiming to be good at it. I'm saying I want to be the person who
 notices, who offers, who helps, and then moves on without waiting for the
-receipt to print. Kindness is less about polishing the interaction and more
-about relieving a burden. If I can do that a little more often—on the subway, in
+receipt to print. Half the time it isn't graceful at all. It's just noticing
+that somebody's carrying too much and making it a little lighter. If I can do
+that a little more often—on the subway, in
 the garden, in the line at CVS—I'll take it as progress.
 
 [^1]: Epictetus, *Enchiridion* (ch. 1), classic statement of the "dichotomy of control." Translation by Elizabeth Carter, Internet Classics Archive.  [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)

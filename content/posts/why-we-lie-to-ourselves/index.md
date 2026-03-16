@@ -47,7 +47,7 @@ everyone else. Some are more lucky than others, but nobody is special.
 
 ## Why Evolution Favors Self-Deception
 
-Interestingly, our tendency toward self-deception may have evolutionary roots. Research in evolutionary psychology suggests several reasons why natural selection might favor individuals who can effectively deceive themselves:
+There's probably some evolutionary reason for this too. One version of the argument goes like this:
 
 1. **Convincing Others**: When we truly believe our own lies, we display fewer physical signs of deception (nervousness, inconsistent details), making our falsehoods more convincing to others.
 
@@ -57,7 +57,7 @@ Interestingly, our tendency toward self-deception may have evolutionary roots. R
 
 4. **Social Cohesion**: Some shared self-deceptions (like certain cultural or religious beliefs) help bind groups together, enhancing cooperation and survival.
 
-So while self-deception might seem irrational, it may have served us well throughout human evolution. The problem is that what helped our ancestors survive on the savanna isn't necessarily what helps us thrive in modern society.
+So yes, the habit may have been useful at some point. It also screws people up every day now.
 
 ## The Price of Self-Deception
 
@@ -82,7 +82,7 @@ But, at the same time, there's much we can't change: our skin colour or racial
 makeup, who our parents are, which genetalia we were born with, and the degree
 to which society and culture influences who we are.
 
-The wisdom lies in distinguishing between these categories and focusing our energy on what's within our control. This balance between self-improvement and self-acceptance is perhaps life's most delicate dance.
+The hard part is knowing which is which, and not wasting your life trying to fix the wrong thing.
 
 Maybe you want to "rise above" it all and reach Giga Brain Enlightenment status
 on another plain somewhere in the metaverse of your mind, but eventually you
@@ -95,7 +95,7 @@ I started with the bottom line of this post up front: we lie to ourselves
 because it makes life a bit easier. It allows us to avoid confronting ourselves,
 how we treat others, and our excuses for not improving ourselves where we can.
 
-But beyond ease, we lie to protect our self-image. Our brains are constantly working to maintain a coherent narrative about who we are. When facts contradict this narrative, the discomfort (what psychologists call "cognitive dissonance") can be intense. Rather than rewrite the entire story of ourselves, we often find it easier to reinterpret or ignore contradictory information.
+But beyond ease, we lie to protect our self-image. Most people have some running story in their head about the kind of person they are. When reality clashes with that story, the discomfort (what psychologists call "cognitive dissonance") can be intense. It's usually easier to squint at the facts than to admit the story was off.
 
 ## Practicing Radical Honesty
 
@@ -104,7 +104,7 @@ yourself any lies during your inner dialogue sessions. It may reveal things
 about yourself that you hadn't considered before, offering another path for self
 improvement that you can lie to yourself about until you choose to stop.
 
-Some specific practices to foster greater self-honesty:
+If you want to try being a bit more honest with yourself, a few things that help:
 
 1. **Morning reflection**: Before starting your day, ask yourself what uncomfortable truths you've been avoiding.
 
@@ -118,7 +118,7 @@ Some specific practices to foster greater self-honesty:
 
 6. **Meditation**: Regular mindfulness practice creates space between thoughts and reactions, allowing you to observe your mind's deceptive patterns.
 
-The paradox is that genuine self-acceptance becomes possible only when we stop lying to ourselves. We cannot truly accept what we refuse to acknowledge.
+You can't really accept yourself while you're still covering half of yourself up.
 
 ## A Personal Note
 
@@ -127,6 +127,6 @@ sometimes produces these thoughts, and occasionally I write it down, perhaps as
 an act of therapy. And for some reason, people keep emailing me telling me they
 enjoying reading them, so I keep writing them.
 
-Perhaps there's something universal in these reflections. We're all engaged in the same struggle to see ourselves clearly while maintaining enough self-compassion to get through the day. The fact that you're reading this suggests you're already more committed to self-honesty than most. That's not a small thing.
+Maybe this lands for you, maybe it doesn't. But if you're reading this at all, you're probably at least willing to catch yourself in the act once in a while, and that already matters.
 
-The path to self-awareness isn't about achieving perfect honesty overnight—it's about catching yourself in moments of self-deception and gently, persistently, turning toward the truth. One small lie at a time, recognized and released.
+You're not going to stop doing this overnight. The best you can do is notice one lie, then another, and get a little less slick at selling them to yourself.

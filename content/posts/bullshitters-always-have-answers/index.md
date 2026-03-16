@@ -16,7 +16,7 @@ tags:
 
 We often must judge others, such as when hiring, choosing who to work with, or selecting friends and partners. I find that there are two attributes most desirable in people I associate with: **authenticity** and **intelligence**.
 
-There are two simple heuristics for detecting inauthentic people and genuinely smart ones, which I'll outline below.
+I've ended up relying on two rough tells.
 
 ## Detecting Inauthentic People
 
@@ -26,11 +26,11 @@ For example, watch how certain salespeople operate. A skilled but inauthentic sa
 
 Similarly, many politicians demonstrate this behavior during interviews. When confronted with a difficult question, rather than admitting uncertainty or promising to research the topic, they often pivot to rehearsed talking points or reframe the question to suit their agenda.
 
-**tl;dr:** Inauthentic people rarely say "I don't know" - they'll usually offer a confident but hollow answer instead.
+**tl;dr:** If someone can't say "I don't know," they'll usually fill the gap with bullshit.
 
 ## Detecting Genuinely Smart People
 
-Identifying truly intelligent people is more challenging, but they typically demonstrate two key abilities:
+Smart people are harder to size up, but a couple things usually stand out:
 
 * Smart people can break down complex topics into simple words that anyone can understand. Think of Richard Feynman explaining quantum physics with everyday analogies, or how the best doctors can explain complicated medical conditions without resorting to jargon.
 
@@ -43,10 +43,10 @@ By contrast, someone who lacks expertise or intelligence but pretends otherwise 
 * Gets defensive or aggressive when asked follow-up questions
 * Makes explanations more complex rather than simpler
 
-**tl;dr:** Genuinely smart people can quickly explain complex topics to anyone in accessible terms. Those who hide behind jargon and complexity are often masking limited understanding.
+**tl;dr:** The smart ones usually make hard things easier to follow. The ones bluffing tend to hide in jargon and get weird when you press them.
 
 ## Prefer False Negatives to False Positives
 
 These heuristics are simplistic but surprisingly effective in most situations. As a general rule, it's better to occasionally miss connecting with a good person (false negative) than to let an inauthentic person into your inner circle (false positive).
 
-The cost of becoming entangled with someone who consistently misrepresents their knowledge or character can be significant in both professional and personal contexts. Being selective about who you trust and collaborate with isn't about elitism – it's about protecting your time, energy, and wellbeing.
+Let the wrong person in and they'll waste your time, muddy decisions, and generally make a mess of things. So yes, be picky about who you trust and build with.

@@ -14,7 +14,7 @@ tags:
   - flexibility
   - survival
 ---
-In a world of constant change and uncertainty, the metaphors of fluidity and rigidity offer powerful lenses for understanding systems, structures, and human behavior. This exploration goes beyond physical properties to reveal how these opposing approaches shape our response to challenges, determine system resilience, and ultimately influence our success in navigating life's complexities. From physics to finance, from engineering to personal adaptation, the tension between flowing with change and resisting it defines our reality in profound ways.
+Fluidity and rigidity show up everywhere once you start looking for them. You can see it in materials, markets, buildings, and in the way people deal with stress. Some things survive by giving a little. Others stay stiff right up until they snap.
 
 ## The Nature of Fluidity
 
@@ -40,7 +40,7 @@ rigid systems and structures are catastrophic. Properly engineered structures
 provide enough give and take that they don't explode when a small breeze comes
 along, or in the event of an extreme shock like an earthquake, avoid total collapse.
 
-The video above demonstrates base isolation technology, where buildings are designed with flexibility at their foundation to absorb seismic energy during earthquakes—a perfect example of engineered flexibility within an otherwise rigid structure.
+The video above shows base isolation: a building stays mostly rigid, but the foundation is allowed to move enough to soak up seismic energy.
 
 ## Rigidity in Complex Systems
 
@@ -49,7 +49,7 @@ when exposed to shocks, which sometimes result in bailouts from governments and
 central banks to protect from so-called "contagion" (i.e., spreading cracks can
 cause other rigid systems to collapse). The 2008 financial crisis exemplified this, with rigid mortgage-backed securities failing catastrophically when housing prices declined.
 
-Contemporary examples abound. The COVID-19 pandemic exposed rigid supply chains that collapsed when faced with sudden demand shifts and transportation disruptions. Companies with rigid work policies struggled to adapt to remote operations, while more fluid organizations pivoted quickly. Tesla's manufacturing approach, which integrates vertical supply chains and rapid design iteration, demonstrated greater resilience than traditional automakers with rigid, outsourced supply networks.
+The COVID-19 pandemic exposed rigid supply chains that collapsed when faced with sudden demand shifts and transportation disruptions. Companies with rigid work policies struggled to adapt to remote operations, while more fluid organizations pivoted quickly. Tesla also had an easier time than many automakers changing course because it controlled more of its supply chain and iterated faster.
 
 Some substances are _incredibly_ rigid, to the point where they become brittle,
 and may shatter when stressed. Examples of this are glass or hard plastic,
@@ -80,7 +80,7 @@ In simple terms, proving ergodicity allows us to consider small
 samples as representative of the whole, which provides an opportunity to obtain
 results by sampling.
 
-This has profound implications for how we understand chance and probability in our lives. Consider these examples:
+This matters because it tells you when a sample is actually useful. Consider these examples:
 
 - **Weather forecasting**: Instead of waiting 100 years to see if a prediction model works, meteorologists can test it on 100 different regions simultaneously.
 
@@ -97,7 +97,7 @@ better or worse than your peers, or to figure out if you even enjoy it.
 
 However, not all systems are ergodic. Non-ergodic systems are those where single instances can have dramatically different outcomes than the average. Think of a casino game where one massive loss can wipe you out completely—the average outcome across many players might be small losses, but your individual path matters enormously. These are systems where rigidity often emerges, as individual elements (people, institutions) try to protect themselves from catastrophic outcomes.
 
-Understanding ergodicity helps us recognize when we can safely sample and adapt (fluid approach) versus when we need to be more cautious about individual paths (potentially requiring more rigid safeguards).
+Ergodicity matters when you're deciding whether a quick sample tells you enough, or whether one bad path can still ruin you.
 
 ## The Inevitable Failure of Rigid Systems
 
@@ -118,9 +118,9 @@ But Wald saw something the officers missed. He realized they were only examining
 
 This insight led to one of the most famous examples of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias#Military) in history. Wald recommended armoring the areas that showed _no_ bullet holes on the returning planes, contrary to intuition.
 
-This exemplifies the danger of rigid thinking. The military's initial approach was to react directly to what they could see (reinforce where bullets hit), representing a rigid response to information. Wald's fluid thinking allowed him to consider what wasn't immediately visible—the planes that never returned—and adapt his recommendation accordingly.
+The military's first instinct was to reinforce what they could see: the holes in the planes that made it back. Wald looked at the missing planes instead.
 
-Modern applications of this principle abound:
+The same mistake shows up all over the place:
 
 - Successful entrepreneurs often study business failures, not just successes
 - Effective medical treatments emerge from understanding why certain patients don't respond to therapy
@@ -136,7 +136,7 @@ stresses. Interestingly, the fluid parts of the system tend to help absorb
 shocks anyway, which makes tolerances much higher in a partially fluid system,
 rather than a strictly rigid system. Nature demonstrates this principle repeatedly—consider how trees bend in high winds rather than snap, or how our bodies use fluid-filled joints to absorb impact.
 
-A striking contemporary example is Netflix's approach to system reliability. Their "Chaos Monkey" deliberately introduces failures into their production systems to ensure they're designed to handle disruptions fluidly. By contrast, companies with rigid approaches to reliability often experience catastrophic outages when unexpected failures cascade through their systems.
+Netflix's "Chaos Monkey" is built around this idea. It deliberately breaks parts of production so the system has to keep working through failure instead of assuming everything will behave.
 
 ## Human Adaptation: Rigidity vs. Fluidity
 
@@ -156,35 +156,21 @@ asymmetric upside bets where the downside is limited.
 
 ## Developing Fluid Thinking
 
-### Practical Strategies for Cultivating Adaptability
+### Developing Adaptability
 
-1. **Practice deliberate exposure to change**: Intentionally alter routines and approaches to build your capacity to adapt.
+If you want to become more fluid, put yourself in situations where you have to adjust. Change your routines on purpose. Run small experiments instead of making giant irreversible bets. Pay attention to systems outside your own lane, because the patterns repeat. And after something goes wrong, don't just grit your teeth and do the same thing harder.
 
-2. **Adopt the beginner's mind**: Even in areas of expertise, maintain openness to new perspectives and approaches.
-
-3. **Develop scenario thinking**: Regularly imagine various futures and how you might adapt to each.
-
-4. **Build diverse networks**: Connect with people across different fields and backgrounds to expand your mental models.
-
-5. **Implement small, reversible experiments**: Test ideas with minimal commitment before scaling them.
-
-6. **Study systems outside your domain**: Biological, social, and technical systems offer transferable insights about adaptation.
-
-7. **Practice active recovery**: After setbacks, analyze what happened, extract lessons, and adapt your approach rather than rigidly persisting.
-
-8. **Balance structure and flexibility**: Create frameworks that provide guidance while allowing for adaptation as conditions change.
-
-These approaches are supported by research in cognitive flexibility, system resilience, and adaptive expertise. Books like Nassim Taleb's _Antifragile_, Carol Dweck's _Mindset_, and Peter Senge's _The Fifth Discipline_ offer deeper dives into these concepts.
+Books like Nassim Taleb's _Antifragile_, Carol Dweck's _Mindset_, and Peter Senge's _The Fifth Discipline_ are worth reading if you want to keep pulling on these ideas.
 
 ## Conclusion: the Dance of Fluidity and Rigidity
 
-The tension between fluidity and rigidity isn't just a physical or philosophical curiosity—it's a fundamental dynamic that shapes how systems and people survive and thrive. Complete rigidity leads to catastrophic failure when facing the inevitable unexpected shock. Yet pure fluidity without structure lacks direction and purpose.
+Fluidity and rigidity aren't abstractions. They show up in whether a bridge holds, whether a company survives a shock, whether a person can adjust when the world stops cooperating. Complete rigidity breaks. Pure fluidity without any structure just sloshes around.
 
-The most successful systems—whether natural ecosystems, human organizations, or personal approaches to life—balance these opposing forces. They incorporate enough structure to maintain identity and purpose, while preserving sufficient adaptability to bend rather than break when challenged.
+The systems that last usually have both: enough structure to hold together, enough flexibility to bend when they need to.
 
-As we face a world of accelerating change and increasing complexity, developing this balance becomes ever more crucial. The wisest approach might be to cultivate what Bruce Lee famously advised: "Be water, my friend." Flow around obstacles, adapt to containers, and when necessary, wear away even the hardest stone through persistent, patient action.
+That balance matters because shocks are normal, not exceptional. Bruce Lee's "Be water, my friend" still gets at it. Flow around obstacles, adapt to the container, and keep enough force in reserve to wear something down over time.
 
-By understanding these dynamics, we can design more resilient systems, build more adaptive organizations, and develop more successful approaches to navigating our complex, ever-changing world.
+If you build everything like glass, don't act surprised when it shatters.
 
 ## Further Reading
 

@@ -39,15 +39,15 @@ As a technologist one must be tolerant of inevitable failures along the path to 
 
 ## The Malleability Paradox
 
-Here's where it gets interesting: experience and malleability often have an inverse relationship in perception, but not necessarily in reality. The assumption many hiring managers make is that with more experience comes more rigidity—more "this is how we've always done it" thinking.
+A lot of hiring managers seem to assume that more experience means more rigidity, more "this is how we've always done it" thinking.
 
-This creates what I call the malleability paradox. The very experience that should make you more valuable can sometimes make you appear less valuable if it's perceived as making you less adaptable. This is particularly true in tech, where the half-life of technical knowledge can be measured in years, sometimes months.
+The experience that should make you more valuable can get read as a liability if people assume it also made you less adaptable. This is particularly true in tech, where the half-life of technical knowledge can be measured in years, sometimes months.
 
-But this perception misses a crucial point: true experience isn't just accumulated knowledge—it's accumulated adaptation. Someone who has survived in tech for 15+ years has necessarily gone through multiple paradigm shifts, technology transitions, and methodology revolutions. That survival itself is evidence of malleability.
+What years in tech usually give you is practice adjusting. Someone who has stuck around for 15+ years has already lived through multiple paradigm shifts, technology transitions, and methodology revolutions. Usually they did not survive all that by being rigid.
 
 ## The Myths About Experienced Technologists
 
-Several myths perpetuate the idea that experienced technologists are less malleable:
+Some of the assumptions people make about older technologists are:
 
 **Myth 1: "They're stuck in outdated technologies."**  
 The reality is that most long-term technologists have already pivoted multiple times in their careers. The person who started with COBOL likely moved to C++, then Java, and maybe now Python or Rust. They've demonstrated malleability repeatedly, yet this history of adaptation is often overlooked.
@@ -59,7 +59,7 @@ Most experienced developers have seen methodologies come and go—from waterfall
 The truth is that older developers often have better learning systems in place. When you've learned ten programming languages, the eleventh comes much easier. Their knowledge frameworks allow them to assimilate new information more efficiently.
 
 **Myth 4: "They're not passionate or hungry enough."**  
-This often translates to "they won't work 80-hour weeks" or "they prioritize sustainability over burnout." This isn't a lack of passion—it's wisdom gained from experience.
+This often translates to "they won't work 80-hour weeks" or "they prioritize sustainability over burnout." Usually it means they've learned what burnout costs and they're no longer interested in pretending that cost is noble.
 
 ## Cultivating Demonstrable Malleability
 
@@ -108,7 +108,7 @@ Perception matters. Keep your online presence, resume, and conversational refere
 
 ## The Hidden Advantage of Experienced Malleability
 
-Here's what many organizations miss: experienced technologists who maintain malleability bring a unique superpower—they can distinguish between truly transformative changes and recycled ideas in new packaging.
+Here's what many organizations miss: experienced technologists who stay malleable are often better at telling the difference between a real shift and old ideas in new packaging.
 
 This skill allows them to:
 
@@ -145,12 +145,10 @@ If you're on the hiring side, here are better ways to assess malleability than u
 - Could their historical knowledge help avoid repeating past mistakes?
 - Might their approach balance out tendencies in your current team?
 
-## The Future Belongs to the Adaptable
+## Experience Still Matters If You Can Move
 
-I think discriminating against older technologists is not just unfair—it's a strategic error for companies. Experience combined with malleability is the rarest and most valuable combination in technology.
+I think discriminating against older technologists is not just unfair, it's dumb hiring. Experience combined with malleability is unusually useful, especially on teams that need judgment and not just raw output.
 
 If you're talented, experienced, and find yourself being rejected in job interviews by 20-somethings who believe they've already achieved enlightenment, I'd suggest you hang in there and keep doing what you're doing, but try to present yourself as being a little more malleable. Not just in your words, but in demonstrable ways that make your adaptability undeniable.
 
-The technologies will continue to change. Programming languages will come and go. Methodologies will cycle through new names for old ideas. But the ability to learn, adapt, and bring wisdom to new contexts—that's timeless. And ultimately, it's what distinguishes those who have careers that last from those who flame out after a few years.
-
-In a field defined by constant evolution, malleability isn't just a nice-to-have quality—it's the cornerstone of longevity.
+The technologies will continue to change. Programming languages will come and go. Methodologies will cycle through new names for old ideas. If you've built a career by adjusting as the ground moves, that's still the thing that matters.

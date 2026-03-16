@@ -39,8 +39,7 @@ laziness is that it's the opposite of being productive, where to be "productive"
 implies doing some work, chores, exercise, or self-improvement.
 
 Laziness is–in my humble opinion–widely misunderstood and underappreciated.
-It's not simply about doing nothing; rather, it's about avoiding excess
-energy expenditure. That includes both physical and mental energy.
+It's about not wasting energy. That includes both physical and mental energy.
 
 Anyone who's worked in any sort of creative profession (or simply been to
 school) is fully aware of how much energy it takes to do creative work.
@@ -54,8 +53,8 @@ rest (for me, at least). The brain accounts for about 20% of your caloric needs,
 which is quite remarkable considering the brain is only about 2% of your body
 mass[^1] [^2].
 
-There's also an essential biological imperative for why laziness is virtuous: we
-evolved to conserve energy because, historically, food was scarce. If you can
+There's also a biological reason laziness is virtuous: we evolved to conserve
+energy because food used to be scarce. If you can
 accomplish the same amount of work (or merely an adequate amount) while
 expending less energy, that's a win. Look at nature—lions sleep up to 20 hours a day
 and only hunt when necessary. They're not considered lazy; they're considered efficient.
@@ -81,9 +80,9 @@ easy" when demonstrating their talents. The most efficient chef isn't the one fr
 rushing around the kitchen, but the one who plans their movements, conserves energy,
 and produces excellent food with seemingly minimal effort.
 
-So perhaps the next time you find a shortcut or an efficient way to complete a task,
-don't think of it as being lazy—think of it as honoring an evolutionary imperative
-to conserve your precious energy for the things that truly matter.
+So the next time you find a shortcut or an easier way to get something done,
+don't beat yourself up about it. You're probably just saving your energy for
+something better.
 
 [^1]: <https://en.wikipedia.org/wiki/Brain#Metabolism>
 [^2]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC124895/>

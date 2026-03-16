@@ -36,14 +36,14 @@ to wander, free from the constant bombardment of information.
 
 I've written before about [learning to love boredom]({{< ref
 "learning-to-love-boredom" >}}), but I think there's a distinction worth making
-between boredom that leads nowhere and boredom that becomes the fertile soil for
-creativity and insight. Let's call the latter "productive boredom."
+between boredom that leads nowhere and the kind that leaves room for ideas to
+show up. Let's call the latter "productive boredom."
 
 ## The Subtle Art of Doing Nothing
 
-Productive boredom isn't about mindlessly scrolling Instagram—that's just
-distraction dressed up as boredom with a hit of dopamine to keep you engaged.
-True productive boredom happens when you allow your mind to drift without a
+Mindlessly scrolling Instagram doesn't do much here. It's still stimulation,
+just the cheap kind, with a dopamine hit to keep you engaged. Productive
+boredom happens when you allow your mind to drift without a
 specific destination. It's a state where you're not consuming or producing
 anything; you're just... being.
 
@@ -71,9 +71,10 @@ themselves checking their phones frequently even during short journeys.
 
 ![The subway is a great place to practice boredom, but most people are glued to their phones](3.jpg "The subway is a great place to practice boredom, but most people are glued to their phones")
 
-Doing nothing has become a skill that few are practicing, and even fewer have
-noticed that they're addicted to the constant stimulation. We crave vacations
-and trips and fancy dinners and yadda yadda, but nobody seems to crave the
+Doing nothing has become a skill most people barely practice. At least in the
+city, a lot of us seem wired for constant stimulation without really noticing
+it. We crave vacations and trips and fancy dinners and yadda yadda, but nobody
+seems to crave the
 simple act of just being–and learning to enjoy what you have right here where
 you are.
 
@@ -147,9 +148,9 @@ allows for reflection and insight.
 
 ![Take a break](7.jpg)
 
-Productive boredom isn't laziness; it's a different kind of productivity. It's
-creating the conditions for insights that can't emerge any other way. It's
-giving your subconscious mind the space it needs to do its best work.
+Productive boredom gives your mind a chance to do something besides react. It
+creates the conditions for insights that usually won't show up when every spare
+second is spoken for.
 
 So the next time you feel that itch to reach for your phone when you have a free
 moment, try resisting it. Let yourself be bored. See what comes up. You might be
@@ -157,6 +158,6 @@ surprised at what your mind can do when you're not busy filling it with other
 people's thoughts. Train yourself to stop reaching for your gadget at the first
 hint of boredom. Instead, embrace the discomfort and let your mind wander.
 
-After all, in a world designed to capture and monetize your attention at every
-turn, choosing boredom might be one of the most radical acts of
-self-preservation you can practice.
+That's harder than it sounds when every app on your phone is trying to keep you
+hooked. But when you stop feeding that loop for a while, things get quieter in
+a useful way.

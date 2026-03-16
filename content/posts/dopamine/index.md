@@ -81,18 +81,18 @@ At the same time, if you completely cut sugar from your diet, you'd probably ben
 
 ## Finding Balance
 
-The key with dopamine-triggering technologies isn't necessarily to eliminate them completely, but to be mindful of how they affect us. Here are some practical approaches that have worked for me:
+I don't think you need to throw your phone in a lake. But you should probably stop pretending these products are neutral. A few things help:
 
 1. **Set boundaries**: Designate specific times for social media use rather than constantly checking throughout the day. Some people find success with "social media Saturdays" or limiting usage to 20 minutes per day.
 
 2. **Create friction**: Remove social apps from your home screen, or better yet, delete them from your phone and only access them via browser. The extra steps reduce impulsive checking.
 
-3. **Seek alternative dopamine sources**: Exercise, meaningful conversations, creating things, learning new skills, and spending time in nature all provide healthier dopamine rewards.
+3. **Replace the habit with something real**: Go for a run. Call a friend. Work on something for an hour. Anything is better than feeding the slot machine.
 
-4. **Practice mindfulness**: When you feel the urge to check notifications, take a moment to notice the feeling without immediately acting on it. This awareness helps break the automatic response pattern.
+4. **Wait a minute**: When you get the itch to check notifications, let it sit for a bit. A lot of the time the urge passes if you don't instantly scratch it.
 
 5. **Use technology mindfully**: Paradoxically, technology itself can help us use technology better. Apps like [Freedom](https://freedom.to/) or [Forest](https://www.forestapp.cc/) can block distractions and help you stay focused.
 
-The goal isn't to demonize technology companies or the brilliant products they've created. Rather, it's to recognize that these products are designed to be compelling, and we need to be equally intentional about how we interact with them.
+These companies are good at making sticky products. That's the business. So if you don't set a few rules, the default is that the app gets the last word.
 
-By understanding the dopamine mechanisms at work, we can enjoy the benefits of social connection and information access that these platforms provide, while avoiding the pitfalls of mindless scrolling and addiction. The most empowering stance isn't fear or avoidance, but knowledge and conscious choice.
+I still use this stuff. I just try not to use it in the dumbest possible way.

@@ -24,9 +24,9 @@ We are apes who evolved to come down from the trees and start using tools and fi
 
 Evolution happens very, very slowly, but we have sprinted ahead of it with our technologies. Anxiety is–in part at least–a defense mechanism that is left over from a much more harmful and cruel reality where if you injured yourself seriously you were very likely to die, and if you were banished from your tribe you would die alone in the wilderness. So when something bad happens, our brains go into overdrive and start imagining all the worst possible outcomes. This is a survival mechanism that has helped make us the most successful (and terrible) animal on this planet, and why we have successfully eliminated some 83%[^1] of all the other mammals (which is not a good thing, but it speaks to a certain kind of superiority).
 
-Our amygdala—the almond-shaped region of the brain responsible for processing fear—responds to threats about 120 milliseconds before our conscious mind even recognizes them. This lightning-fast reaction helped our ancestors survive, but in our modern world of social threats rather than physical ones, this same mechanism often misfires spectacularly.
+Our amygdala—the almond-shaped region of the brain responsible for processing fear—responds to threats about 120 milliseconds before our conscious mind even recognizes them. Which is why an email from Rover can hit your body like you need to fight a bear, even when it's obviously just some annoying website bullshit.
 
-You can actually feel catastrophizing happening in your body—your heart rate increases, your breathing becomes shallow, your muscles tense up, and you might even feel a knot in your stomach. Recognizing these physical signals is the first step to interrupting the cycle.
+You can actually feel catastrophizing happening in your body—your heart rate increases, your breathing becomes shallow, your muscles tense up, and you might even feel a knot in your stomach. For me that's usually the moment where I can tell I'm about to make the whole thing bigger than it is.
 
 ## How to Stop It
 
@@ -34,7 +34,7 @@ Stopping this is much easier said than done. There are some techniques we can us
 
 Thus, it requires conscious effort and practice to stop the catastrophizing. In my case, I know that I don't actually _need_ someone to walk my dogs every day, they will be fine and they have a safe home with their needs met. But I don't love leaving them alone for long periods, and I feel better knowing they get some time outside with fresh air and a bathroom break on days when I'm away from home for more than a few hours.
 
-One effective technique from cognitive behavioral therapy is the "downward arrow" method. When catastrophic thoughts emerge, ask yourself: "What if this worst-case scenario actually happened? What would I do?" Following this thought process to its conclusion often reveals that even the worst outcomes would be manageable—not ideal, but not the end of the world either.
+One effective technique from cognitive behavioral therapy is the "downward arrow" method. When catastrophic thoughts emerge, ask yourself: "What if this worst-case scenario actually happened? What would I do?" In this case the worst case was not "my life is ruined," it was "I need to find a dog walker somewhere other than Rover," which is annoying, but not exactly tragedy.
 
 Rover is just one website, and there are not only other websites, but also other ways to find walkers (I've met some at dog parks before, for example, and you don't need a website's permission to have a conversation with someone in a public space). So really it's just a minor annoyance, and Rover's loss because they won't receive any more money from me.
 
@@ -141,9 +141,9 @@ Back to the not-a-story part of this story.
 
 When I received the message from Rover that I was banned, I went into a short-lived tailspin. But, on the bright side, this 2-month long thorn in my side has finally been removed. It's annoying that I have to find a new arrangement, but my dogs will be fine. I love them deeply and I don't like that they will be alone all day, but they are safe and happy.
 
-What's fascinating is that psychologists have found we're typically much more resilient than we expect. Studies show that people consistently overestimate how bad they'll feel after negative events and how long those bad feelings will last—a phenomenon called "impact bias." Our psychological immune system is remarkably effective at helping us adapt to new circumstances, even unwelcome ones.
+Psychologists have a name for this: "impact bias." We usually assume bad news is going to wreck us for longer than it actually does. That has been true for me more times than I would like to admit, including this stupid Rover ban.
 
-When catastrophizing, we tend to make poorer decisions because our judgment is clouded by emotional reactivity. The fight-or-flight response narrows our thinking to immediate threats, making it hard to see creative solutions or silver linings. This is why taking that step back is so crucial before making any decisions in a heightened emotional state.
+When catastrophizing, we tend to make poorer decisions because our judgment is clouded by emotional reactivity. The fight-or-flight response narrows our thinking to immediate threats, making it hard to see creative solutions or silver linings. Making decisions while spun up usually just makes the situation worse.
 
 ## Sometimes the Trash Takes Itself Out
 
@@ -151,7 +151,7 @@ I think one reason I didn't fire her sooner (which I should have) was that I did
 
 In this case, the forces of the universe have intervened and removed this person from my life. I didn't have to fire her, but I still need to deal with the poor service and find a suitable replacement. By delaying action on this, I only made the situation more difficult for myself, because now I have one less avenue to find a new walker. Rover's loss.
 
-Behavioral economists call this tendency "status quo bias"—our preference for the current state of affairs, even when change would benefit us. We tend to overvalue what we already have and fear potential losses more than we value potential gains. It's one of the many cognitive biases that can keep us trapped in suboptimal situations.
+Behavioral economists call this "status quo bias." Mostly it means I kept tolerating a bad dog walker because replacing her sounded like its own separate headache.
 
 ## Defeat the Lizard Brain
 
@@ -159,17 +159,17 @@ We humans aren't particularly special compared to the other animals, except that
 
 It's important to actually utilize this brain we have, and we need to understand how it works and why it works the way it works. My Rover ban triggered my anxiety and I started catastrophizing the situation. But I know that this is just my lizard brain trying to protect me from danger, and I need to take a step back and look at the situation rationally. In this case, I'm not in danger, it's just a mild inconvenience. The lesson from this is that when the brain goes into panic mode, I always need to stop and think about the situation and remember that it's probably not worth panicking over. Easier said than done, however.
 
-One helpful visualization technique is to imagine your thoughts as clouds passing across the sky—you can observe them without becoming them. This mental distancing helps create space between you and your catastrophic thoughts, allowing your prefrontal cortex (the rational part of your brain) to regain control from the amygdala.
+What helps me more is to label the thought plainly: okay, this is me spiraling. Just naming it creates a little distance, which is sometimes enough to stop feeding it.
 
 ## Practice
 
-Like any skill, practice makes perfect. Practicing mindfulness, self-awareness, and rational thinking is a skill like any other. Learning to recognize the negative thought patterns and how to overcome them is a core tenet of cognitive behavioral therapy (CBT). The more you practice, the better you get at it. And the more you practice, the easier it becomes to recognize when your brain is going into panic mode and to take a step back and look at the situation rationally.
+I am not naturally good at this, and I still fail at it all the time. But I have gotten better at noticing the pattern sooner. Learning to recognize the negative thought patterns and how to overcome them is a core tenet of cognitive behavioral therapy (CBT). The more you practice, the easier it becomes to catch your brain when it starts sprinting toward the cliff.
 
-One particularly effective practice is the "3-3-3 rule" for anxiety: Name three things you can see, three things you can hear, and move three parts of your body. This simple grounding technique activates your sensory awareness and interrupts the catastrophizing cycle by bringing you back to the present moment.
+One particularly effective practice is the "3-3-3 rule" for anxiety: Name three things you can see, three things you can hear, and move three parts of your body. It sounds a little cheesy, but it does sometimes break the loop for me.
 
 I also find box breathing to be incredibly helpful. Box breathing is a simple technique where you visualize a box, and you count around the box as you breath in, hold, breath out. Inhale-2-3-4, hold-2-3-4, exhale-2-3-4, hold-2-3-4. Repeat this for a few minutes and it will help calm your mind and body. It's also just a general good practice even when you feel great, and it can help you get into a better state of mind.
 
-This approach works beyond dog-walking drama—I've used these same techniques when facing work challenges, relationship issues, and even health scares. The pattern is always the same: initial panic, conscious intervention, realistic assessment, and finally a return to emotional equilibrium. With practice, the time between panic and equilibrium gets shorter and shorter.
+I've used the same stuff for work problems, relationship problems, and health scares too. The main difference now is that I usually catch myself faster than I used to.
 
 So stop catastrophizing, because unless bombs are actually falling on your head, it's probably going to be all right in the end. And if it's not all right, then it's not the end, we are incredibly resilient, as shown by the fact that we dominate this planet (hell yeah, go humans! we have obliterated all you other mammals). Have some faith in yourself.
 

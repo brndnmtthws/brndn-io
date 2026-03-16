@@ -61,11 +61,12 @@ the complexity grows large enough.
 
 ## Why This Happens
 
-This inflated sense of intellectual capacity doesn't emerge from nowhere. Several factors contribute to the "engineer's ego":
+You see this stuff all over Hacker News and in engineering-heavy workplaces, and
+it usually comes from the same handful of things:
 
 1. **Immediate feedback loops**: Unlike many professions where feedback takes months or years, code often provides immediate validation. Write something that works, and you instantly receive positive reinforcement.
 
-2. **Creating worlds from scratch**: Software development allows you to build entire systems from nothing. This god-like creative power can be intoxicating and distort your sense of capability.
+2. **Creating worlds from scratch**: Software development allows you to build entire systems from nothing. After a while it's easy to start thinking that because you can make computers do impressive things, you're probably right about everything else too.
 
 3. **Technical jargon as social currency**: The ability to speak in complex technical terms that most people don't understand creates an artificial barrier that can be mistaken for universal intellectual superiority.
 
@@ -77,7 +78,7 @@ This inflated sense of intellectual capacity doesn't emerge from nowhere. Severa
 
 ## The Reality Check
 
-The truth is that software development is just one type of expertise among countless others. A brilliant programmer might struggle to:
+A brilliant programmer might still struggle to:
 
 - Design a structurally sound bridge
 - Diagnose a complex medical condition
@@ -90,7 +91,8 @@ Each of these domains requires its own form of intelligence, developed through y
 
 ## Humility as a Superpower
 
-Ironically, recognizing the limits of your expertise actually makes you a better software engineer. When you approach problems with humility, you:
+The engineers I've trusted most were the ones who knew when they were out of
+their depth. When you approach problems that way, you:
 
 - Listen more carefully to domain experts
 - Build solutions that better address real human needs
@@ -118,4 +120,4 @@ Try:
 
 The most grounding experience is often failing at something that others find easy. Nothing humbles a programmer faster than watching a skilled carpenter effortlessly accomplish a task they find impossible, or seeing a teacher expertly manage thirty children's attention spans.
 
-In the end, software development is just one skill set among many. Being good at it doesn't make you special—it just makes you good at writing software. And recognizing that limitation isn't a weakness; it's the beginning of true intellectual growth.
+In the end, software development is just one skill set among many. Being good at it doesn't make you special, it just means you're good at writing software. That's a useful thing to remember once you start believing your own hype.

@@ -77,9 +77,9 @@ I can't help but ask the question: when was the last time anyone got excited abo
 
 ## The B2B Reality
 
-To be fair, there are legitimate reasons why B2B dominates the startup landscape:
+B2B takes over for obvious reasons:
 
-1. **Clear path to revenue**: B2B companies often have a more straightforward path to generating revenue. Companies are willing to pay for tools that increase efficiency or reduce costs.
+1. **Clear path to revenue**: If you save a company time or money, they can justify paying you pretty quickly.
 
 2. **Higher margins**: B2B products typically command higher prices and better margins than consumer products, making them more attractive to investors.
 
@@ -91,15 +91,15 @@ To be fair, there are legitimate reasons why B2B dominates the startup landscape
 
 ## The Innovation Gap
 
-Still, there's something missing in the current startup ecosystem. When we look at the technologies that have truly transformed how people live—the internet, smartphones, social networks, search engines—these were fundamentally consumer-oriented innovations, even if they eventually developed complex business models.
+What's missing is more companies trying to build things normal people care about. When we look at the technologies that have truly transformed how people live—the internet, smartphones, social networks, search engines—these started as consumer technologies, even if they later grew big business models around them.
 
-The problem isn't that B2B startups are bad—many are solving real, important problems. The problem is that the overwhelming focus on B2B may be creating an innovation gap where ambitious, consumer-focused technologies struggle to get off the ground.
+When almost all the money and attention goes to B2B, ambitious consumer technology has a harder time even getting started.
 
-This matters because true technological revolutions often start with seemingly impractical ideas that directly touch people's lives. The internet wasn't created to optimize corporate workflows; it was built to connect people and information. The same is true for personal computers, smartphones, and many other transformative technologies.
+That matters because a lot of the big shifts start out looking a little impractical. The internet wasn't built to help companies manage workflows. It connected people and information. Personal computers and smartphones followed the same pattern.
 
 ## Finding a Balance
 
-What would a more balanced innovation ecosystem look like? Perhaps it would include:
+I'd rather see an ecosystem with more room for things like:
 
 * **Patient capital** for consumer-focused startups that might take longer to monetize but could have massive impact
 * **More emphasis on direct consumer needs** rather than just enterprise efficiency
@@ -112,8 +112,6 @@ Some of the most interesting startups today are finding ways to build for consum
 
 YC might want to update their motto to _make something companies want_. It's easier to build a boring B2B business than it is to make something cool and interesting.
 
-But perhaps a better update would be: _make something people truly need—whether those people are consumers or businesses_. The key is to focus on creating genuine value, solving real problems, and building products that improve lives—directly or indirectly.
+But a better update might be: _make something people truly need—whether those people are consumers or businesses_. That's the bar.
 
-The reality is that both consumer and business innovations are valuable. We need entrepreneurs working on both fronts. But in an ecosystem that's increasingly tilted toward B2B, there's a case to be made for rebalancing our collective focus and remembering that the most transformative technologies often start by directly addressing human needs and desires.
-
-So while "make something people want" remains a great motto, perhaps we should add: "and remember that 'people' doesn't just mean businesses."
+Business software matters too. I just think the current tilt toward B2B leaves fewer people trying to build the kind of technology that changes how regular people live.

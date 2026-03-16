@@ -48,11 +48,11 @@ This centralized identity model creates single points of failure. When Facebook 
 
 There are some decentralized alternatives to DNS, but none of them have gained enough traction to bother mentioning.
 
-Actually, that's not entirely true anymore. Several promising alternatives have emerged since 2019:
+Actually, that's not entirely true anymore. A few things have shown up since 2019:
 
-1. **Handshake Protocol** is a decentralized naming protocol that uses blockchain to create an alternative DNS root zone not controlled by ICANN. Unlike traditional domains, Handshake names are true digital assets that users own rather than rent[^1].
+1. **Handshake Protocol** is a decentralized naming protocol that uses blockchain to create an alternative DNS root zone not controlled by ICANN. Unlike traditional domains, Handshake names can be held directly instead of rented year to year[^1].
 
-2. **Ethereum Name Service (ENS)** has grown significantly, with over 2.2 million domain registrations. ENS domains like "yourname.eth" can point to websites, cryptocurrency addresses, and other digital resources[^2].
+2. **Ethereum Name Service (ENS)** has over 2.2 million domain registrations. ENS domains like "yourname.eth" can point to websites, cryptocurrency addresses, and other digital resources[^2].
 
 3. **Unstoppable Domains** offers blockchain-based domains with zero renewal fees that can be used for websites and cryptocurrency payments.
 
@@ -75,7 +75,7 @@ My initial reaction to the news was "HELL YEAH I'm mad". But after thinking abou
 - The sale of `.org` sets a bad precedent for DNS ("_hey guys we got a new cash cow over here!!_")
 - It reinforces the centralized walled garden model of app stores where DNS is hidden from end users
 
-The threatened .org sale highlighted a fundamental problem: something as critical as domain names—the primary way we establish identity online—shouldn't be subject to corporate takeovers or profit-maximizing behavior. When ICANN blocked the sale, they acknowledged this reality, stating that the .org domain required "serving the public interest and ensuring the stable and secure operation of the Internet's unique identifier systems."
+What bothered me most about the .org sale was how easily something this basic could get treated like just another asset flip. Domain names are still how a lot of people and organizations exist on the Internet. When ICANN blocked the sale, they said the .org domain required "serving the public interest and ensuring the stable and secure operation of the Internet's unique identifier systems."
 
 ## What's Next for the Web
 
@@ -85,7 +85,7 @@ We need a technology-only solution to finding web services. Something without mi
 
 Anyone should be able to make a website for free (or extremely cheap) and host it from their home computer. I did that when I was 12, and it was one of the things that made me fall in love with the web.
 
-Some promising developments since this article was first written:
+Since I first wrote this, a few things have gotten more real:
 
 1. **IPFS** (InterPlanetary File System) continues to gain adoption, allowing content to be addressed by what it contains rather than where it's located. When combined with ENS or Handshake domains, it creates truly decentralized websites.
 
@@ -93,7 +93,7 @@ Some promising developments since this article was first written:
 
 3. **Distributed hosting** options like Skynet and Arweave make it possible to deploy websites that can't be taken down by any single entity.
 
-The Internet's identity crisis isn't fully resolved, but the outcry around the .org sale demonstrated that people do care about preserving the open nature of the web. The future might not look exactly like DNS as we know it today, but the principles of accessible, user-controlled online identity seem worth preserving as we build what comes next.
+This still isn't solved. But the backlash to the .org sale did at least show that people notice when somebody tries to turn core Internet plumbing into a money machine. I'd still rather have a web where your name online is yours, or at least a lot closer to it than this.
 
 [^1]: Handshake whitepaper: <https://handshake.org/files/handshake.txt>
 [^2]: ENS Stats: <https://dune.com/makoto/ens>

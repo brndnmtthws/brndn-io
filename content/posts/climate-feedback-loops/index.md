@@ -9,21 +9,21 @@ tags:
   - feedback loops
 ---
 
-If you pay much attention to the mainstream media, you've likely heard the phrase "energy transition" thrown around, which alludes to an ongoing global effort to transition away from fossil fuels and move toward so-called "green" energy sources[^1]. As much airtime as this catch-phrase gets, the data reveals a more complex reality about our progress[^2].
+If you pay much attention to the mainstream media, you've likely heard the phrase "energy transition" thrown around, which alludes to an ongoing global effort to transition away from fossil fuels and move toward so-called "green" energy sources[^1]. But if you look at the data, fossil fuels are still doing most of the work[^2].
 
-The [Kyoto protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) was adopted in 1997, and as the graph below shows, atmospheric CO<sub>2</sub> has continued its upward trend. The visualization makes the challenge clear—despite our best intentions, the curve continues to rise.
+The [Kyoto protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) was adopted in 1997, and as the graph below shows, atmospheric CO<sub>2</sub> has kept climbing.
 
 ![CO2 since Kyoto](co2-data.png "CO<sub>2</sub> levels since 1997, the year the Kyoto protocol was adopted")
 
 Subsequent climate treaties have similarly struggled to bend the curve of emissions. While corporate sustainability reports highlight various initiatives, the hard data shows that global fossil fuel extraction continues to increase annually, with pollution accelerating along an exponential curve.
 
-The rise of electric vehicles represents a fascinating case study in energy transitions. While their efficiency is impressive—converting about 60% of electrical energy to power at the wheels compared to 20% for internal combustion engines—their overall impact on emissions has been limited because the energy used to manufacture and charge them often comes from fossil fuel sources. Nevertheless, they represent an important stepping stone toward a cleaner transportation future.
+Electric vehicles are a good example of the tension here. While their efficiency is impressive—converting about 60% of electrical energy to power at the wheels compared to 20% for internal combustion engines—their overall impact on emissions has been limited because the energy used to manufacture and charge them often comes from fossil fuel sources. They help more in places with cleaner grids, but they don't change much if the electricity and supply chain are still dirty.
 
 Looking ahead, we might envision reaching a critical mass where renewable energy capacity begins to meaningfully displace fossil fuels. However, this optimistic scenario faces a significant economic challenge known as [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox): as alternative energy sources reduce overall energy costs, demand tends to increase in response, potentially offsetting efficiency gains.
 
 ## Feedback Loops
 
-Climate science has identified numerous interconnected feedback mechanisms that can either amplify or dampen warming trends. These [climate feedback loops](https://en.wikipedia.org/wiki/Climate_change_feedback) represent some of the most fascinating and concerning aspects of our climate system, with current research suggesting many will accelerate rather than mitigate warming[^3].
+[Climate feedback loops](https://en.wikipedia.org/wiki/Climate_change_feedback) can push warming further or hold some of it back. What matters is that a lot of the ones we're watching now seem more likely to speed things up than slow them down[^3].
 
 ![Climate change feedback loops](feedback.png "Climate change feedback loops")
 
@@ -45,7 +45,7 @@ Recent years have shown concerning temperature trends. In 2023-2024, we observed
 
 ## Moving Forward
 
-The climate challenge is formidable but not without pathways forward. Individual and collective action both matter in this critical decade:
+None of this gets fixed by pretending the problem is smaller than it is. Individual and collective action both matter here:
 
 - **Political engagement**: Support candidates who advocate for meaningful climate policies, particularly carbon pricing mechanisms that correctly assign costs to emissions.
 
@@ -55,7 +55,7 @@ The climate challenge is formidable but not without pathways forward. Individual
 
 - **Business transformation**: Companies increasingly recognize that sustainability represents both a moral imperative and a business opportunity, with significant investment flowing toward climate solutions.
 
-The path ahead requires both pragmatism about our current trajectory and optimism about our capacity for transformative change. By understanding feedback loops—both environmental and human—we can design more effective interventions that accelerate positive change while breaking harmful cycles.
+We're still choosing which feedback loops to strengthen. Right now we're funding the bad ones.
 
 [^1]: There's much debate about how _green_ green energy is. As it currently stands, a great deal of pollution is generated by the extraction of raw materials, production, transportation, and installation of wind, solar, and nuclear power sources. Theoretically, solar and wind could eventually meet the base load requirements, but there's no evidence in the data we have that this is happening at any significant scale.
 [^2]: <https://ourworldindata.org/electricity-mix>

@@ -27,22 +27,20 @@ tags:
 
 When most people contemplate _technology_, their minds immediately conjure sci-fi
 spectacles: humanoid robots, sentient AI, and interplanetary travel. But technology
-extends far beyond these futuristic tropes. At its essence, technology represents
-our methodical manipulation of the environment to serve human needs. Through this
-fundamental lens, cities themselves emerge as perhaps humanity's most sophisticated
-and consequential technological achievement.
+extends far beyond these futuristic tropes. I think cities count too: large systems
+we built to solve human needs at scale.
 
 ![A future no one asked for.](cover.png "It's not the future we wanted, but what we got. The backward cars and other weirdness are good examples of why we are not 'AI' yet.")
 
-Technology, properly defined, involves applying scientific knowledge to solve practical
-problems. Cities embody this process on a grand scale—they represent the culmination
-of millennia of continuous problem-solving. From the first permanent settlements along
+Technology is just applied knowledge in service of practical problems. Cities show
+what that looks like when the problems are shelter, safety, sanitation, trade, and
+getting lots of people to live together without everything breaking. From the first permanent settlements along
 fertile river valleys to the sprawling metropolises of today, urban environments have
 evolved as complex systems addressing fundamental human needs: shelter, security,
 resource distribution, waste management, transportation, and social connection.
 
-I'm an unabashed urban enthusiast. Cities remain criminally underappreciated as
-humanity's most remarkable technological innovation. While we readily celebrate
+I'm an unabashed urban enthusiast. I think we badly underrate cities as technology.
+While we readily celebrate
 individual inventions—smartphones, vaccines, or electric vehicles—we rarely acknowledge
 the city itself as a comprehensive technological system. Ancient Rome's aqueducts,
 sewers, and multi-story apartment buildings represented engineering marvels that enabled
@@ -53,17 +51,16 @@ created navigable order from potential chaos.
 ## The Car-Shaped Problem
 
 If you've followed my writing, you've likely realized this represents yet another
-entry in my ongoing critique of automobile dependency. A paradigm shift in urban design
-philosophy is finally gaining momentum, particularly among younger generations who've
-recognized the profound limitations of car-centric development patterns and suburban
-sprawl.
+entry in my ongoing critique of automobile dependency. Lately, more people, especially
+younger ones, seem willing to say the obvious thing out loud: car-centric development
+and suburban sprawl do not work very well.
 
 Evidence increasingly demonstrates that automobiles represent a suboptimal solution
 for urban mobility. Cars deliver extraordinarily inefficient transportation—a typical
 vehicle weighing 4,000 pounds to move a single 150-pound human being represents an
 almost comically wasteful energy proposition. They're demonstrably dangerous, killing
-approximately 1.35 million people globally each year. And their environmental impact
-threatens the very biosphere that sustains our existence.
+approximately 1.35 million people globally each year. And they burn huge amounts of
+fuel, foul the air, and eat land we could use for better things.
 
 The automobile-centric development that dominated 20th-century urban planning represents
 a historical anomaly rather than an inevitable evolution. Cities thrived for thousands
@@ -82,12 +79,11 @@ atmospheric carbon clock continues ticking while emissions metrics trend in alar
 directions. Long-term species survival may necessitate stratospheric aerosol injection
 or massive carbon capture deployment, but those represent topics for another discussion.
 
-Nevertheless, substantial hope remains for dramatically improving quality of life through
-urban redesign. Rather than subsidizing failing automobile manufacturers or expanding
+Even so, cities are still one of the few places where design changes can materially
+improve daily life. Rather than subsidizing failing automobile manufacturers or expanding
 highway systems that induce further demand, we could redirect resources toward rehabilitating
-our cities as genuinely human environments. We can transform urban centers into places
-where people genuinely want to live, work, and engage—places that foster human flourishing
-without the constant intrusion of noisy, dangerous, space-consuming vehicles.
+our cities as genuinely human environments. We could make them quieter, safer, shadier,
+and easier to move through without every errand requiring a car.
 
 The transformation requires reimagining public space allocation. Consider that in most
 American cities, 50-70% of urban land is dedicated to cars through roads and parking—an
@@ -100,9 +96,9 @@ effectively than private vehicles ever could.
 Cities that have already implemented such transformations demonstrate their viability.
 Copenhagen's bicycle superhighways, Barcelona's superblock model, and Paris's recent
 rapid transformation under Mayor Anne Hidalgo illustrate how quickly urban environments
-can evolve when political will aligns with sound urban design principles. These cities
-aren't sacrificing economic vitality or mobility—they're enhancing both while simultaneously
-improving environmental outcomes and quality of life.
+can evolve when political will aligns with sound urban design principles. These places
+didn't become static museums. People still get around. Businesses still operate. They
+just gave less space to cars and made daily life better.
 
 I harbor no illusions about the challenges. Entrenched financial interests, cultural
 attachments to automobility, and institutional inertia create formidable obstacles.
@@ -110,12 +106,9 @@ The transition won't materialize overnight, nor will it proceed without resistan
 But cities have continuously reinvented themselves throughout human history, adapting
 to changing needs, technologies, and values.
 
-As our most sophisticated and consequential technological achievement, cities remain
-our best hope for addressing climate change, resource constraints, and quality of life
-concerns simultaneously. The most sustainable, efficient, and potentially delightful
-human habitats have always been thoughtfully designed cities. By recognizing urban
-environments as technology—systems we can deliberately modify and improve—we unlock
-possibilities for reimagining our collective future.
+Cities are one of the few technologies big enough to matter here. A well-designed city
+uses less energy, wastes less space, and makes ordinary life better. If we treat urban
+environments as things we built, not fixed backdrops, then we can stop tolerating bad
+design as destiny.
 
-One can, indeed, dream. But more importantly, one can advocate, organize, and participate
-in the evolution of these remarkable human inventions we call cities.
+I can dream about that, sure. I'd rather help build it.

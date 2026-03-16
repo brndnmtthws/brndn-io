@@ -122,8 +122,8 @@ different from the software bots in terms of the authenticity of the connection.
 
 ## It's Not All Fake
 
-But here's where nuance matters. Despite everything I've just described, the
-Internet _can_ be used for real human connection. You can have FaceTime calls
+Despite everything I've just described, the Internet _can_ be used for real
+human connection. You can have FaceTime calls
 with people. You can use the Internet to make plans for real physical
 interactions. Personally, this is how I use the Internet—not as a way to collect
 friends and make the numbers go up, but as a way to actually interact with
@@ -136,8 +136,8 @@ people in a non-performative way.
 Purple clematis at the garden—no algorithm decided to show this to you, no engagement metrics tracked.
 {{% /figure %}}
 
-I suppose this blog serves as a counter-example, though given that I don't
-collect statistics, have comments or likes, or measure anything, I don't think
+This blog might be one exception, though given that I don't collect
+statistics, have comments or likes, or measure anything, I don't think
 it really counts as "social media" or the like. This is more like a journal for
 myself that I also put on the Internet because I think it might be interesting
 or useful to others. I simply enjoy writing, and I think some of what I say
@@ -165,8 +165,8 @@ connections.
 
 ## A Test for Connection
 
-That previous thought leads to a simple test to determine whether a connection
-is real: if the website, app, or platform you're using suddenly disappeared,
+Here's the test: if the website, app, or platform you're using suddenly
+disappeared,
 would you still interact with that person? Is your "connection" simply a product
 of the particular venue, or is the connection a real thing outside the medium?
 If you delete your Facebook account, how many of your "friends" are you going to
@@ -238,9 +238,9 @@ and interests.
 
 ## Watering the Grass
 
-One of my favorite aphorisms is the following: **the grass isn't actually
-greener on the other side—it's greenest wherever you water it**. This is
-especially true of human connection: it comes down to passivity versus active
+I keep coming back to the idea that the grass gets greener where you actually
+water it. This is especially true of human connection: it comes down to
+passivity versus active
 connection. Many people simply don't want to take risks (fear of failure) or
 have become accustomed to so much attention they feel they can simply sit back
 and let things come to them.
@@ -255,13 +255,12 @@ Musk rose—thriving where it's planted, tended, and watered.
 Reality doesn't work that way. To develop real, deep connection beyond some
 shallow superficial existence, you need to be an active participant in your life
 and your relationships. You need to be in the driver's seat, and drive through
-reality rather than the metaverse. Like the delicate flowers of the Brooklyn
-Botanic Garden, authentic beauty and connection require physical presence,
-patience, and care. Someone has carefully cultivated these beautiful specimens.
+reality rather than the metaverse. The flowers at the Brooklyn Botanic Garden
+look the way they do because somebody showed up and took care of them.
 You can photograph a flower, but you can't capture its scent, the feeling of
 soil between your fingers, or the satisfaction of watching something grow under
-your attention. The digital representation is always just that—a representation,
-a shadow of the real thing. I suggest you visit your local gardens to touch
+your attention. A photo won't give you the scent, the breeze, or the feeling of
+being there with it. I suggest you visit your local gardens to touch
 (where appropriate), smell, and see for yourself.
 
 [^1]: LendEDU. (2019). [The Drawbacks and Deceptions of LinkedIn](https://lendedu.com/blog/drawbacks-deceptions-linkedin/). Survey of 1,252 LinkedIn users.

@@ -31,19 +31,19 @@ Some aesthetic preferences seem universal. People who are judged as being beauti
 
 ## How Our Brains Process Beauty
 
-When we encounter something beautiful—whether a painting, a melody, or a face—our brains respond in remarkable ways. Beauty isn't just in the eye of the beholder; it's also in the neural circuits of the beholder.
+When we encounter something beautiful—whether a painting, a melody, or a face—our brains respond in remarkable ways.
 
 Research in neuroaesthetics—the study of how our brains respond to art and beauty—has revealed that experiencing beauty activates the brain's reward centers, particularly the medial orbitofrontal cortex (mOFC), which processes pleasure and reward.[^2][^3] When you see something you find beautiful, your brain essentially gives you a little hit of dopamine, the same neurotransmitter involved in other pleasurable experiences like eating chocolate or falling in love. This activation of the mOFC seems to be a common neural signature for aesthetic appreciation across different types of stimuli, from visual art to music, and even mathematical elegance.[^4]
 
-Different forms of beauty activate the same brain regions. Whether you're gazing at a stunning landscape, listening to a moving piece of music, or even contemplating an elegant mathematical equation (if you're mathematically inclined), the medial orbitofrontal cortex lights up in brain scans. This suggests that beauty, regardless of its source, shares a common neural signature—a kind of "beauty circuit" in our brains.
+Different forms of beauty activate the same brain regions. Whether you're gazing at a stunning landscape, listening to a moving piece of music, or even contemplating an elegant mathematical equation (if you're mathematically inclined), the medial orbitofrontal cortex lights up in brain scans. That same pattern shows up across visual art, music, and mathematical elegance.[^4]
 
 Of course, this doesn't mean beauty is entirely objective. While certain aspects of beauty perception appear somewhat universal—most cultures appreciate facial symmetry, which is often linked to evolutionary indicators of health and genetic fitness[^5][^6]—our individual experiences significantly shape what we find beautiful. Cross-cultural studies have indeed found significant agreement on facial attractiveness, suggesting some universal standards, but also acknowledge cultural variations[^7]. When you view something you consider beautiful, your brain integrates sensory information with your personal history, cultural background, and current emotional state. This integration happens in regions like the default mode network (DMN), which connects external stimuli with our internal sense of self and is involved in self-referential thought and introspection during aesthetic experiences[^8][^9].
 
-This might explain why beauty can feel so personally meaningful. When something strikes us as beautiful, it's not just registering as a pleasant visual or auditory pattern—it's connecting with our identity, memories, and values. That sunset isn't just colorful; it reminds you of childhood vacations. That song isn't just melodic; it takes you back to a significant moment in your life.
+When something strikes us as beautiful, it's not just registering as a pleasant visual or auditory pattern—it's connecting with our identity, memories, and values. That sunset isn't just colorful; it reminds you of childhood vacations. That song isn't just melodic; it takes you back to a significant moment in your life.
 
 The brain's beauty-processing also exhibits adaptability. Research has shown that repeated exposure to certain aesthetic stimuli can alter our brain's response to them—sometimes enhancing appreciation (as when we grow to love a initially challenging piece of music), and sometimes diminishing it (as when a once-favorite song becomes overplayed). This neural plasticity explains why our sense of beauty evolves throughout our lives.
 
-Perhaps most remarkably, studies have found that contemplating beauty activates not just reward circuits but also areas involved in meaning-making and self-reflection. This suggests that experiencing beauty isn't merely a sensory pleasure—it's a deeply human way of making sense of our existence and our place in the world.
+Studies have found that contemplating beauty activates not just reward circuits but also areas involved in meaning-making and self-reflection. So the experience seems to involve more than simple sensory pleasure; it can also pull in memory, self-reference, and the search for meaning.
 
 ## The Double-Edged Sword of Ideals
 
@@ -55,7 +55,7 @@ The pressure to conform to these ideals can have significant negative impacts on
 
 Technology has further complicated our relationship with beauty. Social media platforms, photo editing apps, and artificial intelligence now play a significant role in shaping and often distorting our beauty perceptions.
 
-The rise of sophisticated AI-powered filters allows users to instantly alter their appearance in photos and videos, often conforming to a specific, homogenized look sometimes dubbed the "Instagram Face"—characterized by poreless skin, cat-like eyes, and full lips[^15]. While initially fun, the constant use of these filters can negatively impact self-esteem and body image, as the filtered self becomes an idealized, yet unrealistic, version to live up to. Studies show that a high percentage of young women use filters and report feeling pressure to look a certain way online, with many feeling worse about their real-life appearance as a result[^16]. This phenomenon has even led to "Snapchat dysmorphia," where individuals seek cosmetic surgery to resemble their filtered selfies[^17].
+Filters now let people smooth their skin, widen their eyes, plump their lips, and otherwise push their face toward the same polished look people call "Instagram Face."[^15] While initially fun, the constant use of these filters can negatively impact self-esteem and body image, as the filtered self becomes an idealized, yet unrealistic, version to live up to. Studies show that a high percentage of young women use filters and report feeling pressure to look a certain way online, with many feeling worse about their real-life appearance as a result[^16]. This phenomenon has even led to "Snapchat dysmorphia," where individuals seek cosmetic surgery to resemble their filtered selfies[^17].
 
 ## Beauty and Art
 
@@ -91,7 +91,7 @@ Beauty is, in this sense, never truly universal or permanent. Beauty is tethered
 
 Beauty is sometimes used as a way to manipulate people. In advertising, beautiful things are used to imply that by purchasing some good or service, you will capture or experience the beauty expressed in the advertisement. A perfume ad shows a couple running through a Parisian garden at sunset—the message being that this scent will somehow transport you there, make you feel like you're smelling the flowers, make you that beautiful, bring you that love. A luxury car commercial frames the vehicle against a pristine mountain landscape, suggesting that ownership will connect you to something wild and free.
 
-For artists, commercial work isn't necessarily a bad thing—it provides a way to use their skills to survive. But when beauty is hijacked solely to sell a product, something fundamental changes in our experience of it. The artwork is no longer primarily about the beauty itself, but about creating want, lack, desire. It becomes a tool rather than an end in itself. The sunset is beautiful until it becomes a backdrop for selling cruise packages; the human form is beautiful until it becomes nothing more than a way to sell gym memberships or diet pills.
+For artists, commercial work isn't necessarily a bad thing—it provides a way to use their skills to survive. But when beauty is used just to sell a product, it lands differently. You can feel the manipulation in it. The sunset becomes a backdrop for cruise packages; the human form gets reduced to a way to sell gym memberships or diet pills.
 
 ## Imperfect Beauty
 
@@ -103,7 +103,7 @@ This is why hand-crafted items often appeal to us more than mass-produced ones�
 
 I believe there's beauty to be found in nearly everything. It's less about the object itself, and more about our perspective and willingness to see. Finding the silver lining, so to speak. I think that [everyone is beautiful]({{< ref "everyone-is-beautiful" >}}), and cultivating an appreciation for beauty is something we should all find space for.
 
-Perhaps the most beautiful thing of all is the human capacity to find and create beauty—even in difficult circumstances, even in imperfection, even in what others might overlook. It's our superpower: this ability to be moved by a chord progression, to gasp at a sunset, to feel our hearts lift at the sight of a stranger's smile. In a world that can sometimes feel harsh and divided, our shared appreciation for beauty might be one of the threads that still connects us all.
+What I keep coming back to is our capacity to find and create beauty where there shouldn't be much of it at all. In the cracked thing, the hard season, the detail most people walk past. Maybe that's why a chord progression can still floor you, or a sunset can stop you in place, or a stranger's smile can briefly lift the weight of the day.
 
 [^1]: By Claude Monet - Own work, Public Domain, <https://commons.wikimedia.org/w/index.php?curid=36388866>
 [^2]: Yang, X., Li, J., & Zhang, J. (2022). The neural determinants of beauty. _Neuroscience & Biobehavioral Reviews, 135_, 104580. <https://doi.org/10.1016/j.neubiorev.2022.104580>

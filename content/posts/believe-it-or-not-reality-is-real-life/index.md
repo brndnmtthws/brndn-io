@@ -22,15 +22,15 @@ tags:
 
 In the bygone era, we had résumés—and today, many of us still maintain these professional
 summaries (or curriculum vitae, for the academically inclined). But now we also curate
-digital identities through social profiles that serve as our new first impressions
-in an increasingly online world. For the professionally ambitious, these digital personas
-have become the initial point of contact, the gateway through which career opportunities
-flow. In the context of employment, these digital breadcrumbs form a constellation
-that hiring managers use to make judgments about your candidacy long before any interview.
+digital identities through social profiles, which are often the first thing an employer
+or stranger sees now. For the professionally ambitious, these digital personas
+have become the initial point of contact, the thing people look at before deciding
+whether to take you seriously. In the context of employment, hiring managers often
+size you up from your online presence long before any interview.
 Best hope those recruiters don't unearth your anonymous Reddit alter ego.
 
-Here's the uncomfortable truth: your LinkedIn profile doesn't represent reality.
-Neither do traditional résumés, for that matter. Both are carefully curated projections—blank
+Your LinkedIn profile doesn't represent reality. Neither do traditional résumés,
+for that matter. Both are carefully curated projections—blank
 canvases verified by essentially no one, where you can paint whatever professional
 portrait serves your purposes. The boundary between strategic self-presentation and
 outright fabrication remains blurry, maintained only by the possibility that someone
@@ -41,8 +41,8 @@ Over the years, I've encountered numerous self-proclaimed Thought Leaders of the
 Internet—individuals who command impressive followings on various platforms—who, in
 unfiltered reality, struggle with basic productivity. Their daily accomplishment
 often amounts to little beyond scrolling their feeds with increasing dissociation.
-They aren't the authorities they project themselves to be, or perhaps they grapple
-with unaddressed challenges like anxiety or attention disorders. Whatever the case,
+Offline, plenty of them are scattered, anxious, and not especially good at the work,
+or grappling with unaddressed challenges like anxiety or attention disorders. Whatever the case,
 their actual professional output reveals the carefully constructed online persona as
 precisely that—a construction.
 
@@ -60,19 +60,18 @@ communications—without requiring algorithmic intermediation of these relations
 ## The Pragmatic Case for Keeping LinkedIn
 
 Despite my personal stance, I recognize that most people should likely maintain their
-LinkedIn profiles. We inhabit a professional landscape where deviating from established
-norms creates unnecessary friction in the employment process. I enjoy the privilege
+LinkedIn profiles. Recruiters expect to find you there, and when they don't, they
+often treat it like a weird omission. I enjoy the privilege
 of financial independence that allows me to exist without conventional employment,
 affording me the luxury of opting out of these systems. Most working professionals
 don't share this privilege, and I understand that reality.
 
 Nevertheless, I find it profoundly strange that we've arrived at a point where
-professional judgment hinges partly on one's willingness to participate in what is,
-fundamentally, an advertising delivery mechanism dressed in professional networking
-attire. My personal aversion to advertisement in all forms makes this particularly
+professional judgment hinges partly on your willingness to participate in an ad
+machine wearing a blazer and calling itself professional networking. My personal aversion to advertisement in all forms makes this particularly
 distasteful.
 
-But I digress. The central point remains: your LinkedIn profile exists as a professional
+But I digress. The central point remains: your LinkedIn profile is a professional
 fiction—one you author and curate. This fiction can certainly advance your career
 objectives when deployed strategically. But it isn't reality. Reality consists of
 your actual capabilities, experiences, and behaviors when not performing for digital
@@ -109,9 +108,6 @@ you'll likely discover yourself more present, productive, and authentically enga
 with your actual life rather than its digital simulacrum.
 
 The irony doesn't escape me—writing about digital authenticity on a blog that itself
-represents a curated perspective. Yet perhaps that's precisely the point. Our digital
-and physical lives aren't entirely separate realities but rather different expressions
-of the same complex human experience. The question isn't whether to have an online
-presence, but rather how consciously we choose to shape it, how authentically it reflects
-our actual selves, and most importantly, how much of our finite attention we surrender
-to its maintenance.
+represents a curated perspective. Maybe that's the point. The online version of you
+still affects your real life, but it's still a version. The question is how much of
+your finite attention you want to hand over to maintaining it.

@@ -32,13 +32,13 @@ One option, perhaps, is to find an interest in activities that are strictly anal
 
 There's something fascinating happening culturally right now—a powerful countermovement to digital saturation. Vinyl record sales have increased for 17 consecutive years, with 43.5 million records sold in 2023[^7]. Physical book sales have stabilized despite digital alternatives, and film photography has experienced an unexpected renaissance among younger generations (myself included).
 
-This isn't just nostalgic hipsters being contrarian. There seems to be something deeply satisfying about these tangible experiences that digital versions, despite their technical superiority, simply cannot replicate.
+It's not just nostalgic hipsters, either. Plenty of normal people seem relieved to have something they can actually hold, keep, and pass around.
 
 Take the humble *book* as an example. A digital book is nothing more than bits you cannot touch, see, smell, or hear outside their digital container. An actual physical book has a scent, a unique fingerprint of signs of use, a tactile feel. It's something you can simply hand to someone if you want to share it. It can exist for a hundred years without electricity. Want to lend a digital book? The techies have made this practically impossible in order to extract maximum revenue through what they call "Digital Rights Management" (though I prefer the more honest term "Digital Restrictions Management").
 
 These sensory experiences don't exist in the digital world. We can generally only experience visual and auditory sensations through digital mediums, which leaves all the other senses and their complex interactions entirely unexplored. Research confirms what most of us intuitively feel—studies show that reading comprehension and memory retention are often better with physical books than digital versions[^9].
 
-Remember handwriting? With a pencil and paper? Why not try that again, if you can remember how. The simple act of writing by hand engages different neural pathways than typing and has been shown to improve learning and idea generation[^10]. Drawing, painting, or making things with your hands activates parts of your brain that remain dormant during screen time. These aren't just quaint hobbies—they're ways of experiencing the world more fully. And bonus: no one can charge you a monthly subscription fee for them.
+Remember handwriting? With a pencil and paper? Why not try that again, if you can remember how. The simple act of writing by hand engages different neural pathways than typing and has been shown to improve learning and idea generation[^10]. Drawing, painting, or making things with your hands activates parts of your brain that remain dormant during screen time. They slow me down in a good way and get me out of the weird flat feeling that too much screen time creates. And bonus: no one can charge you a monthly subscription fee for them.
 
 ## Analogue is Better, Even Though It's Worse
 
@@ -66,7 +66,7 @@ Then there's halation—that beautiful glow or halo effect around bright light s
 
 ![Superia X-TRA 400](superia.jpg)
 
-These characteristics give film photographs a certain depth, dimensionality, and "soul" that even the most sophisticated digital filters can only approximate.
+That glow around the streetlights in this shot is exactly the kind of thing I mean. Digital can fake it, sure, but it usually feels like a simulation of the real thing.
 
 ![Walter](walter2.jpg)
 
@@ -84,7 +84,7 @@ Consider live experiences. There's no digital substitute for the experience of b
 
 These days I have to work hard to not get annoyed when in public spaces and seeing everyone glued to their phones. I just don't understand how people can walk around all day staring at screens rather than engaging with their surroundings or each other. I realize I'm the odd one, but I just don't get the point of being a person if you don't want to *be a person*. Do you exist, or are you just a receptacle for advertisements? I, for one, do *not* want to be an NPC.
 
-But judgment doesn't help anyone, including myself. The more constructive approach is to focus on intentionality—being deliberate about when, how, and why we use technology. These periods of conscious disconnection allow our overworked neural circuits to rest and recover, which is crucial for maintaining optimum cognitive efficiency and focus[^11].
+But judgment doesn't help anyone, including myself. The more constructive approach is to focus on intentionality—being deliberate about when, how, and why we use technology. Time away from screens leaves me less frazzled and better able to hold a thought in my head[^11].
 
 Here's what's worked for me in finding more balance:
 
@@ -98,7 +98,7 @@ Here's what's worked for me in finding more balance:
 
 5. **Practicing a digital sabbath:** Setting aside one day (or even just an afternoon) each week to disconnect from screens has been surprisingly refreshing. It's not about deprivation but about creating space for other experiences. Start small by taking walks without your phone, and build from there.
 
-The goal isn't to reject modern technology entirely but to be its master rather than its servant. We get to decide how these tools fit into our lives. What are we, if we don't learn *to be* and also learn *not to be* slaves to our devices?
+I'm not trying to live in 1850. I just want these tools to stay in their place. What are we, if we don't learn *to be* and also learn *not to be* slaves to our devices?
 
 [^1]: Hunt, M. G., Marx, R., Lipson, C., & Young, J. (2018). No more FOMO: Limiting social media decreases loneliness and depression. *Journal of Social and Clinical Psychology*, 37(10), 751-768.
 [^2]: Bohn, R., & Short, J. (2012). Measuring Consumer Information. *International Journal of Communication*, 6, 980-1000.

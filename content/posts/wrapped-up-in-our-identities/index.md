@@ -62,7 +62,7 @@ What is your identity? Are you your LinkedIn profile? Are you your house, your c
 
 What do you want your identity to be? What are you wrapped up in? When people ask "What do you do?" or "Where are you from?"—what do you tell them? Do you recite your job title? Do you name your neighborhood? What exactly do you identify with?
 
-These questions aren't meant to judge but to illuminate. We all carry these labels, these stories we tell ourselves and others. The question is whether they serve us or confine us.
+I'm asking because I catch myself doing this constantly. I can turn "New Yorker" or "creative person" or even "fast walker" into a whole thing if I'm not paying attention.
 
 Maybe my identity is simply to live in the moment, to just be, to let things go. To enjoy life on my own terms without hurting anyone else, and perhaps to do some small good within my tiny sphere of influence—which mainly consists of my apartment, my two dogs, and the handful of people I interact with now and then.
 
@@ -70,6 +70,6 @@ That's enough. In fact, it might be everything.
 
 ---
 
-*Research suggests that our sense of self is more fluid than we often realize. Psychologists have found that people who hold their identities more lightly—what researchers call "self-concept clarity"—tend to be more adaptable and resilient in the face of life changes[^1]. Perhaps the Buddhist concept of anatta, or "no-self," points to something profound: that our fixed sense of identity might be more burden than blessing.*
+*One psychology term for this is "self-concept clarity"[^1]. The basic idea is simple: when your story about yourself isn't so rigid, life can move around without feeling like a personal attack. Maybe that's part of what Buddhism is getting at with anatta, or "no-self." Maybe the tighter I grip all these little identities, the heavier they get.*
 
 [^1]: Campbell, J. D., Trapnell, P. D., Heine, S. J., Katz, I. M., Lavallee, L. F., & Lehman, D. R. (1996). Self-concept clarity: Measurement, personality correlates, and cultural boundaries. *Journal of Personality and Social Psychology*, 70(1), 141-156.

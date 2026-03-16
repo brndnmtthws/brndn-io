@@ -43,7 +43,7 @@ through the funnels, weed out the ones that aren't good at interviews, and in
 the end you're left with interview rockstars so you can pick from the 90th
 percentile or whatever.
 
-Research supports this critique. A [meta-analysis published in Personnel Psychology](https://doi.org/10.1111/j.1744-6570.1998.tb00727.x) found that structured interviews—the kind favored by tech companies—are surprisingly modest predictors of actual job performance. Even with the best interview techniques, the correlation between interview scores and job performance typically ranges from 0.2 to 0.4, meaning interview skills explain only about 4-16% of the variance in how well someone actually does their job.
+A [meta-analysis published in Personnel Psychology](https://doi.org/10.1111/j.1744-6570.1998.tb00727.x) found that structured interviews, the kind favored by tech companies, are only modest predictors of actual job performance. Even with the best interview techniques, the correlation between interview scores and job performance typically ranges from 0.2 to 0.4, meaning interview skills explain only about 4-16% of the variance in how well someone actually does their job.
 
 The absurdity here, of course, is that this is a perfect example of stupid
 selection. The skills required for passing job interviews have nothing to do
@@ -59,7 +59,7 @@ provided, and whether or not you are willing to endure whatever institutional
 bureaucracy this particular company has decided is necessary to "hire the best"
 or whatever.
 
-Google's own internal research, known as [Project Oxygen](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management), found that the most important skills for successful employees were soft skills like coaching, communication, and empathy—precisely the things that traditional tech interviews rarely test for. Meanwhile, coding puzzles and algorithm questions, which dominate technical interviews, ranked relatively low as predictors of on-the-job success.
+Google's own internal research, known as [Project Oxygen](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management), found that the most important skills for successful employees were soft skills like coaching, communication, and empathy. The coding puzzles and algorithm questions that dominate technical interviews ranked relatively low as predictors of on-the-job success.
 
 It's a bit funny, and the worst part is that it seems to work for most of these
 companies. They probably miss out on the cream of the crop, but it doesn't
@@ -68,7 +68,7 @@ percentile or so never makes it into the company, and they can stay on top. All
 the people who can't pass a big tech interview can go work at a big bank
 instead.
 
-This aligns with what organizational psychologists call "satisficing" behavior—companies aren't trying to find the absolute best candidate (optimizing) but rather seeking to avoid hiring truly bad ones (satisficing). As [Herbert Simon noted](https://doi.org/10.2307/1884513) in his Nobel Prize-winning work, organizations typically adopt decision-making processes that are "good enough" rather than optimal.
+This is what organizational psychologists call "satisficing." Companies are not out there looking for the absolute best candidate. They are trying to avoid hiring somebody obviously bad. As [Herbert Simon noted](https://doi.org/10.2307/1884513) in his Nobel Prize-winning work, organizations typically adopt decision-making processes that are "good enough" rather than optimal.
 
 ![Tech innovation](tech.jpg "Tech innovation stock photography with watermarks")
 
@@ -78,7 +78,7 @@ which just means for people with lots of internet followers. For people who are
 highly skilled but don't care much about clout chasing, you are SOL unless you
 were Stanford roomies with the CEO.
 
-The data backs this up. One [analysis of tech hiring from researchers at MIT and Columbia](https://www.nber.org/papers/w28925) found that candidates from elite universities were 34% more likely to receive interviews than equally qualified candidates from less prestigious institutions. And according to [LinkedIn's Economic Graph Research](https://economicgraph.linkedin.com/), approximately 40% of senior hires at FAANG companies circumvent standard hiring processes entirely.
+One [analysis of tech hiring from researchers at MIT and Columbia](https://www.nber.org/papers/w28925) found that candidates from elite universities were 34% more likely to receive interviews than equally qualified candidates from less prestigious institutions. And according to [LinkedIn's Economic Graph Research](https://economicgraph.linkedin.com/), approximately 40% of senior hires at FAANG companies circumvent standard hiring processes entirely.
 
 These companies _don't want_ to hire very smart or talented people, either. Very
 smart and talented people have lower tolerance thresholds for dumb processes and
@@ -89,7 +89,7 @@ people from expensive schools: those people have already mastered the art of
 achieving high scores on pointless standardized tests and filling out paperwork
 according to the set of rules laid out by whoever is in charge.
 
-As sociologist [Robert Jackall observed in his book "Moral Mazes"](https://global.oup.com/academic/product/moral-mazes-9780199729883), large bureaucracies tend to reward conformity over competence. The ideal candidate isn't the brilliant disruptor but the reliable conformist who "fits the culture"—corporate code for someone who won't rock the boat.
+As sociologist [Robert Jackall observed in his book "Moral Mazes"](https://global.oup.com/academic/product/moral-mazes-9780199729883), large bureaucracies tend to reward conformity over competence. In hiring terms, that means the person who "fits the culture" usually beats the weirdo who might actually shake something loose.
 
 I don't think we've reached the peak of big tech yet, but I do think all of
 these companies will slowly become irrelevant and more consumer-hostile. Our
@@ -99,4 +99,4 @@ the US government is corrupted by the lobbyists with the deepest pockets. A
 handful of companies control the main platforms of the internet, and none of
 them are going to let anyone else come in and take that away from them.
 
-The difference in regulatory approach is stark: while the US has been relatively hands-off, the EU has implemented the [Digital Markets Act](https://digital-markets-act.ec.europa.eu/index_en) specifically targeting large tech platforms. Perhaps we need more of that absurdist energy—recognizing the fundamental disconnect between what these companies claim to value (innovation, disruption) and what their bureaucratic hiring practices actually select for (conformity, institutional thinking).
+The US has been relatively hands-off. The EU, meanwhile, went ahead with the [Digital Markets Act](https://digital-markets-act.ec.europa.eu/index_en), specifically targeting large tech platforms. Maybe we need more of that energy. These companies love to talk about innovation and disruption, then hire for people who will keep their heads down and color inside the lines.

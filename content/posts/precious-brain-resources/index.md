@@ -55,11 +55,11 @@ capacity, but we're inherently constrained by the number of neurons, and we can
 only store so much information within a given volume of brain mass. Thus,
 there's a lot of trivia that we don't really need to memorize or retain.
 
-Cognitive psychology research supports this view. The concept of [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load), developed by John Sweller in the 1980s, suggests that our working memory can only handle a limited amount of information at once. More recent studies published in [Nature Neuroscience](https://www.nature.com/articles/nn.3655) estimate that the brain's storage capacity is around 1 petabyte (1,000,000 gigabytes)—while enormous, it's still finite.
+The concept of [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load), developed by John Sweller in the 1980s, suggests that our working memory can only handle a limited amount of information at once. More recent studies published in [Nature Neuroscience](https://www.nature.com/articles/nn.3655) estimate that the brain's storage capacity is around 1 petabyte (1,000,000 gigabytes)—which is a lot, but still not infinite.
 
 In the context of programming, examples of things not worth retaining are esoteric APIs, programming language syntax, detailed specifications, and so on. The reason these aren't worth retaining is that they're incredibly easy to reference as needed. We can kind of treat the internet like a collective consciousness with memory that (usually) persists accurately through time.
 
-This approach mirrors what some psychologists call "[cognitive offloading](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/)"—the act of storing information externally rather than in our own minds. It's not a modern phenomenon; humans have been offloading cognition for millennia, from early cave paintings to written language to smartphones. What's changed is the immediacy and volume of information available.
+This is basically [cognitive offloading](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/): storing information somewhere outside your own head. It's not a modern phenomenon; humans have been offloading cognition for millennia, from early cave paintings to written language to smartphones. The difference now is you can pull up absurd amounts of it almost instantly.
 
 It's true that the internet rots over time, but thankfully we have Wikipedia and
 Stackoverflow, which have both managed to keep their content without requiring a
@@ -89,14 +89,14 @@ you know the 80th percentile of the important stuff, and for everything else you
 can have a tab open in your browser to the reference documentation for the
 relevant subject.
 
-What should we prioritize instead? The ability to make connections between concepts—sometimes called "transfer learning"—is far more valuable than memorization. Similarly, research from [Harvard's Project Zero](https://pz.harvard.edu/projects/visible-thinking) suggests that developing thinking dispositions and routines leads to deeper understanding and better problem-solving than fact accumulation.
+What should we prioritize instead? The ability to make connections between concepts—sometimes called "transfer learning"—is far more valuable than memorization. That's also why I like the work from [Harvard's Project Zero](https://pz.harvard.edu/projects/visible-thinking): it leans toward habits of thinking and problem-solving, not just stockpiling facts.
 
 I suspect if we spend too much time worrying about how much trivia we collect in
 our brains and not enough time practicing our critical thinking and information
 assessment skills we risk becoming the calculator without the ability to have
 original thoughts or create new ideas.
 
-This aligns with what creativity researchers call the "path of least resistance" problem in creative thinking—when we're too full of existing knowledge, we tend to default to conventional thinking patterns rather than exploring novel solutions.
+My guess is that too much existing knowledge can push you toward the obvious answer first, instead of making you poke around for something stranger.
 
 I should mention that's not really based on any evidence or anything, just a
 musing from my experiences. To put it another way: the most creative and
@@ -106,6 +106,6 @@ the contrary, they tend to be people who actually _don't know that much_ because
 having too much information can make it harder to have new ideas as you get
 stuck thinking that there's nothing but what you already know.
 
-Cognitive scientist [Dean Keith Simonton](https://simonton.faculty.ucdavis.edu) calls this "productive forgetting"—the ability to let go of certain details allows our minds the freedom to recombine ideas in novel ways. It's not about knowing nothing; it's about being selective about what we commit to memory versus what we outsource to our digital extensions.
+Cognitive scientist [Dean Keith Simonton](https://simonton.faculty.ucdavis.edu) calls this "productive forgetting." You let some details fall away so your brain has a little more room to recombine things. The point isn't to know nothing, just to be picky about what stays in your head.
 
-As the futurist Alvin Toffler once said, "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn." Perhaps the most precious brain resource isn't storage space, but the ability to selectively forget.
+As the futurist Alvin Toffler once said, "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn." Selectively forgetting things might be more useful than trying to keep every last scrap.

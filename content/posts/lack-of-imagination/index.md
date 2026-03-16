@@ -51,7 +51,7 @@ Unfortunately, the single most effective action to prevent planetary destruction
 
 This brings me to this post's title: Why are we still grappling with this issue? Why didn't we act decisively when [Al Gore raised the alarm](https://en.wikipedia.org/wiki/An_Inconvenient_Truth) nearly two decades ago?
 
-The answer is devastatingly simple: a collective lack of imagination—or perhaps, an unwillingness to exercise imagination when doing so threatens established power and comfort.
+The answer is pretty simple: a lack of imagination, or more to the point, a refusal to use it when it threatens power and comfort.
 
 Had we begun serious decarbonization 20 years ago, we might have had a chance to avoid the worst outcomes through "net-zero" policies implemented by now. That window has closed. Atmospheric CO₂ levels have risen so far above pre-industrial levels of ~280ppm (arguably the climate sweet spot for human civilization) that we likely cannot avoid:
 
@@ -67,15 +67,15 @@ At the highest levels of power, imagination seems limited to strategies for boos
 
 ## Reimagining Possibilities
 
-The tragedy isn't just our failure to act—it's our failure to envision alternatives to our current system. True imagination would mean:
+We didn't just fail to act. We also failed to picture anything outside the current system. True imagination would mean:
 
 1. Recognizing that infinite growth on a finite planet is mathematically impossible
 2. Designing economic systems that prioritize sustainability over expansion
 3. Redefining prosperity beyond consumption and GDP
 4. Valuing long-term planetary health over short-term profits
 
-The most profound lack of imagination is our inability to conceive of a world not driven by the relentless pursuit of material growth—a world where human flourishing isn't measured by consumption but by wellbeing, where technological innovation serves ecological balance rather than extraction.
+The deeper failure is that many of us can't picture a world that isn't organized around endless growth. A livable version of that world would build less pointless crap, burn less fuel, waste less land on cars and parking lots, and judge success by whether people can eat, breathe, and live decent lives.
 
-We've proven our capacity for extraordinary achievement through history's greatest innovations. The question now is whether we can apply that same ingenuity to our most existential challenge: reimagining human civilization itself.
+We're obviously capable of building complicated things. The question is whether we can use that ability to build an economy that doesn't chew through the conditions that make civilization possible.
 
-The window for incremental change has closed. What remains is the opportunity for transformation—one that requires us to exercise our imagination as boldly as when we first dreamed of sending humans to the moon, but with the survival of our species as the prize.
+The window for incremental change has closed. Either we force a different way of living on purpose, or physics will do it for us much more brutally.

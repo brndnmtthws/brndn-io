@@ -54,7 +54,7 @@ These days I try to get out to meetups or events that seem interesting, especial
 
 ## The Digital Dimension
 
-Since this article was first written, our social landscape has transformed dramatically. The pandemic forced many of us to interact primarily through screens for months or years. While in-person interaction is returning, digital communication remains a crucial skill.
+When I first wrote this, I wasn't spending nearly this much of my life talking to people through a screen. Then the pandemic hit and for a while that became the default. Even now, a lot of conversation still happens in Slack, Zoom, Discord, text, and DMs.
 
 Here are some tips for effective digital communication:
 
@@ -72,7 +72,7 @@ One of the first things anyone needs to understand about talking to people is th
 
 A conversation should involve back and forth. It's not a speech, you're not there to talk at them, and you should make sure you hear their thoughts too.
 
-This rule becomes even more important in virtual settings. The natural conversational rhythm is disrupted by slight delays and the absence of subtle body language cues. Some effective tactics include:
+This matters even more on video calls, where people talk over each other, pause too long, then start apologizing because the timing is off. Some tactics that help:
 
 - Leave intentional pauses after someone finishes speaking to ensure they're done
 - Use visual cues like slightly raising your hand if you want to speak next
@@ -86,7 +86,7 @@ What I know now, that I didn't know then, is how much people _love_ talking abou
 
 In other words: **ask a lot of questions**, and ask personal questions about _them_. However, make sure you know what's appropriate and not appropriate for the given situation and level of familiarity.
 
-The "I" vs. "You" ratio in conversation is a useful metric to track. Try to use "you" more often than "I" when framing questions and responses. For example, instead of "I think that project sounds interesting," try "What excited you most about that project?"
+If every sentence out of your mouth starts with "I", that's usually a bad sign. Try to say "you" more often when you're asking questions or responding. Instead of "I think that project sounds interesting," try "What excited you most about that project?"
 
 ## Escalation
 
@@ -96,7 +96,7 @@ Sometimes you're allowed to break this rule, but it's a pretty well established 
 
 I've noticed there is one short circuit for getting people out of small talk mode quickly: **be funny**. And if you're not good at being funny, at the very least _be genuine and kind_.
 
-An interesting development I've observed in post-pandemic interactions is that people sometimes skip the small talk phase more readily. After years of isolation, many are eager for deeper connection and meaningful conversation. A question like "What's something you discovered about yourself during the pandemic?" can fast-track a conversation to a more substantial level.
+I've also noticed that since the pandemic, some people will skip the warmup and go straight to something real. I've had perfectly normal conversations jump from "how's it going" to "I think quarantine kind of broke my brain" in about thirty seconds. A question like "What's something you figured out about yourself during the pandemic?" can get you there fast if the moment is right.
 
 ## Have Shared Interests
 
@@ -108,7 +108,7 @@ One trick, which I have many times suggested to others, is to get a dog. I get a
 
 If you don't have a dog, then find groups of new people with shared interests to interact with. Try meetup.com, Reddit meetups, or whatever your preferred social platform is.
 
-The range of digital interest groups has exploded in recent years. Beyond traditional meetups, there are now:
+There are also way more internet-native groups than there used to be. Beyond traditional meetups, I've seen good ones built around:
 
 - **Virtual hobby clubs** for everything from cooking to coding
 - **Online gaming communities** that form strong social bonds
@@ -116,7 +116,7 @@ The range of digital interest groups has exploded in recent years. Beyond tradit
 - **Newsletter communities** where writers and readers connect
 - **Cohort-based courses** that create tight-knit alumni networks
 
-Finding your digital tribe can be as valuable as local connections. The best approach is combining both worlds—using digital platforms to discover people, then transitioning to in-person meetings when possible.
+I've met good people this way. Sometimes the internet is the easiest place to find the weirdly specific people you actually click with, and if they're local you can always meet up later.
 
 ## Be Approachable
 
@@ -135,7 +135,7 @@ In digital environments, approachability takes different forms:
 
 To keep people engaged, it's good to give them a reason to talk to you. If you want to meet the person again, tell them that. If you can help them in some way, let them know.
 
-The concept of "give before you get" has become a cornerstone of modern networking. Consider:
+Don't show up empty-handed. If you can help, help. That can look like:
 
 - Sharing useful articles or resources without expectation of return
 - Making introductions that benefit others
@@ -164,7 +164,7 @@ One of the hardest skills to develop in the digital age is understanding engagem
 
 I've already said it, but I'll repeat myself by closing on this note: like anything in life, you'll get better the more you practice. Get out, meet new people, and just _talk_ to them.
 
-Whether in person or through a screen, human connection remains one of life's most rewarding pursuits. The tools and contexts may change, but the fundamental principles of good conversation—curiosity, respect, attentiveness, and generosity—remain timeless.
+Most of this is still the same online as it is in person. Pay attention, be curious, don't make everything about yourself, and give people a reason to want to talk to you again.
 
 [^1]: Bailenson, J. N. (2021). "Nonverbal overload: A theoretical argument for the causes of Zoom fatigue." Technology, Mind, and Behavior, 2(1).
 [^2]: Casciaro, T., Gino, F., & Kouchaki, M. (2014). "The contaminating effects of building instrumental ties: How networking can make us feel dirty." Administrative Science Quarterly, 59(4), 705-735.

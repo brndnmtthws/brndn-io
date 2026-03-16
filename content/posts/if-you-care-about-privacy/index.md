@@ -41,7 +41,7 @@ Thanks to capitalism, the best thing you can do in most cases is express your fr
 
 Additionally, reward companies that _do_ care about your privacy by buying their products.
 
-The market has responded somewhat since this article was first written. Privacy-focused alternatives have gained ground in multiple categories: DuckDuckGo for search, Brave for browsing, ProtonMail for email, and Bitwarden for password management. Supporting these alternatives helps build a more privacy-respecting tech ecosystem.
+At least there are better options now than when I first wrote this. DuckDuckGo for search, Brave for browsing, ProtonMail for email, and Bitwarden for password management are all solid picks.
 
 ## If You Aren't Paying for a Product, You _Are_ the Product
 
@@ -53,7 +53,7 @@ The extent of this surveillance capitalism has only grown since 2019. A 2022 stu
 
 In some cases your data is anonymized, but unfortunately anonymized data can always be de-anonymized once you have enough of it, or have a way to correlate anonymized data with personally identifiable information. For example, if you know someone's home address and you notice some purchase patterns (from, say, credit card data) where all items are shipped to that address, it's relatively easy to guess out _who_ the credit card data belongs to.
 
-This isn't theoretical—researchers have repeatedly demonstrated that supposedly "anonymized" datasets can be de-anonymized with shocking accuracy. A landmark 2019 study showed that 99.98% of Americans could be correctly identified in any dataset using just 15 demographic attributes[^2].
+A landmark 2019 study showed that 99.98% of Americans could be correctly identified in any dataset using just 15 demographic attributes[^2].
 
 A simple suggestion: prefer products you pay for. Companies you're paying are less likely to be violating your privacy in obscure ways (although sometimes they do it anyway, for example ISPs who like to sell your browsing behavior).
 
@@ -83,7 +83,7 @@ A simple suggestion: prefer products you pay for. Companies you're paying are le
 
 ## Regulatory Progress
 
-Privacy regulations have evolved significantly in recent years. The EU's General Data Protection Regulation (GDPR) and California's Consumer Privacy Act (CCPA) give consumers more rights over their data. While enforcement remains imperfect, these regulations have forced companies to be more transparent about data collection and provide mechanisms for users to request data deletion.
+The EU's General Data Protection Regulation (GDPR) and California's Consumer Privacy Act (CCPA) give consumers more rights over their data. Companies now have to at least offer the usual data export and deletion request machinery, even if plenty of them make it more annoying than it should be.
 
 You can exercise these rights by periodically requesting your data from major services and asking them to delete information they don't need to provide their service.
 
@@ -91,7 +91,7 @@ You can exercise these rights by periodically requesting your data from major se
 
 There's a growing trend toward slowly eroding individual privacy. [Creeping normalities](https://en.wikipedia.org/wiki/Creeping_normality) like the eradication of privacy hurt everyone, except for those in positions of power (who, amusingly, demand strong privacy for themselves).
 
-The stakes have only gotten higher with advances in artificial intelligence and facial recognition. Today's data collection goes beyond targeted ads—it enables predictive models of behavior, influence operations, and even systems of social control. As Edward Snowden put it: "Arguing that you don't care about privacy because you have nothing to hide is like arguing that you don't care about free speech because you have nothing to say."
+AI and facial recognition make this worse, not better. It's not just about getting better targeted ads anymore; you're handing over training data and a paper trail that can be used against you later. As Edward Snowden put it: "Arguing that you don't care about privacy because you have nothing to hide is like arguing that you don't care about free speech because you have nothing to say."
 
 Stay strong, and don't let FOMO get the best of you.
 

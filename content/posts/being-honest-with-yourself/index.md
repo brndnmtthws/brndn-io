@@ -37,7 +37,7 @@ The truth is, to be successful, you need 2 things: luck and connections. Connect
 
 **On raising money**: Early on in my wantprepreneur journey I assumed it would be easy to raise money. I've heard that people are clamouring to invest in people like myself. In practice, however, I found that not to be the case. VCs would ghost me, and after sending hundreds of emails I realized you can't email your way into a meeting.
 
-VCs want you to keep grinding away, and they will wait until they have no choice to invest. No one wants to be the first to invest. They also don't want to invest in unknowns. The VC model works best when there's perception of success (actual success doesn't matter, VCs make money whether companies succeed or fail). The data suggests that the old adage "it's not what you know, but who you know" is often true in startup funding.
+VCs want you to keep grinding away, and they will wait until they have no choice to invest. No one wants to be the first to invest. They also don't want to invest in unknowns. The VC model works best when there's perception of success (actual success doesn't matter, VCs make money whether companies succeed or fail). From what I've seen, startup funding is mostly a warm-intro game.
 
 **On finding product market fit**: There's a lot of mythos surrounding the elusive "product market fit", but one thing I've learned from my years working in computers is that you can't really get there unless you a) have a lot of resources and b) are really good at marketing.
 
@@ -55,15 +55,15 @@ I know what I'm good at: building products, getting shit done, shipping code, ma
 
 ## Silver Linings
 
-It's worth noting that there are successful companies that haven't followed the VC playbook. Mailchimp reached a $12B valuation without ever taking outside investment[^2]. Basecamp has been profitable for 20 years by focusing on customers, not investors. These "bootstrapped" success stories are less celebrated but perhaps offer a more realistic path for those without connections.
+It's worth noting that there are successful companies that haven't followed the VC playbook. Mailchimp reached a $12B valuation without ever taking outside investment[^2]. Basecamp has been profitable for 20 years by focusing on customers, not investors. For someone like me, who isn't wired for the networking circus, that path feels a lot less made-up.
 
 ## What's Next?
 
 For me at least, I'll stick to what I'm good at in the meantime, and let someone else deal with the fundraising and marketing. I think for anyone like me, you're more likely to succeed by joining an existing startup and working your way up from there.
 
-There's no shame in pivoting your approach. Many founders who fail at their first venture go on to found another company. The skills you develop along the way aren't wasted—they're investments in your future success, whatever form it takes.
+Maybe this just means I'm better off taking the long way around. Many founders who fail at their first venture go on to found another company. I still get to keep the useful parts: how to ship, how to talk to users, how to live with a bunch of uncertainty.
 
-By being honest with myself about my strengths, weaknesses, and the realities of the startup ecosystem, I'm better positioned to find a path that actually works for me rather than chasing someone else's definition of success.
+Right now that means getting a job, getting steadier, and stopping pretending I'm one introduction away from this all suddenly working.
 
 [^1]: Houston, D. (2010). "How I Started Dropbox." Mixergy interview.
 

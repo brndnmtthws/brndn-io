@@ -22,14 +22,14 @@ world refers to a computer person who produces 10x as much value as the average
 computer person (when discussing people who write software and their
 corresponding output).
 
-I want to correct something. The 10x engineer is a misnomer because it _actually_
-should be **"The 100x Engineer"**. Not only is the 100x engineer quite real, but most
-people wildly underestimate the value provided by the very best
-talent. One reason for this is that the human brain is very bad at
+Calling these people "10x engineers" undersells the point. In a lot of cases,
+the gap looks closer to **100x**. Most people don't have good intuition for
+just how much value the very best talent can create. One reason for this is
+that the human brain is very bad at
 understanding probabilities, distribution, compounding returns, and exponential
 growth.
 
-This isn't just theoretical. Research from Microsoft and Google has shown that the most productive engineers can be up to 100x more effective than their peers[^4]. A study of over 1,000 software engineers found that the top 1% of contributors produced 25% of all code changes, while the bottom 50% contributed less than 5%[^5]. These numbers might seem unbelievable, but they're backed by real data and research.
+Research from Microsoft and Google has shown that the most productive engineers can be up to 100x more effective than their peers[^4]. A study of over 1,000 software engineers found that the top 1% of contributors produced 25% of all code changes, while the bottom 50% contributed less than 5%[^5]. That's the shape of the data, not just a thought experiment.
 
 You've likely heard of the [Pareto
 principle](https://en.wikipedia.org/wiki/Pareto_principle) before, which is a
@@ -110,7 +110,7 @@ Here's what the data shows for commits:
 
 ![Commits](figure1.png "Distribution of number of commits per GitHub account across top projects")
 
-The histogram shows a fascinating pattern: most contributors make fewer than 1000 commits, but a small number make significantly more. This creates what statisticians call a ["fat-tailed distribution"](https://en.wikipedia.org/wiki/Fat-tailed_distribution).
+The histogram is lopsided: most contributors make fewer than 1000 commits, and a small number make far more. This creates what statisticians call a ["fat-tailed distribution"](https://en.wikipedia.org/wiki/Fat-tailed_distribution).
 
 Looking at the numbers more precisely:
 
@@ -130,11 +130,11 @@ The top 1% of contributors (just 107 accounts) make up nearly 50% of all commits
 | 80% | 2168 | 8522 | 2130 | 473,527,673 | 99.6% |
 | 99% | 854361 | 10545 | 107 | 327,472,221 | 68.9% |
 
-The numbers are staggering. The bottom 20% contribute six or fewer lines of code, while the top 1% contribute 68.9% of all changes. The top 20% contribute 99.6% combined.
+The bottom 20% contribute six or fewer lines of code, while the top 1% contribute 68.9% of all changes. The top 20% contribute 99.6% combined.
 
 ## Real-World Examples
 
-Linus Torvalds' impact on computing is hard to overstate. In 1991, as a 21-year-old student, he created Linux as a hobby project. Today, Linux powers everything from smartphones to supercomputers, running on over 3 billion devices worldwide[^2]. It's the foundation of Android, powers 96% of the world's top 1 million web servers[^3], and is the operating system of choice for cloud computing. Beyond Linux, Torvalds also created Git, the most widely used version control system in the world, in just two weeks. His work has fundamentally shaped how we build and distribute software, demonstrating how a single engineer's contributions can transform an entire industry.
+In 1991, as a 21-year-old student, Linus Torvalds created Linux as a hobby project. Today, Linux powers everything from smartphones to supercomputers, running on over 3 billion devices worldwide[^2]. It's the foundation of Android, powers 96% of the world's top 1 million web servers[^3], and is the operating system of choice for cloud computing. Torvalds also created Git in two weeks, which then became the default version control system for most of the industry.
 
 Let's look at some concrete examples from well-known projects:
 
@@ -144,7 +144,7 @@ Let's look at some concrete examples from well-known projects:
 
 3. **Git**: Linus Torvalds (again) created Git in just two weeks to replace BitKeeper for Linux kernel development. Today, Git is the most widely used version control system in the world.
 
-These examples aren't just about raw output—they demonstrate how a single engineer's work can have an exponential impact on an entire industry.
+These examples show the point pretty clearly: one engineer can change the direction of an entire industry.
 
 ## Practical Implications
 
@@ -170,7 +170,7 @@ So what does this mean for engineering teams and organizations? Here are some ke
 
 ## What Does This Mean?
 
-Should we all worship these 100x engineers? No, because this distribution isn't unique to software development. It's a fundamental pattern we see across many fields. The key insight is that value creation is highly concentrated, and the best performers are orders of magnitude more productive than average.
+Should we all worship these 100x engineers? No, because this distribution isn't unique to software development. You see the same kind of concentration all over the place. A small number of people usually account for a wildly outsized share of the value.
 
 What can you do with this information? Not much, honestly. You can't reliably identify 100x engineers before they prove themselves. Like trying to predict the stock market, you can only recognize exceptional performance in hindsight. The best approach is to create an environment where exceptional talent can thrive and be recognized.
 
@@ -182,7 +182,7 @@ Here are three actionable steps you can take today:
 
 3. **Measure Impact, Not Activity**: Shift your metrics from hours worked or lines of code to actual business impact. This helps identify true high performers rather than just busy people.
 
-Remember: The goal isn't to find 100x engineers—it's to create an environment where 100x performance is possible. As Linus Torvalds famously said, "Talk is cheap. Show me the code." The same applies to productivity: focus on creating the conditions for exceptional work, and let the results speak for themselves.
+What you can do is build an environment where that level of performance has room to happen. As Linus Torvalds famously said, "Talk is cheap. Show me the code." Same idea here: set people up to do exceptional work, then look at what actually gets done.
 
 If you'd like to explore the data yourself, [the code is available here on GitHub](https://github.com/brndnmtthws/contribution-distribution).
 

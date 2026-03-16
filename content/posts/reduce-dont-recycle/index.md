@@ -41,7 +41,7 @@ Recycling has a lot of issues:
 - costs have—in some cases—[become unsustainable](https://archive.is/uYPjQ) and numerous US cities have [ended or scaled down recycling programs](https://www.wastedive.com/news/what-chinese-import-policies-mean-for-all-50-states/510751/)
 - some believe that recycling is [coming to an end altogether](https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end/), which suggests we need to find a better way to manage waste
 
-**Update (2025):** The situation has only gotten worse since this article was first written. The pandemic created a massive surge in single-use plastics from PPE and takeout containers. A 2022 report revealed that less than 6% of plastic in the US was actually recycled[^1], despite decades of messaging suggesting plastic recycling is effective. Meanwhile, the fossil fuel industry plans to triple plastic production by 2050.
+**Update (2025):** Since 2019, the pandemic dumped a fresh wave of single-use plastics into the system through PPE and takeout containers. A 2022 report revealed that less than 6% of plastic in the US was actually recycled[^1], despite decades of messaging suggesting plastic recycling is effective. Meanwhile, the fossil fuel industry plans to triple plastic production by 2050.
 
 Even paper recycling, once considered straightforward, faces contamination issues. When people toss greasy pizza boxes or plastic-lined coffee cups into paper recycling, they can ruin entire batches of otherwise recyclable materials.
 
@@ -59,7 +59,7 @@ The main issue with recycling is (and always has been) that it doesn't get at th
 
 The biggest driver of waste is consumerism and [throwaway culture](https://en.wikipedia.org/wiki/Throw-away_society). It's difficult to [repair consumer products](https://en.wikipedia.org/wiki/Electronics_right_to_repair), they [aren't built to last](https://en.wikipedia.org/wiki/Planned_obsolescence), and we're constantly being bombarded with ads telling us to buy more and use our brains less.
 
-There is some good news on the repair front: the Right to Repair movement has gained significant momentum. The EU implemented rules requiring manufacturers to make products more repairable, and several US states have passed similar legislation. In 2022, Apple announced a Self Service Repair program after years of fighting against repair rights—a small but meaningful victory for consumers[^2].
+On the repair front, things have at least moved. The EU implemented rules requiring manufacturers to make products more repairable, and several US states have passed similar legislation. In 2022, Apple announced a Self Service Repair program after years of fighting against repair rights, which tells you how much pressure had built up[^2].
 
 ## Reduce
 
@@ -76,13 +76,13 @@ The best thing people can do is focus on reducing consumption, which is at the t
 - borrowing or renting items you'll only use occasionally instead of purchasing them
 - participating in clothing swaps or buying second-hand
 
-The growth of the Zero Waste movement has made reducing consumption easier. People living a zero-waste lifestyle aim to send nothing to landfill, and some manage to fit a year's worth of trash into a single mason jar. While that's extreme, the movement has popularized accessible swaps like reusable grocery bags, metal straws, and refillable cleaning products.
+It's also easier now than it used to be to find refill shops, reusable basics, and other low-waste alternatives. People living a zero-waste lifestyle aim to send nothing to landfill, and some manage to fit a year's worth of trash into a single mason jar. That's a bit much, but the whole thing has helped normalize swaps like reusable grocery bags, metal straws, and refillable cleaning products.
 
 ## Beyond Individual Action
 
-While individual choices matter, it's important to acknowledge that 70% of global emissions come from just 100 companies[^3]. Truly effective environmentalism requires a combination of personal choices and systemic change.
+Personal choices help, but 70% of global emissions come from just 100 companies[^3]. So no, you are not going to shop your way out of this by yourself.
 
-Some promising systemic approaches include:
+The stuff that actually matters at scale looks more like this:
 
 - **Circular economy** models where products are designed to be reused, repaired, or recycled from the start
 - **Extended producer responsibility** laws that make manufacturers responsible for the entire lifecycle of their products

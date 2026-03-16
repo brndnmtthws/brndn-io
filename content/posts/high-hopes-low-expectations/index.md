@@ -14,15 +14,15 @@ tags:
 
 Although I [have written about this idea before]({{< ref "embrace-imperfection" >}}), I feel like it's one worth elaborating on. We live in an age of instant gratification, which I think leaves us often feeling underwhelmed. In most cases, this disappointment is due to our expectations being too high.
 
-There is, of course, a simple solution to this problem: lower your expectations. On the surface you might think "but why should I lower my standards?", and I'll try to make the case for why you should.
+The conclusion I've come to is less glamorous: lower your expectations. You might hear that and think "why should I lower my standards?", and I'll try to make the case for why you should.
 
 Research supports this approach. A 2014 study published in the *Journal of Positive Psychology* found that people who set lower expectations experienced greater satisfaction with outcomes than those with high expectations[^1]. Another study from University College London discovered that happiness depends not on how well things are going, but whether they're going better than expected[^2].
 
 ## The Liberation of Lower Expectations
 
-When your expectations are low, everything is a pleasant surprise. You're easily amused, and you're grateful for the little things. When you expect the worst, you're rarely disappointed. When you expect the best, you're often let down.
+When I keep my expectations low, ordinary stuff lands better. A decent meal feels decent instead of like a letdown because it wasn't transcendent. A movie can just be fun. I end up noticing the small wins more.
 
-Expecting less might seem like settling for mediocrity, but I don't think that's the case. It's more about being realistic and accepting that everything in our material world is imperfect, so much so that expecting perfection is a path to endless disappointment and frustration.
+I used to think expecting less sounded like settling. Now it feels more like admitting that most things are flawed and that demanding perfection is a good way to stay irritated all the time.
 
 Psychologists call this "expectation management" — a mental technique that has been shown to reduce anxiety and increase satisfaction. According to research from Harvard Medical School, when expectations are managed properly, the brain releases dopamine not just when something good happens, but when something better than expected happens[^3].
 
@@ -44,13 +44,13 @@ To me this sounds exhausting: I just want to enjoy my life, spend time with my f
 
 ## What Actually Matters
 
-It's not about the stuff I own or the places I've been, but the relationships I've built and the memories I've made. It's also about living in peace and being grateful for what I have. Learning to love yourself the way you are, imperfections and all, is a big part of that.
+What matters to me is pretty basic: time with my friends and family, a few people who really know me, some quiet, and not constantly feeling like I need more. Learning to like yourself as you are, flaws included, is a big part of that.
 
 Studies consistently show that practicing gratitude is strongly correlated with greater happiness. One study from UC Davis asked participants to write a few sentences each week, focusing on particular topics. One group wrote about things they were grateful for, a second group wrote about daily irritations, and a third wrote about events that had affected them. After 10 weeks, those who wrote about gratitude were more optimistic, felt better about their lives, and even exercised more and had fewer physician visits than those who focused on irritations[^7].
 
 ## The Power of Detachment
 
-Since I adopted the "high hopes, low expectations" mantra I've found that I'm a lot less outcome dependent. It's much easier to practice detachment when you're not overly invested in the outcome. It's not about being disengaged, but rather about being realistic and accepting that most things in life are out of your control.
+Since I adopted the "high hopes, low expectations" mantra I've found that I'm a lot less outcome dependent. It's much easier to practice detachment when you're not overly invested in the outcome. I still care, I just don't need every situation to go my way to feel okay. Most things won't, and most of them were never mine to control anyway.
 
 We have very little agency in life, and there are very few things that are completely within our own personal sphere of influence. The things we can control are how we react to the daily events, how we treat others, and how we treat ourselves. Everything else is largely out of our hands.
 
@@ -60,7 +60,7 @@ This philosophy aligns with ancient Stoic wisdom. Epictetus wrote, "Make the bes
 
 I may be beating a dead horse at this point, but I think it's a message worth pondering. So perhaps the next time you go to a restaurant, don't expect the best meal of your life. Instead, expect a decent meal and be pleasantly surprised if it's great. If you go into a movie with low expectations, you might find that you enjoy it more than you thought you would. If you go on a date with low expectations, you might find that you have a great time.
 
-By hoping for the best but expecting less, you create space for joy to surprise you. And in a world that often disappoints, those surprises might be exactly what we need.
+I still hope things go well. I just try not to load every meal, movie, date, or plan with so much expectation that it has no chance of feeling good in real life.
 
 [^1]: Armenta, C., Bao, K. J., Lyubomirsky, S., & Sheldon, K. M. (2014). Is lasting change possible? Lessons from the Hedonic Adaptation Prevention model. *Journal of Positive Psychology*.
 

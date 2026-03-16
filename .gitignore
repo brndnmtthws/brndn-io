@@ -5,6 +5,7 @@ public/
 resources/_gen/
 .hugo_build.lock
 node_modules/
+tmp/
 
 # Playwright
 /test-results/

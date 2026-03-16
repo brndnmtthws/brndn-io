@@ -21,13 +21,13 @@ Yesterday, I took a walk to the Brooklyn Bridge, a notorious tourist trap but al
 
 I think one definition I like is quite simple: an artist is someone who makes art. What then, is _art_? I think my favourite definition comes from none other than Jeremy Clarkson, who once [defined it as anything that exists for no other purpose than being art](https://youtu.be/aQ8xDia5RNY?t=326). In other words, an advertisement may contain art, but the ad itself is not art. A car may be a work of art, but its primary purpose is to get you from point A to point B. A painting may be art, but if it's just a paint-by-numbers exercise, is it really art?
 
-This perspective resonates with me because it focuses on intention rather than execution. Art emerges from the desire to create something expressive that serves no utilitarian function beyond its own existence. When we create without practical purpose, we enter the realm of art.
+This perspective resonates with me because it focuses on intention rather than execution. It fits the way I work: if I'm making something because I need to make it, not because it solves a problem or pays a bill, that feels like art to me.
 
 ## The Historical Shifting of Artistic Identity
 
 What we consider an "artist" has transformed dramatically throughout history. In medieval times, those who created what we now consider masterpieces were often viewed as skilled craftspeople rather than cultural icons. They worked in workshops, fulfilled commissions, and were valued for their technical abilities rather than their personal expression.
 
-The concept of the artist as a special category of person with unique sensibilities emerged primarily during the Romantic era. This shift elevated the artist to a cultural figure whose personal vision and emotional depth became central to the value of their work. This historical context shows us that our current definition isn't fixed or universal—it's a cultural construct that continues to evolve.
+The concept of the artist as a special category of person with unique sensibilities emerged primarily during the Romantic era. This shift elevated the artist to a cultural figure whose personal vision and emotional depth became central to the value of their work. So I don't feel much obligation to treat our current definition as sacred.
 
 ## Gatekeeping Artistry
 
@@ -35,13 +35,13 @@ Some might argue that you aren't an artist unless you have a job title that is o
 
 This kind of gatekeeping is unhelpful and ultimately damaging. It discourages people from making art, while I firmly believe [we should all make art]({{< ref "make-art" >}}). You don't need to make art for anyone but yourself. You never need to exhibit your work, nor should you feel the need to sell it, or seek validation from others. The only thing that matters is that you _made the art_, and ideally you're proud of your work. Even if you don't like it (I personally loathe my own work most of the time), it doesn't matter. The act of creating is what makes you an artist.
 
-These external validations—sales, exhibitions, degrees, or critical acclaim—might bring certain advantages, but they don't confer artistic identity. They simply represent different ways art interfaces with social and economic systems. Many of history's most celebrated artists received little recognition during their lifetimes, while some commercially successful creators may leave minimal lasting impact. The correlation between external validation and artistic significance is far weaker than conventionally assumed.
+These external validations—sales, exhibitions, degrees, or critical acclaim—might change how other people see your work, but they don't make you an artist. Van Gogh sold almost nothing while he was alive. Plenty of people with impressive resumes make dead work. Those things matter to the market; they don't settle the question for me.
 
 ## Art Is What You Make of It
 
 You can decide what art means to you, and you can decide what medium you choose to express yourself with. The medium doesn't matter so much as the subject, intent, and the process of creating. If anything, I think the most important thing about being an artist _is the process_ of creating. It's not even about the final result, it's more about the fact that you went the mile, put in the time, the effort, thought about whatever you're composing, and you put it out there (or didn't).
 
-This process-oriented perspective liberates us from the tyranny of outcomes. When we focus exclusively on results—whether the painting is "good," whether the poem is "publishable," whether the song is "catchy"—we risk missing the transformative experience of creation itself. The most meaningful aspects of artistry often lie in those moments of flow, struggle, discovery, and presence that occur during the creative process.
+Thinking about it this way takes some of the pressure off. When I get too hung up on whether something is "good" or worth showing, I usually miss the part that matters: the odd locked-in feeling of making it, and the small surprises that happen while I'm working.
 
 ## Beyond Technical Skill
 
@@ -57,7 +57,7 @@ This might be why you're so confused about those abstract paintings that look li
 Mark Rothko, Green, Red, Blue (1955)[^1]
 {{% /figure %}}
 
-Consider outsider artists who develop unique visual languages without formal training, or musicians who create powerful work despite limited technical facility. What matters more than technical perfection is intentionality and the presence of personal meaning. The question isn't "How skillful is this?" but rather "Does this express something genuine?"
+Consider outsider artists who develop unique visual languages without formal training, or musicians who create powerful work despite limited technical facility. I've stood in front of Rothkos that wrecked me, and it wasn't because I was admiring brushwork. It was because something in them felt real.
 
 ## The Van Gogh Paradigm
 
@@ -67,7 +67,7 @@ I write about Van Gogh a lot in part because he's a well-known example of pure a
 
 One thing that perhaps Van Gogh lacked was the two beautiful companions I have in my life: my canine babies. Perhaps Van Gogh would have found some solace in the unconditional love of a dog, or the companionship of a loyal pet. Sometimes I'm moved to tears just by the way my dogs look at me. But I digress.
 
-Van Gogh's story illuminates something essential about artistic identity—its independence from external validation. He sold just one painting during his lifetime, yet his work now hangs in the world's most prestigious museums. This reminds us that the value of art, and the legitimacy of artistic identity, transcends contemporary recognition. I find it difficult to look at a Van Gogh painting in real life without feeling on the verge of tears, and sometimes just being in the same room as his work can evoke a profound emotional response in me. I'm lucky enough to live within a short subway ride of some of his most famous works.
+Van Gogh sold just one painting during his lifetime, yet his work now hangs in the world's most prestigious museums. That's hard for me to ignore. It makes the whole approval game look shaky. I find it difficult to look at a Van Gogh painting in real life without feeling on the verge of tears, and sometimes just being in the same room as his work can evoke a profound emotional response in me. I'm lucky enough to live within a short subway ride of some of his most famous works.
 
 ## Art Is Expression
 
@@ -75,25 +75,25 @@ At its core, art is about expression. It's about taking the intangible thoughts,
 
 Jeremy Clarkson's segment from Top Gear is art in its own right, and although I find gushing over cars to be cringe-worthy–Jeremy irritates me at times–Jeremy Clarkson is indeed an artist.
 
-As artists, we create not for the sake of recognition or validation, but because we have an innate need to express ourselves. We create to make sense of the world around us, to process our emotions, and to connect with others on a deeper level. You, like me, might feel art is one of the few ways to connect with others on a deep level, to share a piece of ourselves that words alone cannot convey. This is why I think it's so important to embrace our identities as artists, to own the title without hesitation or apology. We don't need anyone else's permission to create or to call ourselves artists. The act of creating is what makes us artists, and the world needs more of that kind of expression, now more than ever.
+I make things because I don't know what else to do with certain feelings or thoughts. Sometimes a photograph or a piece of writing says it better than I can in conversation. You, like me, might feel art is one of the few ways to connect with others on a deep level, to share a piece of ourselves that words alone cannot convey. This is why I think it's so important to embrace our identities as artists, to own the title without hesitation or apology. We don't need anyone else's permission to create or to call ourselves artists. The act of creating is what makes us artists.
 
 ## The Courage to Begin
 
-One element that unites creators across disciplines is the vulnerability inherent in the process. Bringing something new into existence means facing uncertainty, potential failure, and judgment. This courage to create despite these risks represents a common thread among those who engage seriously with artistic practice.
+Making anything at all means risking embarrassment. You might fail, you might make something awful, you might show it to someone and get that look. That's part of it.
 
 Fear not the critics, the detractors. They aren't artists, they are merely spectators.
 
-Established artists often report that this fundamental vulnerability never fully disappears—each new project brings fresh uncertainty. What develops isn't freedom from doubt but rather a more comfortable relationship with it, learning to work alongside uncertainty rather than waiting for it to vanish.
+That feeling doesn't really go away, at least not for me. I still start plenty of things with the suspicion that they may be terrible. You just get a little better at working anyway.
 
 ## Why Artistic Identity Matters for Society
 
-When more people embrace their creative capacities and identify as artists, our collective culture becomes richer and more diverse. A society filled with individuals who feel empowered to express themselves creatively is inherently more innovative, empathetic, and resilient. Art helps us process collective trauma, celebrate shared joys, and imagine new possibilities for our future. By reclaiming artistic identity as something accessible to everyone rather than an elite few, we create cultural spaces where diverse voices and visions can flourish.
+When more people feel free to make things, more interesting things get made. More weird voices get heard. Life feels less sterile that way.
 
 ## Reclaiming "Artist" As an Inclusive Term
 
-Perhaps the most liberating approach involves focusing on artistic practice rather than artistic identity. Rather than asking "Am I an artist?" (a question bound up with external validation and cultural assumptions), we might instead ask, "Am I engaging with creative practice in a meaningful way?"
+I find it more useful to focus on the practice than the identity. Rather than asking "Am I an artist?" (a question bound up with external validation and cultural assumptions), we might instead ask, "Am I engaging with creative practice in a meaningful way?"
 
-This shift removes the pressure of living up to some idealized notion of what an artist should be and redirects attention to the actual experience of creating. Regular creative habits build artistic capacity over time, regardless of labels or recognition.
+Once I stopped worrying so much about whether I had earned the label, it got easier to just get to work. A regular habit matters more than a tidy answer.
 
 So yes, I am an artist. And if you create something that exists solely for the purpose of being art, then you are an artist too. No permission needed. My friend's comment made me question briefly, but ironically led me to an even stronger conviction about claiming this identity. Creating isn't just something I do—it's fundamental to how I experience and process the world. That's worth acknowledging, embracing, and celebrating. Haters gonna hate.
 

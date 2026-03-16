@@ -92,14 +92,29 @@ might be. Just be present wherever you are now, no need to go to Burning Man or
 hop on a plane to Cancun and burn a bunch of jet fuel just to learn that this is
 as good as life gets.
 
-This isn't to say we should seek out suffering or avoid happiness when it finds us. Rather, it's about recognizing that our cultural obsession with constant happiness creates its own form of suffering—the disappointment that comes from believing we're entitled to a pain-free existence.
+I'm not saying you should go looking for misery. I'm saying the idea that life
+is supposed to feel good all the time will screw you up all by itself, because
+then every bad stretch feels like some kind of error.
 
-Consider how social media amplifies this problem. We scroll through carefully curated highlights of others' lives, comparing our complete experience (with all its ups and downs) to someone else's edited highlights. This inevitably leaves us feeling inadequate, creating a new form of suffering built on the myth that others aren't struggling.
+You can see it every time you open Instagram and somebody is barefoot in Tulum
+at sunrise while you're eating cereal over the sink. Of course that starts to
+warp your brain. You end up half-convinced everyone else figured something out
+that you missed.
 
-The most profound insight may be that accepting the inevitability of struggle doesn't make life worse—it often makes it better. When we stop fighting against the natural currents of difficulty, we can direct that energy toward finding meaning within our challenges rather than exhausting ourselves trying to avoid them.
+Things got easier for me once I stopped treating struggle like proof that
+something had gone off the rails. It's still struggle. It still sucks. But at
+least you can spend your energy dealing with it instead of asking why it showed
+up.
 
-Some of history's most remarkable achievements and deepest human connections have emerged from periods of great struggle. Viktor Frankl, surviving the horror of concentration camps, observed that those who found meaning in their suffering were most likely to survive. This doesn't glorify suffering, but acknowledges its potential as a catalyst for growth and insight.
+Viktor Frankl wrote that in concentration camps, the people who could still
+find some meaning in what they were enduring were more likely to survive. That
+doesn't make suffering noble. It just means humans are weirdly capable of
+making something out of even awful conditions.
 
-Perhaps what we need isn't fewer struggles but better ways to engage with them—through community, through purpose, through presence. The modern push toward individual consumption as the path to happiness has left us more isolated than ever, cutting us off from the very connections that help make suffering bearable.
+What would actually help is being less alone in it. The modern pitch is still
+that happiness comes from buying the right stuff for yourself, and all that
+does is strand people with their problems in private.
 
-So next time you find yourself struggling, remember: you're not failing at life. You're not doing it wrong. You're having a deeply human experience, one shared by everyone from Shakespeare's characters to the Buddha to the person next door who seems to have it all together. And there's something strangely comforting in that universal truth.
+So if you're struggling, fine. Join the club. That's been the deal for as long
+as humans have been writing things down, from Shakespeare to the Buddha to your
+annoyingly polished neighbor who probably isn't having that easy a time either.

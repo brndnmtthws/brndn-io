@@ -75,11 +75,11 @@ Let's consider a typical leetcode question: "Given an array of integers, find th
 - Communicate technical concepts to non-technical stakeholders
 - Make architectural decisions that balance competing priorities
 
-The mismatch is striking. I've worked with brilliant engineers who struggle with algorithm puzzles but excel at building robust, maintainable systems. I've also worked with developers who can solve any leetcode problem but create unmaintainable messes that their colleagues inherit.
+I've worked with brilliant engineers who struggle with algorithm puzzles but excel at building robust, maintainable systems. I've also worked with developers who can solve any leetcode problem but create unmaintainable messes that their colleagues inherit.
 
 ## How We Got Here
 
-The leetcode interview didn't emerge from nowhere. It began at companies like Google and Microsoft that were flooded with applicants and needed a scalable filtering mechanism. These companies dealt with genuinely complex algorithmic challenges, making algorithmic thinking a reasonable proxy for job performance.
+It started at companies like Google and Microsoft that were flooded with applicants and needed some scalable way to cut the pile down. If you're hiring people to work on search, compilers, databases, or other systems where that stuff actually comes up, algorithm-heavy interviews make a lot more sense.
 
 The problem arose when every company—regardless of whether they were building search engines or CRUD apps—adopted this model without questioning whether it served their specific needs.
 
@@ -99,7 +99,7 @@ This interview style comes with significant hidden costs:
 
 ## Alternative Approaches
 
-While I don't have a perfect solution, several promising alternatives exist:
+I don't have a clean fix for this, but these seem a lot less distorting:
 
 ### 1. Work Sample Tests
 
@@ -113,7 +113,7 @@ Instead of asking candidates to write perfect code under pressure, give them exi
 
 ### 3. Pair Programming
 
-Work with candidates on a realistic problem, allowing collaboration and discussion. This reveals how they think, how they handle feedback, and how they collaborate—often more important than raw coding ability.
+Work with candidates on a realistic problem, allowing collaboration and discussion. You get to see whether they can reason through a problem with another person in the loop, which matters a lot more to me than raw coding ability.
 
 ### 4. System Design with Constraints
 
@@ -135,8 +135,8 @@ If your company isn't ready to abandon leetcode entirely, you can still improve 
 
 ## The Broader Question
 
-The deeper issue here isn't just about interview techniques, but about what we actually value in software development. Do we value puzzle-solving abilities, or do we value the ability to build maintainable systems that solve real problems for users?
+This comes down to what we actually value in software development. Do we care more about puzzle-solving, or about building maintainable systems that solve real problems for users?
 
-Perhaps what we need isn't just a better interview process, but a more honest conversation about what makes someone an effective engineer. Until we align our hiring practices with the actual work, we'll continue to optimize for the wrong things.
+Most companies also don't want to admit what they're really selecting for. It's easier to pretend a hard puzzle is rigorous than to talk plainly about judgment, communication, and whether someone can do the actual job.
 
 In the meantime, I'll keep practicing my leetcode problems before interviews—not because I think it makes me a better engineer, but because that's the game we've all implicitly agreed to play. And maybe that's the most telling criticism of all.
