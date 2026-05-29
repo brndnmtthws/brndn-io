@@ -1,0 +1,4 @@
+#!/bin/sh
+command -v git-lfs >/dev/null 2>&1 || { echo >&2 "Git LFS is not installed."; exit 0; }
+git lfs push origin "$(git symbolic-ref --short HEAD)"
+exit 0

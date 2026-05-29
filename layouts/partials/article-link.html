@@ -1,0 +1,86 @@
+<article class="mt-6 flex flex-row">
+  <a
+    class="pt-2 transition group hover:bg-slate-400/20 dark:hover:bg-slate-700/20 hover:shadow-[0_0_15px_15px_rgba(0,0,0,0.5)] hover:shadow-slate-400/20 dark:hover:shadow-slate-700/20 rounded-lg hover:scale-101"
+    href="{{ .RelPermalink }}"
+  >
+    {{- $images := $.Resources.ByType "image" }}
+    {{- $thumbnail := $images.GetMatch (.Params.thumbnail | default "*thumb*") }}
+    {{- $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $thumbnail }}
+    {{- with $feature }}
+      <div class="flex-none pe-4 sm:pe-6 ">
+        <a
+          href="{{ with $.Params.externalUrl }}
+            {{ . }}
+          {{ else }}
+            {{ $.RelPermalink }}
+          {{ end }}"
+          aria-label="{{ $.Title | emojify | title }}"
+        >
+          <img
+            alt="{{ $.Params.featureAlt | default $.Params.thumbnailAlt | default "" }}"
+            {{ if eq .MediaType.SubType "svg" }}
+              class="w-24 max-w-[6rem] max-h-[4.5rem] rounded-md
+              sm:max-h-[7.5rem] sm:w-40 sm:max-w-[10rem]"
+              src="{{ .RelPermalink }}"
+            {{ else }}
+              class="w-24 rounded-md sm:w-40" srcset="
+              {{- (.Fill "160x120 smart").RelPermalink }}
+              160w, {{- (.Fill "320x240 smart").RelPermalink }} 2x"
+              src="{{ (.Fill "160x120 smart").RelPermalink }}" width="160"
+              height="120"
+            {{ end }}
+            {{ if $.Site.Params.enableImageLazyLoading | default true }}
+              loading="lazy"
+            {{ end }}
+          />
+        </a>
+      </div>
+    {{- end }}
+    <div>
+      <h3 class="flex items-center text-xl font-semibold">
+        {{ with .Params.externalUrl }}
+          <div>
+            <a
+              class="text-neutral-800 decoration-darkly-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+              href="{{ . }}"
+              target="_blank"
+              rel="external"
+              >{{ $.Title | emojify | title }}</a
+            >
+            <span
+              class="cursor-default align-top text-xs text-neutral-400 dark:text-neutral-500"
+              title="{{ i18n "list.externalurl_title" }}"
+            >
+              <span class="rtl:hidden">&#8599;</span>
+              <span class="ltr:hidden">&#8598;</span>
+            </span>
+          </div>
+        {{ else }}
+          <span
+            class="decoration-darkly-500 group-hover:underline group-hover:underline-offset-2"
+          >
+            {{ .Title | emojify | title }}
+          </span>
+        {{ end }}
+        {{ if and .Draft .Site.Params.article.showDraftLabel }}
+          <div class="ms-2">
+            {{ partial "badge.html" (i18n "article.draft" | emojify) }}
+          </div>
+        {{ end }}
+        {{ if templates.Exists "partials/extend-article-link.html" }}
+          {{ partial "extend-article-link.html" . }}
+        {{ end }}
+      </h3>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{ partial "article-meta.html" . }}
+      </div>
+      {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
+        <div
+          class="pt-2 prose prose-stone dark:prose-invert max-w-prose line-clamp-5 md:line-clamp-4 hover:overflow-hidden text-neutral-600 md:text-neutral-500 hover:text-neutral-800 dark:text-neutral-400 md:dark:text-neutral-500 dark:group-hover:text-neutral-200 font-libre-baskerville"
+        >
+          {{ .Summary | plainify | emojify }}
+        </div>
+      {{ end }}
+    </div>
+  </a>
+</article>
