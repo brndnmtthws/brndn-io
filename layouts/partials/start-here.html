@@ -1,0 +1,25 @@
+{{ with site.Params.homepage.startHere }}
+  <section>
+    <h2 class="section-label">Start here</h2>
+    <ul class="mt-4 space-y-3">
+      {{ range . }}
+        {{ $page := site.GetPage . }}
+        {{ if not $page }}
+          {{ errorf "homepage.startHere: no page at %q" . }}
+        {{ end }}
+        <li>
+          <a class="group block" href="{{ $page.RelPermalink }}">
+            <span
+              class="font-semibold decoration-darkly-500 group-hover:underline group-hover:underline-offset-2"
+            >
+              {{ $page.Title | emojify | title }}
+            </span>
+            <span class="block text-sm text-neutral-500 dark:text-neutral-400">
+              {{ partial "meta/reading-time.html" $page }}
+            </span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

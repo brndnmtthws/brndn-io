@@ -1,11 +1,32 @@
-<article
-  class="{{ if not .Site.Params.homepage.showRecent }}
-    h-full
-  {{ end }} flex flex-col items-center justify-center text-center"
+{{/* Intro and posts share the article column; the portrait and wayfinding lists take the column that holds the TOC on article pages. */}}
+<div
+  class="mt-2 grid gap-x-16 gap-y-10 sm:mt-6 xl:grid-cols-[minmax(0,38rem)_minmax(0,1fr)]"
 >
-  {{ partial "profile.html" }}
-  <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
-</article>
-<section>
-  {{ partial "recent-articles.html" . }}
-</section>
+  <div class="xl:self-center">
+    {{ partial "profile.html" . }}
+    {{ with .Content }}
+      <section class="prose prose-stone mt-6 dark:prose-invert">
+        {{ . | emojify }}
+      </section>
+    {{ end }}
+  </div>
+  <div class="order-first xl:order-none xl:self-center">
+    {{ with site.Language.Params.Author.image }}
+      {{ with resources.Get . }}
+        {{ $alt := site.Language.Params.Author.name | default "Author" }}
+        {{ $class := "block h-28 w-28 rounded-full object-cover object-top xl:h-44 xl:w-44" }}
+        {{ $lazy := site.Params.enableImageLazyLoading | default true }}
+        {{ $webp := site.Params.enableImageWebp | default true }}
+        {{ partial "picture.html" (dict "img" . "alt" $alt "class" $class "lazy" $lazy "webp" $webp) }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <hr class="border-darkly-200 dark:border-darkly-800 xl:col-span-2" />
+  <section>
+    {{ partial "recent-articles.html" . }}
+  </section>
+  <aside class="grid content-start gap-10 sm:grid-cols-2 xl:grid-cols-1">
+    {{ partial "start-here.html" . }}
+    {{ partial "topics.html" . }}
+  </aside>
+</div>

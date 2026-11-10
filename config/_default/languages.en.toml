@@ -9,7 +9,7 @@ title = "Brenden's Blog"
 
 [params.author]
 bio = "Software engineer, artist, author, entrepreneur, dog lover."
-headline = """Opinions served up fresh, on everything from computers to economics [[**bio**]](/about)."""
+headline = "Notes on building things, staying human, and occasionally being wrong."
 image = "img/brenden-matthews.jpg"
 links = [
   { email = "mailto:hifromyourblog@brenden.brndn.io" },

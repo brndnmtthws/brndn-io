@@ -1,18 +1,17 @@
 {{ if .Site.Params.homepage.showRecent | default false }}
-  <h2 class="mt-8 text-2xl font-extrabold">
+  {{ $recent := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit }}
+  <h2 class="section-label">
     {{ i18n "shortcode.recent_articles" | emojify }}
   </h2>
-  {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+  {{ range first .Site.Params.homepage.recentLimit $recent.Pages }}
     {{ partial "article-link.html" . }}
   {{ end }}
-  <div class="py-1 mt-4">
+  <div class="mt-8">
     <a
-      class="decoration-darkly-500 hover:underline hover:decoration-2 hover:underline-offset-2 font-semibold"
-      href="/posts"
-      aria-label="More posts"
-      title="More posts"
+      class="font-semibold decoration-darkly-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+      href="{{ "posts" | relLangURL }}"
     >
-      More posts...
+      All {{ $recent.TotalNumberOfElements }} posts &rarr;
     </a>
   </div>
 {{ end }}

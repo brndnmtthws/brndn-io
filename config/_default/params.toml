@@ -27,6 +27,14 @@ showThemeAttribution = false
 [homepage]
 layout = "profile" # valid options: page, profile, custom
 showRecent = true
+# Curated posts listed under "Start here" on the homepage, in display order.
+startHere = [
+  "/posts/the-value-of-tools",
+  "/posts/growth-vs-grind",
+  "/posts/the-10x-engineer-is-a-myth-its-more-like-100x",
+  "/posts/cities-are-technology",
+  "/posts/analogue-joy",
+]
 
 [article]
 showAuthor = true

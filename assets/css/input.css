@@ -102,6 +102,11 @@
     @apply h-[1em] w-[1em];
   }
 
+  /* Small uppercase heading above a homepage section */
+  .section-label {
+    @apply text-sm font-semibold uppercase tracking-widest text-neutral-500 dark:text-neutral-400;
+  }
+
   /* Search */
   #search-query::-webkit-search-cancel-button,
   #search-query::-webkit-search-decoration,
@@ -433,6 +438,11 @@
     100% {
       content: "🤣";
     }
+  }
+
+  /* Dark-mode body copy: one step brighter than the typography default. */
+  .prose {
+    --tw-prose-invert-body: var(--color-stone-200);
   }
 
   .prose p {
