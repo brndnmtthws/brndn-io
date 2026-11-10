@@ -445,6 +445,11 @@
     --tw-prose-invert-body: var(--color-stone-200);
   }
 
+  /* Wrap long URLs and email addresses instead of overflowing narrow screens. */
+  .prose {
+    @apply break-words;
+  }
+
   .prose p {
     @apply text-pretty;
   }

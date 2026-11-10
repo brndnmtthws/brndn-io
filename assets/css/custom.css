@@ -2611,10 +2611,10 @@
       }
     }
   }
-  .open\:\[\&_svg\]\:rotate-0 {
+  .open\:\[\&_svg\]\:rotate-none {
     &:is([open], :popover-open, :open) {
       & svg {
-        rotate: 0deg;
+        rotate: none;
       }
     }
   }
@@ -2985,6 +2985,9 @@
   }
   .prose {
     --tw-prose-invert-body: var(--color-stone-200);
+  }
+  .prose {
+    overflow-wrap: break-word;
   }
   .prose p {
     text-wrap: pretty;
