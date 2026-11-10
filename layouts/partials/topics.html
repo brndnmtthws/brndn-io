@@ -3,15 +3,7 @@
     <h2 class="section-label">Topics</h2>
     <div class="mt-4 flex flex-wrap gap-2 text-sm">
       {{ range first 12 .ByCount }}
-        <a
-          class="rounded-md border border-neutral-300 px-2 py-[1px] text-neutral-600 hover:border-darkly-400 hover:text-darkly-900 dark:border-neutral-700 dark:text-neutral-300 dark:hover:border-darkly-500 dark:hover:text-darkly-50"
-          href="{{ .Page.RelPermalink }}"
-        >
-          {{ replace .Page.LinkTitle "-" " " }}
-          <span class="text-neutral-400 dark:text-neutral-500"
-            >{{ .Count }}</span
-          >
-        </a>
+        {{ partial "tag-chip.html" (dict "term" .Page "count" .Count) }}
       {{ end }}
     </div>
     <div class="mt-4">

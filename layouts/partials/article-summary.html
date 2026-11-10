@@ -1,0 +1,11 @@
+{{/* Plain-text excerpt of a post with figures (and their captions) removed. "length" takes that many characters from the full text instead of the default summary. */}}
+{{ $source := .page.Summary }}
+{{ with .length }}
+  {{ $source = $.page.Content }}
+{{ end }}
+{{/* A summary can end inside a figure, so the closing tag is optional. */}}
+{{ $text := $source | replaceRE `(?s)<figure.*?(</figure>|$)` "" | plainify }}
+{{ with .length }}
+  {{ $text = $text | truncate . }}
+{{ end }}
+{{ return ($text | emojify) }}

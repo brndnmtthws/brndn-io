@@ -1,21 +1,21 @@
 <header
-  class="py-6 font-semibold text-stone-900 print:hidden sm:py-10 dark:text-stone-100"
+  class="py-6 text-base font-semibold text-stone-900 print:hidden sm:py-10 sm:text-lg dark:text-stone-100"
 >
-  <nav class="flex items-start justify-between sm:items-center">
+  <nav class="flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
     {{/* Site logo/title */}}
     <div class="flex flex-row items-center">
       {{ partial "logo.html" . }}
     </div>
     {{/* Main menu */}}
     {{ if or .Site.Menus.main (.Site.Params.enableSearch | default false) }}
-      <ul class="flex list-none flex-col text-end sm:flex-row">
+      <ul class="ms-auto flex list-none flex-row items-center">
         {{ if .Site.Menus.main }}
           {{ range .Site.Menus.main }}
             {{ if and (eq .Params.action "locale") (or (not page.IsTranslated) (not site.IsMultiLingual)) }}
               {{ continue }}
             {{ end }}
             <li
-              class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5 hover:scale-110 transition"
+              class="group me-4 last:me-0.5 sm:me-7 sm:last:me-0.5 hover:scale-110 transition"
             >
               {{ if eq .Params.action "search" }}
                 {{ $.Scratch.Add "searchCount" 1 }}
@@ -100,7 +100,7 @@
           {{ end }}
           {{ if and ($.Site.Params.enableSearch | default false) (eq ($.Scratch.Get "searchCount") 0) }}
             <li
-              class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0 hover:scale-110 transition"
+              class="group me-4 last:me-0 sm:me-7 sm:last:me-0 hover:scale-110 transition"
             >
               <button
                 id="search-button-m0"

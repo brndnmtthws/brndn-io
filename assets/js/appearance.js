@@ -4,10 +4,10 @@ const sitePreference = document.documentElement.getAttribute(
 const userPreference = localStorage.getItem("appearance")
 
 function getCSSValue(varName) {
-  var cssValue = window
+  return window
     .getComputedStyle(document.documentElement)
     .getPropertyValue(varName)
-  return "rgb(" + cssValue.replace(/\s+/g, "") + ")"
+    .trim()
 }
 
 function setThemeColor() {
@@ -96,10 +96,43 @@ function handleTocState() {
   })
 }
 
+// Marks the table-of-contents link for the section being read.
+function handleTocHighlight() {
+  const links = [...document.querySelectorAll("#TableOfContents a")]
+  const sections = links
+    .map((link) => ({
+      link,
+      heading: document.getElementById(decodeURIComponent(link.hash.slice(1))),
+    }))
+    .filter((section) => section.heading !== null)
+  if (sections.length === 0) return
+
+  const update = () => {
+    // The current section is the last heading above the top quarter of the viewport.
+    const line = window.innerHeight / 4
+    let current = null
+    for (const section of sections) {
+      if (section.heading.getBoundingClientRect().top > line) break
+      current = section
+    }
+    for (const section of sections) {
+      if (section === current) {
+        section.link.setAttribute("aria-current", "location")
+      } else {
+        section.link.removeAttribute("aria-current")
+      }
+    }
+  }
+
+  update()
+  window.addEventListener("scroll", update, { passive: true })
+}
+
 window.addEventListener("DOMContentLoaded", (event) => {
   add_to_top_elem()
   setThemeColor()
   handleTocState()
+  handleTocHighlight()
   var switchers = document.querySelectorAll("[id^='appearance-switcher']")
   switchers.forEach((switcher) => {
     switcher.addEventListener("click", () => {

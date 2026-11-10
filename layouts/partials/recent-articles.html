@@ -1,10 +1,37 @@
 {{ if .Site.Params.homepage.showRecent | default false }}
   {{ $recent := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit }}
+  {{ $pages := first .Site.Params.homepage.recentLimit $recent.Pages }}
   <h2 class="section-label">
     {{ i18n "shortcode.recent_articles" | emojify }}
   </h2>
-  {{ range first .Site.Params.homepage.recentLimit $recent.Pages }}
-    {{ partial "article-link.html" . }}
+  {{/* The newest post leads with a long excerpt; the rest follow as compact rows. */}}
+  {{ with index $pages 0 }}
+    <article class="mt-6">
+      <a class="group block" href="{{ .RelPermalink }}">
+        <h3
+          class="text-balance text-3xl font-extrabold leading-tight decoration-darkly-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-4"
+        >
+          {{ .Title | emojify | title }}
+        </h3>
+        <div class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">
+          {{ partial "article-meta.html" . }}
+        </div>
+        <p
+          class="mt-3 font-libre-baskerville text-base leading-7 text-stone-700 dark:text-stone-300"
+        >
+          {{ partial "article-summary.html" (dict "page" . "length" 420) }}
+        </p>
+        <div
+          class="mt-3 font-semibold decoration-darkly-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+        >
+          Continue reading &rarr;
+        </div>
+      </a>
+    </article>
+    <hr class="my-8 border-darkly-200 dark:border-darkly-800" />
+  {{ end }}
+  {{ range after 1 $pages }}
+    {{ partial "article-row.html" (dict "page" . "summary" true) }}
   {{ end }}
   <div class="mt-8">
     <a

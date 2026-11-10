@@ -76,9 +76,9 @@
       </div>
       {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
         <div
-          class="pt-2 prose prose-stone dark:prose-invert max-w-prose line-clamp-5 md:line-clamp-4 hover:overflow-hidden text-neutral-600 md:text-neutral-500 hover:text-neutral-800 dark:text-neutral-400 dark:group-hover:text-neutral-200 font-libre-baskerville"
+          class="pt-2 prose prose-stone dark:prose-invert max-w-prose line-clamp-5 md:line-clamp-4 hover:overflow-hidden text-neutral-600 hover:text-neutral-800 dark:text-neutral-400 dark:group-hover:text-neutral-200 font-libre-baskerville"
         >
-          {{ .Summary | plainify | emojify }}
+          {{ partial "article-summary.html" (dict "page" .) }}
         </div>
       {{ end }}
     </div>

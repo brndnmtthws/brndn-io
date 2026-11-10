@@ -28,24 +28,23 @@
 {{ if .Data.Pages }}
   <section>
     {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
-      {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+      {{ range .Pages.GroupByDate "2006" }}
         <h2
-          class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300"
+          class="mt-10 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300"
         >
           {{ .Key }}
         </h2>
         <hr class="w-36 border-dotted border-neutral-400" />
         {{ range .Pages }}
-          {{ partial "article-link.html" . }}
+          {{ partial "article-row.html" (dict "page" . "shortDate" true) }}
         {{ end }}
       {{ end }}
     {{ else }}
-      {{ range (.Paginate .Pages).Pages }}
-        {{ partial "article-link.html" . }}
+      {{ range .Pages }}
+        {{ partial "article-row.html" (dict "page" .) }}
       {{ end }}
     {{ end }}
   </section>
-  {{ partial "pagination.html" . }}
 {{ else }}
   <section class="prose mt-10 dark:prose-invert">
     <p class="border-t py-8">

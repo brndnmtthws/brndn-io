@@ -1,0 +1,55 @@
+{{/* Compact post link with the date in a left gutter. "shortDate" drops the year, for lists grouped by year; "summary" adds reading time and a two-line excerpt. */}}
+{{ $page := .page }}
+<article class="mt-2">
+  <a
+    class="{{ if .summary -}}
+      flex-col sm:flex-row sm:items-baseline sm:gap-x-6
+    {{- else -}}
+      items-baseline gap-x-4
+    {{- end }} group -mx-2 flex rounded-sm px-2 py-1 hover:bg-slate-400/20 dark:hover:bg-slate-700/10"
+    href="{{ $page.RelPermalink }}"
+  >
+    <div
+      class="{{ if .shortDate -}}
+        w-14
+      {{- else -}}
+        sm:w-24
+      {{- end }} {{ if .summary }}
+        sm:flex-col
+      {{ end }} flex shrink-0 gap-x-2 text-sm text-neutral-500 dark:text-neutral-400"
+    >
+      {{ if .shortDate }}
+        <time datetime="{{ $page.Date }}"
+          >{{ $page.Date | time.Format "Jan 2" }}</time
+        >
+      {{ else }}
+        {{ partial "meta/date.html" $page.Date }}
+      {{ end }}
+      {{ if .summary }}
+        <span class="sm:hidden">&middot;</span>
+        {{ partial "meta/reading-time.html" $page }}
+      {{ end }}
+    </div>
+    <div class="min-w-0">
+      <h3 class="flex items-center text-lg font-semibold">
+        <span
+          class="decoration-darkly-500 group-hover:underline group-hover:underline-offset-2"
+        >
+          {{ $page.Title | emojify | title }}
+        </span>
+        {{ if and $page.Draft site.Params.article.showDraftLabel }}
+          <div class="ms-2">
+            {{ partial "badge.html" (i18n "article.draft" | emojify) }}
+          </div>
+        {{ end }}
+      </h3>
+      {{ if .summary }}
+        <p
+          class="mt-1 line-clamp-2 font-libre-baskerville text-base text-neutral-600 dark:text-neutral-400"
+        >
+          {{ partial "article-summary.html" (dict "page" $page) }}
+        </p>
+      {{ end }}
+    </div>
+  </a>
+</article>

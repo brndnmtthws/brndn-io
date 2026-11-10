@@ -3,9 +3,9 @@
     <h2 class="section-label">Start here</h2>
     <ul class="mt-4 space-y-3">
       {{ range . }}
-        {{ $page := site.GetPage . }}
+        {{ $page := site.GetPage .page }}
         {{ if not $page }}
-          {{ errorf "homepage.startHere: no page at %q" . }}
+          {{ errorf "homepage.startHere: no page at %q" .page }}
         {{ end }}
         <li>
           <a class="group block" href="{{ $page.RelPermalink }}">
@@ -15,7 +15,7 @@
               {{ $page.Title | emojify | title }}
             </span>
             <span class="block text-sm text-neutral-500 dark:text-neutral-400">
-              {{ partial "meta/reading-time.html" $page }}
+              {{ .description }}
             </span>
           </a>
         </li>

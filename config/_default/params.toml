@@ -12,6 +12,9 @@ defaultAppearance = "light" # valid options: light or dark
 enableCodeCopy = true
 enableSearch = true
 
+# Share image for link previews of pages that have no image of their own.
+images = ["og-image.jpg"]
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -29,11 +32,11 @@ layout = "profile" # valid options: page, profile, custom
 showRecent = true
 # Curated posts listed under "Start here" on the homepage, in display order.
 startHere = [
-  "/posts/the-value-of-tools",
-  "/posts/growth-vs-grind",
-  "/posts/the-10x-engineer-is-a-myth-its-more-like-100x",
-  "/posts/cities-are-technology",
-  "/posts/analogue-joy",
+  { page = "/posts/the-value-of-tools", description = "Tools, leverage, and value creation" },
+  { page = "/posts/growth-vs-grind", description = "Sustainable ambition" },
+  { page = "/posts/the-10x-engineer-is-a-myth-its-more-like-100x", description = "Power laws in software and teams" },
+  { page = "/posts/cities-are-technology", description = "Urbanism, infrastructure, and the car-shaped problem" },
+  { page = "/posts/analogue-joy", description = "Film, physical media, and digital minimalism" },
 ]
 
 [article]

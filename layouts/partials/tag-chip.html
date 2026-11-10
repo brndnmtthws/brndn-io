@@ -1,0 +1,10 @@
+{{/* Outlined link to a tag page; pass "count" to show the number of posts. */}}
+<a
+  class="rounded-md border border-neutral-300 px-2 py-[1px] text-neutral-600 hover:border-darkly-400 hover:text-darkly-900 dark:border-neutral-700 dark:text-neutral-300 dark:hover:border-darkly-500 dark:hover:text-darkly-50"
+  href="{{ .term.RelPermalink }}"
+>
+  {{ replace .term.LinkTitle "-" " " }}
+  {{ with .count }}
+    <span class="text-neutral-400 dark:text-neutral-500">{{ . }}</span>
+  {{ end }}
+</a>

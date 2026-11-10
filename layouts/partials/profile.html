@@ -3,7 +3,7 @@
 <header
   class="not-prose mt-2 grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-4 sm:mt-6 sm:gap-x-8 md:gap-x-10 xl:grid-cols-[minmax(0,38rem)_auto] xl:justify-between"
 >
-  <h1 class="text-4xl font-extrabold lg:text-5xl">
+  <h1 class="text-2xl font-extrabold">
     {{ $author.name | default site.Title }}
   </h1>
   {{ with $author.image }}
@@ -19,7 +19,7 @@
   {{ end }}
   {{ with $author.headline }}
     <p
-      class="col-span-2 col-start-1 mt-4 text-balance font-libre-baskerville text-2xl leading-snug text-stone-700 sm:col-span-1 lg:text-3xl lg:leading-snug dark:text-stone-300"
+      class="col-span-2 col-start-1 mt-3 text-balance font-libre-baskerville text-3xl leading-tight text-stone-900 sm:col-span-1 sm:text-4xl sm:leading-tight xl:text-5xl xl:leading-[1.15] dark:text-stone-100"
     >
       {{ . | markdownify | emojify }}
     </p>
