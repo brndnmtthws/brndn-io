@@ -1,0 +1,4 @@
+{{/* The tags taxonomy needs its own term template: the project-level taxonomy template otherwise wins for term pages in Hugo 0.157. */}}
+{{ define "main" }}
+  {{ partial "article-list.html" . }}
+{{ end }}
