@@ -385,6 +385,9 @@
   .my-5 {
     margin-block: calc(var(--spacing) * 5);
   }
+  .my-10 {
+    margin-block: calc(var(--spacing) * 10);
+  }
   .-ms-5 {
     margin-inline-start: calc(var(--spacing) * -5);
   }
@@ -908,8 +911,8 @@
   .h-24 {
     height: calc(var(--spacing) * 24);
   }
-  .h-28 {
-    height: calc(var(--spacing) * 28);
+  .h-32 {
+    height: calc(var(--spacing) * 32);
   }
   .h-\[200px\] {
     height: 200px;
@@ -953,8 +956,8 @@
   .w-24 {
     width: calc(var(--spacing) * 24);
   }
-  .w-28 {
-    width: calc(var(--spacing) * 28);
+  .w-32 {
+    width: calc(var(--spacing) * 32);
   }
   .w-36 {
     width: calc(var(--spacing) * 36);
@@ -991,6 +994,9 @@
   }
   .flex-none {
     flex: none;
+  }
+  .shrink-0 {
+    flex-shrink: 0;
   }
   .grow {
     flex-grow: 1;
@@ -1066,6 +1072,9 @@
   }
   .gap-2 {
     gap: calc(var(--spacing) * 2);
+  }
+  .gap-6 {
+    gap: calc(var(--spacing) * 6);
   }
   .gap-10 {
     gap: calc(var(--spacing) * 10);
@@ -1694,13 +1703,6 @@
       }
     }
   }
-  .hover\:bg-darkly-200 {
-    &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-darkly-200);
-      }
-    }
-  }
   .hover\:bg-gray-100 {
     &:hover {
       @media (hover: hover) {
@@ -1982,28 +1984,10 @@
       padding-inline-end: calc(var(--spacing) * 6);
     }
   }
-  .sm\:text-3xl {
-    @media (width >= 40rem) {
-      font-size: var(--text-3xl);
-      line-height: var(--tw-leading, var(--text-3xl--line-height));
-    }
-  }
-  .sm\:text-5xl {
-    @media (width >= 40rem) {
-      font-size: var(--text-5xl);
-      line-height: var(--tw-leading, var(--text-5xl--line-height));
-    }
-  }
   .sm\:text-lg {
     @media (width >= 40rem) {
       font-size: var(--text-lg);
       line-height: var(--tw-leading, var(--text-lg--line-height));
-    }
-  }
-  .sm\:leading-snug {
-    @media (width >= 40rem) {
-      --tw-leading: var(--leading-snug);
-      line-height: var(--leading-snug);
     }
   }
   .sm\:last\:me-0 {
@@ -2028,14 +2012,44 @@
       -webkit-line-clamp: 4;
     }
   }
+  .md\:h-44 {
+    @media (width >= 48rem) {
+      height: calc(var(--spacing) * 44);
+    }
+  }
   .md\:w-1\/3 {
     @media (width >= 48rem) {
       width: calc(1 / 3 * 100%);
     }
   }
+  .md\:w-44 {
+    @media (width >= 48rem) {
+      width: calc(var(--spacing) * 44);
+    }
+  }
   .md\:grid-cols-3 {
     @media (width >= 48rem) {
       grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  .md\:flex-row-reverse {
+    @media (width >= 48rem) {
+      flex-direction: row-reverse;
+    }
+  }
+  .md\:items-center {
+    @media (width >= 48rem) {
+      align-items: center;
+    }
+  }
+  .md\:justify-between {
+    @media (width >= 48rem) {
+      justify-content: space-between;
+    }
+  }
+  .md\:gap-10 {
+    @media (width >= 48rem) {
+      gap: calc(var(--spacing) * 10);
     }
   }
   .md\:p-\[10vh\] {
@@ -2078,9 +2092,19 @@
       display: none;
     }
   }
+  .lg\:h-52 {
+    @media (width >= 64rem) {
+      height: calc(var(--spacing) * 52);
+    }
+  }
   .lg\:w-1\/4 {
     @media (width >= 64rem) {
       width: calc(1 / 4 * 100%);
+    }
+  }
+  .lg\:w-52 {
+    @media (width >= 64rem) {
+      width: calc(var(--spacing) * 52);
     }
   }
   .lg\:max-w-sm {
@@ -2113,29 +2137,27 @@
       padding-inline-start: calc(var(--spacing) * 8);
     }
   }
-  .xl\:order-none {
-    @media (width >= 80rem) {
-      order: 0;
+  .lg\:text-3xl {
+    @media (width >= 64rem) {
+      font-size: var(--text-3xl);
+      line-height: var(--tw-leading, var(--text-3xl--line-height));
     }
   }
-  .xl\:col-span-2 {
-    @media (width >= 80rem) {
-      grid-column: span 2 / span 2;
+  .lg\:text-5xl {
+    @media (width >= 64rem) {
+      font-size: var(--text-5xl);
+      line-height: var(--tw-leading, var(--text-5xl--line-height));
     }
   }
-  .xl\:h-44 {
-    @media (width >= 80rem) {
-      height: calc(var(--spacing) * 44);
+  .lg\:leading-snug {
+    @media (width >= 64rem) {
+      --tw-leading: var(--leading-snug);
+      line-height: var(--leading-snug);
     }
   }
   .xl\:w-1\/5 {
     @media (width >= 80rem) {
       width: calc(1 / 5 * 100%);
-    }
-  }
-  .xl\:w-44 {
-    @media (width >= 80rem) {
-      width: calc(var(--spacing) * 44);
     }
   }
   .xl\:grid-cols-1 {
@@ -2146,11 +2168,6 @@
   .xl\:grid-cols-\[minmax\(0\,38rem\)_minmax\(0\,1fr\)\] {
     @media (width >= 80rem) {
       grid-template-columns: minmax(0,38rem) minmax(0,1fr);
-    }
-  }
-  .xl\:self-center {
-    @media (width >= 80rem) {
-      align-self: center;
     }
   }
   .ltr\:block {
@@ -2448,15 +2465,6 @@
       }
     }
   }
-  .dark\:hover\:bg-darkly-800 {
-    &:where(.dark, .dark *) {
-      &:hover {
-        @media (hover: hover) {
-          background-color: var(--color-darkly-800);
-        }
-      }
-    }
-  }
   .dark\:hover\:bg-darkly-900 {
     &:where(.dark, .dark *) {
       &:hover {
@@ -2475,13 +2483,13 @@
       }
     }
   }
-  .dark\:hover\:bg-slate-700\/20 {
+  .dark\:hover\:bg-slate-700\/10 {
     &:where(.dark, .dark *) {
       &:hover {
         @media (hover: hover) {
-          background-color: color-mix(in srgb, oklch(37.2% 0.044 257.287) 20%, transparent);
+          background-color: color-mix(in srgb, oklch(37.2% 0.044 257.287) 10%, transparent);
           @supports (color: color-mix(in lab, red, red)) {
-            background-color: color-mix(in oklab, var(--color-slate-700) 20%, transparent);
+            background-color: color-mix(in oklab, var(--color-slate-700) 10%, transparent);
           }
         }
       }
@@ -2514,13 +2522,13 @@
       }
     }
   }
-  .dark\:hover\:shadow-slate-700\/20 {
+  .dark\:hover\:shadow-slate-700\/10 {
     &:where(.dark, .dark *) {
       &:hover {
         @media (hover: hover) {
-          --tw-shadow-color: color-mix(in srgb, oklch(37.2% 0.044 257.287) 20%, transparent);
+          --tw-shadow-color: color-mix(in srgb, oklch(37.2% 0.044 257.287) 10%, transparent);
           @supports (color: color-mix(in lab, red, red)) {
-            --tw-shadow-color: color-mix(in oklab, color-mix(in oklab, var(--color-slate-700) 20%, transparent) var(--tw-shadow-alpha), transparent);
+            --tw-shadow-color: color-mix(in oklab, color-mix(in oklab, var(--color-slate-700) 10%, transparent) var(--tw-shadow-alpha), transparent);
           }
         }
       }
