@@ -340,6 +340,18 @@
   .order-first {
     order: -9999;
   }
+  .col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+  .col-start-1 {
+    grid-column-start: 1;
+  }
+  .col-start-2 {
+    grid-column-start: 2;
+  }
+  .row-start-1 {
+    grid-row-start: 1;
+  }
   .container {
     width: 100%;
     @media (width >= 40rem) {
@@ -908,11 +920,11 @@
   .h-12 {
     height: calc(var(--spacing) * 12);
   }
+  .h-20 {
+    height: calc(var(--spacing) * 20);
+  }
   .h-24 {
     height: calc(var(--spacing) * 24);
-  }
-  .h-32 {
-    height: calc(var(--spacing) * 32);
   }
   .h-\[200px\] {
     height: 200px;
@@ -953,11 +965,11 @@
   .w-12 {
     width: calc(var(--spacing) * 12);
   }
+  .w-20 {
+    width: calc(var(--spacing) * 20);
+  }
   .w-24 {
     width: calc(var(--spacing) * 24);
-  }
-  .w-32 {
-    width: calc(var(--spacing) * 32);
   }
   .w-36 {
     width: calc(var(--spacing) * 36);
@@ -994,9 +1006,6 @@
   }
   .flex-none {
     flex: none;
-  }
-  .shrink-0 {
-    flex-shrink: 0;
   }
   .grow {
     flex-grow: 1;
@@ -1043,6 +1052,9 @@
   .grid-cols-1 {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
+  .grid-cols-\[minmax\(0\,1fr\)_auto\] {
+    grid-template-columns: minmax(0,1fr) auto;
+  }
   .flex-col {
     flex-direction: column;
   }
@@ -1072,9 +1084,6 @@
   }
   .gap-2 {
     gap: calc(var(--spacing) * 2);
-  }
-  .gap-6 {
-    gap: calc(var(--spacing) * 6);
   }
   .gap-10 {
     gap: calc(var(--spacing) * 10);
@@ -1854,6 +1863,16 @@
       outline-style: dotted;
     }
   }
+  .sm\:col-span-1 {
+    @media (width >= 40rem) {
+      grid-column: span 1 / span 1;
+    }
+  }
+  .sm\:row-span-4 {
+    @media (width >= 40rem) {
+      grid-row: span 4 / span 4;
+    }
+  }
   .sm\:float-left {
     @media (width >= 40rem) {
       float: left;
@@ -1899,6 +1918,11 @@
       margin-left: calc(var(--spacing) * 4);
     }
   }
+  .sm\:h-36 {
+    @media (width >= 40rem) {
+      height: calc(var(--spacing) * 36);
+    }
+  }
   .sm\:max-h-\[7\.5rem\] {
     @media (width >= 40rem) {
       max-height: 7.5rem;
@@ -1907,6 +1931,11 @@
   .sm\:w-1\/2 {
     @media (width >= 40rem) {
       width: calc(1 / 2 * 100%);
+    }
+  }
+  .sm\:w-36 {
+    @media (width >= 40rem) {
+      width: calc(var(--spacing) * 36);
     }
   }
   .sm\:w-40 {
@@ -1957,6 +1986,11 @@
   .sm\:items-center {
     @media (width >= 40rem) {
       align-items: center;
+    }
+  }
+  .sm\:gap-x-8 {
+    @media (width >= 40rem) {
+      column-gap: calc(var(--spacing) * 8);
     }
   }
   .sm\:p-6 {
@@ -2032,24 +2066,9 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
   }
-  .md\:flex-row-reverse {
+  .md\:gap-x-10 {
     @media (width >= 48rem) {
-      flex-direction: row-reverse;
-    }
-  }
-  .md\:items-center {
-    @media (width >= 48rem) {
-      align-items: center;
-    }
-  }
-  .md\:justify-between {
-    @media (width >= 48rem) {
-      justify-content: space-between;
-    }
-  }
-  .md\:gap-10 {
-    @media (width >= 48rem) {
-      gap: calc(var(--spacing) * 10);
+      column-gap: calc(var(--spacing) * 10);
     }
   }
   .md\:p-\[10vh\] {
@@ -2165,9 +2184,19 @@
       grid-template-columns: repeat(1, minmax(0, 1fr));
     }
   }
+  .xl\:grid-cols-\[minmax\(0\,38rem\)_auto\] {
+    @media (width >= 80rem) {
+      grid-template-columns: minmax(0,38rem) auto;
+    }
+  }
   .xl\:grid-cols-\[minmax\(0\,38rem\)_minmax\(0\,1fr\)\] {
     @media (width >= 80rem) {
       grid-template-columns: minmax(0,38rem) minmax(0,1fr);
+    }
+  }
+  .xl\:justify-between {
+    @media (width >= 80rem) {
+      justify-content: space-between;
     }
   }
   .ltr\:block {
@@ -2269,17 +2298,17 @@
       background-color: var(--color-blue-600);
     }
   }
-  .dark\:bg-darkly-700 {
-    &:where(.dark, .dark *) {
-      background-color: var(--color-darkly-700);
-    }
-  }
   .dark\:bg-darkly-700\/50 {
     &:where(.dark, .dark *) {
       background-color: color-mix(in srgb, oklch(41.09% 0.008 286.03) 50%, transparent);
       @supports (color: color-mix(in lab, red, red)) {
         background-color: color-mix(in oklab, var(--color-darkly-700) 50%, transparent);
       }
+    }
+  }
+  .dark\:bg-darkly-800 {
+    &:where(.dark, .dark *) {
+      background-color: var(--color-darkly-800);
     }
   }
   .dark\:bg-darkly-950 {

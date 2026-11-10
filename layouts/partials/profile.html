@@ -1,21 +1,39 @@
 {{ $author := site.Language.Params.Author }}
-<header class="not-prose">
+{{/* On phones the portrait sits beside the name; from sm up it spans the whole intro. */}}
+<header
+  class="not-prose mt-2 grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-4 sm:mt-6 sm:gap-x-8 md:gap-x-10 xl:grid-cols-[minmax(0,38rem)_auto] xl:justify-between"
+>
   <h1 class="text-4xl font-extrabold lg:text-5xl">
     {{ $author.name | default site.Title }}
   </h1>
+  {{ with $author.image }}
+    {{ with resources.Get . }}
+      <div class="col-start-2 row-start-1 sm:row-span-4">
+        {{ $alt := $author.name | default "Author" }}
+        {{ $class := "block h-20 w-20 rounded-full object-cover object-top sm:h-36 sm:w-36 md:h-44 md:w-44 lg:h-52 lg:w-52" }}
+        {{ $lazy := site.Params.enableImageLazyLoading | default true }}
+        {{ $webp := site.Params.enableImageWebp | default true }}
+        {{ partial "picture.html" (dict "img" . "alt" $alt "class" $class "lazy" $lazy "webp" $webp) }}
+      </div>
+    {{ end }}
+  {{ end }}
   {{ with $author.headline }}
     <p
-      class="mt-4 text-balance font-libre-baskerville text-2xl leading-snug text-stone-700 lg:text-3xl lg:leading-snug dark:text-stone-300"
+      class="col-span-2 col-start-1 mt-4 text-balance font-libre-baskerville text-2xl leading-snug text-stone-700 sm:col-span-1 lg:text-3xl lg:leading-snug dark:text-stone-300"
     >
       {{ . | markdownify | emojify }}
     </p>
   {{ end }}
   {{ with $author.bio }}
-    <p class="mt-4 text-neutral-500 dark:text-neutral-400">
+    <p
+      class="col-span-2 col-start-1 mt-4 text-neutral-500 sm:col-span-1 dark:text-neutral-400"
+    >
       {{ . | markdownify | emojify }}
     </p>
   {{ end }}
-  <div class="mt-5 flex items-center gap-x-4">
+  <div
+    class="col-span-2 col-start-1 mt-5 flex items-center gap-x-4 sm:col-span-1"
+  >
     <a
       class="font-semibold decoration-darkly-500 hover:underline hover:decoration-2 hover:underline-offset-2"
       href="{{ "about" | relLangURL }}"
