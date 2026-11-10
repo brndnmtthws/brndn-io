@@ -486,6 +486,11 @@
     @apply decoration-accent-600 underline-offset-2 hover:text-accent-600 dark:decoration-accent-400 dark:hover:text-accent-400;
   }
 
+  /* Charts keep a readable height on narrow screens instead of scaling with width. */
+  .chart {
+    @apply relative my-6 h-64 sm:h-72;
+  }
+
   .max-w-prose {
     max-width: 38rem;
   }

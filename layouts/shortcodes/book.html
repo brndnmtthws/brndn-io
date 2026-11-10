@@ -1,0 +1,34 @@
+{{/* Book card: cover beside the title, a publication line ("meta") and a short description (the inner text). */}}
+{{ $cover := .Page.Resources.GetMatch (.Get "src") }}
+{{ if not $cover }}
+  {{ errorf "book shortcode: no page resource %q in %s" (.Get "src") .Page.File.Path }}
+{{ end }}
+{{ $img := $cover.Resize "288x webp" }}
+<a
+  class="not-prose group -mx-3 my-3 flex gap-x-5 rounded-lg p-3 hover:bg-slate-400/20 dark:hover:bg-slate-700/10"
+  href="{{ .Get "href" }}"
+>
+  <img
+    class="w-24 flex-none self-start rounded-sm shadow-md sm:w-28"
+    src="{{ $img.RelPermalink }}"
+    width="{{ $img.Width }}"
+    height="{{ $img.Height }}"
+    alt="Cover of {{ .Get "title" }}"
+    loading="lazy"
+  />
+  <div class="min-w-0">
+    <div
+      class="font-source-sans-3 text-xl font-semibold decoration-darkly-500 group-hover:underline group-hover:underline-offset-2"
+    >
+      {{ .Get "title" }}
+    </div>
+    <div
+      class="font-source-sans-3 text-sm text-neutral-500 dark:text-neutral-400"
+    >
+      {{ .Get "meta" }}
+    </div>
+    <p class="mt-2 text-base leading-7 text-stone-700 dark:text-stone-300">
+      {{ .Inner | markdownify }}
+    </p>
+  </div>
+</a>

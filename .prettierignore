@@ -1,2 +1,4 @@
 layouts/_default/index.json
 layouts/shortcodes/figure.html
+layouts/shortcodes/postbymonth.html
+layouts/shortcodes/postbyyear.html

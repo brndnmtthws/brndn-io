@@ -1,0 +1,11 @@
+{{/* One row of a timeline: "years" in a left gutter, the description (inner Markdown) beside it. */}}
+<div
+  class="flex flex-col gap-x-6 border-t border-darkly-200 py-3 sm:flex-row sm:items-baseline dark:border-darkly-800"
+>
+  <div
+    class="shrink-0 font-source-sans-3 text-sm text-neutral-500 sm:w-24 dark:text-neutral-400"
+  >
+    {{ .Get "years" }}
+  </div>
+  <div class="min-w-0">{{ .Inner | markdownify }}</div>
+</div>

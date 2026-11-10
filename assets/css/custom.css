@@ -374,6 +374,9 @@
   .-mx-2 {
     margin-inline: calc(var(--spacing) * -2);
   }
+  .-mx-3 {
+    margin-inline: calc(var(--spacing) * -3);
+  }
   .mx-1 {
     margin-inline: var(--spacing);
   }
@@ -388,6 +391,9 @@
   }
   .my-1\.5 {
     margin-block: calc(var(--spacing) * 1.5);
+  }
+  .my-3 {
+    margin-block: calc(var(--spacing) * 3);
   }
   .my-4 {
     margin-block: calc(var(--spacing) * 4);
@@ -1122,6 +1128,12 @@
   .gap-x-4 {
     column-gap: calc(var(--spacing) * 4);
   }
+  .gap-x-5 {
+    column-gap: calc(var(--spacing) * 5);
+  }
+  .gap-x-6 {
+    column-gap: calc(var(--spacing) * 6);
+  }
   .gap-x-16 {
     column-gap: calc(var(--spacing) * 16);
   }
@@ -1268,6 +1280,9 @@
   .p-2 {
     padding: calc(var(--spacing) * 2);
   }
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
   .p-4 {
     padding: calc(var(--spacing) * 4);
   }
@@ -1294,6 +1309,9 @@
   }
   .py-2 {
     padding-block: calc(var(--spacing) * 2);
+  }
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
   }
   .py-6 {
     padding-block: calc(var(--spacing) * 6);
@@ -1517,6 +1535,10 @@
   }
   .shadow-lg {
     --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+  .shadow-md {
+    --tw-shadow: 0 4px 6px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 2px 4px -2px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
   }
   .ring {
@@ -1801,6 +1823,9 @@
     .sm\:ml-4 {
       margin-left: calc(var(--spacing) * 4);
     }
+    .sm\:ml-6 {
+      margin-left: calc(var(--spacing) * 6);
+    }
     .sm\:hidden {
       display: none;
     }
@@ -1815,6 +1840,9 @@
     }
     .sm\:w-24 {
       width: calc(var(--spacing) * 24);
+    }
+    .sm\:w-28 {
+      width: calc(var(--spacing) * 28);
     }
     .sm\:w-36 {
       width: calc(var(--spacing) * 36);
@@ -1863,9 +1891,6 @@
     }
     .sm\:px-14 {
       padding-inline: calc(var(--spacing) * 14);
-    }
-    .sm\:py-0 {
-      padding-block: 0px;
     }
     .sm\:py-10 {
       padding-block: calc(var(--spacing) * 10);
@@ -2839,6 +2864,14 @@
           color: var(--color-accent-400);
         }
       }
+    }
+  }
+  .chart {
+    position: relative;
+    margin-block: calc(var(--spacing) * 6);
+    height: calc(var(--spacing) * 64);
+    @media (width >= 40rem) {
+      height: calc(var(--spacing) * 72);
     }
   }
   .max-w-prose {
