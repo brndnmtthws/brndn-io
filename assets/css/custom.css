@@ -102,8 +102,9 @@
     --color-darkly-700: oklch(41.09% 0.008 286.03);
     --color-darkly-800: oklch(29.79% 0.004 286.18);
     --color-darkly-900: oklch(17.81% 0.002 286.19);
+    --color-darkly-950: oklch(8.6% 0.006 285.17);
     --theme-color-light: var(--color-darkly-50);
-    --theme-color-dark: var(--color-darkly-900);
+    --theme-color-dark: var(--color-darkly-950);
   }
 }
 @layer base {
@@ -2264,9 +2265,9 @@
       }
     }
   }
-  .dark\:bg-darkly-900 {
+  .dark\:bg-darkly-950 {
     &:where(.dark, .dark *) {
-      background-color: var(--color-darkly-900);
+      background-color: var(--color-darkly-950);
     }
   }
   .dark\:bg-gray-800 {
@@ -2547,10 +2548,10 @@
       color: var(--color-stone-800);
     }
   }
-  .dark\:prose-pre\:bg-darkly-800 {
+  .dark\:prose-pre\:bg-darkly-900 {
     &:where(.dark, .dark *) {
       & :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-        background-color: var(--color-darkly-800);
+        background-color: var(--color-darkly-900);
       }
     }
   }

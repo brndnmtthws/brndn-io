@@ -32,7 +32,7 @@
   --color-darkly-950: oklch(8.6% 0.006 285.17);
 
   --theme-color-light: var(--color-darkly-50);
-  --theme-color-dark: var(--color-darkly-900);
+  --theme-color-dark: var(--color-darkly-950);
 }
 
 @layer base {
