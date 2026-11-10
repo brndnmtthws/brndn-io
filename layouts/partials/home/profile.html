@@ -1,8 +1,17 @@
-{{/* Intro and posts share the article column; the portrait and wayfinding lists take the column that holds the TOC on article pages. */}}
+{{/* Intro and posts share the article column; the wayfinding lists take the column that holds the TOC on article pages. */}}
 <div
-  class="mt-2 grid gap-x-16 gap-y-10 sm:mt-6 xl:grid-cols-[minmax(0,38rem)_minmax(0,1fr)]"
+  class="mt-2 flex flex-col gap-6 sm:mt-6 md:flex-row-reverse md:items-center md:justify-between md:gap-10"
 >
-  <div class="xl:self-center">
+  {{ with site.Language.Params.Author.image }}
+    {{ with resources.Get . }}
+      {{ $alt := site.Language.Params.Author.name | default "Author" }}
+      {{ $class := "block h-32 w-32 shrink-0 rounded-full object-cover object-top md:h-44 md:w-44 lg:h-52 lg:w-52" }}
+      {{ $lazy := site.Params.enableImageLazyLoading | default true }}
+      {{ $webp := site.Params.enableImageWebp | default true }}
+      {{ partial "picture.html" (dict "img" . "alt" $alt "class" $class "lazy" $lazy "webp" $webp) }}
+    {{ end }}
+  {{ end }}
+  <div class="min-w-0 max-w-prose">
     {{ partial "profile.html" . }}
     {{ with .Content }}
       <section class="prose prose-stone mt-6 dark:prose-invert">
@@ -10,18 +19,11 @@
       </section>
     {{ end }}
   </div>
-  <div class="order-first xl:order-none xl:self-center">
-    {{ with site.Language.Params.Author.image }}
-      {{ with resources.Get . }}
-        {{ $alt := site.Language.Params.Author.name | default "Author" }}
-        {{ $class := "block h-28 w-28 rounded-full object-cover object-top xl:h-44 xl:w-44" }}
-        {{ $lazy := site.Params.enableImageLazyLoading | default true }}
-        {{ $webp := site.Params.enableImageWebp | default true }}
-        {{ partial "picture.html" (dict "img" . "alt" $alt "class" $class "lazy" $lazy "webp" $webp) }}
-      {{ end }}
-    {{ end }}
-  </div>
-  <hr class="border-darkly-200 dark:border-darkly-800 xl:col-span-2" />
+</div>
+<hr class="my-10 border-darkly-200 dark:border-darkly-800" />
+<div
+  class="grid gap-x-16 gap-y-10 xl:grid-cols-[minmax(0,38rem)_minmax(0,1fr)]"
+>
   <section>
     {{ partial "recent-articles.html" . }}
   </section>

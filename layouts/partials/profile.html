@@ -1,11 +1,11 @@
 {{ $author := site.Language.Params.Author }}
 <header class="not-prose">
-  <h1 class="text-4xl font-extrabold sm:text-5xl">
+  <h1 class="text-4xl font-extrabold lg:text-5xl">
     {{ $author.name | default site.Title }}
   </h1>
   {{ with $author.headline }}
     <p
-      class="mt-4 text-balance font-libre-baskerville text-2xl leading-snug text-stone-700 sm:text-3xl sm:leading-snug dark:text-stone-300"
+      class="mt-4 text-balance font-libre-baskerville text-2xl leading-snug text-stone-700 lg:text-3xl lg:leading-snug dark:text-stone-300"
     >
       {{ . | markdownify | emojify }}
     </p>

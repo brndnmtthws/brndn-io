@@ -18,7 +18,7 @@
         <span>
           {{ if $prev }}
             <a
-              class="flex group p-2 hover:bg-slate-400/20 dark:hover:bg-slate-700/20 rounded-sm"
+              class="flex group p-2 hover:bg-slate-400/20 dark:hover:bg-slate-700/10 rounded-sm"
               href="{{ $prev.RelPermalink }}"
             >
               <span
@@ -48,7 +48,7 @@
         <span>
           {{ if $next }}
             <a
-              class="flex text-right group p-2 hover:bg-darkly-200 dark:hover:bg-darkly-800 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded-sm"
+              class="flex text-right group p-2 hover:bg-slate-400/20 dark:hover:bg-slate-700/10 rounded-sm"
               href="{{ $next.RelPermalink }}"
             >
               <span class="flex flex-col">
@@ -85,7 +85,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-1 pt-2">
           {{ range . }}
             <a
-              class="flex group p-2 hover:bg-darkly-200 dark:hover:bg-darkly-800 hover:bg-opacity-15 dark:hover:bg-opacity-15 rounded-sm"
+              class="flex group p-2 hover:bg-slate-400/20 dark:hover:bg-slate-700/10 rounded-sm"
               href="{{ .RelPermalink }}"
             >
               <span class="flex flex-col">
